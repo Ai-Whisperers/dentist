@@ -1,185 +1,224 @@
 # TODO — Dra. Gabriella González Pane
 ## Strategic Repositioning Project
 
-**Last updated**: Mayo 31, 2026
-**Status**: Active research phase
+**Last updated**: Junio 1, 2026
+**Status**: Research complete — Awaiting Dra. GP data for validation
+**Next milestone**: Meeting with Kiki after data collection
 
 ---
 
-## SPRINT 1 — This Week (Before meeting with Kiki)
+## DATA COLLECTION KIT — Esta Semana
 
-### Critical Path:
+Traer estos datos a la próxima sesión con Kiki:
 
-- [ ] **EXTRAER BASE DE DATOS** (mañana)
-  - Tiene acceso al sistema de Odontología 3
-  - Miles de pacientes con info
-  - ⚠️ Primero verificar implicaciones legales con Abogado
-  - Alternativa: crear lista desde su conocimiento personal
+### □ BASE DE DATOS
+- [ ] Total pacientes únicos (2025 completo)
+- [ ] Pacientes únicos (2026 MTD)
+- [ ] Promedio pacientes/mes
+- [ ] Pacientes que ya pagan PRIVATE (aunque sean pocos)
+- [ ] % que estimás son "premium-eligible" (tu opinión)
 
-- [ ] **REUNIÓN CON ROQUE** (jueves)
-  - Preguntarle sobre moverse a Luque
-  - Si ofrece La Merced → no tiene pacientes, reject
-  - Si no hay mejora → proceed con plan propio
+### □ FINANZAS REALES
+- [ ] Revenue mensual promedio (últimos 3 meses)
+- [ ] Costos mensuales (materiales + lo que te pagás)
+- [ ] Savings disponibles (cuántos meses de gastos)
+- [ ] Cash flow real — qué te queda netto cada mes
 
-- [ ] **COTIZAR ALQUILERES EN LUQUE** (esta semana)
-  - COP Clínica Odontología (Traumato Center)
-  - Frente a UNA (Mariscal López)
-  - Necesito: costo mensual, qué incluye, habilitación
+### □ REUNIÓN CON ROQUE (Jueves)
+- [ ] Qué ofreció Roque?
+- [ ]Mejoró el deal? ¿Cuánto?
+- [ ] Hay restricciones de dónde podés trabajar?
+- [ ] Decision: proceed con Option B o no?
 
-- [ ] **MANDAR INFO A KIKI** (antes del meeting)
-  - Session audio/transcript
-  - Context completo
-  - Preguntas específicas
+### □ ALQUILERES EN LUQUE
+- [ ] Quote #1 — COP Clínica Odontología (Traumato Center)
+- [ ] Quote #2 — Espacio cerca de UNA (Mariscal López)
+- [ ] Quote #3 — Clasipar u otra opción
+- [ ] Para cada uno: precio, qué incluye, si está habilitado
 
----
-
-## SPRINT 2 — Next Week
-
-### Financial Validation:
-
-- [ ] **BALANCE FINANCIERO REAL**
-  - No más estimates
-  - Revenue real por mes
-  - Costos reales (materiales, travel, etc)
-  - Para calibrar el modelo
-
-- [ ] **MYSTERY SHOPPING** — Competitors
-  - Llamar a 5-10 dentistas como paciente
-  - Obtener lista de precios
-  - Evaluar nivel de servicio
-  - Documentar experiencia
-
-- [ ] **CONSULTAR PAGOPAR**
-  - Cómo implementar payment plans
-  - Cuotas disponibles (6, 12, 18)
-  - Costos de transaction
-  - Proceso de alta
-
-### Legal/Structural:
-
-- [ ] **CONSULTAR ABOGADO** sobre:
-  - Estructura legal (S.A. vs S.R.L. vs E.A.S.)
-  - Obligaciones laborales
-  - Habilitación Ministerio de Salud
-  - Base de datos: ¿puede usarla para marketing propio?
+### □ MYSTERY SHOPPING
+- [ ] Competitor pricing: IPEO
+- [ ] Competitor pricing: Dra. Silvana Boccia
+- [ ] Competitor pricing: Centro Odontológico Victoria
+- [ ] Competitor pricing: Dra. [de Luque]
+- [ ] Competitor pricing: [1-2 más]
+- [ ] Resultado: ¿Gs 400-550k es viable? ¿Qué dicen los demás?
 
 ---
 
-## SPRINT 3 — Week 3-4
+## SPRINT 1 — Data Collection (Junio 1-5)
 
-### Brand & Positioning:
+| Día | Acción |
+|-----|--------|
+| Lunes-Martes | Extraer base de datos + finanzas del sistema |
+| Miércoles | Visitar espacios de alquiler en Luque |
+| Jueves | Reunión con Roque → bring result |
+| Viernes | Mystery shopping calls (5 dentistas) |
 
-- [ ] **BRANDING STRATEGY** (con Kiki)
-  - Tagline: "Odontología con criterio, no con prisa"
-  - Diferenciación: no overtreatment, planning como servicio
-  - Pricing público: ser la primera en PY
-
-- [ ] **PÁGINA WEB BÁSICA**
-  - Google Business Profile (primero)
-  - Landing page simple
-  - Portfolio de casos (con autorización)
-  - Contacto + agendar
-
-- [ ] **CONTENT PLAN**
-  - Antes/después casos reales
-  - Testimonios de pacientes
-  - Educational content
-
-### Operational:
-
-- [ ] **INVENTARIO EQUIPOS**
-  - Qué tiene vs. qué necesita
-  - Equipos móviles (opción China vs. premium)
-  - Priorities de compra
-
-- [ ] **SISTEMA DE AGENDA**
-  - WhatsApp Business integration
-  - Auto-reminders
-  - Loyalty program
+**Deadline: Viernes 5 Junio** → tener todos los datos para reunión con Kiki
 
 ---
 
-## STRATEGIC OPTIONS — Decision Tree
+## DESICION TREE — Basado en Roque
 
-### Option A: UPsell (if Roque improves deal)
+```
+ROQUE MEETING (Jueves)
+        |
+  +-----+-----+
+  |           |
+MEJORÓ?    NO MEJORÓ
+  |           |
+OPCIÓN A    OPCIÓN B
+(negociar    (empezar
+en escrita)   AHORA)
+  |
++---+---+
+|       |
+SI A    NO A
+|       |
+seguir  OPCIÓN B
+con B   simultaneously
+slowly
+```
 
-- Marketing sessions premium (Gs 500-800k)
-- Private pay para casos complejos
-- Timeline: 2-4 semanas
-- Risk: Bajo
+---
 
-### Option B: Parallel Book (if find affordable space)
+## SPRINT 2 — Launch (Junio 8+)
 
-- Seguir en Odontología 3 + privado los fines
-- Consultorio alquilado en Luque
-- Timeline: 3-6 meses
-- Risk: Medio
+### Phase 1: Option B Setup (Paralelo a Odontología 3)
 
-### Option C: Full Exit (only with validation)
+**Semana 1-2:**
+- [ ] Registrar E.A.S. (eas.mic.gov.py)
+- [ ] Confirmar espacio de alquiler
+- [ ] Setup Google Business Profile
+- [ ] Setup WhatsApp Business
 
-- Mudarse a consultorio propio full-time
-- Inversión: Gs 200-400M
-- Timeline: 6-18 meses
-- Risk: Alto (solo con evidencia)
+**Semana 3-4:**
+- [ ] Website simple (nombre + precios + contacto)
+- [ ] Obtener POS Bancard
+- [ ] Registrar Pagopar merchant
+- [ ] Primeros 5-10 pacientes private
+
+### Phase 2: Growth (Julio-Agosto)
+
+- [ ] 15-20 pacientes private/mes (breakeven)
+- [ ] 10+ Google reviews
+- [ ] Empezar referral program
+- [ ] Network con specialists (oral surgeon, periodontist)
+
+### Phase 3: Scale (Septiembre+)
+
+- [ ] 25-30 pacientes private/mes
+- [ ] Private revenue covering 80%+ current income
+- [ ] Consider Option C if validated
 
 ---
 
 ## VALIDATION CHECKPOINTS
 
-| Checkpoint | Criterio | Status |
-|---|---|---|
-| Pricing viable | Mystery shopping confirma Gs 400-550k | ❓ Pending |
-| Demanda existe | 20-30% pacientes premium-eligible | ❓ Pending |
-| Space affordable | Alquiler Gs 1-1.5M/mes disponible | ❓ Pending |
-| Legal clear | Puede usar base de datos | ❓ Pending |
-| Runway | 6+ meses cash flow | ❓ Pending |
-| Pagopar works | Implementación viable | ❓ Pending |
+| Checkpoint | Criterio | Status | Evidencia Needed |
+|------------|----------|--------|------------------|
+| Pricing viable | Gs 400-550k restauraciones | ✅ Research dice sí | Mystery shopping calls |
+| Demanda existe | 20-30% pacientes premium | ❓ Pendiente | Su estimation + data base |
+| Space affordable | Gs 1-1.5M/mes disponible | ❓ Pendiente | 3 quotes reales |
+| Legal clear | puede usar base de datos | ❓ Consultar abogado | Lawyer consult |
+| Runway | 6+ meses cash flow | ❓ Necesita data | Balance real |
+| Pagopar viable | Implementación viable | ✅ research dice sí | Contact Pagopar |
 
 ---
 
-## KEY METRICS TO TRACK
+## LEGAL CHECKLIST
 
-### Phase 0 (Now):
-- [ ] # patients in base database
-- [ ] Current monthly revenue (real, not estimate)
-- [ ] Cost per patient (materials + travel)
-- [ ] Time per procedure (vs. international benchmarks)
+### Abogado/Contador — Consultar esta semana:
+
+- [ ] **E.A.S. registration**: proceso, costo, timeline
+- [ ] **Contrato Odontología 3**: hay non-compete? restrictions?
+- [ ] **Base de datos pacientes**: puede usarla para contactar? Cómo?
+- [ ] **Habilitación**: qué necesita para Luque? Puede trabajar en espacio já habilitado?
+- [ ] **Ley 7593/2025**: implicaciones para práctica private
+
+### Recursos:
+- MIC E.A.S.: eas.mic.gov.py
+- MSPBS habilitación: mspbs.gov.py
+- Círculo Odontológico Paraguayo: cop.com.py
+
+---
+
+## PRIORITY ACTIONS
+
+### Inmediato (esta semana):
+
+1. **EXTRAER BASE DE DATOS** → total unique patients + % premium eligible
+2. **REUNIÓN CON ROQUE** (Jueves) → bring result to Kiki
+3. **COTIZAR ALQUILERES** → 3 espacios en Luque
+4. **MYSTERY SHOPPING** → 5 llamadas de precios
+
+### Alta Prioridad (Sprint 2):
+
+5. **CONSULTAR ABOGADO** → patient data + E.A.S. + habilitación
+6. **REGISTRAR E.A.S.** → empezar paperwork
+7. **SETUP DIGITAL** → Google Business + WhatsApp Business
+
+### Media Prioridad (Sprint 3):
+
+8. **WEBSITE SIMPLE** → pricing público como diferenciador
+9. **PAYMENT INFRA** → Pagopar + Bancard setup
+10. **REFERRAL PROGRAM** → diseño + launch
+
+---
+
+## METRICAS A SEGUIR
+
+### Phase 0 (Ahora):
+- [ ] # pacientes únicos en base
+- [ ] Revenue mensual real (no estimate)
+- [ ] Costos mensuales reales
+- [ ] Runway en meses
 
 ### Phase 1 (Validation):
 - [ ] Mystery shopping: price range confirm
-- [ ] % patients interested in planning session
+- [ ] % pacientes interested en planning session
 - [ ] Alquiler quotes (3+ options)
-- [ ] Payment plan acceptance rate
+- [ ] Conversión planning → tratamiento (%)
 
 ### Phase 2 (Launch):
-- [ ] Planning session conversions
+- [ ] Private patients/mes
 - [ ] Patient acquisition cost
 - [ ] Retention rate
+- [ ] Google reviews count
 - [ ] NPS (Net Promoter Score)
 
----
-
-## OPEN QUESTIONS
-
-1. ¿Qué pasa con la base de datos si se va de Odontología 3?
-2. ¿Hay algún tipo de non-compete en su contrato?
-3. ¿Cuántos de los 130 pacientes son realmente "premium-eligible"?
-4. ¿Pagopar funciona para montos de Gs 400k+?
-5. ¿Cuánto tarda habilitación de consultorio en Luque?
-6. ¿Hay demanda real de expats que paguen premium?
+### Phase 3 (Scale):
+- [ ] Mix private vs. insurance
+- [ ] Revenue private/mes
+- [ ] % cobertura de income actual
 
 ---
 
-## RESOURCES NEEDED
+## RECURSOS PREPARADOS
 
-| Resource | Status | Action |
-|---|---|---|
-| Contador/Abogado | Needed | Find via network |
-| Equipos | Partial | Inventory needed |
-| Space | Needed | Research rentals |
-| Payment gateway | Needed | Contact Pagopar |
-| Marketing support | Needed | Kiki + team |
+| Documento | Qué Es | Para Qué |
+|-----------|--------|----------|
+| `KIKI-DATA-COLLECTION-KIT.md` | Checklist de data para traer | Lo que necesitas收集 esta semana |
+| `KIKI-MEETING.md` | Materials para la reunión | Agenda, problem framing, options |
+| `research/DEEP-DENTIST-REVIEW.md` | Master synthesis (712 líneas) | START HERE — todo research sintetizado |
+| `strategy/FINANCIAL-MODEL.md` | Modelo financiero actualizado | Proyecciones con datos reales cuando tengas |
+| `research/INTERNATIONAL-DENTAL-PRICING-MATRIX.md` | Pricing 10 países | Benchmarking para pricing |
 
 ---
 
-**Document is TODO — update as sprint progresses**
+## OPEN QUESTIONS — STATUS
+
+| Pregunta | Status | Respuesta Needed |
+|----------|--------|------------------|
+| ¿Qué pasa con la base de datos si se va? | ❓ Abogado | Consulta legal |
+| ¿Hay non-compete en su contrato? | ❓ Roque | Leer contrato |
+| ¿Cuántos pacientes son premium-eligible? | ❓ Dra. GP | Extraction de data |
+| ¿Pagopar funciona para Gs 400k+? | ✅ Research dice sí | Confirmar con Pagopar |
+| ¿Cuánto tarda habilitación en Luque? | ❓ Abogado | Consultar |
+| ¿Hay demanda real de expats? | ✅ Research dice sí | Ivan network ya refiere |
+| ¿Space es accesible a Gs 1.5M/mes? | ❓ Necesita quotes | Visitar espacios |
+
+---
+
+**STATUS: Esperando datos de Dra. GP para calibrar modelo y proceder**
