@@ -1,0 +1,159 @@
+# OPCIONES ESTRATÉGICAS
+## Dra. Gabriella González Pane
+
+**Evaluación**: 3 paths estratégico para el reposicionamiento
+
+---
+
+## OPORTUNIDAD CENTRAL
+
+El mercado de Asunción tiene un vacío claro: nadie está ofreciendo **odontología basada en planning** como servicio diferenciado. La dra. tiene:
+- Capacidad real de análisis y planificación
+- Reputación de confianza establecida
+- Archivo clínico para demostrar casos
+- Filosofía que resuena con pacientes que buscan segunda opinión de calidad
+
+---
+
+## OPCIÓN A — Upsell Within Current Structure
+
+### Descripción
+Crear productos premium dentro de la práctica actual sin cambiar infraestructura.
+
+**Productos clave:**
+- "Consulta de Second Opinion" — Gs 500k-800k, 45-60 min
+- "Treatment Planning Session" — Gs 800k-1.2M para casos complejos
+- "Plan de Tratamiento Integral" — documentación formal del diagnóstico
+
+### Mecanismo de conversión
+Patientes con casos complejos → planning session → conversión a tratamiento private-pay
+
+### Requisitos
+- Ningún cambio físico
+- Comunicación directa a base existente
+- Agenda de slots premium para planning
+
+### Pros
+- Risk mínimo
+- Tiempo de implementación: 2-4 semanas
+- Validación rápida del mercado
+
+### Contras
+- Teto de crecimiento limitado por la estructura existente
+- Sigue dependiendo de insurer para la mayoría de casos
+
+### Modelo Financiero (Opción A)
+- Revenue adicional: +Gs 15-30M/mes (3-6 planning sessions a Gs 500k-1M)
+- Inversión: casi nula
+- Timeline: inmediata
+
+---
+
+## OPCIÓN B — Parallel Private Book
+
+### Descripción
+Segmentar la práctica: mantener volume base con insurers, construir un book privado premium separado.
+
+**Modelo:**
+- Maintainers: pacientes insurers → volumen estable, margen bajo
+- Premium: casos private-pay → alto margen, complexidade valorada
+
+**Canales:**
+- Comunicação direta: pacientes actuales interesados em premium
+- Social proof: antes/después y casos complejos documentados
+- Recomendaciones de altri profissionais
+
+### Requisitos
+- Definir slots fijos para atención premium
+- Comunicación clara de la diferenciación
+- Protocolo de transición de pacientes entre segments
+
+### Pros
+- Mantiene flujo de caja mientras construye premium
+- Test de mercado antes de inversión maior
+- Preserva reputación existente
+
+### Contras
+- Complejidad operational de dos modelos
+- Límite de crecimiento por agenda compartida
+- Posicionamiento dual puede confuse mercado
+
+### Modelo Financiero (Opción B)
+- Target: 15-20% de pacientes en premium en 12 meses
+- Revenue mix: 60% insurers / 40% private
+- Revenue adicional: +Gs 40-80M/mes
+
+---
+
+## OPCIÓN C — Integrated Specialist Practice
+
+### Descripción
+Construir o mudarse a una clínica pequeña con 2-3 especialistas que comparten filosofía.
+
+**Especialistas objetivo:**
+- Periodoncista
+- Endodoncista
+- Ortodoncia (opcional, depending on case mix)
+
+**Modelo de diferenciación:**
+- "No overtreatment" — primero se mira si hay alternativa conservadora
+- Planning integrado — el caso se discute entre specialties antes de presentar al paciente
+- Seguimiento estructurado — post-treatment documentation
+
+**Localización:**
+- Asunción, zona de consultorios médicos o comercial de alto flujo
+- Parking disponible, accessibilidade
+
+### Requisitos
+- Inversión en espacio físico (alquiler, equipo, branding)
+- Contratos o sociedad con especialistas
+- Timeline: 6-12 meses para implementación
+
+### Pros
+- Captura completa de casos complejos (sin derivar fuera)
+- Diferenciación máxima vs. chains y franchises
+- Modelo escalable para incluir più profesionales
+
+### Contras
+- Inversión significativa (estimado: Gs 200-400M)
+- Riesgo de ejecución si volumen no materializa
+- Complejidad de gestionar múltiples profesionales
+
+### Modelo Financiero (Opción C)
+- Break-even: ~25-30 pacientes private-pay/mes
+- Target: 50-60 pacientes/mes, mix 70/30 private/insurer
+- Revenue potencial: Gs 150-300M/mes a pleno
+
+---
+
+## EVALUACIÓN COMPARATIVA
+
+| Criterio | A (Upsell) | B (Parallel) | C (Clínica propia) |
+|---|---|---|---|
+| Risk | Bajo | Medio | Alto |
+| Inversión inicial | Nula | Baja | Alta |
+| Timeline | 2-4 sem | 3-6 meses | 6-12 meses |
+| Revenue potencial | Gs 20-40M/mes | Gs 50-100M/mes | Gs 150-300M/mes |
+| Complejidad operacional | Baja | Media | Alta |
+| Diferenciación | Parcial | Completa | Máxima |
+
+---
+
+## RECOMENDACIÓN ESTRATÉGICA
+
+**Fase 1**: Validar con Opción A — tester demanda con mínimo riesgo
+**Fase 2**: Si validación positiva, escalar a Opción B — segmentar book
+**Fase 3**: Solo si Fases 1+2 confirmadas, evaluar Opción C — inversión estruturada
+
+La recomendación es NO empezar por Option C. Primero validar que el mercado responde a la diferenciación premium antes de invertir en infraestructura física.
+
+---
+
+## PRÓXIMOS PASOS
+
+1. Definir productos y pricing de planning sessions
+2. Crear material de comunicación para base existente
+3. Implementar tracking de conversión
+4. Review de resultados después de 90 días
+
+**Ver también**: `FINANCIAL-MODEL.md` para proyecciones detalladas

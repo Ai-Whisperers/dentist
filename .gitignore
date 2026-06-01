@@ -1,0 +1,4 @@
+.swarm/
+.opencode/
+.DS_Store
+*.log
