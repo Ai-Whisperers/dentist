@@ -1,326 +1,180 @@
-# RESEARCH NEEDS
-## Dra. Gabriella González Pane — Strategic Research Areas
-
-**Proposito**: Documentar todas las areas que requieren investigación para validar y ejecutar la estrategia de repositionamiento.
+# ACTUALIZADO — RESEARCH NEEDS
+## Dra. Gabriella González Pane — Post Sesión Mayo 31, 2026
 
 ---
 
-## 1. RESEARCH ESTRATÉGICO
+## STATE: PARTIALLY RESOLVED
 
-### 1.1 Mercado Dental Asunción
+Items que ya tienen data real (gracias a la sesión):
 
-**Qué necesitamos saber:**
-- Tamanio del mercado dental premium en Asunción
-- Growth rate del sector dental privado (últimos 5 años)
-- Perfil de gasto en salud oral por NSE
-- Tendencias de demanda (estética, rehabilitación, implants)
-
-**Por qué importa:**
-Para calibrar si el opportunity es suficientemente grande para Option C y entender si hay saturación en el segmento premium.
-
-**Fuentes potenciales:**
-- Datos de cámara de comercio de Paraguay
-- Estudios de mercado de healthcare LATAM
-- Competitor analysis de clínicas en Asunción
-
----
-
-### 1.2 Análisis de Competencia
-
-**Qué necesitamos saber:**
-- Precios y servicios de Mastología y otras chains
-- Posicionamiento de consultorios privados premium en Asunción
-- Qué están haciendo mal (oportunidad de diferenciación)
-- Qué funciona bien (evitar reinventar la rueda)
-
-**Por qué importa:**
-Para definir pricing premium con basis real y entender cómo diferenciarse sin inventar categorías.
-
-**Fuentes potenciales:**
-- Sitio web de competidores
-- Reviews de Google de clínicas competidoras
-- Mystery shopping si es necesario
-
----
-
-### 1.3 Pricing Benchmark
-
-**Qué necesitamos saber:**
-- Cuánto cobran odontólogos premium en Asunción por consulta
-- Cuánto cuestan planning sessions en PY y mercados comparables (AR, BR)
-- Rango de precios para procedimientos específicos (implantes, estética, rehabilitación)
-- Aceptación de pricing premium en el mercado local
-
-**Por qué importa:**
-El pricing de planning sessions (Gs 500k-1M) necesita validación real del mercado. No podemos asumir — necesitamos data.
-
-**Fuentes potenciales:**
-- Competitor pricing público
-- Forums de profesionales dentists
-- Encuestas anónimas a colegas (si hay acceso)
-
----
-
-## 2. RESEARCH FINANCIERO
-
-### 2.1 Validación de Modelo
-
-**Qué necesitamos saber:**
-- Revenue exacto actual por categoría (insurer vs. private)
-- Ticket promedio por type of procedure
-- Costos operacionales actuales (alquiler, materiales, staff, etc.)
-- Utilización de capacidad (cuántas horas de trabajo vs. disponibles)
-
-**Por qué importa:**
-Sin números reales, el modelo financiero es una estimacion. Necesitamos data para proyectar con confianza.
-
-**Fuentes potenciales:**
-- La propia clienta (debe compartir números)
-- Documentación contable si existe
-- Estimados baseline si no hay docs
-
----
-
-### 2.2 Capacidad de Payment
-
-**Qué necesitamos saber:**
-- Cuánto están dispuestos a pagar los pacientes actuales por planning sessions
-- Rango de financing que los pacientes aceptarían ( Pagopar, Bancard)
-- Ticket promedio en práctica privada en Asunción para casos complejos
-
-**Por qué importa:**
-Para validar que Option B y Option C son финансово viable, no solo teóricamente.
-
----
-
-### 2.3 Costos de Clínica Propia (Option C)
-
-**Qué necesitamos saber:**
-- Alquiler de espacios comerciales apropiados en Asunción (zona recomendable)
-- Costo de equipamiento básico para clínica dental pequeña
-- Salarios de personal administrativo y auxiliar en PY
-- Costos de mantenimiento y suministros dentales
-
-**Por qué importa:**
-La inversión inicial de Gs 200-400M necesita validación real. Los números que puse son estimates basadas en lógica, no en data de mercado.
-
----
-
-## 3. RESEARCH DE MERCADO OBJETIVO
-
-### 3.1 Perfil de Paciente Premium
-
-**Qué necesitamos saber:**
-- Cuántos pacientes actuales califican como "premium-eligible" (NSE B+, ingresos disponibles, willingness to pay)
-- Qué motivó a pacientes actuales a elegir un consultorio privado sobre una chain
-- Por qué algunos pacientes se van a competitors (chains, otros dentists)
-- Cómo deciden los pacientes a quién confiar su salud oral
-
-**Por qué importa:**
-No podemos asumir que todos los pacientes actuales son candidates para upgrade. Necesitamos entender qué porcentaje tiene disposición y capacidad para pagar premium.
-
-**Fuentes potenciales:**
-- Entrevistas o encuestas a pacientes actuales (con su permiso)
-- Análisis de base de datos de pacientes (si hay información de contacto y perfil)
-- Feedback directo de la clienta basado en su conocimiento
-
----
-
-### 3.2 Segmento Expat/Extranjeros
-
-**Qué necesitamos saber:**
-- Tamaño del mercado expat en Asunción (estimado)
-- Qué servicios buscan los expats (ingles, estándares internacionales, etc.)
-- Dónde se atienden actualmente (pueden estar yendo a AR o usando telemedicina)
-- Willingness to pay del segmento expat
-
-**Por qué importa:**
-Es un segmento accesible para ella (english, experiencia con foreigners) pero no sabemos el tamaño ni la disposición a pagar.
-
----
-
-### 3.3 Medical Tourism Potential
-
-**Qué necesitamos saber:**
-- Hay demanda de servicios dentales desde Bolivia, Argentina, otros países vecinos?
-- Qué tipo de servicios buscan los pacientes médicos?
-- Cómo comparar los costos con clínicas en Buenos Aires o São Paulo
-- Requisitos para posicionar como destino dental (profesional, infraestructura)
-
-**Por qué importa:**
-Si hay demanda real, podría ser un amplificador grande para revenue sin cambiar el modelo de trabajo.
-
----
-
-## 4. RESEARCH DE PRESENCIA DIGITAL
-
-### 4.1 Google Business & SEO
-
-**Qué necesitamos saber:**
-- Qué términos buscan los pacientes para encontrar dentistas en Asunción (search volume)
-- Quién aparece en los primeros resultados de "dentista Asunción" y cómo están posicionados
-- Qué está funcionando para competidores en términos de reviews y photos
-
-**Por qué importa:**
-La presencia digital empieza con Google. Necesitamos saber qué optimizar para generar inquiries de calidad.
-
----
-
-### 4.2 Portfolio de Casos
-
-**Qué necesitamos saber:**
-- Cuántos casos tiene documentados con fotos de alta calidad (antes/después)
-- Qué tipos de casos serían más impressivos para pacientes potenciales
-- Hay pacientes que estarían dispuestos a dar testimonios (escritos o en video)
-
-**Por qué importa:**
-El portfolio es la prueba de la capacidad. Sin él, la diferenciación es solo palabras. Necesitamos saber qué tenemos y qué falta.
-
----
-
-## 5. RESEARCH DE RED DE DERIVACIÓN
-
-### 5.1 Especialistas Disponibles
-
-**Qué necesitamos saber:**
-- Quiénes son los periodontistas, endodoncistas, cirujanos orales más respetados en Asunción
-- Cuáles tienen filosofía compatible (conservadora, no overtreatment)
-- Quiénes son accesibles para derivación (ubicación, horarios, willingness para casos compartidos)
-- Hay historial de derivación en Odontología 3 (con quién colaboró antes)
-
-**Por qué importa:**
-La red de derivación es un activo estratégico. Necesitamos saber qué existe y cómo construir sobre ello.
-
----
-
-### 5.2 Evaluación de Competencia para Red
-
-**Qué necesitamos saber:**
-- Otros dentists en Asunción que también referencian a los mismos especialistas (y por qué)
-- specialists que拒绝 casos complejos o que overtreat
-- Precio y calidad de laboratorios dentales en Asunción (para rehabilitación)
-
-**Por qué importa:**
-Para construir una red que sea mejor que lo que ya existe, necesitamos saber qué está funcionando y qué no.
-
----
-
-## 6. RESEARCH DE MARCO LEGAL
-
-### 6.1 Estructura Legal para Práctica
-
-**Qué necesitamos saber:**
-- Qué tipo de estructura legal se recomienda para una clínica privada en Paraguay (S.A., S.R.L., E.A.S.)
-- Requisitos de habilitación para consultorio odontológico (Ministerio de Salud)
-- Obligaciones laborales si contratan personal
-- Implicaciones fiscales de cada estructura
-
-**Por qué importa:**
-Option C requiere estructura legal. Necesitamos entender las opciones antes de proposal de inversión.
-
----
-
-### 6.2 Contratos y Derivaciones
-
-**Qué necesitamos saber:**
-- Cómo estructurar una relación de derivación formal (si es necesario)
-- Cuál es la práctica estándar en PY para compartir casos entre especialistas
-- Implicaciones legales de responsibility cuando se deriva un caso
-
----
-
-## 7. RESEARCH DE PAGOS Y FINANCIAMIENTO
-
-### 7.1 Infraestructura de Payment
-
-**Qué necesitamos saber:**
-- Cuál es el proceso real para implementar Pagopar en un consultorio
-- Cuántas cuotas son viables (12? 18? 24?)
-- Hay diferencia en acceptance entre Bancard y Pagopar para montos altos
-- Costos de transaction y timelines de settlement
-
-**Por qué importa:**
-El payment financing puede habilitar casos que hoy no happen por cash flow. Necesitamos saber cómo implementar realmente.
-
----
-
-### 7.2 Pricing de Financiamiento
-
-**Qué necesitamos saber:**
-- Cuánto cobra Pagopar por transaction
-- Hay costos adicionales para payment plans
-- Cuál es el ticket promedio de casos que se perderían sin financing
-
----
-
-## 8. RESEARCH DE VULNERABILIDADES
-
-### 8.1 Factores de Riesgo
-
-**Qué necesitamos saber:**
-- Cuál es el escenario donde esto no funciona (qué puede salir mal)
-- Hay factores externos que podrían impactar (recesión, cambios en insurance, nuevos competitors)
-- Cuál es el plan B si Option A no valida
-
-**Por qué importa:**
-Para proponer una estrategia robusta, no solo una versión ideal. Necesitamos entender los riesgos.
-
----
-
-### 8.2 Timeline Realista
-
-**Qué necesitamos saber:**
-- Cuánto tiempo realmente toma implementar cada fase
-- Cuáles son los blockers típicos en cada paso
-- Qué puede accelerarse y qué no (regulatorio, строительство)
-
----
-
-## 9. SUMMARY: PRIORIDADES DE RESEARCH
-
-### Alta Prioridad (para validar estrategia)
-
-| Area | Pregunta clave | Status |
+| Pregunta | Status | Data obtenida |
 |---|---|---|
-| Revenue actual | ¿Cuánto gana exactamente hoy? | ❓ Necesita input |
-| Pricing benchmark | ¿Gs 500k-1M por planning session es aceptable? | ❓ Necesita validación |
-| Pacientes premium-eligible | ¿Cuántos de los 130 califican para upgrade? | ❓ Necesita análisis |
-| Especialistas de confianza | ¿Ya tiene red o hay que construir? | ❓ Necesita input |
+| ¿Cuánto paga el seguro porproc? | ✅ | **Gs 60k promedio** (vs. Gs 550k que debería cobrar) |
+| ¿Cuántos pacientes tiene? | ✅ | **42 restauraciones solo en Mayo**, 130/mes estimados |
+| ¿Qué hace en un mes? | ✅ | 42 rest., 12 profilaxis, 2 pernos, 3 incrustaciones, 2+ coronas |
+| ¿Cuántos pacientes por tarde? | ✅ | **10 por tarde** (vs. promedio 2/día) |
+| ¿Dónde busca consultorio? | ✅ | **Luque zona Traumato Center / UNA** |
+| ¿Tiene acceso a base de datos? | ✅ | **Sí**, miles de pacientes en el sistema |
+| ¿Qué le dijo el dueño? | ✅ | "Aumentá tu productividad" — no quiere negociar |
 
-### Media Prioridad (para refinar)
+---
 
-- Costos de clínica propia (alquiler Asunción)
-- Competitor pricing analysis
-- Google search landscape
+## RESEARCH AREAS STILL NEEDED
+
+### 1. VALIDACIÓN DE PRECIOS PRIVATE
+
+**Qué necesitamos saber:**
+- ¿Gs 400-550k por restauración es aceptable en el mercado actual de Asunción/Luque?
+- ¿Cuál es el rango real de precios de odontólogos privados en Asunción 2026?
+- ¿Hay precedentes de dentistas que publican precios públicos en Paraguay?
+
+**Fuentes:**
+- Web "Precio odontólogo Asunción" mencionado en la sesión
+- SOCIEDAD PARAGUAYA DE ODONTOPEDIATRÍA Y PREVENCIÓN (SOP)
+- Círculo Odontológico Paraguayo (COP)
+
+---
+
+### 2. ALQUILER DE CONSULTORIOS EN LUQUE
+
+**Qué necesitamos saber:**
+- Precios reales de alquiler de consultorios equipados en Luque (2026)
+- ¿COP Clínica Odontología alquila gabinetes? ¿Porcentaje o fijo?
+- ¿Hay otros espacios cerca de Traumato Center o UNA disponibles?
+- ¿Qué incluye la habilitación completa? (para calcular costos)
+
+**Fuentes:**
+- clsasificados en XXXXXX
+- Consultas directas a inmobiliarias de Luque
+- Ministerio de Salud (requisitos de habilitación)
+
+---
+
+### 3. COSTOS DE INFRAESTRUCTURA
+
+**Qué necesitamos saber:**
+- Costo de equipos móviles (compresor silencioso, micromotor portátil)
+- Equipos que ya tiene vs. lo que necesita comprar
+- Alternativas de equipos chinos (mencionados en sesión: "en China hay versión que no te hace destruir tu piso")
+
+**Fuentes:**
+- Proveedores odontológicos en PY (Swiss dental, etc.)
+- Aliexpress/China para equipos móviles
+
+---
+
+### 4. ANÁLISIS DE BASE DE DATOS
+
+**Qué necesitamos saber:**
+- ¿Cuántos pacientes tiene en su base actual?
+- ¿Cuántos son "premium-eligible" (NSE B+, capacidad de pagar private)?
+- ¿Cuántos son de la zona Luque/Asunción (para transición)?
+- ¿Tiene casos complejos documentados con fotos?
+
+**Fuentes:**
+- La propia Dra. GP (tiene acceso al sistema)
+- Necesita exportar/extraer la data
+
+---
+
+### 5. MARCO LEGAL — ESTRUCTURA PARA PRÁCTICA PRIVADA
+
+**Qué necesitamos saber:**
+- ¿Qué estructura legal conviene? (S.A., S.R.L., E.A.S.)
+- ¿Qué requiere para habilitación de consultorio en Luque?
+- ¿Hay obligaciones laborales si contrata staff?
+- ¿Puede trabajar como profession libérale sin estructura empresarial?
+
+**Fuentes:**
+- Abogado/empresa de servicios contables
+- Ministerio de Salud PY
+
+---
+
+### 6. PAYMENT INFRASTRUCTURE
+
+**Qué necesitamos saber:**
+- ¿Cómo implementar Pagopar para payment plans?
+- ¿Cuántas cuotas son viables (6, 12, 18)?
+- Costos de transaction Bancard vs. Pagopar para montos de Gs 400k+
+- ¿Se puede ofrecer " financing" para casos de Gs 2M+?
+
+**Fuentes:**
+- Pagopar.com.py
+- Bancard Paraguay
+
+---
+
+### 7. MARKETING Y POSITIONING
+
+**Qué necesitamos saber:**
+- ¿Cómo es el landscape digital de dentistas en Asunción/Luque?
+- ¿Quién tiene los primeros resultados en Google para "dentista Asunción"?
+- ¿Hay dentistas en Paraguay con marca personal fuerte?
+- ¿Funciona Instagram/TikTok para dental en PY?
+
+**Fuentes:**
+- Búsqueda Google "dentista Asunción", "odontologo Luque"
+- Análisis de competidores online
+
+---
+
+### 8. MEDICAL TOURISM / EXPATS
+
+**Qué necesitamos saber:**
+- ¿Cuál es el tamaño real del mercado expat en Asunción?
+- ¿Qué servicios buscan los extranjeros?
+- ¿Hay clínicas ya posicionadas para esto?
+- ¿Disposición a pagar por servicios en USD?
+
+**Fuentes:**
+- Iván (conoce casos de europeos)
+- Grupos de extranjeros en Paraguay
+
+---
+
+## RESEARCH PRIORITIES — REDUX
+
+### Alta Prioridad (urgente para el meeting con Kiki)
+
+1. **Alquiler en Luque** — costos, opciones, viabilidad
+2. **Base de datos** — extracción y análisis
+3. **Pricing benchmark** — validar si Gs 400-550k es viable
+
+### Media Prioridad (para plan de negocio)
+
+4. **Marco legal** — estructura recomendada
+5. **Payment infrastructure** — cómo implementar Pagopar
+6. **Análisis de competencia** — posicionamiento digital
 
 ### Baja Prioridad (futuro)
 
-- Medical tourism potential
-- Marco legal detallado
-- Payment infrastructure técnica
+7. **Medical tourism potential** — solo si hay interés en expandir
+8. **Equipos y habilitaciones** — después de tener location
 
 ---
 
-## 10. PRÓXIMOS PASOS DE RESEARCH
+## ASIGNACIÓN
 
-### Antes de la próxima sesión:
-
-1. **Obtener de la clienta**:
-   - Revenue aproximado por mes (ranges está bien)
-   - ¿Hay especialistas de confianza ya?
-   - ¿Cuántos pacientes son candidates para premium?
-
-2. **Por cuenta propia**:
-   - Análisis de Google Business de competidores
-   - Revisión de precios públicos de clínicas en Asunción
-
-3. **En próxima sesión**:
-   - Validar pricing con data real si está disponible
-   - Decidir si procedemos a Option A o esperamos más data
+| Area | Owner | Status |
+|---|---|---|
+| Precios private | Investigación propia +session audio | Pending |
+| Alquiler Luque | Dra. GP necesita consultar | Pending |
+| Base de datos | Dra. GP necesita extraer | Pending |
+| Marco legal | Necesita abogado/contador | Pending |
+| Payment infra | Investigar Pagopar/Bancard | Pending |
+| Competitor digital | Investigación propia | Pending |
 
 ---
 
-**Documento vivo**: Actualizar conforme avanza la investigación y se obtiene más información.
+## PRÓXIMOS PASOS INMEDIATOS
 
-**Asignado a**: Research en curso
-**Última actualización**: Junio 2026
+1. Dra. GP → extraer base de datos (mañana)
+2. Dra. GP → reunion con Roque (jueves)
+3. Dra. GP → cotizar alquileres en Luque
+4. Sesión con Kiki → estructurar plan de negocio
+
+---
+
+**Última actualización**: Mayo 31, 2026
+**Source**: Transcripción de sesión + análisis propio
