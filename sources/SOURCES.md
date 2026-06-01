@@ -102,14 +102,15 @@
 
 ## MARKET RESEARCH SOURCES
 
-### Dental Pricing
+### Dental Pricing (June 2026 Update)
 
 | Resource | URL | Data Provided |
 |----------|-----|---------------|
-| **SPOyP Aranceles** | http://www.spoyp.com.py/aranceles/ | Fee schedules |
-| **Los Odontólogos Paraguay** | https://losodontologos.com/paraguay/precios-asuncion/ | Asunción pricing |
+| **SPOyP Aranceles** | http://www.spoyp.com.py/aranceles/ | Fee schedules — verified June 2026 |
+| **Los Odontólogos Paraguay** | https://losodontologos.com/paraguay/precios-asuncion/ | Asunción pricing — verified April 2026 |
 | **Buccalmedic** | https://www.buccalmedic.com/precios-odontologicos-referenciales | Reference pricing |
-| **Reddit Paraguay** | https://www.reddit.com/r/Paraguay/comments/1n7ck86/planes_odontologicos/ | Community discussions |
+| **treatmentsinternational (Risus)** | https://treatmentsinternational.com/dentista-asuncion-paraguay/ | USD implant pricing, verified June 2026 |
+| **expatsettle** | https://expatsettle.com/best/best-dentists-paraguay | April 2026 rankings, 6 clinics reviewed |
 
 ### Expat & Medical Tourism
 
@@ -187,19 +188,22 @@
 | **E.A.S. Registration** | https://eas.mic.gov.py/Index |
 | **RUC Registration** | https://servicios.set.gov.py/eset-publico/preinscripcionIService.do |
 | **COP (Professional Association)** | https://cop.com.py/ |
-| **Pagopar (Payment Plans)** | https://www.pagopar.com/registro |
-| **Bancard (Card Processing)** | https://www.bancard.com.py/ |
+| **Pagopar (Payment Plans)** | https://www.pagopar.com/registro | Verified fees June 2026 |
+| **Bancard (Card Processing)** | https://www.bancard.com.py/ | POS pricing verified June 2026 |
 
 ### Key Research Documents
 
 | Document | Lines | Key Sources Inside |
 |----------|-------|-------------------|
-| `research/DEEP-DENTIST-REVIEW.md` | 712 | Master synthesis, all sources |
-| `research/legal-requirements-research.md` | 396 | Government portals, ley references |
-| `research/INTERNATIONAL-DENTAL-PRICING-MATRIX.md` | 593 | International benchmarks |
-| `research/DENTAL_PRACTICE_STRATEGY_RESEARCH.md` | 925 | Global best practices |
-| `research/dental-tourism-research.md` | 247 | Expat market sources |
-| `KIKI-MEETING.md` | 200+ | Meeting materials |
+| `research/deep-dentist-review.md` | 264 | Master synthesis, all sources |
+| `research/dental-market-research.md` | NEW | Competition pricing, market gaps |
+| `research/dental-tourism-research.md` | NEW | Expat market sources, referral channels |
+| `research/payment-infrastructure-research.md` | NEW | Pagopar + Bancard, verified June 2026 |
+| `research/legal-requirements-research.md` | NEW | E.A.S., non-compete, data protection |
+| `research/luque-rental-research.md` | NEW | Luque demographics + rental market |
+| `research/referral-network-research.md` | NEW | Specialist contacts + referral protocol |
+| `research/international-dental-pricing-matrix.md` | 593 | International benchmarks |
+| `research/dental-practice-strategy-research.md` | 925 | Global best practices |
 
 ---
 

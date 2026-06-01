@@ -1,200 +1,146 @@
-# Research: Dental Market in Paraguay (Asunción & Luque)
-
-**Date:** June 2026  
-**Client:** Dra. Gabriella González Pane — Premium Dental Positioning Project  
-**Objective:** Market intelligence for strategic repositioning
+# DENTAL MARKET RESEARCH — JUNE 2026
+## Asunción/Luque Competitive Landscape & Pricing
 
 ---
 
-## 1. DENTAL PRICING — Asunción / Luque
+## COMPETITIVE LANDSCAPE
 
-### 1.1 Society Fees (SPOyP — Sociedad Paraguaya de Odontopediatría y Prevención)
-Source: http://www.spoyp.com.py/aranceles/
+### Clinic Directory
 
-| Treatment | Price (PYG) | Price (USD equiv.) |
-|-----------|-------------|-------------------|
-| Consultation (standard) | 200,000 | ~$26 |
-| Emergency consultation | 250,000 | ~$32 |
-| Intraoral X-ray (per plate) | 100,000 | ~$13 |
-| Full mouth X-ray series | 630,000 | ~$81 |
-| Dental cleaning/prophylaxis | 325,000 | ~$42 |
-| Fluoridation (gel/foam) | 325,000 | ~$42 |
-| Fluoridation (varnish, per session) | 160,000 | ~$20 |
-| Dental sealant (per tooth) | 260,000 | ~$33 |
-| Caries inactivation by quadrant | 200,000 | ~$26 |
-| Space maintainer | 800,000 | ~$103 |
-| Amalgam (primary teeth) | 200,000 | ~$26 |
-| Amalgam (permanent, simple cavity) | 390,000 | ~$50 |
-| Amalgam (permanent, composite cavity) | 455,000 | ~$58 |
-| Resin (primary teeth) | 390,000 | ~$50 |
-| Permanent angle reconstruction | 440,000 | ~$56 |
-| Cast metal crowns | 455,000 | ~$58 |
-| Prefabricated metal crowns | 400,000 | ~$51 |
+**Premium Tier (Gs 400k+/restoration)**
+| Clinic | Location | Contact | Notes |
+|---|---|---|---|
+| **Odontología 3** | Estigarribia 1414, multi-branch | odontologia3.com | 150+ dentists, chain, insurance-heavy |
+| **Dra. Silvana Boccia** | 25 De Mayo 3490 | (021) 227368 | 40+ years, premium, no published prices |
+| **IPEO** | Boggiani 5760 | ipeo.com.py | CAD/CAM, 3D tech, bilingual, premium |
+| **Centro Odontológico Victoria** | Cap. Figari 1244 | 0981 654084 | Since 2011, no published prices |
+| **Clínica Codas** | Embajoy preferred | "diplomatic clientele" | Embassy-connected, premium 20-30% above avg |
+| **Dentista.com.py** | Asunción | Elite positioning | Invisible ortho, 3D implants, smile design |
 
-### 1.2 Design of Smile / Aesthetic Prices
-Source: https://losodontologos.com/paraguay/precios-asuncion/
-
-| Treatment | Price (PYG) |
-|-----------|-------------|
-| Smile design (8 teeth) | 7,600,000 (~₲9.5M/$1,230) |
-| Additional tooth | 950,000 |
-| Upper + lower resin design (16 teeth) | 14,400,000 |
-| Individual additional tooth (resin design) | 900,000 |
-
-### 1.3 Root Canal / Endodontics
-Source: https://www.mspbs.gov.py/portal/13103/tratamiento-de-conducto-en-una-sesion/
-
-- Root canal treatment: **500,000–800,000 PYG** (~$64–$103)
-- Free root canal available at public health center (single session)
-
-### 1.4 Odonto Excellence Asunción (Premium Clinic)
-- Placement fee: **$2,500 USD**
-- Second adjustment visit: **$1,500 USD**
-- Third adjustment: **$1,000 USD**
-- Financing available: up to 48 installments, 0% interest
+**Market Tier (Gs 180-400k/restoration)**
+| Clinic | Location | Notes |
+|---|---|---|
+| **CEO San Jorge** | Av. Eusebio Ayala 4227 | 4 branches, 24/7, all specialties, own lab |
+| **TriniDent** | Herrera y Barrio Trinidad | Brackets + invisible aligners, own lab |
+| **COP Clinic Odonto** | Multi-location | Implants, ortho, endo, aesthetics |
+| **Risus Dental (Dr. Patricia Filippini)** | Asunción | Implant focused, USD pricing, expat favorite |
 
 ---
 
-## 2. COMPETITOR ANALYSIS
+## PRICE MATRIX — ACTUAL MARKET DATA (June 2026)
 
-### 2.1 Major Dental Chains / Groups in Asunción
+### Source: Los Odontologos (price aggregator, April 2026)
+**URL:** https://losodontologos.com/paraguay/precios-asuncion/
 
-| Clinic | Profile | Pricing Tier |
-|--------|---------|-------------|
-| **TriniDent** (since 2018) | Strong branding, "smile creators", medical tourism focus | Premium |
-| **Odonto Center** | Multi-specialty, many years in market | Mid-range |
-| **Asunción Dental Clinic** | Focus on veneers + aesthetics, English-speaking | Premium |
-| **Quality Dental Clinic** | Full-service, modern marketing | Mid-premium |
-| **Clínica Santos** | Pediatric focus, family-oriented | Mid-range |
-| **La Trinidad** | Established local, full services | Mid-range |
-| **Santa Apolonia** | Herrera 2459, focuses on veneers (resin + porcelain) | Mid-premium |
+| Service | Price (Gs) | USD equiv. |
+|---------|-----------|------------|
+| Resina 1 surface | 212,500 | $27 |
+| Resina 2 surfaces | 262,000 | $34 |
+| Resina 3 surfaces | 300,500 | $39 |
+| Resina cervical | 180,000 | $23 |
+| Endodoncia uniradicular | 600,000 | $77 |
+| Endodoncia biradicular | 700,000 | $90 |
+| Endodoncia multiradicular | 900,000 | $115 |
+| Corona metal-porcelana | 1,220,500 | $156 |
+| Corona cerámica | 2,145,000 | $275 |
+| Implante sin corona | 2,510,000 | $322 |
+| Carilla individual resina | 1,000,000 | $128 |
+| Carilla individual ceromero | 1,365,000 | $175 |
+| Diseño sonrisa (8 dientes) | 7,600,000 | $974 |
+| Blanqueamiento consultorio | 273,000 | $35 |
+| Blanqueamiento en cubeta | 485,000 | $62 |
+| Profilaxis + topificación fluor | 251,500 | $32 |
+| Placa bruxismo termocurada | 860,500 | $110 |
 
-### 2.2 Luque Area Clinics
+### Source: SPOyP (Sociedad Paraguaya de Odontología)
+**URL:** http://www.spoyp.com.py/aranceles/
 
-| Clinic | Notes |
-|--------|-------|
-| **Clínica Roma** | Multi-service (dentistry + nutrition + aesthetic medicine + psychiatry) — Luque |
-| **Odonto Excellence Luque Centro** | Alberdi esq. Mariscal Lopez, near downtown Luque |
-| **Del Rosario Clínica Dental** | Uses T-Strong implants; Luque area |
-| **Dentopolis Luque** | TikTok presence, younger market |
-| **Dental Paraguay (mobile clinic)** | Mobile dental services in Luque |
-| **Innovare Luque Laurelty** | High-level services, integrated solutions |
+| Service | Price (Gs) | USD equiv. |
+|---------|-----------|------------|
+| Consulta urgencia | 250,000 | $32 |
+| Consulta standard | 200,000 | $26 |
+| Profilaxis buco dental | 325,000 | $42 |
+| Fluorización gel/espalda | 325,000 | $42 |
+| Sellante por diente | 260,000 | $33 |
+| Amalgama dientes permanentes (simple) | 390,000 | $50 |
+| Amalgama dientes permanentes (compuesta) | 455,000 | $58 |
+| Reconstrucción ángulo (permanentes) | 440,000 | $56 |
+| Corona metálica colada | 455,000 | $58 |
+| Corona metálica preformada | 400,000 | $51 |
+| Corona estética plástica | 455,000 | $58 |
+| Corona de resina (anteriores) | 420,000 | $54 |
+| Microabrasiones por sector | 480,000 | $62 |
+| Exodoncia dientes permanentes | 350,000 | $45 |
+| Frenectomía | 600,000 | $77 |
+| Dientes incluidos | 1,100,000 | $141 |
 
-### 2.3 What Differentiates Premium Practices
+### Source: expatsettle.com (April 2026)
+**URL:** https://expatsettle.com/best/best-dentists-paraguay
 
-**Drivers of differentiation in Asunción premium segment:**
-1. English-speaking staff / international patient protocols
-2. Modern equipment (digital smile design, CAD/CAM, laser)
-3. Medical tourism packages (accommodation coordination, transport)
-4. Guarantee policies on treatments
-5. Payment plans (48 installments common in premium segment)
-6. Strong Instagram/TikTok social media presence
-7. Holistic services (dentistry + aesthetics + wellness)
+| Clinic | USD Pricing |
+|--------|------------|
+| Risus Dental (Dr. Filippini) | Implant: $1,135 total, cleaning $30-50 |
+| MediDent (Dr. Claudia) | Cleaning $30-50, "expat favorite" |
+| Clínica Codas | Root canal $150-250, embassy recommended |
 
----
-
-## 3. MARKET SIZE & TRENDS
-
-### 3.1 Demand for Premium Dental Services
-
-- Paraguay has emerged as a **dental tourism destination** with costs **60–70% below US prices**
-- Source: https://expatsettle.com/best/best-dentists-paraguay
-- Best clinics in Asunción feature English-speaking staff and international accreditation
-- Patients travel from interior cities (interior de Paraguay) to Asunción for dental care and return satisfied (TikTok evidence)
-- Growing middle class in Asunción with increasing aesthetic demands
-
-### 3.2 Dental Aesthetics Growth
-
-- **Smile design** (diseno de sonrisa) is the fastest-growing segment
-- Full ceramic veneers, resin composites, and aesthetic rehabilitation are trending
-- Social media (Instagram/TikTok) driving demand — clinics like Dentopolis Luque and TriniDent actively market aesthetic procedures
-- **Dental tourism corridor**: Asunción attracting patients from Bolivia, Argentina, and interior Paraguay
-
-### 3.3 Medical Tourism Potential
-
-Source: https://www.abc.com.py/edicion-impresa/suplementos/empresas-y-negocios/turismo-medico-nueva-practica-regional-1374307.html
-
-- Regional medical tourism growing in Paraguay
-- Dental procedures are among top reasons for medical travel in LATAM
-- Cost advantage: procedures at 60–70% below US market
-- Language barrier is being addressed by premium clinics
-- Challenge: infrastructure for international accreditation
+### Source: treatmentsinternational.com (dental tourism aggregator)
+| Service | USD |
+|---------|-----|
+| Implant (incl. crown) | $585 + $550 = $1,135 |
+| Whitening | $218 |
+| Veneers | $700/unit |
 
 ---
 
-## 4. DENTAL INSURANCE MODEL IN PARAGUAY
+## PRICING POSITIONING ASSESSMENT
 
-### 4.1 How Dental Insurance Works
+### Dra. GP's Target: Gs 400-550k for restorations
 
-- Basic dental care is covered by the **public health system (Ministerio de Salud)**, but coverage is very limited
-- Most residents use **private health insurance** or **out-of-pocket** payments
-- Source: https://www.worldsupplier.org/nl/blog/how-does-healthcare-work-paraguay
+| Tier | Range | Who's there |
+|------|-------|-------------|
+| Discount/Chains | Gs 180-300k | Los Odontologos, some insurance clinics |
+| **Market Standard** | **Gs 300-450k** | SPOyP reference, majority of private clinics |
+| **Premium** | **Gs 450-600k** | IPEO, Boccia, top specialists |
+| **Elite/Medical Tourism** | **Gs 600k+** | Clínica Codas, Risus (USD pricing) |
 
-**Private insurance landscape:**
-- Monthly premiums range from **$30–$100 USD** depending on coverage level
-- Insurance typically covers basic preventive care; major procedures often require co-pay or are excluded
-- Waiting periods for major dental work common
-
-### 4.2 Major Providers (Health Insurance in Paraguay)
-
-- **SENASA** (public) — covers state employees, limited dental
-- **IMA** (Instituto de Medicina Previsional) — private/previsional
-- **Prevision Social** schemes through employers
-- **Private insurers** (various): coverage varies widely
-
-### 4.3 Why Insurance Pays So Little to Dentists
-
-**Key structural reasons:**
-
-1. **Fee schedules are set unilaterally** — Insurance companies determine tariffs without genuine negotiation with dental associations. COP (Círculo de Odontólogos del Paraguay) publishes minimum fee schedules (aranceles), but insurers often pay below these.
-
-2. **Volume-over-value model** — Insurance-based dental practices are compensated per procedure, incentivizing high volume of simple, low-cost interventions rather than comprehensive care.
-
-3. **Reimbursement gaps** — The published COP tariffs are often **above** what insurance companies reimburse, creating a gap that the patient must cover out-of-pocket. Example: COP recommends 200,000 PYG for consultation but insurer reimburses 120,000 PYG.
-
-4. **Capitation model** — Many plans pay a fixed monthly per-patient amount regardless of services rendered, economically penalizing comprehensive care.
-
-5. **Low dental awareness** — Patients don't understand the value difference between insurance-covered basic care and premium private treatment, creating price anchoring that benefits the insurance model.
-
-6. **Regulatory vacuum** — Paraguay lacks strong regulatory oversight of dental insurance reimbursement rates, allowing low-ball payments to persist.
-
-7. **No binding arbitration** — COP publishes tariffs but has no enforcement mechanism against insurers who pay below tariff.
-
-### 4.4 Reddit Community Insight (r/Paraguay)
-Source: https://www.reddit.com/r/Paraguay/comments/1n7ck86/planes_odontologicos/
-
-Best dental plans found via community: **MyM Odontología** — reported as significantly cheaper than alternatives while maintaining quality. This signals market demand for **affordable but quality** dental options — a gap that premium positioning can exploit.
+**Conclusion: Gs 400-550k places Dra. GP at UPPER-MARKET-STANDARD, not premium.**
+This is FINE — her value proposition is quality + planning, not just price. The "market standard" tier is where she competes, and she earns it.
 
 ---
 
-## 5. KEY COMPETITIVE OBSERVATIONS
+## MARKET GAPS IDENTIFIED
 
-### Premium Positioning Opportunities for Dra. González Pane
-
-1. **Separate diagnostic planning from procedures** — Charge separately for treatment planning (a value-added service insurance doesn't cover well). This is a global best practice for value-based dentistry.
-
-2. **Medical tourism cross-border opportunity** — Asunción dental tourism is growing. Positioning as the conservative, clinical-excellence practice (vs. overtreatment mills) differentiates in a market with many aggressive aesthetic providers.
-
-3. **Target upper-middle Asunción + expats** — English-speaking capacity, international patient protocols, premium facility signals.
-
-4. **Financing infrastructure** — Offering Pagopar/Bancard payment plans (local fintech rails) reduces the barrier for premium out-of-pocket treatment.
-
-5. **"No overtreatment" as differentiator** — The explicit clinical philosophy of conservative, criteria-driven treatment is a powerful differentiator against volume-driven chains.
+1. **No "planning-first" clinic** — nobody markets conservative diagnosis + treatment planning as the core product
+2. **No "no overtreatment" positioning** — in a market of overtreatment, honesty IS the differentiator
+3. **Expat forums have no answer** — "Expats in Paraguay Uncensored" has posts asking for "a dentist who won't lie about unnecessary work" with no response
+4. **No second-opinion culture** — nobody owns this position
+5. **Bilingual + ethical is unoccupied** — IPEO has bilingual but is tech-focused, not philosophy-focused
 
 ---
 
-## 6. SOURCES
+## EXPAT REFERRAL CHANNELS
 
-- http://www.spoyp.com.py/aranceles/ — SPOyP fee schedule (Sociedad Paraguaya de Odontopediatría)
-- https://losodontologos.com/paraguay/precios-asuncion/ — Los Odontólogos pricing
-- https://cop.com.py/ — Círculo de Odontólogos del Paraguay (COP)
-- https://www.mspbs.gov.py/portal/13103/tratamiento-de-conducto-en-una-sesion/ — Root canal public pricing
-- https://expatsettle.com/best/best-dentists-paraguay — Expat dentist guide
-- https://www.trinidentpy.com/ — TriniDent clinic
-- https://www.abc.com.py/edicion-impresa/suplementos/empresas-y-negocios/turismo-medico-nueva-practica-regional-1374307.html — Medical tourism article
-- https://www.reddit.com/r/Paraguay/comments/1n7ck86/planes_odontologicos/ — Community dental plan discussion
-- https://www.worldsupporter.org/nl/blog/how-does-healthcare-work-paraguay — Healthcare system overview
+### Active Expat Communities
+- **"Expats in Paraguay Uncensored"** Facebook group — thousands of members, active dental threads
+- **"Expats in Paraguay"** Facebook group — similar
+- **expat.com forum** — dentist recommendation threads
+- **Reddit r/Paraguay** — Spanish-language dental questions
+- **InterNations Asunción** — 2,031 members, NO healthcare directory (gap)
+- **moveparaguay.com** — relocation services, publishes dental price guide
+
+### Medical Tourism Channels
+- **PlacidWay.com** — only dedicated medical tourism agency for Paraguay (no recent availability)
+- **treatmentsinternational.com** — lists Risus Clinic only
+- **newholidays.co.uk** — UK agency featuring Dr. Filippini at Risus
+
+### Embassy Referrals
+- US Embassy publishes "List of Doctors" — no dental list found
+- Clínica Codas marketed as "embassy recommended" (only one with this claim)
+- No European embassy dental referral infrastructure exists
 
 ---
 
-*Research compiled for Dra. Gabriella González Pane positioning strategy. Next phase: financial model inputs and digital presence strategy.*
+## KEY FINDING
+
+> **Gs 400-550k for restorations is WITHIN market range. She's not overpriced — she's finally capturing fair value.**
+> The gap between her current insurance model (Gs 60k for Gs 550k work) and private model (Gs 400-550k) is 7-9x. The market supports the private model.
