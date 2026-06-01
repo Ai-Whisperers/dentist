@@ -18,7 +18,7 @@ dentist/
 ├── README.md                    # Quick reference
 ├── TODO.md                      # Sprint plan
 │
-├── docs/                        # Strategic documents (6 files)
+├── docs/                        # Strategic documents (8 files)
 │   ├── dossier.md              # Client profile & strategic overview
 │   ├── options.md             # 3 strategic options evaluated
 │   ├── financial-model.md     # Financial projections (v2.0)
@@ -96,13 +96,17 @@ dentist/
 │   ├── payment-onboarding-guide.md  # Pagopar + Bancard setup
 │   ├── expat-community-deep-dive.md  # Expat channels + referral strategy
 │   ├── habilitacion-requirements.md  # MSPBS requirements for Luque
-│   ├── master-legacy.md         # Updated synthesis
+│   ├── ARCHIVED-master-legacy.md  # [DEPRECATED - use deep-dentist-review]
 │   └── sources/                # Source index
 │
 ├── meeting/                    # Meeting prep materials
 │   ├── meeting-guide.md        # Full meeting structure
 │   ├── decision-matrix.md      # Navigation framework
-│   └── data-collection-kit.md  # Data Dra. GP needs to collect
+│   ├── data-collection-kit.md  # Data Dra. GP needs to collect
+│   ├── patient-survey-instrument.md  # WhatsApp survey template
+│   ├── luque-space-shortlist.md  # 3 Luque spaces with contacts
+│   ├── roque-meeting-result.md  # Fill after Roque meeting
+│   └── dra-gp-personal-data-checklist.md  # Personal data for legal docs
 │
 └── sources/
     └── SOURCES.md             # All sources + links

@@ -150,7 +150,7 @@ Home
    - Clear explanation of all options
 
 3. **Odontología General**
-   - Restauraciones (Gs 350-550k)
+   - Restauraciones (Gs 400-550k)
    - Profilaxis / Cleaning (Gs 150-250k)
    - Endodoncias (Gs 600k-1.2M)
    - Exodoncias (Gs 250-400k)
@@ -335,7 +335,7 @@ Home
 | Home | Dra. GP — Odontología con Criterio en Asunción | Second opinions, treatment planning, and quality dental care in Asunción. 20 years experience. English spoken. |
 | Philosophy | Nuestra Filosofía — Odontología con Criterio | I don't do work you don't need. My philosophy is simple: plan first, treat second. 20 years of conservative dental care. |
 | Services | Servicios — Second Opinion, Restauraciones, Estética | Full-service dental care with a planning-first approach. Second opinions, general dentistry, cosmetics. Prices透明. |
-| Pricing | Precios Dentales — Asunción 2026 | Transparent dental pricing in Asunción. Second opinions from Gs 400k. Restauraciones from Gs 350k. English OK. |
+| Pricing | Precios Dentales — Asunción 2026 | Transparent dental pricing in Asunción. Second opinions from Gs 400k. Restauraciones from Gs 400k. English OK. |
 | Second Opinion | Segunda Opinión Dental — Dra. GP Asunción | Not sure if you need that procedure? Get an honest second opinion. Written findings, no obligation. Gs 400-600k. |
 | Contact | Contacto — Dra. GP Odontología Asunción | WhatsApp, phone, or visit us in Luque. By appointment only. Response within 24 hours. English OK. |
 

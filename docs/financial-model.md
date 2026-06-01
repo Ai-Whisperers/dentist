@@ -113,6 +113,74 @@ Continuar en Odontología 3 + práctica privada en espacio alquilado, evenings/w
 - Con 130 pacientes/mes actuales, necesita convertir solo 10-15% a private
 - Conversión realista: 15-20% en 6-12 meses vía Ivan's network + Google
 
+---
+
+## CASH FLOW RUNWAY ANALYSIS
+
+### The Problem
+
+**The model assumes immediate patient flow. Reality is slower.**
+If it takes 6 months to reach break-even (not 3), you need cash to cover the gap.
+
+### Runway Calculation — Option B (Parallel Private)
+
+**Assumptions:**
+- Start costs: Gs 1,500,000 (EAS + setup)
+- Monthly OpEx: Gs 1,800,000 (rent + supplies + POS + marketing)
+- Monthly income from Odontología 3: Gs 24-42M (if she keeps working there)
+- But her personal expenses: ~Gs 15-20M/month
+
+**Scenario A — Fast ramp (3 months to break-even):**
+
+| Mes | OpEx (new) | Income (new) | Net new practice | Personal expenses | Cash position |
+|-----|-----------|-------------|-----------------|-----------------|---------------|
+| 0 (start) | -Gs 1.5M | Gs 0 | -Gs 1.5M | -Gs 15M | **INITIAL: Gs ___M needed** |
+| 1 | -Gs 1.8M | Gs 2M | +Gs 0.2M | -Gs 15M | Need ~Gs 16M reserves |
+| 2 | -Gs 1.8M | Gs 5M | +Gs 3.2M | -Gs 15M | Improving |
+| 3 | -Gs 1.8M | Gs 7M | +Gs 5.2M | -Gs 15M | Break-even month 3 |
+
+**Scenario B — Slow ramp (6 months to break-even):**
+
+| Mes | OpEx (new) | Income (new) | Net new practice | Personal expenses | Cash position |
+|-----|-----------|-------------|-----------------|-----------------|---------------|
+| 0 (start) | -Gs 1.5M | Gs 0 | -Gs 1.5M | -Gs 15M | **INITIAL: Gs ___M needed** |
+| 1 | -Gs 1.8M | Gs 1M | -Gs 0.8M | -Gs 15M | Need ~Gs 17M reserves |
+| 2 | -Gs 1.8M | Gs 2M | +Gs 0.2M | -Gs 15M | Need ~Gs 15M reserves |
+| 3 | -Gs 1.8M | Gs 3M | +Gs 1.2M | -Gs 15M | Need ~Gs 14M reserves |
+| 4 | -Gs 1.8M | Gs 4M | +Gs 2.2M | -Gs 15M | Need ~Gs 12M reserves |
+| 5 | -Gs 1.8M | Gs 5M | +Gs 3.2M | -Gs 15M | Need ~Gs 9M reserves |
+| 6 | -Gs 1.8M | Gs 7M | +Gs 5.2M | -Gs 15M | Break-even |
+
+**Minimum reserve needed (Scenario B worst case): Gs 17-20M**
+
+### What This Means
+
+```
+If Dra. GP has:
+- Gs 20M+ savings → Option B is viable NOW
+- Gs 10-20M savings → Option B is risky, delay 1-2 months
+- Less than Gs 10M savings → Option B NOT viable without
+  either (a) keeping full Odontología 3 income OR
+  (b) getting a loan/partnership
+```
+
+### Action: Calculate Personal Reserve
+
+**Dra. GP needs to answer:**
+1. ¿Cuánto tenés en ahorros personales hoy?
+2. ¿Cuántos meses de gastos personales cubre eso?
+3. ¿Tenés gastos fijos que podés reducir?
+
+### If Savings < Gs 20M
+
+Options:
+- **Wait 2-3 months** while saving more
+- **Start smaller** — fewer OpEx (home office? evenings only?)
+- **Partnership** — split rent with another dentist
+- **Loan** — Gs 10-20M from family/friends at friendly terms
+
+---
+
 ### Timeline
 
 | Fase | Mes | Milestone |

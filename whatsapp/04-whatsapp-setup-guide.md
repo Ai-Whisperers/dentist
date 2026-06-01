@@ -70,7 +70,7 @@ Create these (you type the shortcut, app expands):
 | Shortcut | Message |
 |----------|---------|
 | `hola` | Hola! Gracias por escribir. Soy la Dra. GP. En qué puedo ayudarte? |
-| `precios` | Los precios como referencia: Consulta Gs 300-400k, Restauración Gs 350-550k, Second Opinion Gs 400-600k. Querés agendar? |
+| `precios` | Consulta Gs 300-400k, Restauración Gs 400-550k, Segunda opinión Gs 400-600k. Querés agendar? |
 | `agenda` | Para coordinar un turno, escrebí tu nombre y te mando los horarios disponibles. |
 | `horarios` | La atención es con cita previa. Escribime y coordinamos. |
 | `ubicacion` | [DIRECCIÓN — when confirmed]. Por favor avísanos cuando llegues. |
