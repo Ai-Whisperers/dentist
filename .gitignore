@@ -4,6 +4,6 @@
 *.log
 .firecrawl/
 *.bak
-apply-swarm-fix.py
+*.py
 text_*.json
 *_20260601_*.json
