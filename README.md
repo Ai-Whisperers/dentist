@@ -1,106 +1,76 @@
 # Dra. Gabriella González Pane — Strategic Repositioning Project
 
-**Client:** Dra. Gabriella González Pane, Odontología General, Asunción Paraguay  
 **Status:** Research complete — Awaiting validation data  
 **Last updated:** June 2026
 
 ---
 
-## PROJECT SUMMARY
+## Quick Start
+
+1. **START HERE:** Read `start-here.md` (5 min read)
+2. **Meeting prep:** See `meeting/meeting-guide.md`
+3. **Decision framework:** See `meeting/decision-matrix.md`
+
+---
+
+## Project Summary
 
 Reposicionamiento del modelo de práctica dental del modelo volumen (seguros) a un modelo basado en valor y criterio clínico.
 
-**El problema:** El seguro extrae ~85% del valor que ella genera. El seguro le paga Gs 60k por una restauración que vale Gs 400-550k en el mercado.
-
+**El problema:** El seguro extrae ~85% del valor que ella genera.  
 **La oportunidad:** Mercado premium + expats + "Dental CIO" como servicio diferenciador.
 
 ---
 
-## KEY DOCUMENTS
+## Directory Structure
 
-### Strategic Documents (Start Here)
-- **`DECISION-MATRIX.md`** — Framework para navegar todas las decisiones basadas en Roque + validation
-- **`KIKI-MEETING.md`** — Materials para la reunión con Kiki (agenda, problem framing, options)
-- **`KIKI-DATA-COLLECTION-KIT.md`** — Lo que Dra. GP necesita جمع data esta semana
-- **`DOSSIER.md`** — Dossier estratégico original
-- **`strategy/OPTIONS.md`** — 3 opciones evaluadas
-- **`strategy/FINANCIAL-MODEL.md`** — Modelo financiero actualizado (v2.0)
-- **`positioning/POSITIONING.md`** — Brand y posicionamiento premium
-
-### Master Research (712 lines)
-- **`research/DEEP-DENTIST-REVIEW.md`** — Master strategic synthesis, ALL research synthesized
-
-### Research Documents
-| Document | Lines | Content |
-|----------|-------|---------|
-| `research/DEEP-DENTIST-REVIEW.md` | 712 | Master synthesis — START HERE |
-| `research/DENTAL_PRACTICE_STRATEGY_RESEARCH.md` | 925 | Global best practices, scripts, strategies |
-| `research/INTERNATIONAL-DENTAL-PRICING-MATRIX.md` | 593 | Complete pricing matrix, 10 countries |
-| `research/legal-requirements-research.md` | 396 | Full legal framework, Ley 7593/2025 |
-| `research/dental-tourism-research.md` | 247 | Expat/dental tourism deep analysis |
-| `research/dental-equipment-research.md` | 258 | Equipment analysis |
-| `research/dental-market-research.md` | 200 | Market analysis |
-| `research/payment-infrastructure-research.md` | 268 | Payment systems (Pagopar/Bancard) |
-| `research/luque-rental-research.md` | 178 | Luque rental data |
-| `research/MASTER.md` | 488 | Research master |
-| `research/NEEDS.md` | 180 | Research needs status |
-
-### Operational
-- **`TODO.md`** — Sprint plan con checkpoints
-- **`research/SESSION-MAY31-2026.md`** — Session transcript analysis
-
----
-
-## CURRENT STATUS
-
-### ✅ Research Complete
-All strategic research finished. Key findings:
-
-1. **Pricing validated** — Gs 400-550k restorations is fair market, not premium
-2. **Expat market real** — $3M+/year TAM in Asunción, underserved
-3. **Competition gap** — No "ethical + bilingual + planning-first" positioning exists
-4. **Legal framework clear** — E.A.S. recommended, Ley 7593/2025 data protection
-5. **Payment infrastructure exists** — Pagopar + Bancard viable
-6. **"No overtreatment" is differentiator** — In market full of overtreatment, honesty is rare
-
-### ❌ Awaiting Dra. GP Data (This Week)
-
-**Critical:**
-- [ ] Patient database analysis (total + % premium-eligible)
-- [ ] Real financials (revenue/costs last 3 months)
-- [ ] Roque meeting result (Thursday)
-- [ ] 3 rental quotes in Luque
-
-**High Priority:**
-- [ ] Mystery shopping calls (5+ dentists pricing)
-- [ ] Lawyer consult (patient data + E.A.S. process)
-- [ ] Savings/runway confirmation
+```
+dentist/
+├── start-here.md           # 5-min quick start guide
+├── README.md               # This file
+├── todo.md                 # Sprint plan with checkpoints
+├── CHANGELOG.md           # Version history
+│
+├── docs/                   # Strategic documents
+│   ├── dossier.md         # Dossier estratégico
+│   ├── client-analysis.md  # Full client profile
+│   ├── options.md         # 3 opciones evaluadas
+│   ├── financial-model.md # Modelo financiero v2.0
+│   ├── positioning.md     # Brand y posicionamiento
+│   ├── referral-plan.md   # Plan de red de derivación
+│   └── digital-plan.md    # Estrategia digital
+│
+├── meeting/               # Meeting materials
+│   ├── meeting-guide.md   # Agenda para Kiki
+│   ├── decision-matrix.md # Framework de decisión
+│   └── data-collection-kit.md  # Data checklist
+│
+├── research/              # Research (autoritativo)
+│   ├── deep-dentist-review.md  # MASTER — todo research sintetizado
+│   ├── dental-practice-strategy-research.md  # Global best practices
+│   ├── international-dental-pricing-matrix.md  # Pricing 10 países
+│   ├── legal-requirements-research.md  # Marco legal completo
+│   └── ...                   # Otros research docs
+│
+└── sources/
+    └── index.md          # 52+ links organizados
+```
 
 ---
 
-## STRATEGIC OPTIONS
+## Strategic Options
 
-### Option A: Upsell Premium (If Roque Improves Deal)
-- Planning sessions: Gs 400-800k
-- Investment: Gs 0
-- Timeline: 2-4 weeks
-- Risk: Low
+| Option | Description | Risk | Investment |
+|--------|-------------|------|------------|
+| **A: Upsell** | Premium planning sessions within clinic | Low | Gs 0 |
+| **B: Parallel** | Private practice evenings/weekends | Medium | ~Gs 1-2M |
+| **C: Full Exit** | Full-time private practice | High | ~Gs 200-400M |
 
-### Option B: Parallel Private Book (RECOMMENDED ✅)
-- Rent equipped space in Luque (Gs 1-1.5M/mes)
-- Keep day job + private practice evenings/weekends
-- Investment: ~Gs 1-2M initial
-- Break-even: 12-15 private patients/mes
-- Timeline: 3-6 months to launch
-
-### Option C: Full Exit (Only after Option B Validates)
-- Investment: Gs 200-400M
-- Risk: High (only with 6+ months runway + 30+ validated patients)
-- Timeline: 6-18 months
+**Recommendation:** Start with Option B — lowest risk, validates market.
 
 ---
 
-## DECISION TREE
+## Decision Tree
 
 ```
 ROQUE MEETING (Thursday)
@@ -110,52 +80,44 @@ ROQUE MEETING (Thursday)
 MEJORÓ?    NO MEJORÓ
   |           |
 Option A   OPTION B
-+ start B  STARTS NOW
++ B slowly  STARTS NOW
 ```
 
-**If Roque didn't offer real improvement AND space is available at Gs 1.5M/mo or less:**
-→ START OPTION B THIS WEEK. No reason to wait.
+**If Roque didn't improve AND space available at Gs 1.5M/mo → START B TODAY.**
 
 ---
 
-## NEXT STEPS
+## Research Complete
 
-### Immediate (Esta Semana):
+All major research areas covered:
+- ✅ Dental pricing (10 countries)
+- ✅ Expat market analysis
+- ✅ Competition mapping
+- ✅ Legal framework (E.A.S., habilitación, Ley 7593/2025)
+- ✅ Payment infrastructure (Pagopar, Bancard)
+- ✅ Equipment & rental research
+- ✅ Global best practices + scripts
 
-1. **Lunes-Martes:** Extract database + real finances
-2. **Miércoles:** Visit 2-3 rental spaces in Luque
-3. **Jueves:** Réunion avec Roque → bring result
-4. **Viernes:** Mystery shopping calls (5 dentists)
-5. **After Roque:** Meeting with Kiki
-
-### Week 2+ (Based on Roque + Validation):
-
-- **If Option A viable:** Negotiate in writing + start premium planning
-- **If Option B:** Register E.A.S. + find space + setup digital
-- **Setup digital:** Google Business + WhatsApp Business (Day 1)
-- **Website:** Simple pricing page (Week 2)
+**See `research/deep-dentist-review.md`** — master synthesis.
 
 ---
 
-## CONTACT / REFERENCES
+## Next Steps
 
-| Resource | URL |
-|----------|-----|
-| E.A.S. Registration | eas.mic.gov.py |
-| MSPBS Habilitación | mspbs.gov.py |
-| Círculo Odontológico Paraguayo | cop.com.py |
-| RUC Registration | servicios.set.gov.py |
-| Pagopar | pagopar.com.py |
-| Bancard | bancard.com.py |
+### This Week (Data Collection)
+- [ ] Extract patient database (count + % premium-eligible)
+- [ ] Get real financials (revenue/costs)
+- [ ] Meet Roque (Thursday)
+- [ ] Get 3 rental quotes in Luque
+- [ ] Mystery shopping calls (5 dentists)
 
-### Complete Source Index
-- **`SOURCES.md`** — Master list of all 50+ sources, links, and references used in research
+### Week 2+
+- If Option B viable → Register E.A.S. + find space + setup digital
 
 ---
 
-## REPOSITORY STATS
-
-- **Total documents:** 29 markdown files
-- **Total research:** ~25,000+ lines
-- **Last commit:** June 2026 (data collection + meeting prep)
-- **Status:** Clean, synced, ready for execution
+## Repository Stats
+- **Files:** 32 markdown documents
+- **Lines:** ~8,000+ lines documentation
+- **Sources:** 52+ verified links
+- **Status:** Clean, organized, ready for execution
