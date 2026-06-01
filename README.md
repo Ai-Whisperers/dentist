@@ -148,6 +148,9 @@ Option A   OPTION B
 | Pagopar | pagopar.com.py |
 | Bancard | bancard.com.py |
 
+### Complete Source Index
+- **`SOURCES.md`** — Master list of all 50+ sources, links, and references used in research
+
 ---
 
 ## REPOSITORY STATS
