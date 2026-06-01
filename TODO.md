@@ -118,7 +118,7 @@ slowly
 
 | Checkpoint | Criterio | Status | Evidencia Needed |
 |------------|----------|--------|------------------|
-| Pricing viable | Gs 400-550k restauraciones | ✅ Research dice sí | Mystery shopping calls |
+| Pricing viable | Gs 400-550k restauraciones | ✅ CONFIRMADO — 20 clinics research | research/dental-mystery-shop-report.md |
 | Demanda existe | 20-30% pacientes premium | ❓ Pendiente | Su estimation + data base |
 | Space affordable | Gs 1-1.5M/mes disponible | ❓ Pendiente | 3 quotes reales |
 | Legal clear | puede usar base de datos | ❓ Consultar abogado | Lawyer consult |

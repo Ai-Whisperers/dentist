@@ -84,15 +84,16 @@ dentist/
 
 ---
 
-## Research Status: COMPLETE
+## Research Status: COMPLETE + VALIDATED
 
 All strategic research is finished. Key findings validated:
 
-1. **Pricing viable** — Gs 400-550k for restorations is fair market, not premium
+1. **Pricing viable** ✅ — Gs 400-550k is upper market-standard (not premium). Mystery shopped 20 clinics.
 2. **Expat market real** — $3M+/year TAM in Asunción, underserved
 3. **Competition gap** — No "ethical + bilingual + planning-first" competitor
 4. **Legal clear** — E.A.S. structure, Ley 7593/2025 data protection
 5. **"No overtreatment" is differentiator** — In a market of overtreatment, honesty is rare
+6. **Mystery shopping done** — research/dental-mystery-shop-report.md covers 20 clinics, confirms Gs 400-550k positioning
 
 ### Remaining Gaps (Need Dra. GP Action)
 - Patient database extraction (count + % premium-eligible)
