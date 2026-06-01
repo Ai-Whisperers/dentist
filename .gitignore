@@ -2,3 +2,8 @@
 .opencode/
 .DS_Store
 *.log
+.firecrawl/
+*.bak
+apply-swarm-fix.py
+text_*.json
+*_20260601_*.json

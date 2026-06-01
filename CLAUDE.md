@@ -21,6 +21,18 @@ La brecha entre el valor que genera y la remuneración que obtiene dentro del si
 - `positioning/POSITIONING.md` — Propuesta de posicionamiento premium
 - `referral-network/PLAN.md` — Plan de red de derivación
 - `digital-presence/PLAN.md` — Estrategia de presencia digital y portfolio
+- `research/DEEP-DENTIST-REVIEW.md` — Master strategic analysis, ALL research synthesized (712 lines) — START HERE
+- `research/MASTER.md` — Master research document (488 lines)
+- `research/NEEDS.md` — Research needs status and gaps
+- `research/DENTAL_PRACTICE_STRATEGY_RESEARCH.md` — Global best practices, scripts, strategies (925 lines)
+- `research/INTERNATIONAL-DENTAL-PRICING-MATRIX.md` — Complete pricing matrix, 10 countries (593 lines)
+- `research/legal-requirements-research.md` — Full legal framework, Ley 7593/2025 (396 lines)
+- `research/DENTAL_PRACTICE_STRATEGY_RESEARCH.md` — Global best practices, scripts, strategies
+- `research/DENTAL_TOURISM_RESEARCH.md` — Expat/dental tourism deep analysis
+- `research/SEO-DIGITAL-COMPETITIVE-MAP.md` — SEO and digital competitive analysis
+
+## Research Status: COMPLETE
+All major research areas covered. Remaining gaps require Dra. GP action (database extraction, Roque meeting Thursday, rental quotes).
 
 ## Paraguay Context
 - Payment rails: Bancard, Pagopar, Tigo Money, Itaú, Banco Familiar
