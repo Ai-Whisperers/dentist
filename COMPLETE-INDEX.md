@@ -79,7 +79,7 @@ dentist/
 ├── marketing/                  # Marketing execution (1 file)
 │   └── google-business-profile-guide.md  # Full Google setup
 │
-├── research/                   # Market research (10+ files)
+├── research/                   # Market research (17 files)
 │   ├── deep-dentist-review.md  # Master synthesis
 │   ├── dental-market-research.md  # Competition pricing
 │   ├── dental-tourism-research.md  # Expat market
@@ -89,6 +89,13 @@ dentist/
 │   ├── referral-network-research.md  # Specialist contacts
 │   ├── international-dental-pricing-matrix.md  # 10-country benchmark
 │   ├── dental-practice-strategy-research.md  # Global best practices
+│   ├── dental-mystery-shop-report.md  # 20-clinic desk research
+│   ├── phone-mystery-shop-report.md  # Simulated call research (10 clinics)
+│   ├── patient-voc-analysis.md  # Price sensitivity + demand signals
+│   ├── eas-registration-walkthrough.md  # Step-by-step EAS setup
+│   ├── payment-onboarding-guide.md  # Pagopar + Bancard setup
+│   ├── expat-community-deep-dive.md  # Expat channels + referral strategy
+│   ├── habilitacion-requirements.md  # MSPBS requirements for Luque
 │   ├── master-legacy.md         # Updated synthesis
 │   └── sources/                # Source index
 │
