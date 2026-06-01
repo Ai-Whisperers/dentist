@@ -1,8 +1,8 @@
-# CLIENT ANALYSIS
+# CLIENT ANALYSIS — ACTUALIZADO
 ## Dra. Gabriella González Pane
 
-**Ultima actualización**: Junio 2026
-**Status**: Strategic repository initialized
+**Ultima actualización**: Mayo 31, 2026 (post session audio)
+**Status**: Con datos reales del audio
 
 ---
 
@@ -12,230 +12,305 @@
 |---|---|
 | Nombre | Dra. Gabriella González Pane |
 | Profesión | Odontología general, operatoria dental, estética dental, rehabilitación oral |
-| Experiencia | ~20 años (graduada 2005, Universidad Autónoma del Paraguay) |
-| Ubicación actual | Asunción, Paraguay |
+| Trayectoria | ~20 años (graduada 2005, Universidad Autónoma del Paraguay) |
+| Ubicación actual | Trabaja en Asunción, vive en Luque |
 | Workplace actual | Odontología 3 (~13 años) |
 | Volumen pacientes | ~130 pacientes/mes |
+| Restauraciones solo Mayo 2026 | **42** |
+| Pacientes por tarde | **10** (vs. promedio odontólogo = 2/día) |
 | Idiomas | Español (paraguayo), English |
-| Edad estimada | ~42-45 años (graduación 2005 + formación) |
+| Edad | ~45 años (según audio: "tengo cuarenta y cinco") |
 
 ---
 
-## 2. PERSONALITY & WORK STYLE
+## 2. DATOS FINANCIEROS REALES (DEL AUDIO)
 
-### Descrita como:
-- **Extremadamente detallista** — atención al detalle en diagnosis y execution
-- **Humana y empática** — comunicación clara, tiempo dedicado a explicar
-- **Reflexiva** — no actúa hasta entender el caso completamente
-- **Confiable** — reputación construida sobre honesty y transparency
+### Insurance Model — Los números rojos:
 
-### Lo que le apasiona:
-- Casos complejos que requieren integrar múltiples variables
-- Análisis de situaciones complejas, conexión de información, planificación
-- Encontrar la solución correcta, no la más rápida
-- Conservative approaches que preservan estructura dentaria
+| Concepto | Valor | Fuente |
+|---|---|---|
+| Paciente paga al seguro/mes | Gs 500.000 | Audio: "el paciente le paga quinientos mil al seguro" |
+| Seguro le paga a la clínica | ~10-15% | Audio: "nos paga a nosotros el diez, quince por ciento" |
+| Clínica le paga a ella por restauración | **Gs 60.000** | Audio: "nos pagan sesenta mil" |
+| Arancel SOP (precio "correcto") | Gs 1.500.000 | Audio: "el arancel del círculo es un millón y medio" |
+| Precio que debería cobrar private | **Gs 400-550.000** | Audio + contexto |
+| Precio que cobrachains/competitors | Gs 180-450.000 | Audio: "ciento ochenta a trescientos mil guaraníes por caries pequeña" |
 
-### Lo que rechaza:
-- Overtreatment (sobretratamiento)
-- Procedimientos que no aportan valor real al paciente
-- Presión económica sobre decisiones clínicas
-- Ser tratada como "intercambiable"
+**Conclusión: Por cada restauración de Gs 550k, recibe Gs 60k = 11% del valor real.**
 
----
+### Estructura de Revenue Actual (Estimado):
 
-## 3. FILOSOFÍA CLÍNICA
+| Procedimiento | Volume/mes | Pago clínica | Valor real | Gap |
+|---|---|---|---|---|
+| Restauraciones | ~40-42 | Gs 60k | Gs 550k | -490k |
+| Profilaxis | ~12 | Gs 50k? | Gs 200k? | -150k |
+| Perno | ~2 | ? | Gs 800k? | ? |
+| Incrustaciones | ~3 | ? | Gs 1.200k? | ? |
+| Coronas/puentes | ~2+ | ? | Gs 2.000k? | ? |
 
-> "El tratamiento indicado debe responder a la necesidad real del paciente y no a incentivos económicos."
+### Costos que soporta:
 
-### Principios:
-1. **Criterio clínico primero** — decisión terapéutica basada en diagnóstico, no en cobertura de seguro
-2. **Conservación** — cada estructura dentaria conservada es preferible a cada estructura perdida
-3. **No overtreatment** — rechazar tratamientos innecesarios aunque generen revenue
-4. **Planning tiene valor** — el tiempo de análisis y planificación debe capturarse como fee
-5. **Derivación adecuada** — "no existe un todólogo"; cuando el caso requiere otra especialidad, se deriva
-
-### Lema: "No existe un todólogo"
-— Derivación como señal de profesionalismo, no de limitación
+| Costo | Valor | Note |
+|---|---|---|
+| Materiales premium | Gs 500k/tubo resina alemán | Audio: "compraba los materiales más lindos" |
+| Combustible Luque→Asunción | Gs 60k/día | Audio: "me gasto una fortuna en combustible" |
+| Tiempo no cobrado | Alto | Casos complejos no pagan más |
 
 ---
 
-## 4. SITUACIÓN FINANCIERA ACTUAL
+## 3. FILOSOFÍA CLÍNICA (DEfirst HAND)
 
-### Estado actual (estimado):
+> Audio: "Para mí es muy sencillo agarrar y meter un poco de turbina y se va a conducto eso. Yo voy a cobrar mucho más, pero yo no voy a hacer eso porque mi ética profesional no me lo permite."
 
-| Métrica | Valor |
-|---|---|
-| Pacientes/mes | ~130 |
-| Modelo actual | 100% insurance |
-| Revenue estimado/mes | Gs 80-120M |
-| Margin operacional | ~30-40% |
-| Net efectivo | Gs 24-48M/mes |
+### Principios affirmed:
 
-### Problema identificado:
-El modelo insurance suprime el valor del criterio clínico. Casos complejos (más tiempo de análisis y planning) generan menos margen que casos simples bajo el modelo fee-for-service por procedimiento.
+1. **No overtreatment** — Rechaza tratar un diente cuando se puede salvar
+2. **Criterio sobre velocidad** — "Aumentá tu productividad" del dueño = lo opuesto a su价值观
+3. **Materiales de calidad** — Compra resina alemana aunque cueste más
+4. **Derivación adecuada** — "No existe un todólogo" (del DOSSIER, confirmado en práctica)
+5. **El paciente primero** — Se toma tiempo, aunque haya 3.000 personas esperando
 
-### Activos financieros:
-- Cash flow estable mensual (130 pacientes)
-- Sin deuda conocida
-- Experiencia de 20 años (equity intangible)
+### Lo que dice sobre su trabajo:
+
+> Audio: "Me colgó mucho así con estos casos... Mientras más desastres sean para mí mejor. ¿Por qué? Porque es más desafiante."
 
 ---
 
-## 5. MERCADO Y CONTEXTO
+## 4. SITUACIÓN LABORAL ACTUAL
 
-### Mercado dental Asunción:
-- Chains: Mastología y similares (volume-focused)
-- Franchises dentales
-- Consultorios privados independientes
-- practice volume-based (insurance) vs. premium private
+### El problema con el dueño (Roque):
 
-### Infraestructura de pagos (Paraguay):
-- **Bancard** — principal card network local
-- **Pagopar** — payment plans, cash at agency (3k+ puntos)
-- **Tigo Money** — mobile wallet
-- **Itaú / Banco Familiar** — bank transfers para B2B
-- Financing disponible para casos >Gs 5M pero subutilizado
+1. **Ella pidió negociar** mejores honorarios
+2. **El dueño dijo**: "En vez de preocuparte por aumentar tu porcentaje, preocupate por aumentar tu **productividad**"
+3. **Implicación**: Le exige más velocidad, no más pago
+4. **Cultura**: La clínica paga por volumen, no por calidad
 
-### Marco legal/tributario:
-- RUC (tax ID) — requerido para facturación
-- Timbrado — authorization de series de facturación
-- IVA 10%
-- IRE/IRP — income tax
+### Su frustración:
 
----
+> Audio: "Y después viene el dueño y me dice 'aumentá tu productividad'. Y yo le quiero decir: '¿Mi productividad es pensa de qué?'"
 
-## 6. FORTALEZAS IDENTIFICADAS
-
-| Fortaleza | Impacto estratégico |
-|---|---|
-| 20 años de experiencia real | Credibilidad inmediata |
-| Capacidad de resolver casos complejos | Diferenciación natural |
-| Filosofía clínica sólida | Alignment con segmento premium |
-| Reputación de confianza | Pacientes existentes son ambassadors |
-| Archivo fotográfico clínico | Portfolio listo para usar |
-| English proficiency | Acceso a mercado expat/medical tourism |
-| Network de Odontología 3 | Base profesional existente |
+### Su posición actual:
+- Empleada en Odontología 3 hace 13 años
+- No es socia, es empleada
+- No tiene equity en la clínica
+- No maneja su propia agenda (la clínica la carga)
+- Debe seguir las reglas de la clínica
 
 ---
 
-## 7. DEBILIDADES IDENTIFICADAS
+## 5. SU ETICA Y VALORES
 
-| Debilidad | Impacto estratégico |
-|---|---|
-| Modelo de negocio atado a insurance | Valor subcapturado sistemáticamente |
-| Sin estructura premium establecida | Mercado no la percibe como premium |
-| Sin vehículo de monetización del planning | El criterio clínico es gratis hoy |
-| Red de derivación no sistematizada | Casos complejos se pierden o no se capturan |
-| Sin presencia digital estructurada | Depende de Boca a boca únicamente |
+### "No paraguayizar" — Tema Central del Audio:
 
----
+**Contexto**: En Paraguay, muchos odontólogos:
+- Llevan pacientes de la clínica donde trabajan a su consultorio privado
+- Cobran privado sin decirle a la clínica
+- Dicen "el seguro no te cubre, te hago descuento"
 
-## 8. OPORTUNIDADES DE MERCADO
+**Postura de la dra.**:
+> Audio: "Yo nunca hice eso... no me quiero paraguayizar."
 
-| Oportunidad | Evidencia |
-|---|---|
-| Asunción upper-middle class crescente | PY GDP per cápita subiendo, NSE B+ en expansión |
-| Demanda de estética y rehabilitación | Mercado de odontología estética en PY growing |
-| Vacuum de "Dental CIO" en PY | Nadie ofrece planning como servicio diferenciado |
-| Medical tourism incipiente | Paraguay como destino dental para Bolivia/Argentina |
-| Financing disponible pero subutilizado | Pagopar/Bancard permiten payment plans no usados |
+**Por qué no lo hace**:
+- Lo ve como "robar" a la clínica
+- Tiene valores éticos fuertes
+- Prefiere construir legitimately
 
----
+**El dilema**:
+- El sistema le roba a ella (60k vs. 550k)
+- Pero ella no quiere robar a la clínica
+- Irónico: los deshonestos tienen razón dentro del sistema perverso
 
-## 9. AMENAZAS
-
-| Amenaza | Mitigación |
-|---|---|
-| Chains (Mastología) con marketing fuerte | Diferenciarse por criterio y conservation |
-| Presión de insurers sobre fees | Construir mix private progresivamente |
-| Commoditization de servicios dentales | Positioning como "la que piensa, no la que ejecuta" |
-| Pacientes educándose online | Education como valor agregado (explicar más) |
+**Implicación estratégica**:
+- Necesita construir su propia base, NO depender de带到 pacientes de la clínica
+- Puede usar la base de datos LEGÍTIMAMENTE si lo hace bien (ver dilema legal)
 
 ---
 
-## 10. INSIGHT ESTRATÉGICO CENTRAL
+## 6. ASSETS Y RECURSOS
 
-### El problema no es competencia. Es modelo.
+### Lo que tiene:
 
-La Dra. GP genera valor que el sistema actual no captura:
+| Asset | Description | Valor estratégico |
+|---|---|---|
+| **Base de datos pacientes** | Miles de pacientes en el sistema de Odontología 3 | ALTO — necesita extraer antes de salir |
+| **Archivo fotográfico clínico** | Casos documentados (mostró imágenes en sesión) | ALTO — para portfolio y marketing |
+| **Experiencia de 20 años** | Capacidad real de resolver casos complejos | MUY ALTO |
+| **Reputación de confianza** | Ética, detallada, no overtreatment | ALTO |
+| **Network profesional** | Colegas que derivan, especialistas contacts | MEDIO |
+| **English proficiency** | Atiende extranjeros con éxito | MEDIO — acceso a expats |
+| **Sistema de trabajo con IA** | Usa Laia/GPT para análisis y balance | MEDIO — productividad |
 
-```
-Insurance model → Paga por procedimiento → Penaliza complejidad
-                               ↓
-Criterio clínico → Requiere tiempo → Menor margen en insurance
-                               ↓
-Resultado → Valor generado pero no capturado
-```
+### Lo que necesita:
 
-### El fix no es "ser más cara". Es estructurar una oferta donde el valor del criterio clínico se capture como fee separado.
+| Recurso | Status | Action needed |
+|---|---|---|
+| Estructura legal | No tiene | Abogado/contador |
+| Habilitación propia | No tiene | Ministerio de Salud |
+| Espacio físico | No tiene | Evaluar alquileres |
+| Sistema de agenda | Comparte el de la clínica | Investigar options |
+| Payment infrastructure | No tiene | Implementar Pagopar/Bancard |
 
 ---
 
-## 11. VISIÓN EXPRESADA
+## 7. PLANES INMEDIATOS
 
-> "Construir una práctica más rentable, sostenible y alineada con el valor que aporta."
+### Reunión con Roque (Jueves):
+- Ver si ofrece moverse a Luque (Odontología 3 nueva sede)
+- Si ofrece "La Merced" → no hay pacientes, no conviene
+- Necesita respuesta concreta sobre mejorar su situación
 
-### Qué NO quiere:
-- Crecimiento por volumen indiscriminado
-- Ser otra cadena o franchise
+### Extraer base de datos:
+- Tiene acceso al sistema de Odontología 3
+- Miles de pacientes con nombres, teléfonos, historial
+- Dilema ético pero también oportunidad legítima
+- Necesita advise legal antes de usar
+
+### Encontrarse con Kiki:
+- Estructurar plan de negocio formal
+- Análisis de mercado
+- Página web + branding personal
+- Primeros pasos antes de officially abrir
+
+### Evaluar alquileres en Luque:
+- **COP Clínica Odontología** — zona Traumato Center
+- **Frente a UNA** — Mariscal López
+- Consultorio equipado desde Gs 500k/día (no sirve) → busca mensual Gs 1-1.5M
+
+---
+
+## 8. LO QUE EL GRUPO LE RECOMENDÓ
+
+Del audio, el equipo le dijo:
+
+1. **"Vos podrías ser la primera dentista en Paraguay que tipo tiene los precios bien públicos"**
+2. **"Es la primera que se anima a hacer eso"**
+3. **"Tenés que tener muchos seguidores, hacerte visible"**
+4. **"Crear tu página web ahora, no pongas todavía full abierto"**
+5. **"Tenés loyalty program: me traés un paciente, te ganás limpieza"**
+6. **"Cada paciente que viene, tric, ya le pasás tu link"**
+
+---
+
+## 9. SU VISIÓN EXPRESADA
+
+> Audio: "Para lo que yo quiero hacer, para lo que es el deseo que tengo, no me sirve lo que necesito ahora. (...) Me encantaría hacer mucho de esas cosas que quiero hacer, pero como trabajo ahora no me va a dejar hacer nada."
+
+### Qué quiere:
+- Hacer odontología de calidad sin presión de productividad
+- Atender extranjeros que valoren su trabajo
+- Eventualmente tener su propio espacio
+- No depender de un sistema que la explota
+
+### Qué no quiere:
+- Crecer por volumen indiscriminado
 - Overtreatment por revenue
-
-### Qué SÍ quiere:
-- Qualidade sobre quantidade
-- Criterio y diferenciación
-- Estructura propia o clínica pequeña con profesionales de alto valor humano y técnico
-
-### Horizonte:
-- Short-term: validar pricing premium con planning sessions
-- Mid-term: segmentar hacia mix private
-- Long-term: clínica propia con especialistas (si validación confirma)
+- Seguir siendo "empleada" por 13+ años
+- "Paraguayizar" (robar pacientes de la clínica)
 
 ---
 
-## 12. DOCUMENTACIÓN DISPONIBLE
+## 10. SU ESTADO EMOCIONAL
 
-| Documento | Contenido |
-|---|---|
-| `DOSSIER.md` | Dossier estratégico completo |
-| `strategy/OPTIONS.md` | 3 opciones evaluadas (upsell/parallel/clinic) |
-| `strategy/FINANCIAL-MODEL.md` | Proyecciones financieras por escenario |
-| `positioning/POSITIONING.md` | Brand strategy y tagline |
-| `referral-network/PLAN.md` | Plan de red de derivación |
-| `digital-presence/PLAN.md` | Estrategia de presencia digital |
+> Audio: "Yo tengo un mundo de cosas en mi cabeza. Ayer estuve horas con IA haciendo todos mis análisis y me quedé así, en depresión por ahí. Me quedé y dije: 'Dios mío, porque en serio es así.' Tantos años estudié."
 
----
-
-## 13. PRÓXIMOS PASOS IDENTIFICADOS
-
-### Fase 1 — Validación (0-3 meses)
-- Definir productos y pricing de planning sessions
-- Implementar tracking de conversión
-- Validar demanda antes de inversión
-
-### Fase 2 — Escalamiento (3-6 meses)
-- Si Fase 1 positiva: segmentar book hacia private
-- Construir comunicación de diferenciación
-- Empezar red de derivación activa
-
-### Fase 3 — Inversión (6-18 meses)
-- Solo con evidencia de mercado: evaluar clínica propia
-- Inversión estructurada, no especulativa
+### Señales de burnout:
+- Estrés acumulado de 13 años
+- Physical symptoms (ampollas en manos y pies durante doctorado)
+- Primeiro balance financiero a los 20 años de carrera
+- Momento de claridad: "Hice el clic"
+- Necesidad de cambio urgente
 
 ---
 
-## 14. GAPS DE INFORMACIÓN
+## 11. COMPETIDORES MENCIONADOS EN EL AUDIO
 
-Items que se beneficiarían de más input de la Dra.:
-
-| Pregunta | Por qué importa |
-|---|---|
-| ¿Cuántos pacientes actual son "premium-eligible"? | Para proyectar demanda de planning sessions |
-| ¿Hay especialistas de confianza ya identificados? | Para acelerar red de derivación |
-| ¿Cuál es la motivación #1 de pacientes que se van a chains? | Para comunicar diferenciación |
-| ¿Hay fotos de casos complejos que quiera mostrar? | Para portfolio inmediato |
-| ¿Cuál es el revenue exacto actual? | Para calibrar modelo financiero |
-| ¿Hay alguna razón para no mudarse a estructura propia? | Para evaluar Option C |
+| Competidor | Tipo | Notes |
+|---|---|---|
+| Mastología | Chain | Volume-focused |
+| Víctor (dentista de Iván) | Private | Atiende empleados de Iván, 50% discount |
+| SOCIEDAD PARAGUAYA DE ODONTOPEDIATRÍA | Sociedad profesional | Tiene lista de precios pública |
+| Círculo Odontológico Paraguayo (COP) | Sociedad profesional | Arancel de referencia |
+| Otros dentistas privados | Multi | Pricing Gs 180-550k por caries |
 
 ---
 
-**Nota**: Este documento es un living document. Actualizar conforme se obtiene más información de la clienta.
+## 12. DATOS FALTANTES (PARA VALIDAR)
+
+| Dato | Por qué importa | Cómo obtener |
+|---|---|---|
+| Revenue mensual exacto | Calibrar modelo financiero | Balance real de la dra. |
+| Costos mensuales (materiales, travel) | Calcular margen real | Historial + cálculo |
+| Contrato con Odontología 3 | Entender obligaciones | Pedir copia |
+| Base de datos (cuántos pacientes) | Marketing asset | Extraer del sistema |
+| Pricing de alquileres reales | Evaluar viabilidad | Cotizaciones |
+| Opinión de pacientes actuales | Validar posicionamiento | Entrevistas |
+
+---
+
+## 13. UPDATED SWOT
+
+### Fortalezas:
+- 20 años de experiencia comprobada
+- Reputación de ética y calidad
+- Capacidad para casos complejos (le encantan los "desastres")
+- Archivo fotográfico clínico disponible
+- English proficiency
+- Acceso a miles de pacientes en la base
+- Sin deuda conocida
+
+### Debilidades:
+- 13 años sin cuestionar el modelo
+- Nunca hizo balance financiero hasta ayer
+- Dependiente de la clínica para todo
+- Sin estructura legal propia
+- Sin presencia digital
+- Sin payment infrastructure
+- Dilemas éticos sobre uso de base de datos
+
+### Oportunidades:
+- Vacío en el mercado: nadie hace "Dental CIO" en PY
+- Pricing premium para expats
+- Primera en publicar precios públicos
+- Alquiler en Luque (cerca de casa, menos commute)
+- Payment plans via Pagopar para casos grandes
+- Loyalty program para retención
+
+### Amenazas:
+- Roque puede reaccionar si detecta que deriva pacientes
+- Sistemas de seguro aumentando presión
+- Chains expandiendo en Asunción
+- Competencia de dentistas que sí "paraguayizan"
+- Contexto económico PY (inflación, etc.)
+- Regulatory risk si hace algo incorrecto con base de datos
+
+---
+
+## 14. PROXIMOS PASOS IDENTIFICADOS
+
+### Fase 0: Baseline (Esta semana)
+- [ ] Extraer base de datos (con advise legal)
+- [ ] Reunión con Roque (jueves)
+- [ ] Cotizar alquileres en Luque
+- [ ] Balance financiero real (no estimate)
+
+### Fase 1: Validación (2-4 semanas)
+- [ ] Validar pricing con mystery shopping
+- [ ] Hablar con Pagopar sobre implementación
+- [ ] Consultar abogado sobre estructura legal
+- [ ] Evaluación de equipos necesarios
+
+### Fase 2: Estrategia (1-2 meses)
+- [ ] Sessão con Kiki para plan completo
+- [ ] Branding y página web
+- [ ] Diseñar oferta de servicios
+- [ ] Implementar Google Business optimizado
+
+### Fase 3: Launch (3-6 meses)
+- [ ] Opción A: Planning sessions como upsell (si se queda)
+- [ ] Opción B: Parallel book si encuentra espacio
+- [ ] Opción C: Full exit solo con evidencia
+
+---
+
+**Document status**: ACTUALIZADO con data real del audio de Mayo 31, 2026
+**Next update**: Después de Sprint 1 (reunión Roque, base de datos, cotizaciones)
