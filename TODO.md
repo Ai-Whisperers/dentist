@@ -118,7 +118,7 @@ slowly
 
 | Checkpoint | Criterio | Status | Evidencia Needed |
 |------------|----------|--------|------------------|
-| Pricing viable | Gs 400-550k restauraciones | ✅ CONFIRMADO — 20 clinics research | research/dental-mystery-shop-report.md |
+| Pricing viable | Gs 400-550k restauraciones | ✅ CONFIRMADO — 20 clinics research | 02_RESEARCH/dental-mystery-shop-report.md |
 | Demanda existe | 20-30% pacientes premium | ❓ Pendiente | Su estimation + data base |
 | Space affordable | Gs 1-1.5M/mes disponible | ❓ Pendiente | 3 quotes reales |
 | Legal clear | puede usar base de datos | ❓ Consultar abogado | Lawyer consult |
@@ -201,9 +201,9 @@ slowly
 |-----------|--------|----------|
 | `KIKI-DATA-COLLECTION-KIT.md` | Checklist de data para traer | Lo que necesitas收集 esta semana |
 | `KIKI-MEETING.md` | Materials para la reunión | Agenda, problem framing, options |
-| `research/DEEP-DENTIST-REVIEW.md` | Master synthesis (712 líneas) | START HERE — todo research sintetizado |
-| `strategy/FINANCIAL-MODEL.md` | Modelo financiero actualizado | Proyecciones con datos reales cuando tengas |
-| `research/INTERNATIONAL-DENTAL-PRICING-MATRIX.md` | Pricing 10 países | Benchmarking para pricing |
+| `02_RESEARCH/deep-dentist-review.md` | Master synthesis (712 líneas) | START HERE — todo research sintetizado |
+| `00_PROJECT/financial-model.md` | Modelo financiero actualizado | Proyecciones con datos reales cuando tengas |
+| `02_RESEARCH/international-dental-pricing-matrix.md` | Pricing 10 países | Benchmarking para pricing |
 
 ---
 
