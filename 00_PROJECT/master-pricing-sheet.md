@@ -1,5 +1,5 @@
 # MASTER PRICING SHEET — AUTHORITATIVE
-## Dra. Gabriella González Pane
+## Dra. Gabriella Gonzalez Pane
 **Version:** 2.0 — June 2026
 **Status:** MASTER — All prices derived from this document
 **Supersedes:** Any price in any other document. Conflicts = this file wins.
@@ -12,13 +12,13 @@
 
 | Service | Price (Gs) | USD Equiv. | Notes |
 |---------|-----------|------------|-------|
-| Standard consultation | 300,000 | ~$38 | 30 min |
-| Extended consultation | 400,000 | ~$51 | 45-60 min, complex case |
-| Second opinion | 450,000 | ~$58 | Written documentation included |
-| Second opinion + treatment plan | 600,000 | ~$77 | Full plan, multiple options |
-| Complex planning session | 800,000 | ~$103 | 60-90 min, full mouth/interdisciplinary |
+| Standard consultation | 300,000 | ~38 | 30 min |
+| Extended consultation | 400,000 | ~51 | 45-60 min, complex case |
+| Second opinion | 450,000 | ~58 | Written documentation included |
+| Second opinion + treatment plan | 600,000 | ~77 | Full plan, multiple options |
+| Complex planning session | 800,000 | ~103 | 60-90 min, full mouth/interdisciplinary |
 
-**Note:** Second opinion is a STANDALONE premium service (not included in any other consultation). Planning session is a separate premium product. Neither is included in corporate tiers.
+**Note:** Second opinion is a STANDALONE premium service. Planning session is a separate premium product. Neither is included in corporate tiers.
 
 ### Preventive Care
 
@@ -56,7 +56,7 @@
 | Wisdom tooth (surgical) | 600,000 | |
 | Root remnant | 250,000 | |
 
-### Prosthodontics — Crowns
+### Prosthodontics
 
 | Service | Price (Gs) | Notes |
 |---------|-----------|-------|
@@ -64,11 +64,6 @@
 | E-max crown | 4,500,000 | Lab fee included |
 | Metal-ceramic | 2,800,000 | |
 | Provisional | 400,000 | |
-
-### Prosthodontics — Other
-
-| Service | Price (Gs) | Notes |
-|---------|-----------|-------|
 | Complete denture (arch) | 2,500,000 | |
 | Partial denture (flexible) | 1,800,000 | |
 | Pontic | 1,200,000 | Per unit |
@@ -156,7 +151,7 @@
 | Service | Price | Notes |
 |---------|-------|-------|
 | Screening (on-site) | Gs 50,000/student | Minimum 30 students |
-| Preventive workshop (≤40 students) | Gs 300,000 flat | 30-min oral hygiene session |
+| Preventive workshop (<=40 students) | Gs 300,000 flat | 30-min oral hygiene session |
 | Treatment referral discount | 20% off individual prices | For referred students |
 | Health certificate | Gs 80,000 | 48-hour turnaround |
 
@@ -184,10 +179,10 @@
 
 ## PRICING PRINCIPLES
 
-1. All prices in Guaraníes (Gs). USD approx at ~7,800 Gs/USD (June 2026)
-2. This sheet is the authoritative reference — any other doc that conflicts must be updated to match
-3. Second opinion and Planning session are standalone premium products — NOT included in corporate tiers
-4. Never discount publicly — offer payment plans instead
+1. All prices in Guaranies (Gs). USD approx at ~7,800 Gs/USD (June 2026)
+2. This sheet is the authoritative reference -- any other doc that conflicts must be updated to match
+3. Second opinion and Planning session are standalone premium products -- NOT included in corporate tiers
+4. Never discount publicly -- offer payment plans instead
 5. Financing available for cases >Gs 1M via Pagopar/Bancard
 
 ---
