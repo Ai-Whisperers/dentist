@@ -20,7 +20,7 @@ All execution plans — the how.
 | master-launch-roadmap.md | 90-DAY INTEGRATED PLAN |
 | all-plans-index.md | Index of all plans |
 | website-spec.md | Website requirements |
-| website-content/ | Phase 1 pages ready (Spanish copy) |
+| website-additions/ | Additional website pages (expat landing, corporate, payment, specialist, etc.) |
 | whatsapp-business-plan.md | WhatsApp Business plan |
 | whatsapp-ab-variants.md | A/B test message variants (NEW) |
 | patient-intake-flow.md | Digital intake via Google Form (NEW) |
