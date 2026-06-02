@@ -291,12 +291,12 @@ NEED: Only 15-20 shift to private = 12-15% conversion
 
 | Document | Lines | Content |
 |----------|-------|---------|
-| `research/DEEP-DENTIST-REVIEW.md` | 712 | Master synthesis — START HERE |
-| `research/DENTAL_PRACTICE_STRATEGY_RESEARCH.md` | 925 | Global best practices, scripts |
-| `research/INTERNATIONAL-DENTAL-PRICING-MATRIX.md` | 593 | 10-country pricing matrix |
-| `research/legal-requirements-research.md` | 396 | Full legal framework, Ley 7593/2025 |
-| `strategy/FINANCIAL-MODEL.md` | 174 | Financial projections by scenario |
-| `positioning/POSITIONING.md` | 174 | Brand and positioning |
+| `01_RESEARCH/market/master-synthesis-market-analysis.md` | 712 | Master synthesis — START HERE |
+| `01_RESEARCH/market/global-best-practices-dental-strategy.md` | 925 | Global best practices, scripts |
+| `01_RESEARCH/pricing/international-dental-pricing-matrix.md` | 593 | 10-country pricing matrix |
+| `01_RESEARCH/legal-compliance/regulatory/legal-framework-full-research.md` | 396 | Full legal framework, Ley 7593/2025 |
+| `00_STRATEGIC/financial-pricing/financial-model-projections-v2.md` | 174 | Financial projections by scenario |
+| `00_STRATEGIC/financial-pricing/brand-positioning-premium.md` | 174 | Brand and positioning |
 
 ---
 

@@ -90,7 +90,7 @@ Continuar en Odontología 3 + práctica privada en espacio alquilado, evenings/w
 
 | Item | Costo Mensual | Notas |
 |------|---------------|-------|
-| Alquiler equipado | Gs 1.5-2.0M (target range — confirmed by Luque market research, see 02_RESEARCH/luque-rental-research-FRESH.md) | COP Clínica u otro |
+| Alquiler equipado | Gs 1.5-2.0M (target range — confirmed by Luque market research, see `01_RESEARCH/locations/luque-rental-market-verified.md`) | COP Clínica u otro |
 | Página web + domínio | Gs 50-100k | Mantenimiento |
 | Bancard POS (rental) | Gs 50-100k | Si aplica |
 | Marketing básico | Gs 100-200k | Descuentos por referidos |

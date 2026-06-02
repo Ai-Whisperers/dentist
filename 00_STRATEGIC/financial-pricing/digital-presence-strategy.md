@@ -139,4 +139,4 @@ Si se llega a Opción C (clínica propia), aí sí tiene sentido una web con:
 
 ---
 
-**Ver también**: `positioning/POSITIONING.md` para mensajes clave
+**Ver también**: `00_STRATEGIC/financial-pricing/brand-positioning-premium.md` para mensajes clave

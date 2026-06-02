@@ -1,6 +1,6 @@
 # COMPLETE PROJECT INDEX
 ## Dra. Gabriella González Pane — Dental Practice Setup
-**Version:** 3.0 — June 2026
+**Version:** 4.0 — June 2026 (reorganized)
 
 ---
 
@@ -12,20 +12,21 @@ All strategic documents, execution plans, research, legal templates, and sales m
 
 ---
 
-## FILE COUNTS
+## DIRECTORY STRUCTURE
 
 | Folder | Content | Files |
 |--------|---------|-------|
-| 00_PROJECT/ | Strategic documents | 8 |
-| 01_LAUNCH/ | Execution plans | 22 |
-| 02_RESEARCH/ | Research reports | 19 |
-| 04_MEETINGS/ | Meeting materials (kiki + client) | 10 |
-| 05_OPERATIONS/ | Operations + legal | 24 |
-| 06_MARKETING/ | Google Business guide | 2 |
-| 07_DESIGN/ | Visual identity specs + website content | 19 |
-| 08_WHATSAPP/ | WhatsApp Business system | 5 |
-| 09_TEMPLATES/ | Document templates | 6 |
-| **TOTAL** | | **148 files** |
+| 00_STRATEGIC/ | Strategic decisions, financials, positioning | 8 |
+| 01_RESEARCH/ | Market research, legal, payments, locations | 19 |
+| 02_MEETINGS/ | Kiki sessions, client prep, Roque results | 10 |
+| 03_LAUNCH/ | Roadmap, sales playbooks, website content | 22 |
+| 04_SALES/ | Corporate service agreements | 2 |
+| 05_OPERATIONS/ | Clinical routines, patient comms, legal docs | 17 |
+| 06_MARKETING/ | Google Business, website spec | 2 |
+| 07_DESIGN/ | Brand assets, website pages | 14 |
+| 08_WHATSAPP/ | Automation, message templates | 6 |
+| 09_TEMPLATES/ | Appointment, recall, referral cards | 4 |
+| **TOTAL** | | **~135 files** |
 
 ---
 
@@ -39,7 +40,7 @@ All strategic documents, execution plans, research, legal templates, and sales m
 
 ---
 
-## PRICING (Authoritative — 00_PROJECT/master-pricing-sheet.md)
+## PRICING (Authoritative — `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`)
 
 | Service | Price (Gs) |
 |---------|-----------|
@@ -57,6 +58,6 @@ All strategic documents, execution plans, research, legal templates, and sales m
 All documents complete and internally consistent. Execution materials ready.
 Awaiting: Dra. GP validation data (patient count, financials, Roque result).
 
-Canonical pricing: 00_PROJECT/master-pricing-sheet.md
+Canonical pricing: `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
 Last updated: June 2, 2026
-Total files: 148
+Total files: ~135

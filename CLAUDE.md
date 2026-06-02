@@ -123,7 +123,7 @@ If Roque didn't offer real improvement AND space available at Gs 1.5M/mo:
 
 ## Digital Systems Note
 
-**Patient portal:** Not ruled out — under evaluation. Dra. GP currently uses SAM (DOS-era practice management, Windows internal website, patient data exists digitally). A digital-systems audit is pending (see 04_MEETINGS/client/digital-systems-audit.md) to determine whether a patient portal should be built in Phase 2 or 3. SAM export capabilities will determine the migration path. Website spec updated to reflect this is under evaluation, not explicitly rejected.
+**Patient portal:** Not ruled out — under evaluation. Dra. GP currently uses SAM (DOS-era practice management, Windows internal website, patient data exists digitally). A digital-systems audit is pending (see `02_MEETINGS/client-prep/digital-systems/digital-systems-audit.md`) to determine whether a patient portal should be built in Phase 2 or 3. SAM export capabilities will determine the migration path. Website spec updated to reflect this is under evaluation, not explicitly rejected.
 
 ## Paraguay Context
 - **Payment rails**: Bancard, Pagopar, Tigo Money, Itaú, Banco Familiar

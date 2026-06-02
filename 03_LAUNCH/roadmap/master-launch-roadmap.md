@@ -289,7 +289,7 @@ These must be answered by Dra. GP before Week 1:
 After validating individual patient model, begin B2B corporate sales:
 
 ### Corporate Channel Launch (Month 3-4)
-- [ ] Read corporate-sales-playbook.md (in 01_LAUNCH/)
+- [ ] Read corporate-sales-playbook.md (in `03_LAUNCH/corporate-sales/`)
 - [ ] Identify 20 target companies from list in corporate-dental-benefits-program.md
 - [ ] Research each company on LinkedIn — find HR manager or benefits coordinator
 - [ ] Send first outreach to 10 companies (warm intro preferred)

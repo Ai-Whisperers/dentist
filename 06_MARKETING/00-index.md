@@ -1,3 +1,8 @@
-# 06_MARKETING — Marketing
+# 06_MARKETING — Digital Presence
 
-- google-business-profile-guide.md — GBP setup instructions
+## Files (2)
+
+| File | What It Is |
+|------|------------|
+| `google-business-profile-setup-guide.md` | Google Business Profile setup instructions |
+| `website-full-specification.md` | Complete website requirements and content spec |

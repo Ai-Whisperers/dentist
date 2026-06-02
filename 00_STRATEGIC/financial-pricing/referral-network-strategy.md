@@ -133,4 +133,4 @@ El valor de la red no es solo derivación — es:
 
 ---
 
-**Ver también**: `positioning/POSITIONING.md` para cómo comunicar la red
+**Ver también**: `00_STRATEGIC/financial-pricing/brand-positioning-premium.md` para cómo comunicar la red

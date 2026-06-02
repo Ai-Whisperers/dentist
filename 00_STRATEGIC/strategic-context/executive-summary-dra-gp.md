@@ -107,11 +107,11 @@ La Dra. González Pane genera valor en un sistema que no lo captura. El modelo d
 
 | Documento | Descripción |
 |---|---|
-| `strategy/OPTIONS.md` | 3 opciones estratégicas evaluadas |
-| `strategy/FINANCIAL-MODEL.md` | Proyecciones financieras por escenario |
-| `positioning/POSITIONING.md` | Propuesta de posicionamiento premium |
-| `referral-network/PLAN.md` | Plan de red de derivación |
-| `digital-presence/PLAN.md` | Estrategia de presencia digital |
+| `strategic-context/three-strategic-options-analysis.md` | 3 opciones estratégicas evaluadas |
+| `financial-pricing/financial-model-projections-v2.md` | Proyecciones financieras por escenario |
+| `financial-pricing/brand-positioning-premium.md` | Propuesta de posicionamiento premium |
+| `financial-pricing/referral-network-strategy.md` | Plan de red de derivación |
+| `financial-pricing/digital-presence-strategy.md` | Estrategia de presencia digital |
 
 ---
 

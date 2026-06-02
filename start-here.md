@@ -42,14 +42,14 @@ The market supports Gs 400-550k for restorations. She's currently charging Gs 60
 ## WHAT'S IN THIS PROJECT
 
 ```
-docs/           → Strategy, options, financial model, positioning
-research/        → 17 research docs on market, pricing, legal, competition
-legal/          → 9 ready-to-execute legal documents
-whatsapp/       → WhatsApp Business system (automation + scripts)
-operations/      → Launch sequence, daily ops, scripts, tracker
-design/         → Business cards, signage, stationery specs
-plans/          → Website, CRM, referral, content specs
-meeting/        → Kiki meeting materials, patient survey
+00_STRATEGIC/      → Strategy, options, financial model, positioning
+01_RESEARCH/       → Market, pricing, legal, competition research
+05_OPERATIONS/     → Launch sequence, daily ops, scripts, legal
+08_WHATSAPP/       → WhatsApp automation + scripts
+03_LAUNCH/         → Roadmap, sales playbooks, website content
+07_DESIGN/         → Business cards, signage, website pages
+02_MEETINGS/       → Kiki meeting materials, patient survey
+09_TEMPLATES/      → Patient templates
 ```
 
 ---
@@ -121,20 +121,20 @@ Nobody in Asunción owns this. In a market of chains and overtreatment, honesty 
 
 | Document | What It Does |
 |----------|--------------|
-| `docs/options.md` | The 3 options, explained |
-| `docs/financial-model.md` | Numbers, projections, scenarios |
-| `research/dental-mystery-shop-report.md` | 20 clinics — where her pricing sits |
-| `meeting/patient-survey-instrument.md` | What to send patients |
-| `meeting/roque-meeting-result.md` | Fill this after the Roque meeting |
-| `meeting/luque-space-shortlist.md` | 3 spaces to visit this week |
+| `00_STRATEGIC/strategic-context/three-strategic-options-analysis.md` | The 3 options, explained |
+| `00_STRATEGIC/financial-pricing/financial-model-projections-v2.md` | Numbers, projections, scenarios |
+| `01_RESEARCH/market/mystery-shop-20-clinics-report.md` | 20 clinics — where her pricing sits |
+| `02_MEETINGS/client-prep/data-collection/patient-survey-instrument.md` | What to send patients |
+| `02_MEETINGS/client-prep/roque-meeting/roque-meeting-results.md` | Fill this after the Roque meeting |
+| `02_MEETINGS/client-prep/roque-meeting/luque-space-shortlist-3-priorities.md` | 3 spaces to visit this week |
 
 ---
 
 ## BEFORE ANYTHING ELSE
 
-Fill in `meeting/roque-meeting-result.md` — the entire plan depends on this decision.
+Fill in `02_MEETINGS/client-prep/roque-meeting/roque-meeting-results.md` — the entire plan depends on this decision.
 
 ---
 
-*Last updated: June 1, 2026*
-*Total: 107 documents, 20,000+ lines of research and planning*
+*Last updated: June 2, 2026*
+*Total: ~135 documents across 10 folders*

@@ -1,7 +1,7 @@
 # TODO — Dra. Gabriella González Pane
 ## Strategic Repositioning Project
 
-**Last updated**: Junio 1, 2026
+**Last updated**: June 2, 2026
 **Status**: Research complete — Awaiting Dra. GP data for validation
 **Next milestone**: Meeting with Kiki after data collection
 
@@ -26,7 +26,7 @@ Traer estos datos a la próxima sesión con Kiki:
 
 ### □ REUNIÓN CON ROQUE (Jueves)
 - [ ] Qué ofreció Roque?
-- [ ]Mejoró el deal? ¿Cuánto?
+- [ ] Mejoró el deal? ¿Cuánto?
 - [ ] Hay restricciones de dónde podés trabajar?
 - [ ] Decision: proceed con Option B o no?
 
@@ -35,14 +35,6 @@ Traer estos datos a la próxima sesión con Kiki:
 - [ ] Quote #2 — Espacio cerca de UNA (Mariscal López)
 - [ ] Quote #3 — Clasipar u otra opción
 - [ ] Para cada uno: precio, qué incluye, si está habilitado
-
-### □ MYSTERY SHOPPING
-- [ ] Competitor pricing: IPEO
-- [ ] Competitor pricing: Dra. Silvana Boccia
-- [ ] Competitor pricing: Centro Odontológico Victoria
-- [ ] Competitor pricing: Dra. [de Luque]
-- [ ] Competitor pricing: [1-2 más]
-- [ ] Resultado: ¿Gs 400-550k es viable? ¿Qué dicen los demás?
 
 ---
 
@@ -59,7 +51,7 @@ Traer estos datos a la próxima sesión con Kiki:
 
 ---
 
-## DESICION TREE — Basado en Roque
+## DECISION TREE — Basado en Roque
 
 ```
 ROQUE MEETING (Jueves)
@@ -118,7 +110,7 @@ slowly
 
 | Checkpoint | Criterio | Status | Evidencia Needed |
 |------------|----------|--------|-------------------|
-| Pricing viable | Gs 400-550k restauraciones | ✅ CONFIRMADO — 20 clinics research | 02_RESEARCH/dental-mystery-shop-report.md |
+| Pricing viable | Gs 400-550k restauraciones | ✅ CONFIRMADO — 20 clinics research | `01_RESEARCH/market/mystery-shop-20-clinics-report.md` |
 | Demanda existe | 20-30% pacientes premium | ❓ Pendiente | Su estimation + data base |
 | Space affordable | Gs 1-1.5M/mes disponible | ❓ Pendiente | 3 quotes reales |
 | Legal clear | puede usar base de datos | ❓ Consultar abogado | Lawyer consult |
@@ -199,18 +191,18 @@ slowly
 
 | Documento | Qué Es | Para Qué |
 |-----------|--------|----------|
-| `KIKI-DATA-COLLECTION-KIT.md` | Checklist de data para traer | Lo que necesitas收集 esta semana |
-| `KIKI-MEETING.md` | Materials para la reunión | Agenda, problem framing, options |
-| `02_RESEARCH/deep-dentist-review.md` | Master synthesis (712 líneas) | START HERE — todo research sintetizado |
-| `00_PROJECT/financial-model.md` | Modelo financiero actualizado | Proyecciones con datos reales cuando tengas |
-| `02_RESEARCH/international-dental-pricing-matrix.md` | Pricing 10 países | Benchmarking para pricing |
+| `02_MEETINGS/client-prep/data-collection/client-data-collection-checklist.md` | Checklist de data para traer | Lo que necesitas collect esta semana |
+| `02_MEETINGS/kiki-meeting/kiki-session-meeting-guide.md` | Materials para la reunión | Agenda, problem framing, options |
+| `01_RESEARCH/market/master-synthesis-market-analysis.md` | Master synthesis | START HERE — todo research sintetizado |
+| `00_STRATEGIC/financial-pricing/financial-model-projections-v2.md` | Modelo financiero actualizado | Proyecciones con datos reales cuando tengas |
+| `01_RESEARCH/pricing/international-dental-pricing-matrix.md` | Pricing 10 países | Benchmarking para pricing |
 
 ---
 
 ## OPEN QUESTIONS — STATUS
 
 | Pregunta | Status | Respuesta Needed |
-|----------|--------|------------------|
+|----------|--------|-------------------|
 | ¿Qué pasa con la base de datos si se va? | ❓ Abogado | Consulta legal |
 | ¿Hay non-compete en su contrato? | ❓ Roque | Leer contrato |
 | ¿Cuántos pacientes son premium-eligible? | ❓ Dra. GP | Extraction de data |
