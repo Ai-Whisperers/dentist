@@ -12,7 +12,7 @@
 
 ## 1. IDENTIFICACIÓN DEL RESPONSABLE
 
-**Dra. Gabriella González Pane**, profesional independiente dedicada a la prestación de servicios odontológicos, con Matrícula Profesional N° [NÚMERO] del Círculo Odontológico Paraguayo (COP), действующая conforme a las leyes de la República del Paraguay.
+**Dra. Gabriella González Pane**, profesional independiente dedicada a la prestación de servicios odontológicos, con Matrícula Profesional N° [NÚMERO] del Círculo Odontológico Paraguayo (COP), profesional independiente conforme a las leyes de la República del Paraguay.
 
 **Domicilio:** [DIRECCIÓN — cuando esté confirmado]
 **Teléfono:** [NÚMERO]
@@ -60,7 +60,7 @@ Sus datos personales son procesados exclusivamente para:
 
 3. **Cumplimiento de obligaciones legales**
    - Registro ante organismos de contralor (COP, MSPBS)
-   - Conservación de документации según plazos legales
+   - Conservación de documentación según plazos legales
    - Atención de requerimientos judiciales o administrativos
 
 ### 3.2 Finalidades secundarias (solo con su consentimiento)

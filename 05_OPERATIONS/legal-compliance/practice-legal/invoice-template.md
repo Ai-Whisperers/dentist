@@ -65,9 +65,9 @@ SON: [MONTO EN LETRAS]
 ================================================================================
 
 Condiciones:
-- Este comprobante es válido только con Timbrado activo de la SET
+- Este comprobante es válido solo con Timbrado activo de la SET
 - Los procedimientos realizados tienen garantía según términos publicados
-- Para ejercicio de garantia, conservar este comprobante
+- Para ejercicio de garantía, conservar este comprobante
 
 Dra. Gabriella González Pane
 Matrícula COP N°: [NÚMERO]

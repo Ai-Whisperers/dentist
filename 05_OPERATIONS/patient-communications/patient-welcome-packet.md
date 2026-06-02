@@ -88,8 +88,8 @@ La primera consulta no es sobre empezar tratamiento inmediatamente. Es sobre ent
 
 - Documento de identidad (cédula)
 - Si tenés radiografías o estudios previos — tráelos
-- Si tomás medicación alguna — список
-- Si tenés alguna alergia — список
+- Si tomás medicación alguna — lista
+- Si tenés alguna alergia — lista
 - Si tenés seguro o obra social — traer información (aunque no trabajamos directamente con aseguradoras, emitimos factura para que reclames por tu cuenta)
 
 ---

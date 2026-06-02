@@ -91,7 +91,7 @@ Lo que sí te pido: no te vayas con la decisión tomada. Escuchemos todo primero
 
 [After patient answers]
 
-Okay. Ahora sí — te voy a explicar lo que vi y lo que мыslusso, pero primero quiero que entiendas algo:
+Okay. Ahora sí — te voy a explicar lo que vi y lo que nosotrosslusso, pero primero quiero que entiendas algo:
 
 Mi trabajo no es hacerte sentir que tenés que hacer todo ahora. Mi trabajo es darte claridad sobre qué necesitás y qué opciones tenés. A veces la mejor decisión es no hacer nada todavía. Otras veces sí hay que actuar. Pero la decisión es tuya."
 
@@ -267,7 +267,7 @@ Cuando venga y complete la consulta, el crédito se activa automáticamente para
 
 ### When patient says they're switching dentists / leaving
 ```
-"Okay. Está bien. Antes de que te vayas, te hago una pregunta: ¿Hay algo que могli hätte мог haber hecho mejor? Algo que sientas que no funcionó?"
+"Okay. Está bien. Antes de que te vayas, te hago una pregunta: ¿Hay algo que poderli hätte poder haber hecho mejor? Algo que sientas que no funcionó?"
 
 [Let patient respond]
 

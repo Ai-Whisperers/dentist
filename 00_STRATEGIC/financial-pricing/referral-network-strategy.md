@@ -28,7 +28,7 @@ La derivación no es debilidad — es señal de profesional maduro. Los paciente
 | Ortodoncista | Filosofia alineada (conservación > extracción) | Casos interdisciplinary |
 | Prostodoncista | Labs de alta calidad, trabajo detallado | Rehabilitaciones completas |
 
-### Red扩展 (futuro)
+### Red expandida (futuro)
 - Fisioterapeuta/occlusion specialist
 - Radiólogo oral
 - Patólogo oral
@@ -77,7 +77,7 @@ La derivación no es debilidad — es señal de profesional maduro. Los paciente
 ### nivel 2 — Relaciones activas
 - Especialistas con quienes deriva regularmente
 - Co-referencia mutua
-- **Acción**: Protocolo formal, встречи периодические, compartir updates
+- **Acción**: Protocolo formal, reuniones periódicas, compartir updates
 
 ### nivel 3 — Partners estratégicos
 - Especialistas con filosofía alineada
