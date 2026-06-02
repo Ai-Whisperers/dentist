@@ -24,5 +24,4 @@ Day-to-day operations and legal documents.
 - 07-patient-intake-form.md — New patient form
 - 08-invoice-template.md — Invoice template
 - corporate-service-agreement.md — Corporate B2B SLA contract (new)
-
 (End of file - total 26 lines)

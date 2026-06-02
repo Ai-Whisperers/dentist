@@ -198,35 +198,6 @@ For clubs: the president, health committee chair, or member services director.
 
 ---
 
-## CHANNEL 5: HEALTH INSURANCE COMPANIES - NETWORK PROVIDER
-
-### Why This Channel Exists
-
-Insurance companies ( insurers, prepaid health plans) need dental network providers for their member coverage. This is different from corporate direct -- it's a contracted network relationship.
-
-**The opportunity:** If Dra. GP wants volume, she can become an in-network provider for 1-2 insurance companies. This gives her patients but at discounted rates (typically 60-70% of standard).
-
-### Value Proposition for Insurance Companies
-
-| What They Need | How Dra. GP Delivers |
-|----------------|---------------------|
-| Reliable general dentist in network | 20 years clinical experience, conservative treatment (lower claims) |
-| Accessible location | Asuncion location, easy for members |
-| Good patient satisfaction | High clinical standards, no overtreatment philosophy |
-| Simple billing | Direct billing with clear documentation |
-
-### Target Insurance Partners
-- **Sancor Seguros** (health division)
-- **La Buenos Aires Seguros**
-- **Confian Medical** (prepaid)
-- **Seguro Social Rural** (if applicable)
-- **Particular employer plans** (self-insured companies)
-
-### Note on Rates
-Insurance network rates are typically 50-70% of standard pricing. Only pursue this if you need volume and are willing to accept lower per-patient revenue in exchange for consistent patient flow.
-
----
-
 ## INSTITUTIONAL PRICING GUIDE
 
 ### For Referral Partners (other dentists/clinicas)

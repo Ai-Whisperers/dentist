@@ -5,6 +5,7 @@
 **Partes:**
 - **Proveedor:** Dra. Gabriella González Pane, Odontología General, RUC [RUC], MSPBS Habilitación N° [NUM]
 - **Empresa Cliente:** [COMPANY NAME], RUC [RUC], Representada por [NAME] en su calidad de [POSITION]
+- **Signature authority:** El representante legal firma en virtud de poderes conferidos por [RAZÓN SOCIAL de la Empresa], según consta en escritura pública registrada ante notario.
 
 ---
 
@@ -167,6 +168,8 @@ Este documento constituye el acuerdo completo entre las partes y reemplaza cualq
 
 ### Divisibilidad
 Si cualquier cláusula de este acuerdo es declarada inválida, las demás permanecen en vigor.
+
+La presente será firmada por el representante legal de la Empresa con facultades suficientes conforme al instrumento constitutivo/poder notarial de la Empresa, registrado ante la autoridad competente.
 
 ---
 

@@ -162,6 +162,8 @@ Example (Tier 2, 50 employees):
 ### Secondary Segment: 5-20 employee companies
 **Why:** Tier 1 is an easy upsell if they already have individual patients from that company.
 
+**Important:** Second opinion consultations and complex planning sessions are NOT included in any corporate tier. These are standalone premium services (Gs 450-600k and Gs 800k respectively) available to corporate employees as individual out-of-pocket purchases, not billed to the corporate retainer.
+
 ### Tertiary Segment: 100+ employee companies
 **Why:** Longer sales cycle, needs formal RFP process, but huge revenue if won.
 

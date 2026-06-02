@@ -104,7 +104,7 @@ ROQUE RESULT:
 - [ ] Ask: "¿Tiene habilitación MSPBS vigente?"
 - [ ] Confirm: equipment included, minimum contract, deposit
 - [ ] Sign lease on chosen space
-  - Target: Gs 3.5-5M/month, pre-habilitado, equipped
+  - Target: Gs 1.5-2.0M/month, pre-habilitado, equipped
 
 ### Pre-Launch Landing Page (Carrd.co)
 - [ ] Create free Carrd.co page at: dra-gabriela.com.py (or similar)

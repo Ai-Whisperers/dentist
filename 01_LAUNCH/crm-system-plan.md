@@ -130,8 +130,8 @@ Template structure below.
 
 ### Tab 1: Pipeline
 
-| Date | Name | Phone | Source | Referred By | Last Contact | Summary | Status | Next Action | Appts Scheduled | Appts Attended | Treatments Done | Revenue |
-|------|------|-------|--------|-------------|--------------|---------|--------|-------------|-----------------|----------------|-----------------|---------|
+| Date | Name | Phone | Source | Referred By | Last Contact | Summary | Stage | Next Action | Appts Scheduled | Appts Attended | Treatments Done | Revenue |
+|------|------|-------|--------|-------------|--------------|---------|-------|-------------|-----------------|----------------|-----------------|---------|
 
 **Status options:**
 - `new` — new inquiry, not yet responded
@@ -141,6 +141,19 @@ Template structure below.
 - `attended` — came in for consultation
 - `treated` — completed treatment
 - `ongoing` — in active treatment/recall care
+
+### Tab 1: Pipeline — Companies (add for corporate accounts)
+
+| Date | Company | Contact | Phone | Headcount | Tier | Stage | Source | Monthly Fee | Contract Start | Notes |
+|------|---------|---------|-------|-----------|------|-------|--------|-------------|----------------|-------|
+
+**Source options:**
+- `Individual` — individual patient
+- `Corporate` — company via B2B program
+- `Institutional` — school, club, association
+- `Expat` — expat community referral
+- `Referral` — patient referral
+- `Google` — via Google Search/Maps
 
 ### Tab 2: Referrals
 
