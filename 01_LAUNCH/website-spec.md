@@ -377,19 +377,22 @@ Home
 
 ---
 
-## WHAT THE SITE DOES NOT NEED
+## WHAT THE SITE DOES NOT NEED (FOR PHASE 1 LAUNCH)
 
-- Appointment booking system (WhatsApp is sufficient)
-- Patient portal or login
+- Appointment booking system (WhatsApp is sufficient for Phase 1)
 - Blog (until Phase 2+)
 - E-commerce or online payments
 - Photo galleries (portfolio shared in person/WhatsApp)
 - Animated effects or heavy graphics
 - Multi-language toggle (Spanish with English phrase equivalents is fine)
 
+## WHAT'S DEFERRED (PENDING AUDIT)
+
+- **Patient portal / patient login:** Under evaluation. Dra. GP has SAM practice management software (Windows, internal website, no patient access). Audit pending — decision depends on SAM export capabilities and requirements from digital-systems-audit.md interview.
+
 ---
 
-## DESIGN GUIDELINES
+## LAUNCH CHECKLIST
 
 ### Visual Style
 - Clean, minimal, clinical but warm

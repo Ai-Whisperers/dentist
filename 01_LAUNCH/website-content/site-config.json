@@ -1,0 +1,136 @@
+{
+  "site": {
+    "name": "Dra. Gabriella González Pane",
+    "tagline": "Odontología con criterio. No con prisa.",
+    "description": "Second opinions, treatment planning, and quality dental care in Asunción. 20 years experience. English spoken.",
+    "url": "[PLACEHOLDER: https://dra-gabriela.com.py or similar - TBD]",
+    "email": "[PLACEHOLDER: email address]",
+    "phone": "[PLACEHOLDER: +595 XXX XXX XXX]",
+    "whatsapp": "[PLACEHOLDER: +595 XXX XXX XXX]",
+    "whatsapp_prefilled": "Hola Dra. GP, me gustaría agendar una consulta.",
+    "address": {
+      "city": "Luque",
+      "country": "Paraguay",
+      "note": "Dirección por confirmar"
+    },
+    "acceptingPatients": true,
+    "languages": ["Español", "English"],
+    "currency": "PYG",
+    "currencySymbol": "Gs"
+  },
+  "brand": {
+    "colors": {
+      "primary": "#2D6A5E",
+      "primaryDark": "#1E4A43",
+      "primaryLight": "#4A9A8C",
+      "secondary": "#F5F0E8",
+      "secondaryDark": "#E8E0D5",
+      "accent": "#C4956A",
+      "accentDark": "#A67B52",
+      "textPrimary": "#2C2C2C",
+      "textSecondary": "#5A5A5A",
+      "textLight": "#8A8A8A",
+      "background": "#FDFCFA",
+      "white": "#FFFFFF",
+      "error": "#D64545",
+      "success": "#3A8A5E"
+    },
+    "fonts": {
+      "headings": "Playfair Display, Georgia, serif",
+      "body": "Inter, system-ui, sans-serif"
+    }
+  },
+  "navigation": {
+    "items": [
+      { "label": "Inicio", "url": "/", "priority": 1 },
+      { "label": "Filosofía", "url": "/filosofia", "priority": 2 },
+      { "label": "Servicios", "url": "/servicios", "priority": 3 },
+      { "label": "Precios", "url": "/precios", "priority": 4 },
+      { "label": "Segunda Opinión", "url": "/segunda-opinion", "priority": 5, "phase": 2 },
+      { "label": "Sobre Mí", "url": "/sobre-mi", "priority": 6, "phase": 2 },
+      { "label": "Contacto", "url": "/contacto", "priority": 7 }
+    ],
+    "cta": {
+      "label": "Agendar consulta",
+      "action": "whatsapp",
+      "prefilled": "Hola Dra. GP, me gustaría agendar una consulta."
+    }
+  },
+  "footer": {
+    "tagline": "Odontología con criterio. No con prisa.",
+    "columns": [
+      {
+        "title": "Servicios",
+        "links": [
+          { "label": "Segunda Opinión", "url": "/segunda-opinion" },
+          { "label": "Odontología General", "url": "/servicios" },
+          { "label": "Estética Dental", "url": "/servicios" },
+          { "label": "Rehabilitación Oral", "url": "/servicios" }
+        ]
+      },
+      {
+        "title": "Empresa",
+        "links": [
+          { "label": "Filosofía", "url": "/filosofia" },
+          { "label": "Sobre Mí", "url": "/sobre-mi" },
+          { "label": "Precios", "url": "/precios" },
+          { "label": "Contacto", "url": "/contacto" }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          { "label": "Política de Privacidad", "url": "/privacidad" },
+          { "label": "Términos y Condiciones", "url": "/terminos" }
+        ]
+      }
+    ],
+    "contact": {
+      "phone": "[PLACEHOLDER: +595 XXX XXX XXX]",
+      "email": "[PLACEHOLDER: email]",
+      "address": "Luque, Paraguay",
+      "hours": "Solo con cita previa"
+    },
+    "social": {
+      "whatsapp": "[PLACEHOLDER: wa.me link]"
+    },
+    "copyright": "© 2026 Dra. Gabriella González Pane. Todos los derechos reservados."
+  },
+  "features": {
+    "contactForm": true,
+    "whatsappCTA": true,
+    "googleMapsEmbed": false,
+    "breadcrumbs": true,
+    "scrollReveal": true,
+    "errorBoundary": true,
+    "cookieConsent": true,
+    "testimonials": false,
+    "gallery": false,
+    "blog": false,
+    "darkMode": false
+  },
+  "content": {
+    "priceDisclaimer": "Precios referenciales. Pueden variar según complejidad del caso. Consulta para evaluación personalizada.",
+    "acceptingPatients": "Aceptando nuevos pacientes",
+    "hoursLabel": "Solo con cita previa",
+    "responseTime": "Respondo mensajes dentro de 24 horas en días hábiles.",
+    "englishNote": "English-speaking patients welcome. We can conduct the full consultation in English."
+  },
+  "seo": {
+    "defaultTitle": "Dra. GP — Odontología con Criterio en Asunción",
+    "defaultDescription": "Second opinions, treatment planning, and quality dental care in Asunción. 20 years experience. English spoken.",
+    "keywords": [
+      "dentista Asunción",
+      "segunda opinion dental Paraguay",
+      "odontologo confianza Asunción",
+      "dentista bilingue Asunción",
+      "clinica dental Luque",
+      "tratamiento conducto Asunción precio",
+      "corona dental Asunción precio",
+      "dentist Asunción expats",
+      "English speaking dentist Paraguay"
+    ],
+    "ogImage": "[PLACEHOLDER: path to OG image - needs to be designed]",
+    "twitterCard": "summary_large_image"
+  }
+}
