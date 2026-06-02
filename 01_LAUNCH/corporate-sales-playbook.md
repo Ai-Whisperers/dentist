@@ -135,7 +135,7 @@ Ask these in order, listen more than you talk:
 ### Selling Framework (Use ONLY after discovery):
 
 If they have insurance:
-"So you're spending roughly [ESTIMATED MONTHLY_COST] per month on dental insurance. And employees are using it [X]% of the time. The model I'm proposing would cost you [PROPOSED_MONTHLY_COST] — that's [X]% less — and employees actually use it because there's no claims process. Would it make sense to see a side-by-side comparison?"
+"So you're spending roughly [ESTIMATED_MONTHLY_COST] per month on dental insurance. And employees are using it [X]% of the time. The model I'm proposing would cost you [PROPOSED_MONTHLY_COST] — that's [X]% less — and employees actually use it because there's no claims process. Would it make sense to see a side-by-side comparison?"
 
 If they have no dental benefit:
 "Companies that offer dental benefits have lower turnover and higher employee satisfaction. The model I'm proposing starts at Gs [MINIMUM_COST] per month for your [N] employees. That's less than [COST_OF_ONE_EMPLOYEE_LUNCH_PER_MONTH]. Would it be useful to see what that would look like?"
@@ -216,7 +216,7 @@ If they're interested: pricing for spouse/children extension
 
 ### If Yes:
 - Schedule agreement signing (in-person or video call)
-- Send contract via email with DocuSign or simple PDF
+- Send contract via email
 - Collect first month payment
 - Start onboarding immediately
 

@@ -1,0 +1,6 @@
+INSURANCE BROKER CHAIN:          DIRECT CORPORATE MODEL:
+Company pays premium        →    Company pays retainer
+Broker keeps 20-30%         →    Dra. GP keeps 100%
+Insurance processes claim   →    No claims process
+Dra. GP gets 15% of value    →    Dra. GP gets 80%+ of value
+Employee gets limited plan   →    Employee gets open access

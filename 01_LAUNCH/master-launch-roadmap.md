@@ -284,29 +284,67 @@ These must be answered by Dra. GP before Week 1:
 
 ---
 
+## PHASE 2 (MONTH 3-6) — PARALLEL CORPORATE TRACK
+
+After validating individual patient model, begin B2B corporate sales:
+
+### Corporate Channel Launch (Month 3-4)
+- [ ] Read corporate-sales-playbook.md (in 01_LAUNCH/)
+- [ ] Identify 20 target companies from list in corporate-dental-benefits-program.md
+- [ ] Research each company on LinkedIn — find HR manager or benefits coordinator
+- [ ] Send first outreach to 10 companies (warm intro preferred)
+- [ ] Track all outreach in CRM (new "Corporate" tab)
+
+### Corporate Close (Month 4-5)
+- [ ] Run discovery calls with 3-5 interested companies
+- [ ] Send proposals within 48 hours of each call
+- [ ] Sign first 2 corporate contracts
+- [ ] Onboard first corporate clients (WhatsApp group per employee)
+
+### Corporate Scale (Month 5-6)
+- [ ] 3 corporate clients = Gs 10-20M/month recurring revenue
+- [ ] Monthly utilization reports to each HR contact
+- [ ] Quarterly review meetings
+
+### Corporate Revenue Impact
+| Corporate Clients | Monthly Revenue | vs. Individual Track |
+|-------------------|-----------------|---------------------|
+| 1 | +Gs 2-6M | Supplements individual |
+| 3 | +Gs 10-20M | Can reach break-even |
+| 5 | +Gs 25-50M | Exceeds current income |
+
+---
+
 ## WEEK-BY-WEEK SUMMARY
 
-| Week | Dra. GP | Digital | Legal | Space | Outreach |
-|------|---------|---------|-------|-------|---------|
-| 0 | Personal data collection | Domain + FB groups | — | Visit options | — |
-| 1-2 | CI + RUC ready | Google Business + LinkedIn | EAS application | Evaluate 2 options | — |
-| 3-4 | Email + phone confirmed | WhatsApp Business set up | EAS in process | Sign lease | — |
-| 5-6 | — | Carrd.co landing page | Timbrado | Move in | CRM + referral soft launch |
-| 7-8 | — | Website 5 pages live | — | Space ready | Specialist outreach |
-| 9-10 | — | Google Business verified | — | — | InterNations event |
-| 11-12 | — | Analytics review | — | — | Aggregators + metrics |
-| 3-6 mo | — | Blog + About page | — | — | Embassies + relocation |
+| Week | Dra. GP | Digital | Legal | Space | Outreach | Corporate |
+|------|---------|---------|-------|-------|---------|-----------|
+| 0 | Personal data collection | Domain + FB groups | — | Visit options | — | — |
+| 1-2 | CI + RUC ready | Google Business + LinkedIn | EAS application | Evaluate 2 options | — | — |
+| 3-4 | Email + phone confirmed | WhatsApp Business set up | EAS in process | Sign lease | — | — |
+| 5-6 | — | Carrd.co landing page | Timbrado | Move in | CRM + referral soft launch | Identify targets |
+| 7-8 | — | Website 5 pages live | — | Space ready | Specialist outreach | First outreach |
+| 9-10 | — | Google Business verified | — | — | InterNations event | Discovery calls |
+| 11-12 | — | Analytics review | — | — | Aggregators + metrics | Sign first deals |
+| 3-6 mo | — | Blog + About page | — | — | Embassies + relocation | Scale to 3-5 |
 
 ---
 
 ## CRITICAL PATH (What blocks what)
 
+Individual track:
 ```
 [Business phone] → [WhatsApp Business] → [Google Business] → [Referral Program]
 [Business email] → [EAS application] → [RUC + Timbrado]
 [Domain] → [Carrd landing page] → [Full website]
 [Luque space signed] → [Address confirmed] → [Website address updated] → [Google Business verified]
 [About page credentials verified] → [About page live]
+```
+
+Corporate track (parallel):
+```
+[Corporate sales playbook] → [20 target companies] → [LinkedIn research] → [First outreach]
+[Discovery call] → [Proposal] → [Sign contract] → [Onboard employees]
 ```
 
 ---
@@ -321,5 +359,6 @@ Everything else is blocked by those two decisions.
 ---
 
 *Created: June 1, 2026*
+*Updated: June 2, 2026 — Corporate B2B channel added*
 *Merges all 7 plans into one executable roadmap*
 *Canonical version: this document*

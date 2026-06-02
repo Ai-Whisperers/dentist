@@ -1,0 +1,11 @@
+**Grupo 4 — Detalles técnicos de SAM:**
+
+11. Cuántos pacientes tiene SAM actualmente? (estimado: 100 / 500 / 2000+)
+
+12. SAM puede exportar la lista de pacientes a Excel o CSV? (nombres, teléfonos, historial)
+
+13. Tiene SAM un "API"? (esto es medio técnico — significa si otros sistemas pueden conectarse automáticamente)
+
+14. Quién instaló SAM? Hay una empresa que te da soporte? podrían ayudar a exportar los datos?
+
+15. En qué Windows corre? Windows 10? 11? Es su computadora normal o una máquina dedicada?

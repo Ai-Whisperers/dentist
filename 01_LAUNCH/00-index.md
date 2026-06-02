@@ -2,6 +2,11 @@
 
 All execution plans — the "how".
 
+**Corporate B2B Channel (NEW):**
+- corporate-dental-benefits-program.md — Corporate packages, tiers, pricing, target market
+- corporate-sales-playbook.md — Full sales process, scripts, objection handling
+
+**Individual Patient Channel:**
 | File | What It Is |
 |------|------------|
 | master-launch-roadmap.md | **90-DAY INTEGRATED PLAN** — start here |

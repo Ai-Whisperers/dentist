@@ -1,0 +1,7 @@
+Monthly Retainer = Headcount × Rate Per Employee
+
+Example (Tier 2, 50 employees):
+  50 × Gs 130,000 = Gs 6,500,000/month = Gs 78M/year
+  Included: 50 × 4 consultations + 50 × 6 discounted checkups + 50 × 2 cleanings
+  Actual cost to company if purchased individually: Gs 120-180M/year
+  Savings: 35-50%
