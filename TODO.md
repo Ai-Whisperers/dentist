@@ -117,7 +117,7 @@ slowly
 ## VALIDATION CHECKPOINTS
 
 | Checkpoint | Criterio | Status | Evidencia Needed |
-|------------|----------|--------|------------------|
+|------------|----------|--------|-------------------|
 | Pricing viable | Gs 400-550k restauraciones | ✅ CONFIRMADO — 20 clinics research | 02_RESEARCH/dental-mystery-shop-report.md |
 | Demanda existe | 20-30% pacientes premium | ❓ Pendiente | Su estimation + data base |
 | Space affordable | Gs 1-1.5M/mes disponible | ❓ Pendiente | 3 quotes reales |

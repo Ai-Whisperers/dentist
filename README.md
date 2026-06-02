@@ -1,6 +1,6 @@
 # Dra. Gabriella González Pane — Strategic Repositioning Project
 
-**Status:** Research complete — Awaiting validation data
+**Status:** Research complete — Awaiting validation data  
 **Last updated:** June 2026
 
 ---
@@ -17,7 +17,7 @@
 
 Reposicionamiento del modelo de práctica dental del modelo volumen (seguros) a un modelo basado en valor y criterio clínico.
 
-**El problema:** El seguro extrae ~85% del valor que ella genera.
+**El problema:** El seguro extrae ~85% del valor que ella genera.  
 **La oportunidad:** Mercado premium + expats + "Dental CIO" como servicio diferenciador.
 
 ---
@@ -26,37 +26,21 @@ Reposicionamiento del modelo de práctica dental del modelo volumen (seguros) a 
 
 ```
 dentist/
-├── start-here.md           # 5-min quick start guide
-├── README.md               # This file
-├── TODO.md                 # Sprint plan with checkpoints
-├── CLAUDE.md              # Project context (don't edit)
-│
-├── 00_PROJECT/              # Strategic documents — the "why" and "what"
-│   ├── dossier.md         # Executive summary
-│   ├── client-analysis.md # Full client deep-dive
-│   ├── options.md         # 3 options (A: Upsell, B: Parallel, C: Exit)
-│   └── ...                 # More in 00-index.md
-│
-├── 01_LAUNCH/              # Execution plans — the "how"
-│   ├── master-launch-roadmap.md # **START HERE** — 90-day integrated plan
-│   └── ...                 # More in 01-index.md
-│
-├── 02_RESEARCH/            # Research reports — all intelligence
-│   ├── deep-dentist-review.md # MASTER SYNTHESIS — start here
-│   └── ...                 # 17 files total, see 02-index.md
-│
-├── 04_MEETINGS/            # Meeting materials (split by audience)
-│   ├── kiki/              # For consultant (Kiki)
-│   │   ├── meeting-guide.md
-│   │   └── decision-matrix.md
-│   └── client/            # For client (Dra. GP)
-│       └── ...
-│
-├── 05_OPERATIONS/          # Day-to-day operations + legal docs
-├── 06_MARKETING/          # Marketing execution
-├── 07_DESIGN/             # Visual identity specs
-├── 08_WHATSAPP/           # WhatsApp Business system
-└── 09_TEMPLATES/          # Document templates
+├── 00_PROJECT/         Strategic documents (dossier, options, financial model, positioning)
+├── 01_LAUNCH/          Execution plans (website, WhatsApp, CRM, launch roadmap)
+├── 02_RESEARCH/        Research reports (market, pricing, competition, legal, payments)
+├── 03_RESEARCH_EXTRAS/ Placeholder for future research
+├── 04_MEETINGS/
+│   ├── kiki/          Consultant materials (meeting guide, decision matrix)
+│   └── client/        Client materials (data collection, Roque result, patient survey)
+├── 05_OPERATIONS/      Operations + legal (scripts, protocols, legal docs)
+├── 06_MARKETING/       Google Business setup guide
+├── 07_DESIGN/          Visual identity specs (business cards, signage, stationery)
+├── 08_WHATSAPP/       WhatsApp Business system (templates, flows, agent protocol)
+├── 09_TEMPLATES/       Document templates (email, cards)
+├── start-here.md       Quick start guide
+├── COMPLETE-INDEX.md   Full project index
+└── TODO.md             Sprint plan
 ```
 
 ---
@@ -93,15 +77,15 @@ Option A   OPTION B
 ## Research Complete
 
 All major research areas covered:
-- ✅ Dental pricing (10 countries) — 02_RESEARCH/international-dental-pricing-matrix.md
-- ✅ Expat market analysis — 02_RESEARCH/expat-community-deep-dive.md
-- ✅ Competition mapping — 02_RESEARCH/dental-mystery-shop-report.md
-- ✅ Legal framework — 02_RESEARCH/legal-requirements-research.md
-- ✅ Payment infrastructure — 02_RESEARCH/payment-infrastructure-research.md
-- ✅ Equipment & rental research — 02_RESEARCH/luque-rental-research.md
-- ✅ Global best practices + scripts — 02_RESEARCH/dental-practice-strategy-research.md
+- ✅ Dental pricing (10 countries)
+- ✅ Expat market analysis
+- ✅ Competition mapping
+- ✅ Legal framework (E.A.S., habilitación, Ley 7593/2025)
+- ✅ Payment infrastructure (Pagopar, Bancard)
+- ✅ Equipment & rental research
+- ✅ Global best practices + scripts
 
-**See `02_RESEARCH/deep-dentist-review.md`** — master synthesis (start here for research).
+**See `02_RESEARCH/deep-dentist-review.md`** — master synthesis.
 
 ---
 
@@ -110,7 +94,7 @@ All major research areas covered:
 ### This Week (Data Collection)
 - [ ] Extract patient database (count + % premium-eligible)
 - [ ] Get real financials (revenue/costs)
-- [ ] Meet Roque (Thursday) → fill 04_MEETINGS/client/roque-meeting-result.md
+- [ ] Meet Roque (Thursday)
 - [ ] Get 3 rental quotes in Luque
 - [ ] Mystery shopping calls (5 dentists)
 
@@ -120,6 +104,7 @@ All major research areas covered:
 ---
 
 ## Repository Stats
-- **Files:** 77+ documents across 10 numbered folders
-- **Folders:** 00_PROJECT → 09_TEMPLATES (logical numbered structure)
+- **Files:** 70+ markdown documents
+- **Lines:** ~20,000+ lines documentation
+- **Sources:** 52+ verified links
 - **Status:** Clean, organized, ready for execution
