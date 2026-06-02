@@ -72,7 +72,7 @@ SYSTEM AUTO-REPLY:
 
 El precio exacto depende de la complexity del caso — necesito ver tu situación para darte un presupuesto preciso.
 
-Si tenés una evaluación o X-ray现有的, podemos hacer una segunda opinión formal.
+Si tenés una evaluación o radiografías existentes, podemos hacer una segunda opinión formal.
 
 Para agendar una consulta -> [BUTTON: Agendar por WhatsApp]
 
@@ -106,7 +106,7 @@ Para poder ofrecerte horarios disponibles, necesito:
 
 1. Tu nombre
 2. Qué te trae: ¿Estás buscando una primera consulta, segunda opinión, o necesitas algo específico?
-3. Tenés牙科 X-rays o diagnósticos previos?
+3. Tenés radiografías o diagnósticos previos?
 
 Después de tu respuesta te mandamos opciones de horarios disponibles."
 

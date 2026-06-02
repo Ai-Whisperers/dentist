@@ -106,41 +106,40 @@ If you'd rather not, no problem at all — just let me know if you have any ques
 
 ## CONTENT CALENDAR — MONTH 1
 
-### Week 1: Foundation (5 posts)
+**IMPORTANT: 3 posts per week is sustainable. 5 posts per week will cause burnout.**
+
+### Week 1: Foundation (3 posts)
 | Day | Platform | Content | Type |
 |-----|---------|---------|------|
 | Mon | Facebook | "What is a second opinion in dentistry — and when should you get one?" | Educational |
 | Wed | LinkedIn | "After 20 years, the cases I regret are the ones where I moved too fast." | Philosophy |
-| Thu | Facebook | "Why does dental insurance want to pay for procedures, not for planning?" | Educational |
+| Fri | Facebook | "Why does dental insurance want to pay for procedures, not for planning?" | Educational |
 | Fri | WhatsApp | Send review request to last 5 patients (personal) | Social proof |
-| Sat | Facebook | Repost/reply to any expat group dentist questions | Engagement |
 
-### Week 2: Case Education (5 posts)
+### Week 2: Case Education (3 posts)
 | Day | Platform | Content | Type |
 |-----|---------|---------|------|
 | Mon | Facebook | "The difference between a filling and a crown — explained without jargon" | Educational |
 | Wed | LinkedIn | "I turned down a case last week. Here's why." | Philosophy |
-| Thu | Facebook | "What actually happens during a root canal — vs. what you think happens" | Educational |
+| Fri | Facebook | "What actually happens during a root canal — vs. what you think happens" | Educational |
 | Fri | Google | Ask for review from this week's patients | Social proof |
-| Sat | Facebook | Engage in expat groups | Engagement |
 
-### Week 3: Philosophy + Social Proof (5 posts)
+### Week 3: Philosophy + Social Proof (3 posts)
 | Day | Platform | Content | Type |
 |-----|---------|---------|------|
 | Mon | Facebook | "A patient came to me for a second opinion. Here's what I found." (anonymized) | Case study |
 | Wed | LinkedIn | "The best dental advice I ever got: 'Don't touch it if you can save it.'" | Philosophy |
-| Thu | Facebook | "Why I don't do 'free consultations' — and what I do instead" | Educational |
 | Fri | Facebook/WhatsApp | Share patient testimonial (with permission) | Social proof |
-| Sat | Facebook | Engage in groups | Engagement |
 
-### Week 4: Referral + Close (5 posts)
+### Week 4: Referral + Engagement (3 posts)
 | Day | Platform | Content | Type |
 |-----|---------|---------|------|
 | Mon | Facebook | "Three signs your dentist might be overtreating you" | Educational |
 | Wed | LinkedIn | "My approach to treatment planning: slow down, look carefully, decide well" | Philosophy |
-| Thu | Facebook | Soft referral mention: "If you know someone looking for a second opinion..." | Referral |
-| Fri | Google | Review request sweep | Social proof |
-| Sat | Facebook | Answer all group questions for the month | Engagement |
+| Fri | Facebook | Soft referral mention: "If you know someone looking for a second opinion..." | Referral |
+| Sat | Facebook | Engage in expat groups (1-2 responses) | Engagement |
+
+**Total: 12-13 posts per month (not 20). Sustainable.**
 
 ---
 

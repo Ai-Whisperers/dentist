@@ -77,7 +77,7 @@ No complicated multi-level structure. Simple, transparent, valuable.
 
 ### For referral to send to their contact (pre-written WhatsApp, ready to forward):
 ```
-"I go to a dentist in Asunción — Dra. Gabriella González Pane. She's different: she plans everything first, won't do work you don't need, speaks English, and actually takes time to explain. I信任 her completely.
+"I go to a dentist in Asunción — Dra. Gabriella González Pane. She's different: she plans everything first, won't do work you don't need, speaks English, and actually takes time to explain. I trust her completely.
 
 Her WhatsApp: +595 XXX XXX XXX
 Tell her I sent you — she gives a Gs 50k discount for first-timers."
