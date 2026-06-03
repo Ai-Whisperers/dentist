@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Best Practices | instagrapi",
+    "href": "https://subzeroid.github.io/instagrapi/usage-guide/best-practices.html",
+    "body": "The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS. View on GitHub. Best Practices. This is a best practices guide around using the Instagram API so that you don’t get rate limited or banned. Use a Stable Proxy ..."
+  },
+  {
+    "title": "please_wait_a_few_minutes: instagrapi rate limit and how to recover",
+    "href": "https://instagrapi.com/guides/errors/please-wait-a-few-minutes",
+    "body": "please_wait_a_few_minutes is Instagram's soft rate limit. instagrapi raises PleaseWaitFewMinutes — sleep, slow down, rotate proxy, persist."
+  },
+  {
+    "title": "instagrapi Python Guide [2025] | PyPI Tutorial",
+    "href": "https://generalistprogrammer.com/tutorials/instagrapi-python-package-guide",
+    "body": "Complete instagrapi guide: fast and effective instagram private api wrapper. Installation, usage examples, troubleshooting & best practices."
+  },
+  {
+    "title": "Rate limit reached Grok. How to reset Grok limit? - YouTube",
+    "href": "https://www.youtube.com/watch?v=xYQvP8BVXYI",
+    "body": "Hit the \"Rate Limit Reached\" error on Grok? You are not alone. In this video, I explain exactly how long the Grok limit takes to reset, and if there are any ..."
+  },
+  {
+    "title": "How to Automate Instagram with Instagrapi: A Python...",
+    "href": "https://apidog.com/blog/instagrapi/",
+    "body": "The instagrapi Python library lets you interact directly with Instagram’s backend, mimicking the official mobile app for fast, reliable automation. Unlike browser-dependent tools, instagrapi operates purely in Python, enabling headless operation and seamless integration into developer toolchains."
+  },
+  {
+    "title": "From Token Bucket to Sliding Window: Pick the Perfect Rate Limiting...",
+    "href": "https://api7.ai/ja/blog/rate-limiting-guide-algorithms-best-practices",
+    "body": "Learn what rate limiting is, compare algorithms like sliding window & token bucket, and follow best practices to prevent 429 errors and keep your API fast, fair, and secure."
+  },
+  {
+    "title": "How to Automate Your Instagram with Python using instagrapi and...",
+    "href": "https://aalapdavjekar.medium.com/how-to-automate-your-instagram-with-python-using-instagrapi-and-replit-com-9fe64e62711b",
+    "body": "We’ll explore how to leverage instagrapi, a fast and robust Python library for interacting with Instagram’s private API. We will be using replit.com, a free, cloud-based development platform, to host and run our script. This approach eliminates the need for local setup and allows your..."
+  },
+  {
+    "title": "instagrapi · PyPI",
+    "href": "https://pypi.org/project/instagrapi/",
+    "body": "The instagrapi project is best suited for testing, research, and controlled internal automation. aiograpi - Asynchronous Python library for Instagram Private API. Support Python 3.10+. Practical scripts live in examples/README.md."
+  },
+  {
+    "title": "Instagram Scraper · Apify",
+    "href": "https://apify.com/benthepythondev/instagram-intelligence-scraper",
+    "body": "\"timestamp\": \"2025-08-12T17:00:00\", Start with small batches (10-50 results) for testing. Monitor for Instagram rate limits (slowdown = approaching limit). Use multiple accounts for high-volume scraping. Consider proxies for paral..."
+  },
+  {
+    "title": "Google",
+    "href": "https://www.google.com/",
+    "body": "Поиск информации в интернете: веб страницы, картинки, видео и многое другое."
+  }
+]

@@ -12,9 +12,13 @@
 Traer estos datos a la próxima sesión con Kiki:
 
 ### □ BASE DE DATOS
-- [ ] Total pacientes únicos (2025 completo)
-- [ ] Pacientes únicos (2026 MTD)
-- [ ] Promedio pacientes/mes
+- [x] **Total pacientes únicos: 342** (601 citas, Abr-Jun 2026) ✅
+- [x] **Appointment Excel export analyzed** ✅ — `docs/data-update-june-2026.md`
+- [x] **Formatted analysis workbook** ✅ — `patient-appointment-analysis.xlsx`
+- [x] **SAM system architecture mapped** ✅ — `research/system-and-data-analysis.md`
+- [ ] Total pacientes únicos (2025 completo) — necesita data 2025
+- [ ] Pacientes únicos (2026 MTD) — needs full year
+- [ ] Promedio pacientes/mes — calculable con data completa
 - [ ] Pacientes que ya pagan PRIVATE (aunque sean pocos)
 - [ ] % que estimás son "premium-eligible" (tu opinión)
 
@@ -150,6 +154,18 @@ slowly
 5. **CONSULTAR ABOGADO** → patient data + E.A.S. + habilitación
 6. **REGISTRAR E.A.S.** → empezar paperwork
 7. **SETUP DIGITAL** → Google Business + WhatsApp Business
+
+### B2B CORPORATE SALES (June 2026)
+- [x] Lead analysis completed ✅
+- [x] Beauty/Gym leads: 638 corporate prospects (gyms, spas, salons)
+- [x] Premium leads: 326 IT/Finance/Legal/Medical/Education/Real Estate ✅ ALL WITH PHONE NUMBERS
+- [x] Top 50 outreach list with phone numbers ready ✅
+- [x] Premium Excel tracker created ✅ — `PREMIUM-CORPORATE-DENTAL.xlsx` (5 sheets)
+- [x] Premium leads analysis ✅ — `premium-leads-analysis.md`
+- [ ] Contact first 20 gym/spa prospects
+- [ ] Contact first 30 premium leads (law/real estate/tech/universities)
+- [ ] Track responses in tracker
+- [ ] Close first 3 corporate clients
 
 ### Media Prioridad (Sprint 3):
 
