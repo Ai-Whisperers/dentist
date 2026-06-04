@@ -1,0 +1,79 @@
+============================================================
+INFLUENCER WELLNESS FILTER SUMMARY
+============================================================
+Total records in source: 297
+Wellness-fit records: 131
+
+TOP 30 BY FOLLOWERS:
+------------------------------------------------------------
+Username                 Platform       Followers      Display Name              Category
+------------------------------------------------------------
+adrianoimperador          instagram         9600000 Adriano imperador         lifestyle                     
+larissariquelme           instagram         5000000 Larissa Riquelme          fashion/family                
+noeroa                    tiktok            4600000 Denisse Roa               lifestyle/fashion             
+nadiaferreira             instagram         3900000 Nadia Ferreira Muniiz     fashion                       
+nutri_maga                instagram         2700000 Magali Alvarenga          health/nutrition              
+chrisferreiranutri        instagram         2500000 Chris Ferreira            food/cooking                  
+dangsoficial              instagram         2300000 Dan Gs                    lifestyle                     
+jigyeongpark              instagram         2000000 Ji Gyeong Park            lifestyle                     
+michellelando             tiktok            1900000 Michelelando              lifestyle                     
+solecardozopy             tiktok            1900000 Sole Cardozo              family/shows                  
+solecardozopy             instagram         1800000 Sole Cardozo              family/shows                  
+naraparaguaia             instagram         1600000 nara                      beauty                        
+nutrimaga                 tiktok            1600000 Magali Alvarenga          health/nutrition              
+nicolelulichile           instagram         1500000 Nicole Moreno             fitness                       
+pamruizdiazok             instagram         1500000 Pam Ruiz Diaz             lifestyle                     
+marilina_oficial          instagram         1500000 Marilina                  music/lifestyle               
+marilina_oficial          tiktok            1500000 Marilina                  music/lifestyle               
+laolitte8                 instagram         1300000 Maria Laura Olitte        family                        
+jessitorresm              instagram         1300000 Jessica Torres            art/beauty                    
+fabimartinezoficial       instagram         1300000 Fabi Martinez             fitness                       
+emilia_aranda             instagram         1300000 Emilia Aranda             fashion/fitness               
+verodelgado_              instagram         1200000 Vero Delgado              family/photography            
+ana_laura_chamorro        instagram         1200000 Ana Laura Chamorro        lifestyle                     
+hamudytv                  instagram         1100000 Mohamad Salim             lifestyle                     
+osmar_olmedo              instagram         1100000 Osmar Olmedo              fitness/gym                   
+ivan_torres11             instagram         1000000 Ivan Torres               family/sports                 
+elkoalah                  youtube           1000000 ElKoalah                  food/tourism                  
+lacomadrepy               instagram          962000 D romero                  lifestyle                     
+dallysferreira            instagram          901000 Dallys Ferreira           beauty/family                 
+aria_dominguez            instagram          800000 Aria Dominguez            fashion                       
+
+CATEGORY BREAKDOWN:
+----------------------------------------
+  lifestyle: 46
+  fashion: 20
+  beauty: 16
+  fitness: 9
+  family/shows: 3
+  health/nutrition: 2
+  music/lifestyle: 2
+  family: 2
+  beauty/family: 2
+  healthcare parody: 2
+  sports/fitness: 2
+  fashion/family: 1
+  lifestyle/fashion: 1
+  food/cooking: 1
+  art/beauty: 1
+  fashion/fitness: 1
+  family/photography: 1
+  fitness/gym: 1
+  family/sports: 1
+  food/tourism: 1
+  lifestyle/family: 1
+  travel/lifestyle: 1
+  fashion/humor: 1
+  food blogger: 1
+  food: 1
+  fashion/lifestyle: 1
+  fashion/comedy: 1
+  nutrition/fitness: 1
+  fashion/beauty: 1
+  fitness coach: 1
+  lifestyle/humor: 1
+  beauty/odontology: 1
+  travel/food: 1
+  nightlife/food: 1
+  family/fashion: 1
+  sexual health education: 1

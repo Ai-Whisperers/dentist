@@ -1,0 +1,185 @@
+{
+  "noeroa": {
+    "display": "Denisse Roa",
+    "follower_info": "4.6M lifestyle/fashion",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@noeroa?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/noeroa/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@noeroa"
+      }
+    }
+  },
+  "larissariquelme": {
+    "display": "Larissa Riquelme",
+    "follower_info": "5M fashion/family",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@larissariquelme?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/larissariquelme/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@larissariquelme"
+      }
+    }
+  },
+  "nadiaferreira": {
+    "display": "Nadia Ferreira",
+    "follower_info": "3.9M fashion",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@nadiaferreira?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/nadiaferreira/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@nadiaferreira"
+      }
+    }
+  },
+  "nutrimaga": {
+    "display": "Magali Alvarenga",
+    "follower_info": "2.7M health/nutrition",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@nutrimaga?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/nutrimaga/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@nutrimaga"
+      }
+    }
+  },
+  "solecardozopy": {
+    "display": "Sole Cardozo",
+    "follower_info": "1.9M family",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@solecardozopy?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/solecardozopy/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@solecardozopy"
+      }
+    }
+  },
+  "naraparaguaia": {
+    "display": "nara",
+    "follower_info": "1.6M beauty",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@naraparaguaia?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/naraparaguaia/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@naraparaguaia"
+      }
+    }
+  },
+  "fabimartinezoficial": {
+    "display": "Fabi Martinez",
+    "follower_info": "1.3M fitness",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@fabimartinezoficial?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/fabimartinezoficial/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@fabimartinezoficial",
+        "subscribers": "285"
+      }
+    }
+  },
+  "paolamaltese": {
+    "display": "Paola Maltese",
+    "follower_info": "574K fitness",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@paolamaltese?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/paolamaltese/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@paolamaltese",
+        "subscribers": "2"
+      }
+    }
+  },
+  "dallysferreira": {
+    "display": "Dallys Ferreira",
+    "follower_info": "901K beauty/family",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@dallysferreira?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/dallysferreira/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@dallysferreira",
+        "subscribers": "6"
+      }
+    }
+  },
+  "cumana_yoga": {
+    "display": "Cumana Yoga",
+    "follower_info": "25K yoga/wellness",
+    "profiles": {
+      "tiktok": {
+        "status": "found",
+        "url": "https://www.tiktok.com/@cumana_yoga?lang=es"
+      },
+      "instagram": {
+        "status": "found",
+        "url": "https://www.instagram.com/cumana_yoga/"
+      },
+      "youtube": {
+        "status": "found",
+        "url": "https://www.youtube.com/@cumana_yoga"
+      }
+    }
+  }
+}

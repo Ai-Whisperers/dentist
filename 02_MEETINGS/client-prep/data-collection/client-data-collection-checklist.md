@@ -1,4 +1,4 @@
-# DATA COLLECTION KIT — Dra. Gabriella González Pane
+# DATA COLLECTION KIT — Updated June 4, 2026
 ## Lo que necesitas llevar a la reunión con Kiki
 
 **Esta semana: Lunes 1 Junio — Jueves 5 Junio**
@@ -259,3 +259,54 @@ COMPETITOR 1: _______
 - Después de reunión con Roque + Kiki: Abogado
 
 **EL ORDEN NO TIENE QUE SER PERFECTO — cualquier data que tengas de esto, traémosla.**
+
+---
+
+## WHATSAPP DEEP ANALYSIS — June 4, 2026 UPDATE
+
+### New Findings From 375-Message WhatsApp Analysis (May 31 – June 3, 2026)
+
+| From Chat | What It Means |
+|---|---|
+| "el grannn issue es eso… tener pacientes" | **Biggest fear: no patients, not pricing** |
+| "estoy trabajando mucho… para cobrar 3/4" | Already doing double shifts, undercharging |
+| "y no es mi jefe en teoría" | Questioning the Roque employment relationship |
+| "mis pctes. 90% son asismed" | Maximum insurer concentration risk |
+| "tengo en mente hablar con una colega amiga" | Already has a contact for shared space in Luque |
+| "paraguayyyy siempre se aprovecha y más si son gringos" | Knows exploitation but sees expats as opportunity |
+| "no me agradan ambientes ruidosos" | Noise sensitivity — office design constraint |
+| "pd. no kids" | No children = lower burn rate = more risk flexibility |
+| branded jackets photo sent | Already has visual identity instincts |
+| Uses GPT extensively (not Gemini) | AI-capable, prefers text over voice |
+
+### Approach Changes for Next Session
+
+| Old Assumption | New Reality |
+|---|---|
+| "She's afraid of pricing" | "She's afraid of no patients" — focus on acquisition |
+| "Need 3 formal rental quotes" | She has colleague contact — use her network |
+| "Financial data unknown" | "estoy frita" = low runway — ask months of survival |
+| "No digital presence" | Branded jackets = has visual identity |
+| "Option B is future" | "ya estamos en esto" — more ready than thought |
+
+### New Questions to Add
+
+1. **Noise sensitivity**: Does she need soundproofed/private space?
+2. **Brand identity**: Personal brand (Dra. GP) vs. clinic name?
+3. **AI/Tech needs**: What automation does she actually want?
+4. **Expat priority**: Target foreigners or upper Paraguayan?
+5. **Dependents**: Any elderly parents relying on her income?
+
+### What to Say to Her
+
+"Gabriella — the plan is simple:
+1. Talk to your colleague friend about space this week
+2. After Roque meeting Thursday, we know if we need to hurry
+3. Register E.A.S. (takes 2 weeks, no effort on your part except paperwork)
+4. Start with 5 patients, not 50
+
+You don't need to figure everything out today.
+We go one step at a time."
+
+**UPDATED:** June 4, 2026
+**Source:** WhatsApp chat (375 messages, May 31 – June 3, 2026)
