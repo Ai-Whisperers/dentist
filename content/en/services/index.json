@@ -13,8 +13,15 @@
       "id": "1",
       "name": "Initial evaluation",
       "description": "Clinical review, Q&A, and a written plan in one visit.",
-      "priceGs": 350000,
+      "priceGs": 300000,
       "link": "/en/services/second-opinion"
+    },
+    {
+      "id": "2",
+      "name": "Written care plan",
+      "description": "Treatment options with documentation, timeline, and reference pricing.",
+      "priceGs": 600000,
+      "link": "/en/services/treatment-planning"
     }
   ]
 }

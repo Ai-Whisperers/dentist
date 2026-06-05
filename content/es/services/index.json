@@ -11,10 +11,17 @@
   "bundles": [
     {
       "id": "1",
-      "name": "Valoración inicial",
-      "description": "Incluye revisión clínica, aclaración de dudas y plan escrito en una sola visita.",
-      "priceGs": 350000,
-      "link": "/es/servicios/segunda-opinion"
+      "name": "Evaluación inicial",
+      "description": "Revisión clínica, preguntas y plan escrito en una visita.",
+      "priceGs": 300000,
+      "link": "/es/services/second-opinion"
+    },
+    {
+      "id": "2",
+      "name": "Plan escrito de tratamiento",
+      "description": "Opciones de tratamiento documentadas, con plazos y precios de referencia.",
+      "priceGs": 600000,
+      "link": "/es/services/treatment-planning"
     }
   ]
 }
