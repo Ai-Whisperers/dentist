@@ -3,142 +3,107 @@
 # ESTRATEGIA DE PRESENCIA DIGITAL
 ## Dra. Gabriella González Pane
 
-**Objetivo**: Construir presencia digital que comunique expertise y genere confianza
+**Objetivo**: Convertir la web y los canales digitales en prueba pública del criterio clínico, no en escaparate de servicios.
 
 ---
 
 ## PRINCIPIO FUNDAMENTAL
 
-> Para este proyecto, la presencia digital no es marketing — es prueba.
+> Presencia digital = evidencia, no publicidad.
 
-Los pacientes que buscan second opinion o que están evaluando opciones buscan evidencia. Quieren ver casos reales, entender la filosofía, sentir confianza antes de agendar. La presencia digital existe para responder a esa necesidad.
-
----
-
-## ELEMENTOS DE PRESENCIA
-
-### Prioridad 1 — Google Business Profile
-
-**Por qué**: Es lo primero que aparece cuando alguien busca "odontólogo Asunción"
-
-**Optimización**:
-- Fotos del espacio de trabajo (limpio, professional, moderno)
-- Horarios actualizados
-- Descripción que comunique especialización en casos complejos
-- Fotos de resultados (con consentimiento)
-- Reviews responder a todas
-
-**Métricas a seguir**: Búsquedas que generan visitas, acciones de llamado/mensaje
+Lo que los pacientes necesitan antes de agendar no es más información — es credibilidad. Cada pieza digital debe responder una objeción concreta: "¿Me explicará las opciones?", "¿Cobra lo que dice?", "¿Habla inglés?", "¿Se tomará el tiempo de analizar mi caso?".
 
 ---
 
-### Prioridad 2 — Portfolio de Casos
+## POSICIÓN ACTUAL
 
-**Por qué**: Es la prueba concreta de la capacidad de planning
+Ya no se trata de si invertimos en web. La web existe y se construye por etapas. La pregunta ahora es **qué canales acompañan a la web** para que cada etapa produzca la prueba que el sitio no puede generar solo.
 
-**Formato**:
-- Antes/después simple (no necesito web compleja)
-- Puede ser PDF o documento que se comparte en consulta
-- Con consentimiento del paciente
+### Canales por orden de impacto
 
-**Casos a documentar**:
-1. Caso complejo que requirió planning múltiples fases
-2. Caso de rehabilitación donde se rechazó overtreatment
-3. Second opinion donde se ofreció alternativa menos invasiva
-4. Caso con resultado excelente a largo plazo (follow-up)
-
-**Ádhoc**: No necesito publicar todo — el portfolio existe para compartir en consultas y con pacientes potenciales que quieran ver evidencia antes de agendar.
-
----
-
-### Prioridad 3 — Testimonios Estructurados
-
-**Por qué**: Social proof para pacientes que buscan confianza
-
-**Formato**:
-- Google Reviews (las más visibles)
-- Testimonios escritos (con firma y foto si es posible)
-- Video testimonial (si hay pacientes dispuestos)
-
-**Qué decir**:
-- "Me explicó las opciones cuando otros solo me querían hacer un procedimiento"
-- "Me tomó tiempo entender mi caso antes de actuar"
-- "Me derivó cuando se dio cuenta de que no era el mejor para mi caso específico"
-
----
-
-### Prioridad 4 — LinkedIn (English y Español)
-
-**Por qué**: Para patients extranjeros y networking con otros profesionales
-
-**Optimización**:
-- Profile completo con experiencia real
-- Mencionar second opinion y casos complejos
-- Philosophy en la bio: "Odontología con criterio, no con prisa"
-- Publicar ocasionalmente sobre temas de salud oral (educativo, no ventas)
-
----
-
-### Prioridad 5 — Web (futuro, solo si hay inversión)
-
-**Solo si se hace clínica propia o se invierte fuerte en marketing**
-
-Si se llega a Opción C (clínica propia), aí sí tiene sentido una web con:
-- landing page simple con filosofía y servicios
-- Portfolio de casos
-- Formulario de contacto
-- Agendamiento online
-
-**Antes de eso**: No invertir en web. Google Business + portfolio就够了.
-
----
-
-## LO QUE NO NECESITA
-
-- Instagram/TikTok para dental (no es el canal是对的)
-- Content marketing activo (blog, newsletter)
-- Paid ads todavía
-- App o herramientas complejas
-
----
-
-## TIMELINE
-
-### Fase 1 (mes 1-2)
-- Optimize Google Business Profile
-- Recopilar 3-5 testimonios de pacientes existants
-- Crear primer portfolio de casos (5-8 casos documentados)
-
-### Fase 2 (mes 3-6)
-- Active LinkedIn con perfil optimizado
-- Empezar a pedir Reviews a pacientes satisfechos
-- Ver qué genera inquiries y trackear
-
-### Fase 3 (mes 6-12)
-- Evaluar resultados de presencia digital
-- Decidir si necesita web basada en inquiries
-- Considerar si hay volume para content ativo
-
----
-
-## MÉTRICAS
-
-| Canal | Métrica | Target |
+| Canal | Rol | Estado |
 |---|---|---|
-| Google Business | Profile views/mes | +20% en 6 meses |
-| Google Business | Calls from profile/mes | 10-15 |
-| Portfolio | Pacientes que preguntan por él | 20% de nuevos |
-| LinkedIn | Conexiones relevantes | 50+ profesionales |
-| Reviews | Rating promedio | 4.8+ |
+| **Sitio web** | Página de aterrizaje controlada, estructura SEO, pricing público, estructura second opinion | En construcción |
+| **Google Business Profile** | Prueba local inmediata, mapa, reseñas, horarios | Pendiente crear/verificar |
+| **LinkedIn EN/ES** | Perfil profesional, contenido educativo ocasional, referrals internacionales | Pendiente activar |
+| **WhatsApp Business** | Coordinación real, mensajes rápidos, coherencia con sitio | Pendiente migrar a línea dedicada |
+| **Newsletter** | NO priorizar. No hay contenido sostenible todavía | Descartado Fase 1 |
+| **Instagram/TikTok** | No es el canal para odontología premium en Asunción | Descartado |
+
+---
+
+## PRIORIDADES FASE 0 (web ya viva)
+
+1. **Estructura del sitio con señales de confianza**
+   - Pricing publicado en Gs, no texto.
+   - English/español visibles desde la primera página.
+   - Second opinion como servicio destacado, no como ítem de menú.
+   - Filosofía clínica (conservación, no overtreatment, derivación) como claim, no como detalle.
+2. **Google Business Profile verificado**
+   - Nombre: "Dra. Gabriella González Pane — Odontología con Criterio"
+   - Dirección confirmada, horario exacto, teléfono WhatsApp.
+   - Descripción centrada en second opinion y casos complejos.
+   - 10 reseñas objetivo en los primeros 30 días de sitio vivo.
+3. **LinkedIn perfil optimizado**
+   - Bio con posición clara: "Odontología con criterio, no con prisa | Second opinions | Asunción, Paraguay"
+   - Experiencia y proyectos ligados a planificación de tratamiento y casos complejos.
+4. **WhatsApp Business con respuestas rápidas**
+   - Saludo, disponibilidad, cómo pedir segunda opinión, cobro/seguro.
+   - Mensaje de ausencia coherente con horario.
+
+---
+
+## PRIORIDADES FASE 1 (primeros 3 meses tras sitio vivo)
+
+1. **Contenido = case study, no blog entretenido**
+   - 4-6 casos reales documentados (con consentimiento): complejos, de segunda opinión, de rechazo de overtreatment, de resultado largo plazo.
+   - Cada caso muestra: situación inicial, opciones, por qué se descartó lo agresivo, resultado y seguimiento.
+   - Formato: página dedicada dentro del sitio, no PDF suelto.
+2. **Reviews sistemáticos**
+   - Preguntar reseña a todo paciente que termine satisfecho.
+   - Responder TODAS las reseñas, buenas y regularas.
+   - META: 4.8+ en 90 días.
+3. **Especialistas aliados**
+   - 2-3 referentes reales por especialidad (periodoncia, endodoncia, cirugía).
+   - Acuerdo simple: una descripción clara de lo que enviamos y por qué lo enviamos.
+   - Publicar la red en el sitio como señal de honestidad, no como lista de socios comerciales.
+
+---
+
+## PRIORIDADES FASE 2 (meses 3-6)
+
+1. **Contenido educativo ligado a servicios**
+   - Un artículo largo por tema, vinculado directo a página de servicio.
+   - Aterrizar en la decisión: "Si te preguntas si necesitas endodoncia o extracción, pide una segunda opinión escrita."
+2. **Mensajes outbound por LinkedIn a expats y empresas**
+   - Perfil optimizado + contenido = inbound. Solo entonces outbound.
+   - Objetivo: 2 reuniones por semana, 1 deal cerrado por mes.
+3. **Programa de referidos simple**
+   - Mecánica única: quien refiere y completa tratamiento recibe crédito aplicable a próxima visita.
+   - Sin puntos, sin niveles, sin cash. Burocracia mínima.
+
+---
+
+## MÉTRICAS QUE IMPORTAN
+
+| Canal | Métrica | Objetivo 90 días |
+|---|---|---|
+| Sitio | Visitas orgánicas | 100+/mes |
+| Sitio | Contactos por formulario o WhatsApp desde sitio | 10-15/mes |
+| Google Business | Llamadas y mensajes | 10-15/mes |
+| Google Business | Valoración promedio | 4.8+ |
+| CRM | Referidos recividos | 2-3/mes |
+| CRM | Tasa conversión consulta → tratamiento | >60% |
 
 ---
 
 ## INVERSIÓN
 
-- **Tiempo**: 2-4 horas/mes en mantener presencia
-- **Dinero**: Prácticamente ninguno para Fase 1-2
-- **Solo si**: Se invierte en web cuando haya clínica propia
+- Tiempo: 3-5 horas/semana (Fase 0-1), decrece a 2-3 horas/semana en Fase 2.
+- Dinero: hosting y dominio. Apps/optimizaciones adicionales solo si se validan señales de demanda.
+- Decisión clave que desbloquea todo: teléfono dedicado y email profesional para WhatsApp Business, Google, dominio.
 
 ---
 
-**Ver también**: `00_STRATEGIC/financial-pricing/brand-positioning-premium.md` para mensajes clave
+**Versión**: 2.0 — Junio 2026
+**Cambios**: Eliminada la postura anti-web. El sitio es el activo central; los demás canales amplifican credibilidad y generan inbound cualificado.
