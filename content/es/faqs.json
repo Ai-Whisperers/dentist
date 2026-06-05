@@ -1,0 +1,82 @@
+{
+  "title": "Preguntas frecuentes",
+  "groups": [
+    {
+      "name": "General",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta una consulta?",
+          "a": "La consulta inicial cuesta entre Gs 300.000 y Gs 450.000 dependiendo de la complejidad. Incluye examen, diagnóstico y presupuesto claro."
+        },
+        {
+          "q": "¿Aceptan seguro médico?",
+          "a": "Trabajamos como consultorio privado. Emitimos factura legal con RUC para que puedas reclamar el reembolso por tu cuenta."
+        },
+        {
+          "q": "¿Atienden a niños?",
+          "a": "Atiendo niños desde los 10-12 años en adelante. Para niños más pequeños o casos que requieren manejo conductual específico, derivo a un odontopediatra de confianza."
+        },
+        {
+          "q": "¿Hay estacionamiento?",
+          "a": "Aún no tengo confirmación oficial. Cuando coordines la cita, te paso las indicaciones exactas de acceso."
+        }
+      ]
+    },
+    {
+      "name": "Precios",
+      "items": [
+        {
+          "q": "¿Cómo es la forma de pago?",
+          "a": "Acepto efectivo, transferencia y Pagopar. Para procedimientos grandes se puede coordinar un plan de pago. Todo se documenta con factura legal."
+        },
+        {
+          "q": "Los precios de la web son finales?",
+          "a": "Son referenciales. Pueden variar según complejidad del caso. En la consulta te confirmo precios definitivos antes de cualquier procedimiento."
+        }
+      ]
+    },
+    {
+      "name": "Segunda Opinión",
+      "items": [
+        {
+          "q": "¿Qué incluye la segunda opinión?",
+          "a": "Revisión completa del caso, propuesta alternativa si corresponde y un informe por escrito. No repito procedimientos innecesarios."
+        },
+        {
+          "q": "¿Tengo que llevar algo?",
+          "a": "Sí, radiografías, presupuestos previos o estudios que tengas. Cuanta más información, más útil la opinión."
+        }
+      ]
+    },
+    {
+      "name": "Turnos y Horarios",
+      "items": [
+        {
+          "q": "¿Cuánto dura el turno?",
+          "a": "La primera consulta suele ser de 45-60 minutos. Los controles son más cortos, entre 20 y 30 minutos."
+        },
+        {
+          "q": "¿Cómo cancelo o reprogramo?",
+          "a": "Pedime por WhatsApp con al menos 24 horas de anticipación. No hay multa, solo pido aviso para ceder el turno a otro paciente."
+        },
+        {
+          "q": "¿Hay lista de espera?",
+          "a": "No. Normalmente hay disponibilidad dentro de la semana."
+        }
+      ]
+    },
+    {
+      "name": "Expat / Atención en inglés",
+      "items": [
+        {
+          "q": "¿Puedo hacer la consulta en inglés?",
+          "a": "Sí. Atiendo pacientes internacionales de forma habitual y la consulta puede ser íntegramente en inglés."
+        },
+        {
+          "q": "¿Para expats, qué documentos necesito?",
+          "a": "Radiografías o estudios previos y datos clínicos básicos. Si tenés seguro internacional, traé la cartilla para el reembolso."
+        }
+      ]
+    }
+  ]
+}

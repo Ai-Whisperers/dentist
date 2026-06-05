@@ -1,0 +1,82 @@
+{
+  "title": "Frequently asked questions",
+  "groups": [
+    {
+      "name": "General",
+      "items": [
+        {
+          "q": "How much is a consultation?",
+          "a": "The initial visit costs Gs 300,000–450,000 depending on complexity. It includes review, diagnosis, and a clear quote."
+        },
+        {
+          "q": "Do you accept insurance?",
+          "a": "Private practice. We issue legal invoices so you can claim reimbursement. Most plans allow this."
+        },
+        {
+          "q": "Do you treat children?",
+          "a": "From around 10–12 years old. Younger or behaviorally complex cases are referred to a trusted pediatric dentist."
+        },
+        {
+          "q": "Is there parking?",
+          "a": "Access details are shared after booking. Expect practical guidance on arrival."
+        }
+      ]
+    },
+    {
+      "name": "Pricing",
+      "items": [
+        {
+          "q": "How can I pay?",
+          "a": "Cash, bank transfer, or Pagopar. Larger treatments can be split by arrangement. Legal invoice always included."
+        },
+        {
+          "q": "Are web prices final?",
+          "a": "They are reference prices. Final cost is confirmed during the visit before any procedure begins."
+        }
+      ]
+    },
+    {
+      "name": "Second Opinion",
+      "items": [
+        {
+          "q": "What does a second opinion include?",
+          "a": "A case review, alternative proposal if warranted, and written documentation. No unnecessary repetition of procedures."
+        },
+        {
+          "q": "What should I bring?",
+          "a": "X-rays, previous estimates, and any existing clinical records. The more info, the better."
+        }
+      ]
+    },
+    {
+      "name": "Appointments and Hours",
+      "items": [
+        {
+          "q": "How long is an appointment?",
+          "a": "First visit: 45–60 minutes. Checkups: 20–30 minutes. Specific procedures are timed beforehand."
+        },
+        {
+          "q": "How do I cancel or reschedule?",
+          "a": "Message me on WhatsApp at least 24 hours ahead. No penalty, just notice so I can offer the slot to someone else."
+        },
+        {
+          "q": "Is there a waiting list?",
+          "a": "Not currently. I usually have availability within the week."
+        }
+      ]
+    },
+    {
+      "name": "Expat / English",
+      "items": [
+        {
+          "q": "Can the consultation be in English?",
+          "a": "Yes. I regularly treat international patients and the full visit can be in English if you prefer."
+        },
+        {
+          "q": "What should expats prepare?",
+          "a": "Previous X-rays, basic medical history, and insurance/card details if seeking reimbursement."
+        }
+      ]
+    }
+  ]
+}

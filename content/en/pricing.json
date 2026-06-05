@@ -1,0 +1,96 @@
+{
+  "title": "Pricing",
+  "intro": "Reference prices by service. Final cost is confirmed at the visit based on case complexity.",
+  "groups": [
+    {
+      "name": "Consultations and diagnosis",
+      "items": [
+        { "name": "Standard consultation", "priceGs": 300000, "duration": "30 min" },
+        { "name": "Extended consultation", "priceGs": 400000, "duration": "45-60 min" },
+        { "name": "Second opinion", "priceGs": 450000, "duration": "45-60 min", "includes": "Written documentation" },
+        { "name": "Second opinion + treatment plan", "priceGs": 600000, "duration": "60-90 min", "includes": "Written plan with options" }
+      ]
+    },
+    {
+      "name": "General dentistry",
+      "items": [
+        { "name": "Cleaning / prophylaxis", "priceGs": 280000 },
+        { "name": "Deep cleaning per quadrant", "priceGs": 400000 },
+        { "name": "Simple restoration (1 surface)", "priceGs": 350000 },
+        { "name": "Medium restoration (2 surfaces)", "priceGs": 450000 },
+        { "name": "Complex restoration (3+ surfaces)", "priceGs": 550000 },
+        { "name": "Complex restoration (large anatomy)", "priceGs": 700000 }
+      ]
+    },
+    {
+      "name": "Endodontics",
+      "items": [
+        { "name": "Anterior", "priceGs": 500000 },
+        { "name": "Premolar", "priceGs": 700000 },
+        { "name": "Molar", "priceGs": 1200000 },
+        { "name": "Complex molar / retreatment", "priceGs": 1500000 }
+      ]
+    },
+    {
+      "name": "Surgery",
+      "items": [
+        { "name": "Simple extraction", "priceGs": 180000 },
+        { "name": "Surgical extraction", "priceGs": 350000 },
+        { "name": "Wisdom tooth simple", "priceGs": 400000 },
+        { "name": "Wisdom tooth surgical", "priceGs": 600000 },
+        { "name": "Root remnant", "priceGs": 250000 }
+      ]
+    },
+    {
+      "name": "Prosthodontics",
+      "items": [
+        { "name": "Zirconia crown", "priceGs": 3500000, "includes": "Lab included" },
+        { "name": "E-max crown", "priceGs": 4500000, "includes": "Lab included" },
+        { "name": "Metal-ceramic crown", "priceGs": 2800000 },
+        { "name": "Provisional crown", "priceGs": 400000 },
+        { "name": "Complete denture per arch", "priceGs": 2500000 },
+        { "name": "Partial flexible denture", "priceGs": 1800000 },
+        { "name": "Pontic per unit", "priceGs": 1200000 }
+      ]
+    },
+    {
+      "name": "Implants",
+      "items": [
+        { "name": "Standard titanium implant", "priceGs": 1200000, "note": "Crown not included" },
+        { "name": "Swiss titanium implant", "priceGs": 1800000, "note": "Crown not included" },
+        { "name": "Crown on custom abutment", "priceGs": 4000000 },
+        { "name": "Bone graft small", "priceGs": 600000 },
+        { "name": "Bone graft large", "priceGs": 1200000 }
+      ]
+    },
+    {
+      "name": "Aesthetics",
+      "items": [
+        { "name": "Home bleaching per arch", "priceGs": 1200000 },
+        { "name": "In-office bleaching per arch", "priceGs": 1800000 },
+        { "name": "Direct composite veneer per tooth", "priceGs": 600000 },
+        { "name": "Porcelain veneer per unit", "priceGs": 3500000, "includes": "Lab included" }
+      ]
+    },
+    {
+      "name": "Pediatric",
+      "items": [
+        { "name": "Child consultation", "priceGs": 200000 },
+        { "name": "Fluoride treatment", "priceGs": 100000 },
+        { "name": "Simple child restoration", "priceGs": 200000 },
+        { "name": "Stainless steel crown", "priceGs": 400000 }
+      ]
+    },
+    {
+      "name": "Corporate",
+      "note": "Priority access program with preventive benefits and discounts.",
+      "items": [
+        { "name": "Micro 2-5", "priceGs": 180000, "unit": "employee/month", "includes": "2 checkups/year + 1 cleaning" },
+        { "name": "Staff 5-15", "priceGs": 160000, "unit": "employee/month", "includes": "3 checkups/year + 1 cleaning" },
+        { "name": "Small company 5-20", "priceGs": 150000, "unit": "employee/month", "includes": "2 checkups/year + 1 cleaning" },
+        { "name": "Mid company 21-100", "priceGs": 130000, "unit": "employee/month", "includes": "4 checkups/year + 2 cleanings" },
+        { "name": "Large company 100+", "priceGs": 110000, "unit": "employee/month", "includes": "6 checkups/year + 2 cleanings" }
+      ]
+    }
+  ]
+}
