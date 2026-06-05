@@ -26,20 +26,19 @@ La oportunidad: Mercado premium + expats + "Dental CIO" como servicio diferencia
 
 | Folder | Content | Files |
 |--------|---------|-------|
-| 00_STRATEGIC/ | Strategic documents | 8 |
-| 01_RESEARCH/ | Research reports | 19 |
-| 02_MEETINGS/ | Meeting materials | 10 |
-| 03_LAUNCH/ | Execution plans | 22 |
-| 04_SALES/ | Corporate agreements | 2 |
-| 05_OPERATIONS/ | Operations + legal | 17 |
-| 06_MARKETING/ | Digital presence | 2 |
-| 07_DESIGN/ | Brand + website | 14 |
-| 08_WHATSAPP/ | WhatsApp automation | 6 |
-| 09_TEMPLATES/ | Patient templates | 4 |
-| **TOTAL** | | **~135 files** |
-
----
-
+| 00_STRATEGIC/ | Strategic documents | 10 |
+| 01_RESEARCH/ | Research reports | 30 |
+| 02_MEETINGS/ | Meeting materials | 11 |
+| 03_LAUNCH/ | Execution plans | 35 |
+| 04_SALES/ | Corporate agreements | 3 |
+| 05_OPERATIONS/ | Operations + legal | 21 |
+| 06_MARKETING/ | Digital presence | 8 |
+| 07_DESIGN/ | Brand + website | 18 |
+| 08_WHATSAPP/ | WhatsApp automation | 4 |
+| 09_TEMPLATES/ | Patient templates | 5 |
+| ARCHIVE/ | Older project materials | 15 |
+| docs/ | GitHub docs | 1 |
+| **TOTAL** | | **161+ files** |
 ## Current Folder Structure
 
 ```

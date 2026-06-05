@@ -234,7 +234,7 @@ slowly
 | ¿Pagopar funciona para Gs 400k+? | ✅ Research dice sí | Confirmar con Pagopar |
 | ¿Cuánto tarda habilitación en Luque? | ❓ Abogado | Consultar |
 | ¿Hay demanda real de expats? | ✅ Research dice sí | Ivan network ya refiere |
-| ¿Space es accesible a Gs 1.5M/mes? | ❓ Necesita quotes | Visitar espacios |
+| ¿Space es accesible a Gs 3M/mes? | ❓ Necesita quotes | Visitar espacios |
 
 ---
 

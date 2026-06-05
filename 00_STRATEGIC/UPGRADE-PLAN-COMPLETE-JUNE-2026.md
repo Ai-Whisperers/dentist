@@ -10,7 +10,7 @@
 
 ## 1. EXECUTIVE SUMMARY
 
-The repo is **85 percent documented** but **0 percent launched**. ~181 .md files, 33985 lines, ~33MB, covering strategy, research, legal, payments, procurement, marketing, sales, ops. After the June 4 cleanup: pricing is now cross-referenced to a single source of truth, the decision rule is fixed to match real rent data (Gs 3M, not the dead Gs 1.5M threshold), and 5 high-confidence bloat files are archived. The decision tree is internally consistent.
+The repo is **85 percent documented** but **0 percent launched**. 161+ .md files, 33985 lines, 29MB, covering strategy, research, legal, payments, procurement, marketing, sales, ops. After the June 4 cleanup: pricing is now cross-referenced to a single source of truth, the decision rule is fixed to match real rent data (Gs 3M, not the dead Gs 1.5M threshold), and 5 high-confidence bloat files are archived. The decision tree is internally consistent.
 
 **The bottleneck is NOT the repo. The bottleneck is 4 phone calls (Ivan) + 11 personal-data items (Dra. GP).**
 
@@ -419,7 +419,7 @@ Agent can autonomously do these things:
 4. Write the 3-5 SEO blog posts (treatment-focused, expat-targeted).
 5. Write 2-3 more corporate sales outreach templates (if Dra. GP signs up for that scope).
 6. Reconcile the 3-Option phasing recommendation (3-strategic-options-analysis.md vs master-launch-roadmap.md).
-7. Update COMPLETE-INDEX.md (currently stale - 138 files, actual 181).
+7. Update COMPLETE-INDEX.md and README.md file counts to match actual 161+ .md file count.
 8. Write a 1-page Phase 0 checklist for Dra. GP and Ivan (mobile-friendly).
 9. Prep all the DenPro / Pagopar / Bancard signup forms (filled with placeholder data, ready for Dra. GP).
 10. Build a Phase 1 KPI dashboard template (Google Sheets).

@@ -145,7 +145,7 @@ If it takes 6 months to reach break-even (not 3), you need cash to cover the gap
 
 | Mes | OpEx (new) | Income (new) | Net new practice | Personal expenses | Cash position |
 |-----|-----------|-------------|-----------------|-----------------|---------------|
-| 0 (start) | -Gs 1.5M | Gs 0 | -Gs 1.5M | -Gs 15M | **INITIAL: Gs ___M needed** |
+| 0 (start) | -Gs 3.0M | Gs 0 | -Gs 3.0M | -Gs 15M | **INITIAL: Gs ___M needed** |
 | 1 | -Gs 1.8M | Gs 2M | +Gs 0.2M | -Gs 15M | Need ~Gs 16M reserves |
 | 2 | -Gs 1.8M | Gs 5M | +Gs 3.2M | -Gs 15M | Improving |
 | 3 | -Gs 1.8M | Gs 7M | +Gs 5.2M | -Gs 15M | Break-even month 3 |
@@ -154,7 +154,7 @@ If it takes 6 months to reach break-even (not 3), you need cash to cover the gap
 
 | Mes | OpEx (new) | Income (new) | Net new practice | Personal expenses | Cash position |
 |-----|-----------|-------------|-----------------|-----------------|---------------|
-| 0 (start) | -Gs 1.5M | Gs 0 | -Gs 1.5M | -Gs 15M | **INITIAL: Gs ___M needed** |
+| 0 (start) | -Gs 3.0M | Gs 0 | -Gs 3.0M | -Gs 15M | **INITIAL: Gs ___M needed** |
 | 1 | -Gs 1.8M | Gs 1M | -Gs 0.8M | -Gs 15M | Need ~Gs 17M reserves |
 | 2 | -Gs 1.8M | Gs 2M | +Gs 0.2M | -Gs 15M | Need ~Gs 15M reserves |
 | 3 | -Gs 1.8M | Gs 3M | +Gs 1.2M | -Gs 15M | Need ~Gs 14M reserves |

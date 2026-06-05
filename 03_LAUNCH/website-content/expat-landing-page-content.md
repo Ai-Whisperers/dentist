@@ -71,7 +71,7 @@ Second Opinion Consultation:  Gs 400-600k
 Tooth Restoration:         from Gs 400k
 Professional Cleaning:      from Gs 150k
 Root Canal:                 from Gs 600k
-Crown (zirconia):          from Gs 1.5M
+Crown (zirconia):          from Gs 3.5M
 
 = $50-80 USD for restorations
 = 70% cheaper than USA/EU prices

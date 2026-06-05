@@ -168,7 +168,7 @@ ALQUILER 3:
 
 | Criterio | Por qué importa | Mínimo aceptable |
 |----------|-----------------|-------------------|
-| **Precio** | Impacta break-even directamente | Gs 1.5M/mes o menos |
+| **Precio** | Impacta break-even directamente | Gs 3M/mes o menos |
 | **Equipado** | Evita inversión de Gs 30-80M | Tiene que tener silla + autoclave |
 | **Habilitación** | Si ya está, ahorra 2-3 meses | Debe estar habilitado o gestionar |
 | **Ubicación** | Traumato Center o UNA ideal | Zona médica, acceso fácil |
