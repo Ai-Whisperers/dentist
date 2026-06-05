@@ -12,9 +12,8 @@
 - [x] README/start-here/REPO-WORK-PLAN adjusted to reflect latest directory structure
 - [x] Key files referenced in `02_MEETINGS/` corrected: archive paths/status aligned in place
 
-### P2.3 Patient journey specs ⏸️ PENDING
-- 3 profiles: insurance, private premium, expat
-- Link existing templates per touchpoint
+### P2.3 Patient journey specs ✅ COMPLETE
+- `05_OPERATIONS/patient-communications/patient-journeys.md` complete; 3 de-identified journeys with template cross-refs per touchpoint
 
 ### P2.4 Competitor battle cards ⏸️ PENDING
 - Source: `01_RESEARCH/market/mystery-shop-20-clinics-report.md`
