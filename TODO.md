@@ -31,11 +31,10 @@
 
 ## P3 Operational Readiness
 
-### P3 Tools & CI
-- [x] `tools/repo-audit.py` provided: `summary`, `counts`, `stale`, `crossrefs`, `prices`, `sizes`
-- [x] `tools/update-pricing.py` dry-run scaffold added
-- [x] Validation confirmed: 0 stale, 0 broken links, 181 .md docs
-- [x] Pre-commit stale-check hook: `.git/hooks/pre-commit`
+### P3 Tools & CI ✅ COMPLETE
+- [x] `tools/repo-audit.py` with summary/stale/crossrefs/prices/sizes/all
+- [x] `tools/update-pricing.py` dry-run scaffold
+- [x] Pre-commit hook: `.git/hooks/pre-commit` stale-check
 - [x] CI workflow: `.github/workflows/repo-validation.yml`
 
 ---
@@ -47,10 +46,10 @@
 
 ---
 
-## P5 Growth / Next Phase
-- [ ] Sitemap → build manifest from `07_DESIGN/website/` (P5.1)
-- [ ] Corporate sales SLA doc 1-pager (P5.2)
-- [ ] Multi-location financial scenario extension (P5.3)
+### P5 Growth / Next Phase ✅ COMPLETE
+- `docs/sitemap-manifest.md` → build manifest from `07_DESIGN/website/` (P5.1)
+- `05_OPERATIONS/service-standard/sla-doc.md` → corporate SLA 1-pager (P5.2)
+- `00_STRATEGIC/financial-pricing/multi-location-scenario.md` → Option C financial scenario (P5.3)
 
 ---
 
