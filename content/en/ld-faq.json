@@ -1,0 +1,6 @@
+{
+  "_comment": "JSON-LD FAQPage payload. Build should inject this when site.json.schema.faqPage is true.",
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": []
+}
