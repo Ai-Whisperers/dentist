@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Message on WhatsApp",
+    "desc": "Tell me briefly what you're looking for: a second opinion, checkup, or specific treatment. You don't need to write much."
+  },
+  {
+    "id": "2",
+    "title": "I reply with available times",
+    "desc": "I share my availability and we schedule the appointment. I usually have openings within the week."
+  },
+  {
+    "id": "3",
+    "title": "First evaluation visit",
+    "desc": "The first visit is for assessment, explanation, and planning. Not for acting before you know what's going to happen."
+  }
+]

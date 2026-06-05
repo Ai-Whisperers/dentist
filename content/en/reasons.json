@@ -1,0 +1,32 @@
+[
+  {
+    "title": "You were told you need a procedure and you're not sure",
+    "desc": "The right diagnosis changes the treatment. We review your case with no conflict of interest and explain what's really necessary.",
+    "icon": "search"
+  },
+  {
+    "title": "You want to understand your mouth before spending money",
+    "desc": "Every procedure has cost and risk. We show options, prices, and timelines before you decide.",
+    "icon": "barChart"
+  },
+  {
+    "title": "You want a dentist who listens and doesn't rush you",
+    "desc": "The first visit is for assessment, explanation, and planning. Not for acting before you know what's happening.",
+    "icon": "messageCircle"
+  },
+  {
+    "title": "You prefer to communicate in English without repeating everything",
+    "desc": "I regularly treat international patients. The full consultation can be in English if you prefer.",
+    "icon": "globe"
+  },
+  {
+    "title": "You want premium materials and documented plans",
+    "desc": "We use high-end materials and deliver a written plan with options, costs, and sequence.",
+    "icon": "shield"
+  },
+  {
+    "title": "You need a specialist referral when it's warranted",
+    "desc": "I'm not a jack-of-all-trades. If your case needs a specialist, I refer. A good referral beats an incomplete solution.",
+    "icon": "users"
+  }
+]

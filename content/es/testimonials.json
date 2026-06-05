@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "name": "María R.",
+    "text": "Me explicó todo sin apuro. Me fui con un plan escrito y con la tranquilidad de saber exactamente qué necesitaba y cuánto iba a costar.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-05-20",
+    "color": "blue",
+    "initials": "MR",
+    "service": "Segunda opinión",
+    "stars": 5,
+    "quote": "Me explicó todo sin apuro."
+  },
+  {
+    "id": "2",
+    "name": "Carlos G.",
+    "text": "Vivo en Asunción hace tres años y no encontraba un dentista que hablara inglés. La Dra. GP me entendió perfecto y me dio opciones claras.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-05-18",
+    "color": "emerald",
+    "initials": "CG",
+    "service": "Consulta general",
+    "stars": 5,
+    "quote": "Habla inglés y da opciones claras."
+  },
+  {
+    "id": "3",
+    "name": "Andrea V.",
+    "text": "Me dijeron que necesitaba una corona y ella me mostró que con una restauración alcanzaba. Me ahorré dinero y preservé el diente.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-05-12",
+    "color": "violet",
+    "initials": "AV",
+    "service": "Odontología conservadora",
+    "stars": 5,
+    "quote": "Me ahorró una corona innecesaria."
+  },
+  {
+    "id": "4",
+    "name": "John D.",
+    "text": "Clear communication, written plan, no pressure. Exactly what I needed after a bad experience elsewhere.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-05-05",
+    "color": "amber",
+    "initials": "JD",
+    "service": "Second opinion",
+    "stars": 5,
+    "quote": "Clear communication, no pressure."
+  }
+]

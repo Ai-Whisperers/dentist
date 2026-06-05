@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Te dijeron que necesitás un procedimiento y no estás seguro",
+    "desc": "Un buen diagnóstico cambia el tratamiento. Revisamos tu caso sin conflicto de interés y te explicamos qué es realmente necesario.",
+    "icon": "search"
+  },
+  {
+    "title": "Querés entender tu boca antes de gastar dinero",
+    "desc": "Cada procedimiento tiene un costo y un riesgo. Te mostramos las opciones, los precios y los tiempos antes de decidir.",
+    "icon": "barChart"
+  },
+  {
+    "title": "Buscás una odontóloga que te escuche y no te apresure",
+    "desc": "La primera consulta es para evaluar, explicar y proponer. No para actuar sin que sepas qué va a pasar.",
+    "icon": "messageCircle"
+  },
+  {
+    "title": "Preferís comunicarte en inglés sin explicar todo de nuevo",
+    "desc": "Atiendo pacientes internacionales de forma regular. Podés tener toda la consulta en inglés si lo preferís.",
+    "icon": "globe"
+  },
+  {
+    "title": "Querés materiales premium y planes documentados",
+    "desc": "Usamos materiales de alta gama y te entregamos un plan escrito con opciones, costos y secuencia.",
+    "icon": "shield"
+  },
+  {
+    "title": "Necesitás derivación a especialista cuando corresponde",
+    "desc": "No soy todóloga. Si tu caso requiere un especialista, te derivo. Mejor un buen referido que una solución incompleta.",
+    "icon": "users"
+  }
+]

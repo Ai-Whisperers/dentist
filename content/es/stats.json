@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Años de experiencia",
+    "value": "20+",
+    "icon": "award"
+  },
+  {
+    "label": "Pacientes atendidos",
+    "value": "2,000+",
+    "icon": "heart"
+  },
+  {
+    "label": "Idiomas",
+    "value": "Español + English",
+    "icon": "globe"
+  },
+  {
+    "label": "Planes escritos",
+    "value": "100%",
+    "icon": "fileText"
+  }
+]

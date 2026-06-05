@@ -1,0 +1,30 @@
+{
+  "title": "Odontología con criterio. No con prisa.",
+  "subtitle": "Segundas opiniones, planificación de tratamiento y atención dental para quienes quieren entender sus opciones antes de decidir.",
+  "slides": [
+    {
+      "id": "1",
+      "title": "Odontología con criterio. No con prisa.",
+      "subtitle": "Evaluación honesta, plan escrito y explicación clara antes de cualquier procedimiento.",
+      "image": "/images/hero/dra-gp-hero-1.jpg",
+      "cta": "Agendar consulta",
+      "badge": "Bilingüe Español · English"
+    },
+    {
+      "id": "2",
+      "title": "Planificamos antes de actuar",
+      "subtitle": "No vendemos procedimientos. Diagnosticamos primero y te mostramos todas las opciones, con precio y tiempo.",
+      "image": "/images/hero/dra-gp-hero-2.jpg",
+      "cta": "Ver servicios",
+      "badge": "20+ años de experiencia"
+    },
+    {
+      "id": "3",
+      "title": "Segunda opinión honesta",
+      "subtitle": "¿Otro dentista te dijo que necesitás un procedimiento? Revisamos tu caso sin conflicto de interés.",
+      "image": "/images/hero/dra-gp-hero-3.jpg",
+      "cta": "Solicitar segunda opinión",
+      "badge": "Gs 450.000 – 600.000"
+    }
+  ]
+}

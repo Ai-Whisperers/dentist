@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Escribí por WhatsApp",
+    "desc": "Contame brevemente qué estás buscando: segunda opinión, control, o tratamiento específico. No hace falta que escribas mucho."
+  },
+  {
+    "id": "2",
+    "title": "Te respondo con opciones de horarios",
+    "desc": "Te paso mi disponibilidad y coordinamos el turno. Generalmente tengo turnos disponibles dentro de la semana."
+  },
+  {
+    "id": "3",
+    "title": "Primera consulta de evaluación",
+    "desc": "La primera consulta es para evaluar, explicar y proponer. No para actuar sin que sepas qué va a pasar."
+  }
+]

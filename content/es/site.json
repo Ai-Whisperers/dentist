@@ -1,0 +1,69 @@
+{
+  "site": {
+    "name": "Dra. Gabriella González Pane",
+    "slug": "dra-gabriela",
+    "url": "https://dra-gabriela.com.py",
+    "locale": "es-PY",
+    "metaDescription": "Odontología con criterio en Asunción. Segundas opiniones, planificación de tratamiento y atención bilingüe. 20+ años de experiencia."
+  },
+  "business": {
+    "phone": "+595 981 000 000",
+    "whatsapp": "595981000000",
+    "whatsappMessage": "Hola Dra. GP, me gustaría agendar una consulta.",
+    "email": "hola@dra-gp.com.py",
+    "address": "Luque, Paraguay",
+    "coordinates": {
+      "lat": -25.2836,
+      "lng": -57.4831
+    },
+    "currency": "PYG",
+    "ruc": "PENDIENTE",
+    "name": "Dra. Gabriella González Pane"
+  },
+  "features": {
+    "bookingForm": true,
+    "googleMapsEmbed": true,
+    "testimonials": true,
+    "stats": true,
+    "reasons": true,
+    "ctaBanner": true,
+    "process": true,
+    "beforeAfterSlider": false,
+    "blog": true,
+    "whatsappLink": true,
+    "cookieConsent": false,
+    "promoBanner": false,
+    "loyaltyProgram": false,
+    "giftCards": false,
+    "promotions": false,
+    "referral": false,
+    "clientPortal": false,
+    "ecommerce": false,
+    "products": false,
+    "cart": false,
+    "checkout": false
+  },
+  "navigation": {
+    "main": [
+      { "label": "Inicio", "href": "/es" },
+      { "label": "Filosofía", "href": "/es/filosofia" },
+      { "label": "Servicios", "href": "/es/servicios" },
+      { "label": "Precios", "href": "/es/precios" },
+      { "label": "Contacto", "href": "/es/contacto" }
+    ],
+    "more": [
+      { "label": "Segunda Opinión", "href": "/es/segunda-opinion" },
+      { "label": "Blog", "href": "/es/blog", "feature": "blog" },
+      { "label": "FAQ", "href": "/es/faq" }
+    ]
+  },
+  "openingHours": {
+    "mon": "09:00-18:00",
+    "tue": "09:00-18:00",
+    "wed": "09:00-18:00",
+    "thu": "09:00-18:00",
+    "fri": "09:00-18:00",
+    "sat": "Cerrado",
+    "sun": "Cerrado"
+  }
+}

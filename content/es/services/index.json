@@ -1,0 +1,20 @@
+{
+  "title": "Servicios",
+  "subtitle": "Cada servicio empieza por una evaluación honesta, no por una venta.",
+  "tabs": [
+    { "id": "segunda-opinion", "label": "Segunda Opinión" },
+    { "id": "planificacion-tratamiento", "label": "Planificación" },
+    { "id": "odontologia-general", "label": "Odontología General" },
+    { "id": "estetica-dental", "label": "Estética Dental" },
+    { "id": "rehabilitacion-oral", "label": "Rehabilitación Oral" }
+  ],
+  "bundles": [
+    {
+      "id": "1",
+      "name": "Valoración inicial",
+      "description": "Incluye revisión clínica, aclaración de dudas y plan escrito en una sola visita.",
+      "priceGs": 350000,
+      "link": "/es/servicios/segunda-opinion"
+    }
+  ]
+}

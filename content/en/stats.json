@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Years of experience",
+    "value": "20+",
+    "icon": "award"
+  },
+  {
+    "label": "Patients treated",
+    "value": "2,000+",
+    "icon": "heart"
+  },
+  {
+    "label": "Languages",
+    "value": "Spanish + English",
+    "icon": "globe"
+  },
+  {
+    "label": "Written plans delivered",
+    "value": "100%",
+    "icon": "fileText"
+  }
+]
