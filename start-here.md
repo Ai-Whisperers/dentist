@@ -134,8 +134,8 @@ Nobody in Asunción owns this. In a market of chains and overtreatment, honesty 
 | `00_STRATEGIC/financial-pricing/financial-model-projections-v2.md` | Numbers, projections, scenarios |
 | `01_RESEARCH/market/mystery-shop-20-clinics-report.md` | 20 clinics — where her pricing sits |
 | `02_MEETINGS/client-prep/data-collection/patient-survey-instrument.md` | What to send patients |
-| `02_MEETINGS/client-prep/roque-meeting/roque-meeting-results.md` | Fill this after the Roque meeting |
-| `02_MEETINGS/client-prep/roque-meeting/luque-space-shortlist-3-priorities.md` | 3 spaces to visit this week |
+| `02_MEETINGS/client-prep/roque-meeting/roque-meeting-results.md` | Roque meeting follow-up (archived) |
+| `02_MEETINGS/client-prep/roque-meeting/luque-space-shortlist-3-priorities.md` | Luque space candidates (archived) |
 
 ---
 
