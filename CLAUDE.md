@@ -115,7 +115,7 @@ MEJORÓ?    NO MEJORÓ
 Option A   OPTION B (starts NOW)
 + B slowly
 
-If Roque didn't offer real improvement AND space available at Gs 1.5M/mo:
+If Roque didn't offer real improvement AND space available at Gs 3M/mo (revised June 2026 from Gs 1.5M per actual procurement data):
 → START OPTION B THIS WEEK. No reason to wait.
 ```
 

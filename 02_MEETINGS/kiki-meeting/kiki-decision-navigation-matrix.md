@@ -32,7 +32,7 @@
                                        ▼
                           ┌─────────────────────────┐
                           │ RENTAL QUOTE VALIDATED? │
-                          │ (Gs 1.5M/mo or less,   │
+                          │ (Gs 3M/mo or less,         │
                           │  equipped, accessible)   │
                           └─────────────────────────┘
                                        │
@@ -118,16 +118,16 @@ Investment: Zero
 - Tests all assumptions in real conditions
 
 **First Steps (Week 1-2):**
-1. [ ] Find equipped rental space (must be Gs 1.5M/mo or less)
+1. [ ] Find equipped rental space (must be Gs 3M/mo or less - revised June 2026 from Gs 1.5M per actual procurement data)
 2. [ ] Register E.A.S. (eas.mic.gov.py)
 3. [ ] Setup Google Business Profile
 4. [ ] Setup WhatsApp Business
 
 **Financial Projection (Option B alone):**
 ```
-Break-even: 12-15 private patients/month
-At 20 private patients/month: +Gs 7-10M/month net
-At 30 private patients/month: +Gs 12-15M/month net
+Break-even: 20-30 private patients/month (was 12-15 - recalibrated to match actual OpEx data from procurement research; see PROCUREMENT-MASTER-GUIDE.md)
+At 20 private patients/month: +Gs 5-8M/month net (was 7-10M - reduced due to higher actual OpEx)
+At 30 private patients/month: +Gs 10-13M/month net (was 12-15M - reduced due to higher actual OpEx)
 Investment: ~Gs 1-2M initial
 Risk: Medium (keeps current income)
 ```
@@ -140,7 +140,7 @@ Risk: Medium (keeps current income)
 
 | Criteria | Minimum | Ideal | Blocking? |
 |----------|---------|-------|-----------|
-| Price | Gs 1.5M/mo | Gs 1.0-1.2M/mo | If >Gs 1.5M, risk increases |
+| Price | Gs 3M/mo | Gs 1.0-2.5M/mo | If >Gs 3M, risk increases |
 | Equipment | Dental chair + autoclave | +X-ray + better chair | Must have at least chair + autoclave |
 | Location | Traumato Center or UNA area | Luque central | Any zone with patient access |
 | Habilitación | Existing | Already approved | If needs new habilitation, adds 2-3 months |
@@ -150,10 +150,10 @@ Risk: Medium (keeps current income)
 
 | Quote Quality | Decision | Next Step |
 |-------------|----------|-----------|
-| **Excellent** (Gs 1M, equipped, enabled, soon) | Option B proceed immediately | Register E.A.S. this week |
-| **Good** (Gs 1.2-1.5M, equipped, enabled) | Option B proceed | Negotiate price or accept |
-| **Acceptable** (Gs 1.5M, needs minor work) | Option B proceed if committed | Factor in extra time/cost |
-| **Poor** (>Gs 1.5M, or not equipped, or far) | Option B delay OR find other space | Don't commit yet |
+| **Excellent** (Gs 2-2.5M, equipped, enabled, soon) | Option B proceed immediately | Register E.A.S. this week |
+| **Good** (Gs 2-2.5M, equipped, enabled) | Option B proceed | Negotiate price or accept |
+| **Acceptable** (Gs 2.5-3M, needs minor work) | Option B proceed if committed | Factor in extra time/cost |
+| **Poor** (>Gs 3M, or not equipped, or far) | Option B delay OR find other space | Don't commit yet |
 | **None found** | Pause Option B | Keep day job + Odontología 3 |
 
 ### If Rental Falls Through:
@@ -218,7 +218,7 @@ Risk: Medium (keeps current income)
 | If... | And... | Then... | Priority |
 |-------|--------|---------|---------|
 | Roque offers real improvement | Option A viable | Option A + parallel Option B slowly | High |
-| Roque offers token/nothing | Space found at Gs 1.5M or less | **Option B immediately** | CRITICAL |
+| Roque offers token/nothing | Space found at Gs 3M or less | **Option B immediately** | CRITICAL |
 | Roque offers token/nothing | No acceptable space yet | Option B delayed, find space first | Medium |
 | No financial runway | Any scenario | Option A or B only (no C) | High |
 | Market validation fails | Any scenario | Pause + more research | Low |
@@ -229,8 +229,10 @@ Risk: Medium (keeps current income)
 ## THE ONE-SENTENCE DECISION RULE
 
 ```
-If Roque didn't offer real improvement AND space is available at Gs 1.5M/mo or less:
+If Roque didn't offer real improvement AND space is available at Gs 3M/mo or less:
 → START OPTION B THIS WEEK. No reason to wait.
+
+(Original rule said Gs 1.5M threshold. Updated to Gs 3M based on actual procurement research showing the only currently verified equipped space is San Lorenzo at Gs 3M all-incl. See PROCUREMENT-MASTER-GUIDE.md for full rental landscape.)
 ```
 
 ---

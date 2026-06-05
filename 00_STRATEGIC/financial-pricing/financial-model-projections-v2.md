@@ -109,7 +109,9 @@ Continuar en Odontología 3 + práctica privada en espacio alquilado, evenings/w
 
 ### Break-Even
 
-- **Break-even: 12-15 pacientes private/mes @ Gs 400k promedio**
+- **Break-even: 20-30 pacientes private/mes @ Gs 400-500k promedio** (RECALIBRATED June 2026 using actual OpEx data from PROCUREMENT-MASTER-GUIDE)
+- This assumes FULL OpEx of Gs 8-13M/mes (rent Gs 3M + outsourced services Gs 3-4M + marketing Gs 2-3M + consumables scaling)
+- Lean scenario (DIY marketing, no full services) can break even at 12-15 patients/mes - see procurement guide for both scenarios
 - Con 130 pacientes/mes actuales, necesita convertir solo 10-15% a private
 - Conversión realista: 15-20% en 6-12 meses vía Ivan's network + Google
 
@@ -192,7 +194,7 @@ Options:
 
 ### Inversión: Gs 1-2M inicial + Gs 1-2M/mes OpEx
 ### Riesgo: Medio (mantiene income Odontología 3 + espacio alquilado)
-### Condición: Requiere encontrar espacio equipado a Gs 1.5M/mes o menos
+### Condición: Requiere encontrar espacio equipado a Gs 3M/mes o menos (revisado June 2026 con datos reales de procurement)
 
 ---
 
@@ -269,7 +271,7 @@ Dejar Odontología 3, práctica full-time en espacio propio.
 | Escenario | Ticket Private | Pacientes para Break-even |
 |----------|--------------|------------------------|
 | Conservador | Gs 300k | 18-20/mes |
-| Baseline | Gs 400k | 12-15/mes |
+| Baseline | Gs 400k | 20-30/mes (recalibrated) | |
 | Optimista | Gs 500k | 8-10/mes |
 
 ### Factor 3: Velocidad de Shift (Option B)

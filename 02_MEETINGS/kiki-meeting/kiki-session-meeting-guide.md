@@ -65,7 +65,7 @@ EL SEGURO EXTRAE:                 ~Gs 440,000 QUE DEBERÍAN SER SUYOS
 | Procedure | Insurance pays | Her target | Market range | Status |
 |-----------|---------------|------------|--------------|--------|
 | Restoration complex | Gs 60k | Gs 450-550k | Gs 400-550k | ✅ VALID |
-| Root canal molar | Gs 60k | Gs 1.2-1.6M | Gs 1-1.5M | ✅ VALID |
+| Root canal molar | Gs 60k | Gs 1.2-1.6M | Gs 3M | ✅ VALID |
 | Crown zirconia | Gs 2-3M | Gs 3-4M | Gs 3-4M | ✅ VALID |
 | Implant | N/A | $1,000-1,500 | $585-1,135 | ✅ VALID |
 | Second opinion consult | N/A | Gs 400-600k | New product | ✅ OPPORTUNITY |
@@ -113,7 +113,7 @@ EL SEGURO EXTRAE:                 ~Gs 440,000 QUE DEBERÍAN SER SUYOS
 ### Option B: Parallel Book — RECOMMENDED ✅
 
 **What:** Continue at Odontología 3 + private practice evenings/weekends  
-**Investment:** Gs 1-1.5M/month (rent equipped)  
+**Investment:** Gs 3M/month (rent equipped)  
 **Risk:** Medium  
 **Timeline:** 3-6 months to launch  
 
@@ -121,7 +121,7 @@ EL SEGURO EXTRAE:                 ~Gs 440,000 QUE DEBERÍAN SER SUYOS
 
 ```
 INVERSIÓN INICIAL: ~Gs 2-5M (registro E.A.S., licencias, website)
-COSTO MENSUAL: Gs 1-1.5M (alquiler equipado)
+COSTO MENSUAL: Gs 3M (alquiler equipado) - revised June 2026
 
 REVENUE TARGET:
 - 15 pacientes private/mes @ Gs 400k avg = Gs 6M/mes
@@ -134,7 +134,7 @@ NEED: Only 15-20 shift to private = 12-15% conversion
 ```
 
 **Steps:**
-1. Find equipped rental space in Luque (Gs 1-1.5M/month)
+1. Find equipped rental space in Luque (Gs 3M/month) - revised June 2026
 2. Register E.A.S. (2-4 weeks)
 3. Get municipal license + Pagopar/Bancard
 4. Start seeing patients 2-3 days/week (evenings + weekends)

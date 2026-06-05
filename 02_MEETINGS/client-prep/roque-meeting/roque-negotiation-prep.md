@@ -38,7 +38,7 @@ Write these on your hand or phone wallpaper.
 
 **Start Option B NOW - Parallel Private Practice**
 - Register E.A.S. (1-2 weeks)
-- Sign Luque space (~Gs 1.5M/month)
+- Sign Luque space (~Gs 3M/month)
 - Work evenings/weekends
 - 20 years experience, reputation, patient contacts, bilingual
 - WhatsApp system ready, patient scripts ready, legal docs ready
@@ -200,7 +200,7 @@ WALK AWAY IF:
 
 BATNA:
 - Register E.A.S. (1-2 weeks)
-- Sign Luque space (~Gs 1.5M/month)
+- Sign Luque space (~Gs 3M/month)
 - Work evenings/weekends
 - 20 years experience, reputation, system ready
 

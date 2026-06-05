@@ -174,7 +174,7 @@
 ### Evaluar alquileres en Luque:
 - **COP Clínica Odontología** — zona Traumato Center
 - **Frente a UNA** — Mariscal López
-- Consultorio equipado desde Gs 500k/día (no sirve) → busca mensual Gs 1-1.5M
+- Consultorio equipado desde Gs 500k/día (no sirve) → busca mensual Gs 2-3M (revisado June 2026 con datos reales de procurement)
 
 ---
 

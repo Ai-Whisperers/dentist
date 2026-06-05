@@ -116,7 +116,7 @@ slowly
 |------------|----------|--------|-------------------|
 | Pricing viable | Gs 400-550k restauraciones | ✅ CONFIRMADO — 20 clinics research | `01_RESEARCH/market/mystery-shop-20-clinics-report.md` |
 | Demanda existe | 20-30% pacientes premium | ❓ Pendiente | Su estimation + data base |
-| Space affordable | Gs 1-1.5M/mes disponible | ❓ Pendiente | 3 quotes reales |
+| Space affordable | Gs 3M/mes disponible (revised June 2026) | ❓ Pendiente | 3 quotes reales |
 | Legal clear | puede usar base de datos | ❓ Consultar abogado | Lawyer consult |
 | Runway | 6+ meses cash flow | ❓ Necesita data | Balance real |
 | Pagopar viable | Implementación viable | ✅ research dice sí | Contact Pagopar |

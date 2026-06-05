@@ -53,4 +53,4 @@ The entire decision tree depends on it.
 - Option B: Start parallel private practice NOW
 - Option C: Full exit (after B validated)
 
-If Roque did not offer real improvement AND space available at Gs 1.5M/mo → START B TODAY.
+If Roque did not offer real improvement AND space available at Gs 3M/mo → START B TODAY (revised June 2026 from Gs 1.5M per actual procurement data).

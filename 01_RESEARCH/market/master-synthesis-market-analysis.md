@@ -111,12 +111,12 @@ After comprehensive research across 6 key areas, the findings CONFIRM that Dra. 
 
 - Odonto Excellence (chain) multiple locations
 - Individual practices: Sanz Dent, Clínica Cisa, Dentopolis
-- Spaces renting from Gs 1-1.5M/month
+- Spaces renting from Gs 2-3M/month (revised June 2026 from Gs 1-1.5M per actual procurement data)
 - **EQUIPPED spaces exist** — don't need to buy equipment
 
 ### Recommended path:
 **Rent equipped in Luque, near Traumato Center or UNA area**
-- Gs 1-1.5M/month
+- Gs 2-3M/month (revised June 2026 from Gs 1-1.5M)
 - Already has dental chair, autoclave, X-ray
 - Start immediately
 - Test market before commitment
