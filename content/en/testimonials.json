@@ -49,6 +49,24 @@
     "initials": "JD",
     "service": "Second opinion",
     "stars": 5,
-    "quote": "Clear communication, no pressure."
+    "quote": "Clear communication, no pressure.",
+    "source": "Google Reviews",
+    "verified": true
+  },
+  {
+    "id": "5",
+    "name": "Laura M.",
+    "location": "Luque",
+    "text": "I came from Luque because the waiting room felt calm and professional. Here they gave me a written estimate and a timeline before starting anything.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-04-28",
+    "color": "sky",
+    "initials": "LM",
+    "service": "Treatment planning",
+    "stars": 5,
+    "quote": "Written plan first, always.",
+    "source": "Referral",
+    "verified": true
   }
 ]

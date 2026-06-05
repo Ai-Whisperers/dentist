@@ -1,96 +1,97 @@
 {
-  "title": "Precios",
-  "intro": "Precios referenciales por servicio. El valor final se define en la consulta según la complejidad del caso.",
-  "groups": [
+  "precios": {
+    "moneda": "Gs",
+    "descargo": "Precios referenciales sujetos a confirmación en consulta. No incluye costos de laboratorio.",
+    "cta_whatsapp": true,
+    "cta_whatsapp_text": "Pedí presupuesto por WhatsApp",
+    "segunda_opinion": {
+      "nombre": "Segunda opinion",
+      "rango_precio": "450.000 – 600.000",
+      "incluye": ["Revision de historial", "Examen clinico", "Informe escrito"],
+      "nota": "Sin costo de segunda opinion si avanzas con el tratamiento."
+    },
+    "planificacion": {
+      "nombre": "Planificacion de tratamiento",
+      "precio_desde": "A coordinar segun complejidad",
+      "incluye": ["Diagnostico por imagenes", "Propuesta de opciones", "Presupuesto escrito"],
+      "nota": "Plan sin compromiso."
+    }
+  },
+  "categorias": [
     {
-      "name": "Consultas y diagnóstico",
+      "clave": "odontologia-general",
+      "etiqueta_en": "General dentistry",
+      "etiqueta_es": "Odontologia general",
       "items": [
-        { "name": "Consulta estándar", "priceGs": 300000, "duration": "30 min" },
-        { "name": "Consulta extendida", "priceGs": 400000, "duration": "45-60 min" },
-        { "name": "Segunda opinión", "priceGs": 450000, "duration": "45-60 min", "includes": "Informe por escrito" },
-        { "name": "Segunda opinión + plan de tratamiento", "priceGs": 600000, "duration": "60-90 min", "includes": "Plan escrito con opciones" }
+        {
+          "nombre": "Consulta + evaluacion",
+          "precio": "150.000",
+          "duracion": "45–60 min"
+        },
+        {
+          "nombre": "Profilaxis (limpieza)",
+          "precio": "220.000",
+          "duracion": "40 min"
+        },
+        {
+          "nombre": "Resina (restauracion simple)",
+          "precio": "300.000 – 450.000",
+          "duracion": "30–45 min"
+        },
+        {
+          "nombre": "Extraccion simple",
+          "precio": "350.000 – 500.000",
+          "duracion": "20–30 min"
+        }
       ]
     },
     {
-      "name": "Odontología general",
+      "clave": "estetica-dental",
+      "etiqueta_en": "Cosmetic dentistry",
+      "etiqueta_es": "Estetica dental",
       "items": [
-        { "name": "Profilaxis", "priceGs": 280000 },
-        { "name": "Curetaje por cuadrante", "priceGs": 400000 },
-        { "name": "Operatoria simple (1 cara)", "priceGs": 350000 },
-        { "name": "Operatoria media (2 caras)", "priceGs": 450000 },
-        { "name": "Operatoria compleja (3+ caras)", "priceGs": 550000 },
-        { "name": "Operatoria compleja (anatomía)", "priceGs": 700000 }
+        {
+          "nombre": "Carillas de porcelana (por pieza)",
+          "precio": "Desde 2.500.000",
+          "duracion": "Variable"
+        },
+        {
+          "nombre": "Blanqueamiento profesional",
+          "precio": "800.000 – 1.200.000",
+          "duracion": "1 sesion"
+        }
       ]
     },
     {
-      "name": "Endodoncia",
+      "clave": "rehabilitacion-oral",
+      "etiqueta_en": "Oral rehabilitation",
+      "etiqueta_es": "Rehabilitacion oral",
       "items": [
-        { "name": "Anterior", "priceGs": 500000 },
-        { "name": "Premolar", "priceGs": 700000 },
-        { "name": "Molar", "priceGs": 1200000 },
-        { "name": "Molar compleja / retratamiento", "priceGs": 1500000 }
+        {
+          "nombre": "Corona por pieza",
+          "precio": "Desde 2.000.000",
+          "duracion": "Variable"
+        },
+        {
+          "nombre": "Protesis fija",
+          "precio": "A cotizar",
+          "duracion": "Variable"
+        }
       ]
     },
     {
-      "name": "Cirugía",
+      "clave": "segunda-opinion",
+      "etiqueta_en": "Second opinion",
+      "etiqueta_es": "Segunda opinion",
       "items": [
-        { "name": "Exodoncia simple", "priceGs": 180000 },
-        { "name": "Exodoncia quirúrgica", "priceGs": 350000 },
-        { "name": "Muela del juicio simple", "priceGs": 400000 },
-        { "name": "Muela del juicio quirúrgica", "priceGs": 600000 },
-        { "name": "Remanente radicular", "priceGs": 250000 }
-      ]
-    },
-    {
-      "name": "Prótesis",
-      "items": [
-        { "name": "Corona zirconia", "priceGs": 3500000, "includes": "Laboratorio incluido" },
-        { "name": "Corona E-max", "priceGs": 4500000, "includes": "Laboratorio incluido" },
-        { "name": "Corona metal-cerámica", "priceGs": 2800000 },
-        { "name": "Provisional", "priceGs": 400000 },
-        { "name": "Prótesis total por arco", "priceGs": 2500000 },
-        { "name": "Prótesis parcial flexible", "priceGs": 1800000 },
-        { "name": "Póntico por unidad", "priceGs": 1200000 }
-      ]
-    },
-    {
-      "name": "Implantes",
-      "items": [
-        { "name": "Implante titanio estándar", "priceGs": 1200000, "note": "No incluye corona" },
-        { "name": "Implante titanio suizo", "priceGs": 1800000, "note": "No incluye corona" },
-        { "name": "Corona sobre pilar custom", "priceGs": 4000000 },
-        { "name": "Injerto óseo pequeño", "priceGs": 600000 },
-        { "name": "Injerto óseo grande", "priceGs": 1200000 }
-      ]
-    },
-    {
-      "name": "Estética",
-      "items": [
-        { "name": "Blanqueamiento en casa", "priceGs": 1200000, "unit": "por arco" },
-        { "name": "Blanqueamiento en consultorio", "priceGs": 1800000, "unit": "por arco" },
-        { "name": "Carilla directa composite", "priceGs": 600000, "unit": "por diente" },
-        { "name": "Carilla porcelana", "priceGs": 3500000, "unit": "por unidad, incluye laboratorio" }
-      ]
-    },
-    {
-      "name": "Pediatría",
-      "items": [
-        { "name": "Consulta infantil", "priceGs": 200000 },
-        { "name": "Flúor", "priceGs": 100000 },
-        { "name": "Restauración simple infantil", "priceGs": 200000 },
-        { "name": "Corona acero inoxidable", "priceGs": 400000 }
-      ]
-    },
-    {
-      "name": "Empresas",
-      "note": "Programa empresarial con prioridad. Incluye checkups preventivos y descuentos.",
-      "items": [
-        { "name": "Micro 2-5", "priceGs": 180000, "unit": "empleado/mes", "includes": "2 consultas/año + 1 limpieza" },
-        { "name": "Staff 5-15", "priceGs": 160000, "unit": "empleado/mes", "includes": "3 consultas/año + 1 limpieza" },
-        { "name": "Empresa chica 5-20", "priceGs": 150000, "unit": "empleado/mes", "includes": "2 consultas/año + 1 limpieza" },
-        { "name": "Empresa mediana 21-100", "priceGs": 130000, "unit": "empleado/mes", "includes": "4 consultas/año + 2 limpiezas" },
-        { "name": "Empresa grande 100+", "priceGs": 110000, "unit": "empleado/mes", "includes": "6 consultas/año + 2 limpiezas incluidas" }
+        {
+          "nombre": "Segunda opinion escrita",
+          "precio": "450.000 – 600.000",
+          "duracion": "2–3 dias"
+        }
       ]
     }
-  ]
+  ],
+  "cta_texto": "Queres un plan claro por escrito? Agenda tu consulta.",
+  "cta_texto_en": "Want a clear, written plan? Book a consultation."
 }

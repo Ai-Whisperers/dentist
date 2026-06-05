@@ -49,6 +49,24 @@
     "initials": "JD",
     "service": "Second opinion",
     "stars": 5,
-    "quote": "Clear communication, no pressure."
+    "quote": "Clear communication, no pressure.",
+    "source": "Google Reviews",
+    "verified": true
+  },
+  {
+    "id": "5",
+    "name": "Laura M.",
+    "location": "Luque",
+    "text": "Vine de Luque porque el ambiente se sentía tranquilo y profesional. Me dieron un presupuesto escrito y un plazo antes de empezar cualquier cosa.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-04-28",
+    "color": "sky",
+    "initials": "LM",
+    "service": "Planificación de tratamiento",
+    "stars": 5,
+    "quote": "Plan por escrito primero, siempre.",
+    "source": "Referido",
+    "verified": true
   }
 ]

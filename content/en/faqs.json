@@ -66,6 +66,19 @@
       ]
     },
     {
+      "name": "Sedation and anxiety",
+      "items": [
+        {
+          "q": "Do you treat anxious patients?",
+          "a": "Yes. Work is paced with clear explanations and, when needed, conscious sedation. The goal is a tolerable visit, not a traumatic one."
+        },
+        {
+          "q": "What is conscious sedation?",
+          "a": "A medically supervised relaxed state. You remain responsive but without pain or unpleasant memory of the procedure."
+        }
+      ]
+    },
+    {
       "name": "Expat / English",
       "items": [
         {

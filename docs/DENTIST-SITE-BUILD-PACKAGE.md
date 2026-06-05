@@ -25,6 +25,7 @@ Located at repo root under `content/`. Mirrors `Ai-Whisperers/site-template` sch
 
 ### 1.2 Canonical Docs
 - `docs/site-template-content-guide.md` — authoritative doc for content mapping, SEO, JSON-LD, and migration map
+- `01_RESEARCH/competitive/competitor-research-dentist-lessons-202.md` — 200 competitive lessons and priority matrix
 
 ---
 
@@ -77,6 +78,14 @@ You are maintaining the dentist site content package. Your goals:
 | 4 | Implement daily content-sync CRON |
 | 5 | Image/placeholder audit + placeholder pipeline |
 | 6 | Launch readiness checklist |
+
+**Competitive upgrade overlay (from 200-lesson research):**
+- Hero: benefit-first headline + 3-slide max + trust badge + WhatsApp from hero
+- Pricing: grouped tables + disclaimer + WhatsApp CTA + PDF quote offer
+- Process: 4-step visual journey + written-plan guarantee + what-to-bring + cancellation
+- Testimonials: source + verified flags + social proof diversity (Luque, expats, referrals)
+- FAQ: sedation/anxiety group + expat group + insurance detail
+- Trust: show license numbers, biosecurity, real photos, payment logos, amenities
 
 ### 3.3 Owner Matrix
 | Task | AI | Human |

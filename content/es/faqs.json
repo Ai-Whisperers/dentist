@@ -66,6 +66,19 @@
       ]
     },
     {
+      "name": "Sedación y ansiedad",
+      "items": [
+        {
+          "q": "¿Trabajan con pacientes temerosos?",
+          "a": "Sí. Se trabaja con pacing, explicación paso a paso y, cuando es necesario, sedación consciente. El objetivo es que la visita sea tolerable, no traumática."
+        },
+        {
+          "q": "¿Qué es la sedación consciente?",
+          "a": "Es un estado de relajación mantenido con supervisión médica. Te permite responder cuando se te habla, pero sin dolor ni registro desagradable del procedimiento."
+        }
+      ]
+    },
+    {
       "name": "Expat / Atención en inglés",
       "items": [
         {

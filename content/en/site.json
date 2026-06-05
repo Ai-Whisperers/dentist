@@ -7,11 +7,11 @@
     "metaDescription": "Conservative, planning-first dentistry in Asunción. English-speaking dentist. Second opinions, treatment plans, and transparent pricing."
   },
   "business": {
-    "phone": "+595 981 000 000",
+    "phone": "+595 XXX XXX XXX",
     "whatsapp": "595981000000",
     "whatsappMessage": "Hi Dra. GP, I'd like to book a consultation.",
     "email": "hola@dra-gp.com.py",
-    "address": "Luque, Paraguay",
+    "address": "Luque, Paraguay — exact address pending",
     "coordinates": {
       "lat": -25.2836,
       "lng": -57.4831
@@ -63,7 +63,23 @@
     "wed": "09:00-18:00",
     "thu": "09:00-18:00",
     "fri": "09:00-18:00",
-    "sat": "Closed",
+    "sat": "08:00-12:00",
     "sun": "Closed"
+  },
+  "trust": {
+    "license": "MSPBS registration pending",
+    "biosecurity": true,
+    "paymentMethods": ["Cash", "Transfer", "Pagopar"],
+    "amenities": ["WiFi", "Parking guidance", "AC"]
+  },
+  "ctaDefaults": {
+    "primary": "Book consultation",
+    "secondary": "Request second opinion",
+    "whatsapp": true
+  },
+  "schema": {
+    "localBusiness": true,
+    "faqPage": true,
+    "reviewSchema": true
   }
 }
