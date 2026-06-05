@@ -17,12 +17,15 @@
 
 ### Ivan (1.5 hours) - PHONE CALLS:
 
-**3 calls to Luque landlords (30 min total):**
+**3 calls to Luque landlords
+- [ ] | Luque landlord calls | Ivan | 2026-06-09 | 02_MEETINGS/client-prep/roque-meeting/luque-space-shortlist-3-priorities.md + phone log | | (30 min total):**
 1. (021) 412-XXXX - San Lorenzo equipped consultorio, ask: still available? Gs 3M confirmed? Habilitacion current?
 2. (021) XXX-XXXX - Local Comercial Centro #1, ask: rent + equipment availability
 3. (021) XXX-XXXX - Local Comercial Centro #2, ask: rent + equipment availability
 
-**4 calls to dental labs (60 min total):**
+**4 calls to dental labs
+- [ ] | 4 dental lab calls | Ivan | 2026-06-09 | 01_RESEARCH/procurement/MASTER-PROCUREMENT-GUIDE.md + call log | |
+- [ ] | Dental lab calls | Ivan | 2026-06-09 | 01_RESEARCH/procurement/MASTER-PROCUREMENT-GUIDE.md + call log | | (60 min total):**
 1. (021) 412 9900 - Alta Gama - WhatsApp first if no answer
    Ask: prices for PFM crown, zirconia monolithic, zirconia layered, e.max crown, veneer, 3-unit bridge, complete denture, night guard, turnaround, volume discount
 2. 0981 392334 - Lab Dental AM Antonio Morinigo - same questions
@@ -39,12 +42,16 @@ Use the LAB-MYSTERY-SHOP-CALL-KIT.md script in 01_RESEARCH/procurement/ for exac
 
 ### Dra. GP (3-4 hours) - VISIT SET:
 - Bring: CI, proof of address, RUC (if available)
-- Tasks: Get CI certified copies, apply for RUC for EAS, ask about Timbrado process
-- Online while there: Start EAS application at eas.mic.gov.py (need RUC + CI)
+- Tasks: Get CI certified copies, apply for RUC
+- [ ] | CI/RUC + EAS | Dra. GP | 2026-06-10 | CI copies + RUC file + EAS status | | for EAS, ask about Timbrado process
+- Online while there: Start EAS application
+- [ ] | EAS application | Dra. GP | 2026-06-09 | EAS receipt / submitted status | | at eas.mic.gov.py (need RUC + CI)
 - Timeline: 2-4 weeks for EAS approval
 
 ### Ivan (in parallel, 1 hour) - WHILE WAITING:
-- Build specialist referral list (1 page printable) - SEE SPECIALIST-LIST.md in 01_RESEARCH/procurement/
+- Build specialist referral list
+- [ ] | Specialist referral list | Ivan | 2026-06-10 | 01_RESEARCH/procurement/SPECIALIST-REFERRAL-LIST.md | |
+- [ ] | Specialist referral list | Ivan | 2026-06-10 | 01_RESEARCH/procurement/SPECIALIST-REFERRAL-LIST.md | | (1 page printable) - SEE SPECIALIST-LIST.md in 01_RESEARCH/procurement/
 - Identify 1-2 specialists per category: periodontist, endodontist, implantologist
 - Get their phone numbers from COP directory or Google Maps
 
@@ -54,13 +61,16 @@ Use the LAB-MYSTERY-SHOP-CALL-KIT.md script in 01_RESEARCH/procurement/ for exac
 
 ### Ivan (3.5 hours) - SUPPLIER VISITS:
 
-**Visit 2-3 equipment suppliers in Asuncion:**
+**Visit 2-3 equipment suppliers
+- [ ] | 2-3 equipment supplier visits | Ivan | 2026-06-10 | quotes in master guide | |
+- [ ] | Equipment supplier visits | Ivan | 2026-06-10 | quote sheets in master guide | | in Asuncion:**
 1. Dental Guarani - Yegros 1094 - ask for complete chair + autoclave + compressor package quote
 2. Andres H. Arce (Tienda AHA) - ask for same package
 3. Optional: Dent-Par, DEI Import, or Medsupar for comparison
 
 ### Ivan (in parallel, 1 hour) - PATIENT CONVERSATIONS:
-- WhatsApp 5 current Odontologia 3 patients: ask if they would consider private-pay service at higher price for no-overtreatment + planning-first approach
+- WhatsApp 5 current Odontologia 3 patients
+- [ ] | 5 patient interviews | Ivan | 2026-06-10 | 02_MEETINGS/client-prep/data-collection/patient-survey-instrument.md responses | |: ask if they would consider private-pay service at higher price for no-overtreatment + planning-first approach
 - Document responses in 02_MEETINGS/client-prep/data-collection/patient-survey-instrument.md
 
 ---
@@ -90,6 +100,7 @@ Use the LAB-MYSTERY-SHOP-CALL-KIT.md script in 01_RESEARCH/procurement/ for exac
 ### Ivan (1.5 hours) - WEEKLY CLEANUP:
 - Update master launch roadmap to reflect THIS WEEKS decisions
 - Update financial model with real numbers
+- [ ] | Financial model update | Ivan | 2026-06-12 | 00_STRATEGIC/financial-pricing/financial-model-projections-v2.md actuals | |
 - Update procurement master guide with real quotes
 - Update COMPLETE-INDEX.md and README.md to match actual 165+ .md files
 
@@ -163,4 +174,7 @@ This plan is owned by Ivan. Dra. GP and Ivan are the only 2 people who can execu
 *Checklist generated: June 4, 2026*
 *For: Ivan (autistic, terse) and Dra. Gabriella Gonzalez Pane*
 *Owner: Sisyphus*
+---
 
+## TODO LINK (auto-added)
+This checklist feeds TODO `P2.2 Phase 0 checklist`.
