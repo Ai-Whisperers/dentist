@@ -69,11 +69,11 @@ All strategic documents, execution plans, research, legal templates, and sales m
 
 ## STATUS
 
-All documents complete and internally consistent. Execution materials ready.
-Awaiting: Dra. GP validation data (patient count, financials, Roque result).
+Status (June 2026): Pricing contradictions RESOLVED (10 docs cross-ref canonical). Decision rule FIXED (Gs 3M threshold). 5 bloat files archived. Break-even reconciled to 20-30 patients. Awaiting Dra. GP personal data + Roque result + Ivan phone calls to unblock Phase 0. Execution materials ready.
+Awaiting: Phase 0 unblock (savings answer, Roque result, 3 landlord quotes, 4 lab quotes, 1 supplier visit, specialist list). See UPGRADE-PLAN-COMPLETE-JUNE-2026.md and PHASE-0-CHECKLIST-JUNE-2026.md.
 
 Canonical pricing: `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
-Last updated: June 2, 2026
+Last updated: June 4, 2026 (post-cleanup)
 
 ## NEW — Data Analysis (June 2, 2026)
 

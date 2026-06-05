@@ -147,13 +147,38 @@ Construir o mudarse a una clínica pequeña con 2-3 especialistas que comparten 
 
 ---
 
-## RECOMENDACIÓN ESTRATÉGICA
+## RECOMENDACIÓN ESTRATÉGICA (REVISED June 2026)
 
-**Fase 1**: Validar con Opción A — tester demanda con mínimo riesgo
-**Fase 2**: Si validación positiva, escalar a Opción B — segmentar book
-**Fase 3**: Solo si Fases 1+2 confirmadas, evaluar Opción C — inversión estruturada
+**Fase 1: Opción B (Parallel Private) — START IMMEDIATELY**
 
-La recomendación es NO empezar por Option C. Primero validar que el mercado responde a la diferenciación premium antes de invertir en infraestructura física.
+The original recommendation was Opción A → B → C phased approach. After actual execution docs were built (master-launch-roadmap.md, financial-model-projections-v2.md, kiki-decision-navigation-matrix.md), the actual plan is Opción B from day 1. The phasing recommendation has been revised to match the execution reality.
+
+**Why Opción B from day 1:**
+- Keeps Odontología 3 income (low risk)
+- Tests premium market before capital commitment
+- Validates patient demand
+- Builds asset over 6-12 months
+
+**Opción A is NOT viable for solo dentist:**
+- Requires Roque explicit written permission
+- May have non-compete clauses
+- Limited upside (Gs 15-20M/month additional, not transformative)
+
+**Opción C is deferred to Year 2:**
+- Requires Gs 200-400M capital (Dra. GP does not have)
+- Requires 6+ months runway (Dra. GP has not confirmed)
+- Requires validated demand (need 25+ patients/month sustained first)
+
+**Critical path: get Roque answer first.** If Roque offers real improvement (>20%):
+- Option A becomes viable
+- Phase 1 collapses to A (no procurement, no EAS, no space)
+- Skip everything in this plan
+
+If Roque offers nothing/token: this plan executes.
+
+---
+
+**NOTE (June 2026):** This recommendation now matches master-launch-roadmap.md, financial-model-projections-v2.md (break-even 20-30), and kiki-decision-navigation-matrix.md (rent threshold Gs 3M, break-even 20-30). The 3-option framework is preserved as OPTIONS but the RECOMMENDATION is Opción B from day 1.
 
 ---
 
