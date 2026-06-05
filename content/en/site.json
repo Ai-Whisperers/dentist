@@ -54,6 +54,8 @@
     ],
     "more": [
       { "label": "Second Opinion", "href": "/en/second-opinion" },
+      { "label": "About", "href": "/en/about" },
+      { "label": "Expat", "href": "/en/expat" },
       { "label": "Blog", "href": "/en/blog", "feature": "blog" },
       { "label": "FAQ", "href": "/en/faq" }
     ]

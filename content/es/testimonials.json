@@ -10,7 +10,9 @@
     "initials": "MR",
     "service": "Segunda opinión",
     "stars": 5,
-    "quote": "Me explicó todo sin apuro."
+    "quote": "Me explicó todo sin apuro.",
+    "source": "Google Reviews",
+    "verified": true
   },
   {
     "id": "2",
@@ -23,7 +25,9 @@
     "initials": "CG",
     "service": "Consulta general",
     "stars": 5,
-    "quote": "Habla inglés y da opciones claras."
+    "quote": "Habla inglés y da opciones claras.",
+    "source": "Google Reviews",
+    "verified": true
   },
   {
     "id": "3",
@@ -36,20 +40,22 @@
     "initials": "AV",
     "service": "Odontología conservadora",
     "stars": 5,
-    "quote": "Me ahorró una corona innecesaria."
+    "quote": "Me ahorró una corona innecesaria.",
+    "source": "Referido",
+    "verified": true
   },
   {
     "id": "4",
     "name": "John D.",
-    "text": "Clear communication, written plan, no pressure. Exactly what I needed after a bad experience elsewhere.",
+    "text": "Comunicación clara, plan escrito, sin presión. Exactamente lo que necesitaba después de una mala experiencia en otra parte.",
     "rating": 5,
     "image": "/images/team/default.png",
     "date": "2026-05-05",
     "color": "amber",
     "initials": "JD",
-    "service": "Second opinion",
+    "service": "Segunda opinión",
     "stars": 5,
-    "quote": "Clear communication, no pressure.",
+    "quote": "Comunicación clara, sin presión.",
     "source": "Google Reviews",
     "verified": true
   },
@@ -68,5 +74,65 @@
     "quote": "Plan por escrito primero, siempre.",
     "source": "Referido",
     "verified": true
+  },
+  {
+    "id": "6",
+    "name": "Roberto S.",
+    "text": "Después de dos intentos de implante fallidos en otra parte, ella me armó un plan realista. Por fin sé en qué estado estoy y qué viene después.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-05-02",
+    "color": "teal",
+    "initials": "RS",
+    "service": "Planificación de implantes",
+    "stars": 5,
+    "quote": "Plan realista después de fracasos.",
+    "source": "Referido",
+    "verified": false
+  },
+  {
+    "id": "7",
+    "name": "Emily T.",
+    "text": "Me comuniqué desde EE.UU. para una segunda opinión antes de ponerme implantes en Paraguay. Revisó mis estudios, respondió en inglés y me entregó un informe escrito que pude compartir con mi cirujano local.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-04-20",
+    "color": "indigo",
+    "initials": "ET",
+    "service": "Segunda opinión expat",
+    "stars": 5,
+    "quote": "Atención en inglés y clara.",
+    "source": "Reserva directa",
+    "verified": false
+  },
+  {
+    "id": "8",
+    "name": "Paula N.",
+    "text": "Tenía mucha ansiedad por la limpieza por una mala experiencia anterior. Ella me explicó cada paso y fue completamente cómodo.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-05-14",
+    "color": "rose",
+    "initials": "PN",
+    "service": "Profilaxis",
+    "stars": 5,
+    "quote": "Por fin una visita dental cómoda.",
+    "source": "Instagram",
+    "verified": false
+  },
+  {
+    "id": "9",
+    "name": "Diego F.",
+    "text": "Caso complejo, precios razonables. Me dijo qué se podía salvar en vez de recomendar extracción de entrada. Eso es raro.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-04-15",
+    "color": "orange",
+    "initials": "DF",
+    "service": "Odontología conservadora",
+    "stars": 5,
+    "quote": "Ella salva lo que se puede salvar.",
+    "source": "Referido por amigo",
+    "verified": false
   }
 ]

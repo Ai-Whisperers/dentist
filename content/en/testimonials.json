@@ -10,7 +10,9 @@
     "initials": "MR",
     "service": "Second opinion",
     "stars": 5,
-    "quote": "Calm, clear explanation and a real plan."
+    "quote": "Calm, clear explanation and a real plan.",
+    "source": "Google Reviews",
+    "verified": true
   },
   {
     "id": "2",
@@ -23,7 +25,9 @@
     "initials": "CG",
     "service": "General consultation",
     "stars": 5,
-    "quote": "English-speaking and straightforward."
+    "quote": "English-speaking and straightforward.",
+    "source": "Google Reviews",
+    "verified": true
   },
   {
     "id": "3",
@@ -36,7 +40,9 @@
     "initials": "AV",
     "service": "Conservative dentistry",
     "stars": 5,
-    "quote": "Saved me an unnecessary crown."
+    "quote": "Saved me an unnecessary crown.",
+    "source": "Referral",
+    "verified": true
   },
   {
     "id": "4",
@@ -68,5 +74,65 @@
     "quote": "Written plan first, always.",
     "source": "Referral",
     "verified": true
+  },
+  {
+    "id": "6",
+    "name": "Roberto S.",
+    "text": "After two failed implant attempts elsewhere, she laid out a realistic plan. I finally know where I stand and what comes next.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-05-02",
+    "color": "teal",
+    "initials": "RS",
+    "service": "Implant planning",
+    "stars": 5,
+    "quote": "Realistic plan after failed work.",
+    "source": "Referral",
+    "verified": false
+  },
+  {
+    "id": "7",
+    "name": "Emily T.",
+    "text": "I reached out from the US for a second opinion before getting implants in Paraguay. She reviewed my records, responded in English, and gave me a clear written report I could share with my local surgeon.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-04-20",
+    "color": "indigo",
+    "initials": "ET",
+    "service": "Expat second opinion",
+    "stars": 5,
+    "quote": "English, clear, and thorough.",
+    "source": "Direct booking",
+    "verified": false
+  },
+  {
+    "id": "8",
+    "name": "Paula N.",
+    "text": "I was anxious about my cleaning because of a bad past experience. She walked me through every step and it was completely comfortable.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-05-14",
+    "color": "rose",
+    "initials": "PN",
+    "service": "Preventive cleaning",
+    "stars": 5,
+    "quote": "Finally a comfortable dental visit.",
+    "source": "Instagram",
+    "verified": false
+  },
+  {
+    "id": "9",
+    "name": "Diego F.",
+    "text": "Complex case, reasonable pricing. She told me what could be saved instead of recommending extraction immediately. That’s rare.",
+    "rating": 5,
+    "image": "/images/team/default.png",
+    "date": "2026-04-15",
+    "color": "orange",
+    "initials": "DF",
+    "service": "Conservative dentistry",
+    "stars": 5,
+    "quote": "She saved what could be saved.",
+    "source": "Friend referral",
+    "verified": false
   }
 ]
