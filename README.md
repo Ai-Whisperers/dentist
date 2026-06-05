@@ -15,7 +15,7 @@
 
 ## Project Summary
 
-Reposicionamiento del modelo de practica dental - del modelo volumen (seguros) al modelo basado en valor y criterio clinico.
+Reposicionamiento del modelo de pratica dental - del modelo volumen (seguros) al modelo basado en valor y criterio clinico.
 
 El problema: El seguro extrae ~85% del valor que ella genera.
 La oportunidad: Mercado premium + expats + "Dental CIO" como servicio diferenciador.
@@ -68,3 +68,5 @@ docs/                   # Planning docs (historical)
 ## Tooling
 
 - `tools/repo-audit.py` — Repo audit: counts, stale-value scan, cross-ref validation, size report
+- `tools/validate-refs.py` — (pending P0.5) Dead-link verifier
+- `tools/update-pricing.py` — (pending P3.2) Bulk pricing patch from canonical source
