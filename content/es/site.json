@@ -4,20 +4,21 @@
     "slug": "dra-gabriela",
     "url": "https://dra-gabriela.com.py",
     "locale": "es-PY",
-    "metaDescription": "Odontología con criterio en Asunción. Segundas opiniones, planificación de tratamiento y atención bilingüe. 20+ años de experiencia."
+    "metaDescription": "Odontología conservadora y planificación primero en Paraguay. Precios públicos, segunda opinión escrita, consultas en inglés y español."
   },
   "business": {
-    "phone": "+595 XXX XXX XXX",
-    "whatsapp": "595981000000",
-    "whatsappMessage": "Hola Dra. GP, me gustaría agendar una consulta.",
+    "phone": "PENDIENTE | TBD",
+    "whatsapp": "PENDIENTE",
+    "whatsappMessage": "Hola Dra. GP, quiero coordinar una consulta para plan sin compromiso.",
     "email": "hola@dra-gp.com.py",
-    "address": "Luque, Paraguay — exact address pending",
+    "address": "TBD — Preferencia Luque (pendiente alquiler). Actualmente en Odontología 3, Asunción.",
     "coordinates": {
       "lat": -25.2836,
       "lng": -57.4831
     },
-    "currency": "PYG",
-    "ruc": "PENDING",
+    "currency": "Gs",
+    "ruc": "PENDIENTE",
+    "mspbs": "PENDIENTE",
     "name": "Dra. Gabriella González Pane"
   },
   "features": {
@@ -64,17 +65,17 @@
     "thu": "09:00-18:00",
     "fri": "09:00-18:00",
     "sat": "08:00-12:00",
-    "sun": "Closed"
+    "sun": "Cerrado"
   },
   "trust": {
-    "license": "MSPBS registration pending",
+    "license": "Inscripción MSPBS: pendiente",
     "biosecurity": true,
-    "paymentMethods": ["Cash", "Transfer", "Pagopar"],
-    "amenities": ["WiFi", "Parking guidance", "AC"]
+    "paymentMethods": ["Efectivo", "Transferencia", "Pagopar", "Bancard POS"],
+    "amenities": ["WiFi", "Estacionamiento (guía TBD)", "Aire acondicionado"]
   },
   "ctaDefaults": {
-    "primary": "Agendar consulta",
-    "secondary": "Pedir segunda opinión",
+    "primary": "Pedir plan sin compromiso",
+    "secondary": "Solicitar segunda opinión",
     "whatsapp": true
   },
   "schema": {

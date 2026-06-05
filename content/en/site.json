@@ -7,17 +7,18 @@
     "metaDescription": "Conservative, planning-first dentistry in Asunción. English-speaking dentist. Second opinions, treatment plans, and transparent pricing."
   },
   "business": {
-    "phone": "+595 XXX XXX XXX",
-    "whatsapp": "595981000000",
+    "phone": "PENDING  | TBD",
+    "whatsapp": "PENDING",
     "whatsappMessage": "Hi Dra. GP, I'd like to book a consultation.",
     "email": "hola@dra-gp.com.py",
-    "address": "Luque, Paraguay — exact address pending",
+    "address": "TBD — Luque preferred (pending lease). Current practice at Odontología 3, Asunción.",
     "coordinates": {
       "lat": -25.2836,
       "lng": -57.4831
     },
     "currency": "PYG",
-    "ruc": "PENDING",
+    "ruc": "PENDING | Not registered yet",
+    "mspbs": "PENDING",
     "name": "Dra. Gabriella González Pane"
   },
   "features": {
@@ -67,14 +68,14 @@
     "sun": "Closed"
   },
   "trust": {
-    "license": "MSPBS registration pending",
+    "license": "MSPBS registration: pending",
     "biosecurity": true,
-    "paymentMethods": ["Cash", "Transfer", "Pagopar"],
-    "amenities": ["WiFi", "Parking guidance", "AC"]
+    "paymentMethods": ["Cash", "Transfer", "Pagopar", "Bancard POS"],
+    "amenities": ["WiFi", "Parking guidance (TBD)", "AC"]
   },
   "ctaDefaults": {
-    "primary": "Book consultation",
-    "secondary": "Request second opinion",
+    "primary": "Plan sin compromiso",
+    "secondary": "Pedir segunda opinión",
     "whatsapp": true
   },
   "schema": {

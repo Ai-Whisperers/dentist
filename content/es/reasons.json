@@ -1,32 +1,32 @@
 [
   {
-    "title": "Te dijeron que necesitás un procedimiento y no estás seguro",
-    "desc": "Un buen diagnóstico cambia el tratamiento. Revisamos tu caso sin conflicto de interés y te explicamos qué es realmente necesario.",
+    "title": "Te dijeron que necesitás tratamiento y no estás seguro",
+    "desc": "Veinte años resolviendo casos que otros tenían por perdidos. Si el diagnóstico no cierra, vení. Lo reviso sin conflicto de interés.",
     "icon": "search"
   },
   {
-    "title": "Querés entender tu boca antes de gastar dinero",
-    "desc": "Cada procedimiento tiene un costo y un riesgo. Te mostramos las opciones, los precios y los tiempos antes de decidir.",
-    "icon": "barChart"
+    "title": "Querés un plan escrito antes de hacer algo irreversible",
+    "desc": "No empiezo un tratamiento hasta que tengas todo claro. Entrego un plan escrito con opciones, tiempos y costos para que decidas con información completa.",
+    "icon": "fileText"
   },
   {
-    "title": "Buscás una odontóloga que te escuche y no te apresure",
-    "desc": "La primera consulta es para evaluar, explicar y proponer. No para actuar sin que sepas qué va a pasar.",
-    "icon": "messageCircle"
-  },
-  {
-    "title": "Preferís comunicarte en inglés sin explicar todo de nuevo",
-    "desc": "Atiendo pacientes internacionales de forma regular. Podés tener toda la consulta en inglés si lo preferís.",
-    "icon": "globe"
-  },
-  {
-    "title": "Querés materiales premium y planes documentados",
-    "desc": "Usamos materiales de alta gama y te entregamos un plan escrito con opciones, costos y secuencia.",
+    "title": "Valorás materiales y técnica por sobre velocidad o volumen",
+    "desc": "Trabajo con resina alemana y materiales de laboratorio premium. Durabilidad > cumplir cupos del día.",
     "icon": "shield"
   },
   {
-    "title": "Necesitás derivación a especialista cuando corresponde",
-    "desc": "No soy todóloga. Si tu caso requiere un especialista, te derivo. Mejor un buen referido que una solución incompleta.",
+    "title": "Buscás una odontóloga que realmente escuche",
+    "desc": "La primera consulta es para evaluar y explicar, no para arrancar tratamiento. Tiempo de planificación = tranquilidad para vos.",
+    "icon": "messageCircle"
+  },
+  {
+    "title": "Necesitás derivación a especialista sin presión para hacerlo todo acá",
+    "desc": "No soy todóloga. Si tu caso requiere un especialista, lo derivo y coordino el proceso. Mejor una buena referencia que una solución incompleta.",
     "icon": "users"
+  },
+  {
+    "title": "Querés precios claros antes de empezar",
+    "desc": "Publico precios reales de procedimientos estándar. En casos grandes, hago un plan escrito para que sepas exactamente cuánto invertís.",
+    "icon": "barChart"
   }
 ]
