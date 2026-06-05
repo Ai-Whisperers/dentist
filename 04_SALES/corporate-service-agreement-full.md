@@ -215,4 +215,35 @@ Fecha: _______________
 ---
 
 **Documento preparado para ejecución.**
-**Revisar con abogado antes de primera firma.**
+
+---
+
+## ESTADO DE COMPLETITUD
+
+Este documento es una plantilla de ejecución. Los campos marcados con `{{...}}` deben completarse antes de usar.
+
+| Campo | Estado | Responsable |
+|-------|--------|-------------|
+| [DATE] | {{PENDIENTE}} | Admin |
+| [COMPANY NAME] | {{PENDIENTE}} | Ventas |
+| [RUC] (empresa) | {{PENDIENTE}} | Ventas |
+| [NUM] (MSPBS) | {{PENDIENTE}} | Legal |
+| [NAME] (representante) | {{PENDIENTE}} | Ventas |
+| [POSITION] | {{PENDIENTE}} | Ventas |
+| [TIER 1 / TIER 2 / TIER 3] | {{PENDIENTE}} | Ventas |
+| [HEADCOUNT] | {{PENDIENTE}} | Ventas |
+| [RATE] | {{PENDIENTE}} | Ventas |
+| [MONTHLY_TOTAL] | {{PENDIENTE}} | Ventas |
+| [YES/NO — si sí, cantidad] | {{PENDIENTE}} | Ventas |
+| [FAMILY_RATE] | {{PENDIENTE}} | Canónico |
+| [N] (consultas, limpiezas, etc.) | {{PENDIENTE}} | Operaciones |
+| [DISCOUNTED_PRICE] | {{PENDIENTE}} | Canónico |
+| [CLEANING_PRICE] | {{PENDIENTE}} | Canónico |
+| [INCLUDED/LIMITED] | {{PENDIENTE}} | Operaciones |
+| [START_DATE] | {{PENDIENTE}} | Legal |
+| [HR_CONTACT_NAME] | {{PENDIENTE}} | Cliente |
+| [HR_WHATSAPP] | {{PENDIENTE}} | Cliente |
+| [HR_EMAIL] | {{PENDIENTE}} | Cliente |
+
+---
+

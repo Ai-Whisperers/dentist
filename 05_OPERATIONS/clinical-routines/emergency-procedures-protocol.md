@@ -145,3 +145,14 @@ Handle emergencies — dental and operational. Know what to do before it happens
 **END OF EMERGENCY PROTOCOL**
 
 Keep this document visible — in phone, on wall, or easily accessible. Emergency situations are not the time to search for procedures.
+
+---
+
+## CONTACTOS PENDIENTES DE CARGA
+
+| Rol | Campo pendiente | Estado |
+|-----|-----------------|--------|
+| Dra. GP | [PHONE] | {{PENDIENTE}} |
+| Reparación equipos | [NAME], [PHONE] | {{PENDIENTE}} |
+| Proveedor Emergencia | [NAME], [PHONE] | {{PENDIENTE}} |
+| Contador | [NAME], [PHONE] | {{PENDIENTE}} |
