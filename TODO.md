@@ -15,13 +15,11 @@
 ### P2.3 Patient journey specs ✅ COMPLETE
 - `05_OPERATIONS/patient-communications/patient-journeys.md` complete; 3 de-identified journeys with template cross-refs per touchpoint
 
-### P2.4 Competitor battle cards ⏸️ PENDING
-- Source: `01_RESEARCH/market/mystery-shop-20-clinics-report.md`
-- Top 3 competitors — one-pager each
+### P2.4 Competitor battle cards ✅ COMPLETE
+- Top 3 battle cards added: `01_RESEARCH/market/battle-cards/battle-card-iPeo.md`, `battle-card-dra-boccia.md`, `battle-card-clinica-codas.md`
 
-### P2.5 Objection library ⏸️ PENDING
-- Source: `08_WHATSAPP/flows/` + meeting notes
-- 20 objections with reply templates per channel
+### P2.5 Objection library ✅ COMPLETE
+- `08_WHATSAPP/templates/objection-library.md` created; 20 objections with WhatsApp/phone/in-person templates
 
 ### P2.6 Corporate sales tracker hygiene ⏸️ PENDING
 - xlsx tracker structure documented in companion `.md`
