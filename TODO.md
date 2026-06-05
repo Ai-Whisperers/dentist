@@ -21,14 +21,11 @@
 ### P2.5 Objection library ✅ COMPLETE
 - `08_WHATSAPP/templates/objection-library.md` created; 20 objections with WhatsApp/phone/in-person templates
 
-### P2.6 Corporate sales tracker hygiene ⏸️ PENDING
-- xlsx tracker structure documented in companion `.md`
-- Action: `03_LAUNCH/corporate-sales/outreach/outreach-tracker.md` → schema companion
+### P2.6 Corporate sales tracker hygiene ✅ COMPLETE
+- `03_LAUNCH/corporate-sales/outreach/corporate-sales-tracker-schema.md` documents all sheets + field rules + workflow
 
-### P2.7 3-Option reconciliation ⏸️ PENDING
-- Unify Option A/B/C definitions across:
-  - `00_STRATEGIC/strategic-context/three-strategic-options-analysis.md`
-  - `03_LAUNCH/roadmap/master-launch-roadmap.md`
+### P2.7 3-Option reconciliation ✅ COMPLETE
+- Single source in `00_STRATEGIC/strategic-context/three-strategic-options-analysis.md`; `master-launch-roadmap.md` defers to it
 
 ---
 

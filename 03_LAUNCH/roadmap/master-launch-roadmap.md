@@ -7,6 +7,10 @@
 
 ---
 
+Option definitions live in `00_STRATEGIC/strategic-context/three-strategic-options-analysis.md`.
+
+---
+
 # INTEGRATED 90-DAY LAUNCH ROADMAP
 ## Dra. Gabriella González Pane — Option B: Parallel Private Practice
 **Version:** 1.0 — June 2026
