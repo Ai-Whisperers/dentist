@@ -51,9 +51,9 @@ Employee gets limited plan   →    Employee gets open access
 - Priority WhatsApp scheduling
 
 **What's NOT included (billed separately at 20% off standard):**
-- Restorations (Gs 280k-400k)
-- Endodontics (Gs 520k-800k)
-- Extractions (Gs 160k-280k)
+- Restorations (Gs 280k-500k)
+- Endodontics (Gs 960k-1,2M)
+- Extractions (Gs 160k-600k)
 - Complex procedures
 
 **Family Add-On:** Gs 80,000 per family member/month
@@ -147,8 +147,8 @@ Example (Tier 2, 50 employees):
 | Consulta | Gs 300k | Included | Included | Included |
 | Second opinion | Gs 400k | Gs 320k | Included | Included |
 | Restauración simple | Gs 350k | Gs 280k (-20%) | Gs 262k (-25%) | Gs 245k (-30%) |
-| Restauración compleja | Gs 500k | Gs 400k (-20%) | Gs 375k (-25%) | Gs 350k (-30%) |
-| Endodoncia | Gs 650k-1M | Gs 520k-800k (-20%) | Gs 487k-750k (-25%) | Gs 455k-700k (-30%) |
+| Restauración compleja | Gs 550k | Gs 440k (-20%) | Gs 412k (-25%) | Gs 385k (-30%) |
+| Endodoncia | Gs 1,200k | Gs 960k (-20%) | Gs 900k (-25%) | Gs 840k (-30%) |
 | Profilaxis | Gs 250k | Gs 200k (-20%) | Gs 200k (-20%) | Included |
 | Exodoncia simple | Gs 200k | Gs 160k (-20%) | Gs 150k (-25%) | Gs 140k (-30%) |
 

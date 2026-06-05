@@ -46,10 +46,10 @@
 | Service | Standard Price | Club Member Price |
 |---------|---------------|------------------|
 | Consultation | Gs 300k | Gs 240k (-20%) |
-| Second opinion | Gs 350k | Gs 280k (-20%) |
+| Second opinion | Gs 450k | Gs 360k (-20%) |
 | Simple restoration | Gs 350k | Gs 280k (-20%) |
-| Complex restoration | Gs 500k | Gs 400k (-20%) |
-| Root canal | Gs 650k-1M | Gs 520k-800k (-20%) |
+| Complex restoration | Gs 550k | Gs 440k (-20%) |
+| Root canal | Gs 1,200k | Gs 960k (-20%) |
 | Cleaning | Gs 250k | Gs 200k (-20%) |
 
 All prices include consultation, diagnosis, and treatment planning.

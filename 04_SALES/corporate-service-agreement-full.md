@@ -194,8 +194,8 @@ Fecha: _______________
 | Consulta | Gs 300k | Gs 240k | Gs 225k | Gs 210k |
 | Segunda opinión | Gs 400k | Gs 320k | Gs 300k | Gs 280k |
 | Restauración simple | Gs 350k | Gs 280k | Gs 262k | Gs 245k |
-| Restauración compleja | Gs 500k | Gs 400k | Gs 375k | Gs 350k |
-| Endodoncia molar | Gs 1,000k | Gs 800k | Gs 750k | Gs 700k |
+| Restauración compleja | Gs 550k | Gs 440k | Gs 412k | Gs 385k |
+| Endodoncia molar | Gs 1,200k | Gs 960k | Gs 900k | Gs 840k |
 | Exodoncia simple | Gs 200k | Gs 160k | Gs 150k | Gs 140k |
 | Profilaxis | Gs 250k | Gs 200k | Gs 200k | Gs 175k |
 | Corona zirconia | Gs 3,500k | Gs 2,800k | Gs 2,625k | Gs 2,450k |

@@ -52,22 +52,22 @@ Procedimientos Comunes
 | Restauración (resina) | Gs 400.000 – 550.000 | Según tamaño y ubicación de la caries |
 | Profilaxis (limpieza) | Gs 150.000 – 250.000 | Con ultrasonido y pulido |
 | Endodoncia (conducto) | Gs 600.000 – 1.200.000 | Según número de conductos |
-| Exodoncia (extracción simple) | Gs 250.000 – 400.000 | Según complejidad |
-| Exodoncia quirúrgica | Gs 400.000 – 600.000 | Muelas del juicio incluidas |
+| Exodoncia (extracción simple) | Gs 180.000 – 350.000 | Según complejidad |
+| Exodoncia quirúrgica | Gs 350.000 – 600.000 | Muelas del juicio incluidas |
 
 **Category: Estética**
 | Servicio | Precio | Notas |
 |----------|--------|-------|
-| Blanqueamiento dental | Gs 1.000.000 – 1.500.000 | 2 sesiones + kit domiciliario |
+| Blanqueamiento dental | Gs 1.200.000 – 1.800.000 | 2 sesiones + kit domiciliario |
 | Carillas | Por evaluación | Requiere plan previo |
 | Diseño de sonrisa | Por evaluación | Requiere plan previo |
 
 **Category: Rehabilitación**
 | Servicio | Precio | Notas |
 |----------|--------|-------|
-| Corona metal-cerámica | Gs 1.500.000 – 2.000.000 | Por unidad |
-| Corona zirconia | Gs 2.000.000 – 3.000.000 | Por unidad |
-| Corona cerámica pura | Gs 2.500.000 – 4.000.000 | Por unidad |
+| Corona metal-cerámica | Gs 2.800.000 | Por unidad |
+| Corona zirconia | Gs 3.500.000 | Por unidad |
+| Corona E-max | Gs 4.500.000 | Por unidad, lab incluido |
 | Puente (3 unidades) | Desde Gs 4.500.000 | Según material y unidades |
 | Implante | Derivación + seguimiento | Ver nota abajo |
 
