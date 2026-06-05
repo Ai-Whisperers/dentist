@@ -1,5 +1,8 @@
 # TODO — Dra. Gabriella González Pane
-## Strategic Repositioning Project
+
+**Última actualización:** June 5, 2026 — post P0/P1/P2.1 repo hygiene
+
+---
 
 ## PRICING CROSS-REFERENCE (June 2026)
 
@@ -10,232 +13,106 @@
 
 ---
 
-**Last updated**: June 2, 2026
-**Status**: Research complete — Awaiting Dra. GP data for validation
-**Next milestone**: Meeting with Kiki after data collection
+## P0 — Hygiene & Trust ✅ COMPLETE
+
+- [x] Stale-value sweep finished (0 stale hits)
+- [x] Sensitive files removed from git tree (14 files)
+- [x] `.gitignore` hardened for leads/sessions/xlsx/json lead data
+- [x] 00-index added for every folder including `00_STRATEGIC/`
+- [x] `docs/COMPLETE-INDEX.md` regenerated as auto-generated index
+- [x] `tools/validate-refs.py` added — `links`, `stale`, `prices`, `all`
+- [x] `tools/repo-audit.py` fixed for inline-code false positives
+- [x] Pre-commit hook pending (P3.3)
+- [x] Cross-ref validator not wired to CI yet (P3.3)
+
+Validation after P0:
+- `tools/repo-audit.py summary` → 171 .md, 0 stale, 0 broken intra-repo links
+- `tools/validate-refs.py all` → links ✅ stale ✅ prices ✅
 
 ---
 
-## DATA COLLECTION KIT — Esta Semana
+## P1 — Index & Navigation ✅ COMPLETE
 
-Traer estos datos a la próxima sesión con Kiki:
-
-### □ BASE DE DATOS
-- [x] **Total pacientes únicos: 342** (601 citas, Abr-Jun 2026) ✅
-- [x] **Appointment Excel export analyzed** ✅ — `docs/data-update-june-2026.md`
-- [x] **Formatted analysis workbook** ✅ — `patient-appointment-analysis.xlsx`
-- [x] **SAM system architecture mapped** ✅ — `research/system-and-data-analysis.md`
-- [ ] Total pacientes únicos (2025 completo) — necesita data 2025
-- [ ] Pacientes únicos (2026 MTD) — needs full year
-- [ ] Promedio pacientes/mes — calculable con data completa
-- [ ] Pacientes que ya pagan PRIVATE (aunque sean pocos)
-- [ ] % que estimás son "premium-eligible" (tu opinión)
-
-### □ FINANZAS REALES
-- [ ] Revenue mensual promedio (últimos 3 meses)
-- [ ] Costos mensuales (materiales + lo que te pagás)
-- [ ] Savings disponibles (cuántos meses de gastos)
-- [ ] Cash flow real — qué te queda netto cada mes
-
-### □ REUNIÓN CON ROQUE (Jueves)
-- [ ] Qué ofreció Roque?
-- [ ] Mejoró el deal? ¿Cuánto?
-- [ ] Hay restricciones de dónde podés trabajar?
-- [ ] Decision: proceed con Option B o no?
-
-### □ ALQUILERES EN LUQUE
-- [ ] Quote #1 — COP Clínica Odontología (Traumato Center)
-- [ ] Quote #2 — Espacio cerca de UNA (Mariscal López)
-- [ ] Quote #3 — Clasipar u otra opción
-- [ ] Para cada uno: precio, qué incluye, si está habilitado
+- [x] `tools/repo-audit.py counts` live per-folder counts
+- [x] README unified hub (`README.md`)
+- [x] `start-here.md` redirect summary
+- [x] `docs/COMPLETE-INDEX.md` auto-generated appendix
+- [x] All folders have accurate `00-index.md`
+- [x] Dead-link sweep done via `tools/validate-refs.py links`
 
 ---
 
-## SPRINT 1 — Data Collection (Junio 1-5)
+## P2 — Content Alignment & Completion
 
-| Día | Acción |
-|-----|--------|
-| Lunes-Martes | Extraer base de datos + finanzas del sistema |
-| Miércoles | Visitar espacios de alquiler en Luque |
-| Jueves | Reunión con Roque → bring result |
-| Viernes | Mystery shopping calls (5 dentistas) |
+### P2.1 Pricing table completeness ✅ COMPLETE
+- [x] Canonical services cross-checked across consumer-facing docs
+- [x] `04_SALES/corporate-service-agreement-full.md` has pricing cross-ref
+- [x] Consumer docs verified: start-here.md, roadmap, website content, corporate program
 
-**Deadline: Viernes 5 Junio** → tener todos los datos para reunión con Kiki
+### P2.2 Phase 0 checklist — actionable for Dra. GP ⏸️ PENDING
+- Owner: Kiki + Dra. GP
+- Needs: personal data, real 3-month financials, 3 Luque space quotes (real), Roque decision
 
----
+### P2.3 Patient journey specs ⏸️ PENDING
+- 3 profiles: insurance, private premium, expat
+- Link existing templates per touchpoint
 
-## DECISION TREE — Basado en Roque
+### P2.4 Competitor battle cards ⏸️ PENDING
+- Source: `01_RESEARCH/market/mystery-shop-20-clinics-report.md`
+- Top 3 competitors — one-pager each
 
-```
-ROQUE MEETING (Jueves)
-        |
-  +-----+-----+
-  |           |
-MEJORÓ?    NO MEJORÓ
-  |           |
-OPCIÓN A    OPCIÓN B
-(negociar    (empezar
-en escrita)   AHORA)
-  |
-+---+---+
-|       |
-SI A    NO A
-|       |
-seguir  OPCIÓN B
-con B   simultaneously
-slowly
-```
+### P2.5 Objection library ⏸️ PENDING
+- Source: `08_WHATSAPP/flows/` + meeting notes
+- 20 objections with reply templates per channel
+
+### P2.6 Corporate sales tracker hygiene ⏸️ PENDING
+- xlsx tracker structure documented in companion `.md`
+- Action: `03_LAUNCH/corporate-sales/outreach/outreach-tracker.md` → schema companion
+
+### P2.7 3-Option reconciliation ⏸️ PENDING
+- Unify Option A/B/C definitions across:
+  - `00_STRATEGIC/strategic-context/three-strategic-options-analysis.md`
+  - `03_LAUNCH/roadmap/master-launch-roadmap.md`
 
 ---
 
-## SPRINT 2 — Launch (Junio 8+)
+## P3 — Operational Tooling
 
-### Phase 1: Option B Setup (Paralelo a Odontología 3)
-
-**Semana 1-2:**
-- [ ] Registrar E.A.S. (eas.mic.gov.py)
-- [ ] Confirmar espacio de alquiler
-- [ ] Setup Google Business Profile
-- [ ] Setup WhatsApp Business
-
-**Semana 3-4:**
-- [ ] Website simple (nombre + precios + contacto)
-- [ ] Obtener POS Bancard
-- [ ] Registrar Pagopar merchant
-- [ ] Primeros 5-10 pacientes private
-
-### Phase 2: Growth (Julio-Agosto)
-
-- [ ] 15-20 pacientes private/mes (breakeven)
-- [ ] 10+ Google reviews
-- [ ] Empezar referral program
-- [ ] Network con specialists (oral surgeon, periodontist)
-
-### Phase 3: Scale (Septiembre+)
-
-- [ ] 25-30 pacientes private/mes
-- [ ] Private revenue covering 80%+ current income
-- [ ] Consider Option C if validated
+- [x] `tools/repo-audit.py` counts/stale/sizes/crossrefs/summary
+- [x] `tools/validate-refs.py` links/stale/prices/all
+- [ ] `tools/update-pricing.py` dry-run + commit (P3.2)
+- [ ] `.git/hooks/pre-commit` or `scripts/pre-commit` runs `validate-refs.py stale` (P3.3)
+- [ ] Cron for monthly `repo-audit.py summary` delivery (P3.4)
 
 ---
 
-## VALIDATION CHECKPOINTS
+## P4 — Client Delivery Artifacts
 
-| Checkpoint | Criterio | Status | Evidencia Needed |
-|------------|----------|--------|-------------------|
-| Pricing viable | Gs 400-550k restauraciones | ✅ CONFIRMADO — 20 clinics research | `01_RESEARCH/market/mystery-shop-20-clinics-report.md` |
-| Demanda existe | 20-30% pacientes premium | ❓ Pendiente | Su estimation + data base |
-| Space affordable | Gs 3M/mes disponible (revised June 2026) | ❓ Pendiente | 3 quotes reales |
-| Legal clear | puede usar base de datos | ❓ Consultar abogado | Lawyer consult |
-| Runway | 6+ meses cash flow | ❓ Necesita data | Balance real |
-| Pagopar viable | Implementación viable | ✅ research dice sí | Contact Pagopar |
+- [ ] `docs/dra-gp-status-june-2026.md` — one-pager status (P4.1)
+- [ ] `docs/phase-0-binder.md` — printable Phase 0 bundle (P4.2)
+- [ ] Investor summary 1-pager from financial-model-projections-v2 (P4.3)
 
 ---
 
-## LEGAL CHECKLIST
+## P5 — Growth / Next Phase
 
-### Abogado/Contador — Consultar esta semana:
-
-- [ ] **E.A.S. registration**: proceso, costo, timeline
-- [ ] **Contrato Odontología 3**: hay non-compete? restrictions?
-- [ ] **Base de datos pacientes**: puede usarla para contactar? Cómo?
-- [ ] **Habilitación**: qué necesita para Luque? Puede trabajar en espacio já habilitado?
-- [ ] **Ley 7593/2025**: implicaciones para práctica private
-
-### Recursos:
-- MIC E.A.S.: eas.mic.gov.py
-- MSPBS habilitación: mspbs.gov.py
-- Círculo Odontológico Paraguayo: cop.com.py
+- [ ] Sitemap → build manifest from `07_DESIGN/website/` (P5.1)
+- [ ] Corporate sales SLA doc 1-pager (P5.2)
+- [ ] Multi-location financial scenario extension (P5.3)
 
 ---
 
-## PRIORITY ACTIONS
-
-### Inmediato (esta semana):
-
-1. **EXTRAER BASE DE DATOS** → total unique patients + % premium eligible
-2. **REUNIÓN CON ROQUE** (Jueves) → bring result to Kiki
-3. **COTIZAR ALQUILERES** → 3 espacios en Luque
-4. **MYSTERY SHOPPING** → 5 llamadas de precios
-
-### Alta Prioridad (Sprint 2):
-
-5. **CONSULTAR ABOGADO** → patient data + E.A.S. + habilitación
-6. **REGISTRAR E.A.S.** → empezar paperwork
-7. **SETUP DIGITAL** → Google Business + WhatsApp Business
-
-### B2B CORPORATE SALES (June 2026)
-- [x] Lead analysis completed ✅
-- [x] Beauty/Gym leads: 638 corporate prospects (gyms, spas, salons)
-- [x] Premium leads: 326 IT/Finance/Legal/Medical/Education/Real Estate ✅ ALL WITH PHONE NUMBERS
-- [x] Top 50 outreach list with phone numbers ready ✅
-- [x] Premium Excel tracker created ✅ — `PREMIUM-CORPORATE-DENTAL.xlsx` (5 sheets)
-- [x] Premium leads analysis ✅ — `premium-leads-analysis.md`
-- [ ] Contact first 20 gym/spa prospects
-- [ ] Contact first 30 premium leads (law/real estate/tech/universities)
-- [ ] Track responses in tracker
-- [ ] Close first 3 corporate clients
-
-### Media Prioridad (Sprint 3):
-
-8. **WEBSITE SIMPLE** → pricing público como diferenciador
-9. **PAYMENT INFRA** → Pagopar + Bancard setup
-10. **REFERRAL PROGRAM** → diseño + launch
-
----
-
-## METRICAS A SEGUIR
-
-### Phase 0 (Ahora):
-- [ ] # pacientes únicos en base
-- [ ] Revenue mensual real (no estimate)
-- [ ] Costos mensuales reales
-- [ ] Runway en meses
-
-### Phase 1 (Validation):
-- [ ] Mystery shopping: price range confirm
-- [ ] % pacientes interested en planning session
-- [ ] Alquiler quotes (3+ options)
-- [ ] Conversión planning → tratamiento (%)
-
-### Phase 2 (Launch):
-- [ ] Private patients/mes
-- [ ] Patient acquisition cost
-- [ ] Retention rate
-- [ ] Google reviews count
-- [ ] NPS (Net Promoter Score)
-
-### Phase 3 (Scale):
-- [ ] Mix private vs. insurance
-- [ ] Revenue private/mes
-- [ ] % cobertura de income actual
-
----
-
-## RECURSOS PREPARADOS
-
-| Documento | Qué Es | Para Qué |
-|-----------|--------|----------|
-| `02_MEETINGS/client-prep/data-collection/client-data-collection-checklist.md` | Checklist de data para traer | Lo que necesitas collect esta semana |
-| `02_MEETINGS/kiki-meeting/kiki-session-meeting-guide.md` | Materials para la reunión | Agenda, problem framing, options |
-| `01_RESEARCH/market/master-synthesis-market-analysis.md` | Master synthesis | START HERE — todo research sintetizado |
-| `00_STRATEGIC/financial-pricing/financial-model-projections-v2.md` | Modelo financiero actualizado | Proyecciones con datos reales cuando tengas |
-| `01_RESEARCH/pricing/international-dental-pricing-matrix.md` | Pricing 10 países | Benchmarking para pricing |
-
----
-
-## OPEN QUESTIONS — STATUS
+## BLOCKERS / OPEN QUESTIONS
 
 | Pregunta | Status | Respuesta Needed |
-|----------|--------|-------------------|
-| ¿Qué pasa con la base de datos si se va? | ❓ Abogado | Consulta legal |
-| ¿Hay non-compete en su contrato? | ❓ Roque | Leer contrato |
-| ¿Cuántos pacientes son premium-eligible? | ❓ Dra. GP | Extraction de data |
-| ¿Pagopar funciona para Gs 400k+? | ✅ Research dice sí | Confirmar con Pagopar |
-| ¿Cuánto tarda habilitación en Luque? | ❓ Abogado | Consultar |
-| ¿Hay demanda real de expats? | ✅ Research dice sí | Ivan network ya refiere |
-| ¿Space es accesible a Gs 3M/mes? | ❓ Necesita quotes | Visitar espacios |
+|----------|--------|------------------|
+| ¿Roque result (Option A viable)? | ❓ Pendiente | Reunión Roque + contrato |
+| ¿Base de datos puede usarse para contactar? | ❓ Abogado | Consulta legal |
+| ¿Non-compete en contrato Odontología 3? | ❓ Roque | Leer contrato |
+| ¿Cuántos pacientes premium-eligible? | ❓ Dra. GP | Data extraction |
+| ¿3 Luque quotes reales? | ❓ Pendiente | Visitar espacios |
+| ¿6+ meses runway? | ❓ Finanzas reales | Balance 3 meses |
 
 ---
 
-**STATUS: Esperando datos de Dra. GP para calibrar modelo y proceder**
+**STATUS ACTUAL:** Repo limpio, auditoría complete, pricing block validado. Siguiente hito concreto: P2.6 (tracker schema) y P2.7 (options reconciliation) antes de P4.

@@ -1,26 +1,16 @@
-# 08_WHATSAPP — WhatsApp Business Automation
+# 08_WHATSAPP — Index
 
-WhatsApp Business system — automation, templates, and protocols.
+WhatsApp Business automation, operation guides, and setup templates.
 
-## Structure
+## automation/
+- [`WHATSAPP OPERATIONS — HERMES AGENT MANAGEMENT`](automation/whatsapp-operations-guide.md)
 
-```
-automation/           # Conversation flows, agent protocol
-templates/          # Message templates, setup guide
-```
+## templates/
+- [`WHATSAPP CHANNEL — MASTER INDEX`](templates/whatsapp-operations-index.md)
+- [`WHATSAPP BUSINESS SETUP GUIDE`](templates/whatsapp-setup-configuration-guide.md)
 
-## Automation (3 files)
+---
+> **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.
 
-| File | What It Is |
-|------|------------|
-| `automation/conversation-flows-automation.md` | Automated conversation flows |
-| `automation/hermes-agent-whatsapp-protocol.md` | Hermes agent protocol for WhatsApp |
-| `automation/whatsapp-operations-guide.md` | WhatsApp operations guide |
-
-## Templates (3 files)
-
-| File | What It Is |
-|------|------------|
-| `templates/message-templates-library.md` | Ready-to-use message templates |
-| `templates/whatsapp-operations-index.md` | Operations index |
-| `templates/whatsapp-setup-configuration-guide.md` | Setup and configuration guide |
+---
+Audit this folder anytime: `tools/repo-audit.py summary`

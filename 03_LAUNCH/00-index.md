@@ -1,90 +1,58 @@
-## PRICING CROSS-REFERENCE (June 2026)
+# 03_LAUNCH — Index
 
-> Service prices in this document are NOT authoritative. The master reference is:
-> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
->
-> Any price update should happen in the canonical file only.
+Execution plans: roadmap, corporate and institutional sales, CRM, website content, WhatsApp outreach.
 
----
+## corporate-sales/
+- [`Corporate Sales — Dra. Gabriella González Pane`](corporate-sales/README.md)
+- [`ONE-PAGER: SPORTS CLUB DENTAL PARTNERSHIP`](corporate-sales/clubs/one-pager-clubs.md)
+- [`Lead Databases`](corporate-sales/leads/README.md)
+- [`CORPORATE OUTREACH TRACKER`](corporate-sales/outreach/outreach-tracker.md)
+- [`CORPORATE OUTREACH TEMPLATES — READY TO SEND`](corporate-sales/outreach-templates-ready.md)
+- [`CORPORATE DENTAL BENEFITS PROGRAM`](corporate-sales/programs/corporate-dental-benefits-program.md)
+- [`CORPORATE SALES PLAYBOOK`](corporate-sales/programs/corporate-sales-playbook.md)
 
-# 03_LAUNCH — Launch Execution & Roadmap
+## crm-systems/
+- [`CRM SYSTEM DESIGN`](crm-systems/crm-system-implementation-plan.md)
+- [`FINANCIAL DASHBOARD SPEC`](crm-systems/financial-dashboard-spec.md)
+- [`DIGITAL PATIENT INTAKE FLOW`](crm-systems/patient-intake-flow-design.md)
 
-All execution plans — the how.
+## instagram-contacts/
+- [`DATA/`](instagram-contacts/DATA/README.md)
+- [`Top 20 Dentist Instagram Accounts in Paraguay — Future Scraping Targets`](instagram-contacts/FUTURE_TARGETS.md)
+- [`Instagram Scrape Report — Paraguay Dental Clinics`](instagram-contacts/SCRAPE-REPORT.md)
+- [`Wellness Ambassador Cross-Platform Profile Discovery`](instagram-contacts/cross-platform-profiles/README.md)
 
-## Structure
+## institutional-sales/
+- [`INSTITUTIONAL LEAD LIST`](institutional-sales/institutional-lead-list-priority.md)
+- [`INSTITUTIONAL PRE-CALL STRATEGIES`](institutional-sales/institutional-precall-strategies.md)
+- [`INSTITUTIONAL SALES PLAYBOOK`](institutional-sales/institutional-sales-playbook.md)
+- [`ONE-PAGER: HOSPITAL DENTAL DELEGATION SERVICES`](institutional-sales/one-pager-hospitals.md)
+- [`ONE-PAGER: SCHOOL AND UNIVERSITY DENTAL PROGRAM`](institutional-sales/one-pager-schools.md)
 
-```
-roadmap/              # Master launch roadmap, sequence, content strategy
-institutional-sales/  # Hospitals, clinics, schools sales playbooks
-corporate-sales/     # Corporate B2B benefit packages
-referral-program/     # Referral program design
-crm-systems/          # CRM, dashboard, patient intake flow
-whatsapp-outreach/    # WhatsApp business, AB variants, outreach
-website-content/    # Website page content modules
-```
+## referral-program/
+- [`REFERRAL PROGRAM DESIGN`](referral-program/referral-program-plan.md)
 
-## Roadmap (5 files)
+## roadmap/
+- [`CONTENT STRATEGY`](roadmap/content-strategy-launch-phase.md)
+- [`LAUNCH SEQUENCE — DAY BY DAY`](roadmap/launch-day-by-day-sequence.md)
+- [`INTEGRATED 90-DAY LAUNCH ROADMAP`](roadmap/master-launch-roadmap.md)
+- [`PRE-LAUNCH LANDING PAGE SPEC`](roadmap/pre-launch-carrd-landing-page-guide.md)
 
-| File | What It Is |
-|------|------------|
-| `roadmap/master-launch-roadmap.md` | 90-day integrated plan |
-| `roadmap/launch-day-by-day-sequence.md` | Day-by-day launch sequence |
-| `roadmap/content-strategy-launch-phase.md` | Content and social strategy |
-| `roadmap/pre-launch-carrd-landing-page-guide.md` | Carrd one-pager setup |
-| `03_LAUNCH/roadmap/launch-day-by-day-sequence.md` | Day-by-day launch plan |
+## website-content/
+- [`WEBSITE ADDITION — Blog / Educational Content Plan`](website-content/blog-educational-content-plan.md)
+- [`WEBSITE ADDITION — Emergency Information Section`](website-content/emergency-information-content.md)
+- [`WEBSITE ADDITION — Expat-Specific Landing Page`](website-content/expat-landing-page-content.md)
+- [`WEBSITE ADDITION — First Visit Preparation Page`](website-content/first-visit-preparation-content.md)
+- [`WEBSITE ADDITION — Social Proof / Trust Signals Section`](website-content/social-proof-trust-signals-content.md)
+- [`WEBSITE ADDITION — "When Not to Treat" Section`](website-content/when-not-to-treat-content.md)
 
-## Corporate B2B Channel (4 files)
-
-| File | What It Is |
-|------|------------|
-| `corporate-sales/corporate-sales-playbook.md` | Full sales process, scripts, objection handling |
-| `corporate-sales/corporate-dental-benefits-program.md` | Corporate packages, tiers, pricing, target market |
-| `corporate-sales/one-pager-clubs.md` | Club member benefit pitch |
-| `corporate-sales/all-corporate-plans-index.md` | Index of all plans |
-
-## Institutional Channels (5 files)
-
-| File | What It Is |
-|------|------------|
-| `institutional-sales/institutional-sales-playbook.md` | 5-channel strategy |
-| `institutional-sales/institutional-precall-strategies.md` | Pre-call scripts for hospitals/clinics/schools |
-| `institutional-sales/institutional-lead-list-priority.md` | Target list + decision-makers |
-| `institutional-sales/one-pager-hospitals.md` | Hospital delegation pitch |
-| `institutional-sales/one-pager-schools.md` | School dental program pitch |
-
-## Referral Program (1 file)
-
-| File | What It Is |
-|------|------------|
-| `referral-program/referral-program-plan.md` | Referral program design |
-
-## CRM Systems (3 files)
-
-| File | What It Is |
-|------|------------|
-| `crm-systems/crm-system-implementation-plan.md` | CRM system design |
-| `crm-systems/financial-dashboard-spec.md` | Visual dashboard spec |
-| `crm-systems/patient-intake-flow-design.md` | Digital intake via Google Form |
-
-## WhatsApp Outreach (3 files)
-
-| File | What It Is |
-|------|------------|
-| `whatsapp-outreach/whatsapp-business-plan.md` | WhatsApp Business plan |
-| `whatsapp-outreach/whatsapp-ab-test-variants.md` | A/B test message variants |
-| `whatsapp-outreach/multi-channel-outreach-strategy.md` | B2B/expat outreach |
-
-## Website Content (6 files)
-
-| File | What It Is |
-|------|------------|
-| `website-content/social-proof-trust-signals-content.md` | Trust signals for website |
-| `website-content/expat-landing-page-content.md` | Expat-specific landing page |
-| `website-content/when-not-to-treat-content.md` | When not to treat page |
-| `website-content/blog-educational-content-plan.md` | Blog and educational content plan |
-| `website-content/first-visit-preparation-content.md` | First visit prep content |
-| `website-content/emergency-information-content.md` | Emergency info content |
+## whatsapp-outreach/
+- [`OUTREACH STRATEGY`](whatsapp-outreach/multi-channel-outreach-strategy.md)
+- [`WHATSAPP MESSAGE A/B VARIANTS`](whatsapp-outreach/whatsapp-ab-test-variants.md)
+- [`WHATSAPP BUSINESS AUTOMATION FLOWS`](whatsapp-outreach/whatsapp-business-plan.md)
 
 ---
+> **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.
 
-**Start with `roadmap/master-launch-roadmap.md`** for the integrated timeline.
+---
+Audit this folder anytime: `tools/repo-audit.py summary`

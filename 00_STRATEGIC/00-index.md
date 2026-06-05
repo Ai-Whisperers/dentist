@@ -1,19 +1,25 @@
 # 00_STRATEGIC — Index
 
-Strategic layer for Dra. Gabriella González Pane’s repositioning: financial model, pricing, options analysis, upgrade plan, and phase checklist.
+Strategic layer: financials, pricing, options, rollout plan, and phase checklist.
 
-## Core docs to read first
+## financial-pricing/
+- [`POSICIONAMIENTO PREMIUM`](financial-pricing/brand-positioning-premium.md)
+- [`MASTER PRICING SHEET — AUTHORITATIVE`](financial-pricing/canonical-pricing-reference-v2.md)
+- [`ESTRATEGIA DE PRESENCIA DIGITAL`](financial-pricing/digital-presence-strategy.md)
+- [`MODELO FINANCIERO — ACTUALIZADO`](financial-pricing/financial-model-projections-v2.md)
+- [`PLAN DE RED DE DERIVACIÓN`](financial-pricing/referral-network-strategy.md)
 
-- `financial-pricing/canonical-pricing-reference-v2.md` — live pricing baseline (Gs 3M threshold)
-- `financial-pricing/financial-model-projections-v2.md` — 3-statement projections, break-even scenarios
-- `strategic-context/three-strategic-options-analysis.md` — Option A / B / C definitions + risk ratings
-- `UPGRADE-PLAN-COMPLETE-JUNE-2026.md` — phase rollout plan with owner, duration, exit criteria
-- `PHASE-0-CHECKLIST-JUNE-2026.md` — actionable checklist (P0 tickets)
+## strategic-context/
+- [`CLIENT ANALYSIS — ACTUALIZADO`](strategic-context/client-profile-deep-dive.md)
+- [`DOSSIER ESTRATÉGICO PROFESIONAL`](strategic-context/executive-summary-dra-gp.md)
+- [`OPCIONES ESTRATÉGICAS`](strategic-context/three-strategic-options-analysis.md)
 
-## Other docs
+## Root files
+- [`PHASE 0 CHECKLIST - Dra. GP Project`](PHASE-0-CHECKLIST-JUNE-2026.md)
+- [`DRA. GP PROJECT - COMPLETE UPGRADE PLAN`](UPGRADE-PLAN-COMPLETE-JUNE-2026.md)
 
-- `referral-network-strategy.md` — referral economics + partner tiers
+---
+> **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.
 
-Cross-ref rules: all priced docs must carry the `canonical-pricing-reference-v2.md` block at the top.
-
-Audit: `tools/repo-audit.py summary` validates counts + cross-refs + stale values for this folder.
+---
+Audit this folder anytime: `tools/repo-audit.py summary`

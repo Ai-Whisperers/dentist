@@ -1,61 +1,37 @@
-# 05_OPERATIONS — Operations + Legal
+# 05_OPERATIONS — Index
 
-Day-to-day operations and legal documents.
+Day-to-day operations, clinical routines, patient communications, and legal docs.
 
-## Structure
+## clinical-routines/
+- [`OPERATIONAL ROUTINE`](clinical-routines/daily-weekly-monthly-routine.md)
+- [`EMERGENCY PROTOCOL`](clinical-routines/emergency-procedures-protocol.md)
+- [`FIRST PATIENT DAY CHECKLIST`](clinical-routines/first-patient-day-checklist.md)
+- [`SUPPLY CHAIN & INVENTORY`](clinical-routines/inventory-supply-chain-management.md)
+- [`FINANCIAL TRACKER — MONTHLY`](clinical-routines/monthly-financial-tracker.md)
 
-```
-clinical-routines/         # Daily ops, emergency, checklists, supply chain, financials
-patient-communications/   # FAQ, scripts, welcome packet, intake form
-legal-compliance/
-  ├── patient-legal/     # Informed consent, privacy, ToS, intake form
-  └── practice-legal/     # Legal checklist, EAS statute, agreements
-```
+## legal-compliance/
+- [`CONSENTIMIENTO INFORMADO — PACIENTE`](legal-compliance/patient-legal/patient-informed-consent-form.md)
+- [`FORMULARIO DE ADMISIÓN — PACIENTE NUEVO`](legal-compliance/patient-legal/patient-intake-form-legal.md)
+- [`POLÍTICA DE PRIVACIDAD`](legal-compliance/patient-legal/privacy-policy.md)
+- [`TÉRMINOS Y CONDICIONES — SERVICIOS ODONTOLÓGICOS`](legal-compliance/patient-legal/terms-of-service.md)
+- [`ACUERDO DE SERVICIOS DENTALES — MICRO EMPRESA`](legal-compliance/practice-legal/corporate-service-agreement-micro-sme.md)
+- [`ESTATUTO SOCIAL — E.A.S.`](legal-compliance/practice-legal/eas-company-statute.md)
+- [`CARTA DE PRESENTACIÓN — E.A.S.`](legal-compliance/practice-legal/eas-registration-notarized-letter.md)
+- [`MODELO DE FACTURA / COMPROBANTE DE VENTA`](legal-compliance/practice-legal/invoice-template.md)
+- [`CHECKLIST LEGAL — JUNTOS DE DOCUMENTOS`](legal-compliance/practice-legal/legal-master-checklist.md)
+- [`CONVENIO DE DERIVACIÓN PROFESIONAL`](legal-compliance/practice-legal/referral-agreement-legal.md)
 
-## Clinical Routines (5 files)
+## patient-communications/
+- [`FORMULARIO DE ADMISIÓN — PACIENTE NUEVO`](patient-communications/new-patient-intake-form.md)
+- [`PATIENT FAQ — DRA. GP`](patient-communications/patient-faq-20-answers.md)
+- [`PATIENT SCRIPTS`](patient-communications/patient-scripts-in-person-phone.md)
+- [`PATIENT WELCOME PACKET`](patient-communications/patient-welcome-packet.md)
 
-| File | What It Is |
-|------|------------|
-| `clinical-routines/daily-weekly-monthly-routine.md` | Daily/weekly/monthly routines |
-| `clinical-routines/first-patient-day-checklist.md` | Checklist |
-| `clinical-routines/emergency-procedures-protocol.md` | Emergency procedures |
-| `clinical-routines/inventory-supply-chain-management.md` | Inventory management |
-| `clinical-routines/monthly-financial-tracker.md` | Monthly financial tracking |
+## Root files
+- [`COMPLETE OPERATIONS INDEX`](operations-overview.md)
 
-## Patient Communications (4 files)
+---
+> **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.
 
-| File | What It Is |
-|------|------------|
-| `patient-communications/patient-faq-20-answers.md` | 20 FAQ answers in her voice |
-| `patient-communications/patient-scripts-in-person-phone.md` | In-person and call scripts |
-| `patient-communications/patient-welcome-packet.md` | Patient onboarding |
-| `patient-communications/new-patient-intake-form.md` | New patient form |
-
-## Legal Compliance (9 files)
-
-| File | What It Is |
-|------|------------|
-| `legal-compliance/practice-legal/legal-master-checklist.md` | Legal master checklist |
-| `legal-compliance/practice-legal/eas-registration-notarized-letter.md` | Notarized letter template |
-| `legal-compliance/practice-legal/eas-company-statute.md` | EAS company statute |
-| `legal-compliance/patient-legal/patient-informed-consent-form.md` | Consent form |
-| `legal-compliance/patient-legal/privacy-policy.md` | Privacy policy |
-| `legal-compliance/patient-legal/terms-of-service.md` | Terms of service |
-| `legal-compliance/patient-legal/patient-intake-form-legal.md` | New patient form |
-| `legal-compliance/practice-legal/referral-agreement-legal.md` | Dentist-to-dentist referral agreement |
-| `legal-compliance/practice-legal/invoice-template.md` | Invoice template |
-
-## Agreements (in 04_SALES/)
-
-| File | What It Is |
-|------|------------|
-| `04_SALES/corporate-service-agreement-full.md` | Corporate SLA contract |
-| `04_SALES/institutional-referral-agreement.md` | Institution-to-dentist referral |
-| `legal-compliance/practice-legal/corporate-service-agreement-micro-sme.md` | SME/Micro contract |
-
-## Overview
-
-| File | What It Is |
-|------|------------|
-| `operations-overview.md` | Operations overview |
-| `03_LAUNCH/roadmap/launch-day-by-day-sequence.md` | Day-by-day launch plan (in 03_LAUNCH) |
+---
+Audit this folder anytime: `tools/repo-audit.py summary`

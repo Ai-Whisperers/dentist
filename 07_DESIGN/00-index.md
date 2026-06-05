@@ -1,62 +1,29 @@
-## PRICING CROSS-REFERENCE (June 2026)
+# 07_DESIGN — Index
 
-> Service prices in this document are NOT authoritative. The master reference is:
-> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
->
-> Any price update should happen in the canonical file only.
+Brand assets and website page content (core + transactional + service pages).
+
+## brand-assets/
+- [`BUSINESS CARD DESIGN SPEC`](brand-assets/business-card-design-spec.md)
+- [`LETTERHEAD & STATIONERY SPEC`](brand-assets/letterhead-stationery-design-spec.md)
+- [`OFFICE SIGNAGE SPEC`](brand-assets/office-signage-design-spec.md)
+- [`PRICE LIST CARD`](brand-assets/price-list-card-design-spec.md)
+- [`QR CODE SYSTEM`](brand-assets/qr-code-system-design.md)
+- [`SOCIAL MEDIA PROFILE SPECS`](brand-assets/social-media-profile-specs.md)
+
+## website/
+- [`ABOUT PAGE CONTENT`](website/core-pages/about-page-content.md)
+- [`CONTACT PAGE CONTENT`](website/core-pages/contact-page-content.md)
+- [`HOME PAGE CONTENT`](website/core-pages/home-page-content.md)
+- [`PHILOSOPHY PAGE CONTENT`](website/core-pages/philosophy-page-content.md)
+- [`SECOND OPINION PAGE CONTENT`](website/service-pages/second-opinion-page-content.md)
+- [`SERVICES PAGE CONTENT`](website/service-pages/services-page-content.md)
+- [`WEBSITE ADDITION — First Visit Preparation Page`](website/transactional-pages/first-visit-preparation-page.md)
+- [`PRICING PAGE CONTENT`](website/transactional-pages/pricing-page-content.md)
+- [`PRIVACY PAGE CONTENT`](website/transactional-pages/privacy-page-content.md)
+- [`TERMS PAGE CONTENT`](website/transactional-pages/terms-page-content.md)
 
 ---
+> **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.
 
-# 07_DESIGN — Visual Identity & Website
-
-Visual identity specifications and website content.
-
-## Structure
-
-```
-brand-assets/              # Print and signage specs
-website/
-  ├── core-pages/          # Home, about, contact, philosophy
-  ├── service-pages/       # Services, second opinion
-  └── transactional-pages/ # Pricing, privacy, terms, first visit prep
-```
-
-## Brand Assets (6 files)
-
-| File | What It Is |
-|------|------------|
-| `brand-assets/business-card-design-spec.md` | Business card design spec |
-| `brand-assets/letterhead-stationery-design-spec.md` | Letterhead and stationery spec |
-| `brand-assets/office-signage-design-spec.md` | Office signage spec |
-| `brand-assets/price-list-card-design-spec.md` | Price list card design spec |
-| `brand-assets/social-media-profile-specs.md` | Social media profile specs |
-| `brand-assets/qr-code-system-design.md` | QR code system design |
-
-## Website Pages (11 files)
-
-### Core Pages
-| File | What It Is |
-|------|------------|
-| `website/core-pages/home-page-content.md` | Home page |
-| `website/core-pages/about-page-content.md` | About page |
-| `website/core-pages/contact-page-content.md` | Contact page |
-| `website/core-pages/philosophy-page-content.md` | Philosophy page |
-
-### Service Pages
-| File | What It Is |
-|------|------------|
-| `website/service-pages/services-page-content.md` | Services page |
-| `website/service-pages/second-opinion-page-content.md` | Second opinion page |
-
-### Transactional Pages
-| File | What It Is |
-|------|------------|
-| `website/transactional-pages/pricing-page-content.md` | Pricing page |
-| `website/transactional-pages/privacy-page-content.md` | Privacy policy page |
-| `website/transactional-pages/terms-page-content.md` | Terms of service page |
-| `website/transactional-pages/first-visit-preparation-page.md` | First visit prep page |
-
-### Config
-| File | What It Is |
-|------|------------|
-| `website/site-config.json` | Website configuration |
+---
+Audit this folder anytime: `tools/repo-audit.py summary`

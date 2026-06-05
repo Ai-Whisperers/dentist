@@ -1,12 +1,15 @@
-# 09_TEMPLATES — Document Templates
+# 09_TEMPLATES — Index
 
-Ready-to-use document templates for patient communication.
+Patient communication templates: appointment, recall, referral, email.
 
-## Files (4)
+## Root files
+- [`APPOINTMENT CONFIRMATION CARD`](appointment-confirmation-card-template.md)
+- [`EMAIL TEMPLATES`](email-templates.md)
+- [`RECALL CARD`](recall-card-template.md)
+- [`REFERRAL CARD TEMPLATE`](referral-card-template.md)
 
-| File | What It Is |
-|------|------------|
-| `appointment-confirmation-card-template.md` | Appointment confirmation card |
-| `recall-card-template.md` | Patient recall card |
-| `referral-card-template.md` | Referral card template |
-| `email-templates.md` | Email templates |
+---
+> **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.
+
+---
+Audit this folder anytime: `tools/repo-audit.py summary`

@@ -1,10 +1,13 @@
-# 04_SALES — Corporate Agreements
+# 04_SALES — Index
 
-## Files (2)
+Corporate agreements and contracts ready for client execution.
 
-| File | What It Is |
-|------|------------|
-| `corporate-service-agreement-full.md` | Full corporate SLA contract |
-| `institutional-referral-agreement.md` | Institution-to-dentist referral agreement |
+## Root files
+- [`ACUERDO DE SERVICIOS DENTALES CORPORATIVOS`](corporate-service-agreement-full.md)
+- [`INSTITUTIONAL REFERRAL AGREEMENT`](institutional-referral-agreement.md)
 
-See also `05_OPERATIONS/legal-compliance/practice-legal/` for additional agreement templates.
+---
+> **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.
+
+---
+Audit this folder anytime: `tools/repo-audit.py summary`

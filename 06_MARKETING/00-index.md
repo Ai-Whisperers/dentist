@@ -1,22 +1,19 @@
-## PRICING CROSS-REFERENCE (June 2026)
+# 06_MARKETING — Index
 
-> Service prices in this document are NOT authoritative. The master reference is:
-> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
->
-> Any price update should happen in the canonical file only.
+Digital presence: Carrd, Google Business, SEO blog posts, website spec.
+
+## blog-posts-seo/
+- [`How to Find a Trustworthy English-Speaking Dentist in Asuncion, Paraguay`](blog-posts-seo/01-trustworthy-dentist-asuncion.md)
+- [`Dental Implants in Paraguay: Cost, Quality, and What to Expect in 2026`](blog-posts-seo/02-dental-implants-paraguay.md)
+- [`Root Canal Treatment in Paraguay: What It Is, What It Costs, and When You Need It`](blog-posts-seo/03-root-canal-paraguay.md)
+
+## Root files
+- [`CARRD PAGE CONTENT - Ready to Paste`](carrd-page-content-ready.md)
+- [`GOOGLE BUSINESS PROFILE — COMPLETE SETUP GUIDE`](google-business-profile-setup-guide.md)
+- [`WEBSITE SPECIFICATION`](website-full-specification.md)
 
 ---
+> **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.
 
-# 06_MARKETING — Digital Presence
-
-## Files
-
-| File | What It Is |
-|------|------------|
-| `google-business-profile-setup-guide.md` | Google Business Profile setup instructions |
-| `website-full-specification.md` | Complete website requirements and content spec |
-| `carrd-page-content-ready.md` | Carrd landing page copy and CTA |
-| `blog-posts-seo/00-INDEX.md` | SEO blog post index and publishing schedule |
-| `blog-posts-seo/01-trustworthy-dentist-asuncion.md` | SEO post: trust + expat positioning |
-| `blog-posts-seo/02-dental-implants-paraguay.md` | SEO post: implants vs bridge |
-| `blog-posts-seo/03-root-canal-paraguay.md` | SEO post: root canal procedure + comfort |
+---
+Audit this folder anytime: `tools/repo-audit.py summary`
