@@ -32,18 +32,18 @@
 ## P3 Operational Readiness
 
 ### P3 Tools & CI
-- [x] `tools/repo-audit.py` provided: `summary`, `counts`, `stale`, `crossrefs`, `sizes`
-- [x] `tools/validate-refs.py` provided: `links`, `stale`, `prices`, `all`
-- [x] Validation confirmed: 0 stale, 0 broken links
-- [ ] Pre-commit hook wiring (manual step: configure Git hook if needed)
-- [ ] CI workflow for automated checks on push
+- [x] `tools/repo-audit.py` provided: `summary`, `counts`, `stale`, `crossrefs`, `prices`, `sizes`
+- [x] `tools/update-pricing.py` dry-run scaffold added
+- [x] Validation confirmed: 0 stale, 0 broken links, 181 .md docs
+- [x] Pre-commit stale-check hook: `.git/hooks/pre-commit`
+- [x] CI workflow: `.github/workflows/repo-validation.yml`
 
 ---
 
 ## P4 Client Delivery Artifacts
-- [ ] `docs/dra-gp-status-june-2026.md` — one-pager status (P4.1)
-- [ ] `docs/phase-0-binder.md` — printable Phase 0 bundle (P4.2)
-- [ ] Investor summary 1-pager from financial-model-projections-v2 (P4.3)
+- [x] `docs/dra-gp-status-june-2026.md` — one-pager status (P4.1)
+- [x] `docs/phase-0-binder.md` — printable Phase 0 bundle (P4.2)
+- [x] `docs/investor-summary.md` — investor summary from financial-model-projections-v2 (P4.3)
 
 ---
 
