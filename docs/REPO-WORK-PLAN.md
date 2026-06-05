@@ -3,7 +3,7 @@
 `Ai-Whisperers/dentist`: strategy + launch documentation for Dra. Gabriella González Pane’s premium dental practice (Luque/Asunción, PY).
 
 ## Current baseline
-- 165+ .md files across 12 folders + ARCHIVE
+- 178 active markdown documents
 - Canonical pricing declared in `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
 - Multiple stale values: Gs 3M thresholds, file counts (135/138/181), duplicate folder remnants
 - Sensitive artifacts: xlsx trackers, JSON scrapes, `.ig_session.json`, `.cp_*.json`

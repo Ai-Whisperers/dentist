@@ -102,7 +102,7 @@ Use the LAB-MYSTERY-SHOP-CALL-KIT.md script in 01_RESEARCH/procurement/ for exac
 - Update financial model with real numbers
 - [ ] | Financial model update | Ivan | 2026-06-12 | 00_STRATEGIC/financial-pricing/financial-model-projections-v2.md actuals | |
 - Update procurement master guide with real quotes
-- Update COMPLETE-INDEX.md and README.md to match actual 165+ .md files
+- Update README.md to match actual 178 active markdown documents
 
 ### Ivan (15 min) - DECIDE:
 - Corporate program scope: Option A (1 client Y1) / Option B (5-10 hrs/week for 6 mo) / Option C (delete)
