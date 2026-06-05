@@ -1,5 +1,6 @@
 # WHATSAPP CHANNEL — MASTER INDEX
-## Dra. Gabriella González Pane
+
+> **PRICING CROSS-REFERENCE:** Pricing card in this doc reflects `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. Update prices by editing the canonical doc + re-running reconciliation, never inline here.
 **Version:** 1.0 — June 2026
 
 ---

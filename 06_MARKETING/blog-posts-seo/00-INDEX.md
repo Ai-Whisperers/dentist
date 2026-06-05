@@ -1,3 +1,12 @@
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
+>
+> Any price update should happen in the canonical file only.
+
+---
+
 # SEO Blog Posts - Dra. GP Practice
 
 ## Index of published posts (June 2026)

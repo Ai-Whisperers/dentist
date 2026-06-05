@@ -1,3 +1,12 @@
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
+>
+> Any price update should happen in the canonical file only.
+
+---
+
 # WEBSITE CONTENT — Dra. GP
 **Purpose:** Complete Spanish copy + config for all Phase 1 pages, ready to hand to a developer.
 **Status:** Draft — needs Dra. GP review before final build

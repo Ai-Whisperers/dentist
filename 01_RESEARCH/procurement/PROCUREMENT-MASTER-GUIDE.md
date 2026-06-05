@@ -62,7 +62,7 @@
 | **Tecnomed Paraguay** | Install, maintenance | tecnomed.com.py |
 | **DNA Biotechnologia SRL** | Dental equipment + service | Asuncion |
 
-**Cost:** Preventive visit Gs 800k-1.5M. Hourly Gs 300-500k. Autoclave annual Gs 1.5-2.5M.
+**Cost:** Preventive visit Gs 800k-3M. Hourly Gs 300-500k. Autoclave annual Gs 1.5-2.5M.
 
 #### Insurance (Professional Liability)
 **USD 500-2,000/year** for solo practitioner. Brokers: Mapfre Paraguay, Seguros Paraguay.
@@ -249,7 +249,7 @@ KEY NUMBERS:
 - Lab fee per crown: Gs 400-700k (12-20 percent of price)
 - Per-procedure margin: 72-92 percent
 - 6-month runway needed: Gs 50-80M savings
-- EAS registration: Gs 1-1.5M
+- EAS registration: Gs 1-3M
 - Pagopar MDR: 3-5 percent
 - Bancard MDR: 3 percent
 

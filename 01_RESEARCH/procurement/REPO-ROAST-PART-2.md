@@ -10,14 +10,14 @@
 The Kiki decision matrix (lines 231-234) says:
 
 **THE ONE-SENTENCE DECISION RULE:**
-"If Roque didnt offer real improvement AND space is available at Gs 1.5M/mo or less: START OPTION B THIS WEEK."
+"If Roque didnt offer real improvement AND space is available at Gs 3M/mo or less: START OPTION B THIS WEEK."
 
 BUT the procurement data shows:
 - Only ONE truly equipped space in the project: San Lorenzo at Gs 3M/mes (DOUBLE the threshold)
 - All other verified Luque options are BARE (no equipment) at Gs 1.65M-4M
 - Almate (shared revenue) exists but has unknown cost structure
 
-**The decision rule was written before the procurement research was done. The threshold (Gs 1.5M) was a hope, not a fact.**
+**The decision rule was written before the procurement research was done. The threshold (Gs 3M) was a hope, not a fact.**
 
 **Implication:** Option B CANNOT start this week even if Roque said no, because no space meets the criteria. The decision rule needs to be re-written to Gs 3M threshold OR a different space needs to be found.
 
@@ -130,7 +130,7 @@ Cut the high-friction items: medical tourism agencies, embassy formalization.
 |------|------:|-------|
 | 08_WHATSAPP/templates/message-templates-library.md | 681 | 50+ templates for non-existent agent |
 | 03_LAUNCH/corporate-sales/programs/corporate-dental-benefits-program.md | 422 | B2B program for solo dentist |
-| 02_MEETINGS/kiki-meeting/kiki-decision-navigation-matrix.md | 298 | Decision rule threshold (1.5M) contradicts research (3M actual) |
+| 02_MEETINGS/kiki-meeting/kiki-decision-navigation-matrix.md | 298 | Decision rule threshold (3M) contradicts research (3M actual) |
 | 00_STRATEGIC/strategic-context/three-strategic-options-analysis.md | 159 | Recommends "start with A, escalate to B" but execution doc is only B |
 | 06_MARKETING/website-full-specification.md | 450+ | 7-page spec for website that hasnt been built |
 | 08_WHATSAPP/automation/hermes-agent-whatsapp-protocol.md | 384 | Internal AI tooling, not for Dra. GP |
@@ -273,7 +273,7 @@ Over the past 2+ weeks, AI agents have produced:
 
 ## WHAT IS GENUINELY GOOD (Part 2)
 
-1. **kiki-decision-navigation-matrix.md** (298 lines) - has the right structure, scenarios, decision logic. Just needs the Gs 1.5M threshold updated to Gs 3M.
+1. **kiki-decision-navigation-matrix.md** (298 lines) - has the right structure, scenarios, decision logic. Just needs the Gs 3M threshold updated to Gs 3M.
 
 2. **dental-tourism-opportunity-analysis.md** (163 lines) - real competitor data, real channels, real market gap. Just needs scope reduction to low-friction tactics.
 
@@ -304,7 +304,7 @@ Over the past 2+ weeks, AI agents have produced:
 
 1. **Open the financial model, find the break-even calc, and fix the 12-15 vs 20-30 inconsistency.** 5 minutes.
 
-2. **Open the kiki decision matrix, find the Gs 1.5M threshold, and change to Gs 3M.** 2 minutes. (Or actually call Roque.)
+2. **Open the kiki decision matrix, find the Gs 3M threshold, and change to Gs 3M.** 2 minutes. (Or actually call Roque.)
 
 3. **Make 3 phone calls: San Lorenzo + 2 backup landlords. Get 3 real quotes. Fill in the placeholder file.** 30 minutes.
 

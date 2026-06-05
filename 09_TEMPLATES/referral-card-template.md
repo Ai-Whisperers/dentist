@@ -1,5 +1,6 @@
-# REFERRAL CARD
-## Dra. Gabriella González Pane — Referir es fácil
+# REFERRAL CARD TEMPLATE
+
+> **PRICING CROSS-REFERENCE:** Referral credits (Gs 50k–100k) align with `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` service prices.
 **Version:** 1.0 — June 2026
 
 ---

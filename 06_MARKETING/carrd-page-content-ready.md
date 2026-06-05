@@ -1,3 +1,12 @@
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
+>
+> Any price update should happen in the canonical file only.
+
+---
+
 # CARRD PAGE CONTENT - Ready to Paste
 ## Dra. Gabriella Gonzalez Pane - Premium Dental Practice
 ### 1-page Carrd template - copy/paste into carrd.co

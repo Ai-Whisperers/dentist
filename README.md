@@ -1,7 +1,7 @@
 # Dra. Gabriella Gonzalez Pane - Strategic Repositioning Project
 
 **Status:** All documents complete - Awaiting validation data
-**Last updated:** June 2, 2026
+**Last updated:** June 5, 2026
 
 ---
 
@@ -29,16 +29,16 @@ La oportunidad: Mercado premium + expats + "Dental CIO" como servicio diferencia
 | 00_STRATEGIC/ | Strategic documents | 10 |
 | 01_RESEARCH/ | Research reports | 30 |
 | 02_MEETINGS/ | Meeting materials | 11 |
-| 03_LAUNCH/ | Execution plans | 35 |
+| 03_LAUNCH/ | Execution plans | 34 |
 | 04_SALES/ | Corporate agreements | 3 |
 | 05_OPERATIONS/ | Operations + legal | 21 |
 | 06_MARKETING/ | Digital presence | 8 |
 | 07_DESIGN/ | Brand + website | 18 |
 | 08_WHATSAPP/ | WhatsApp automation | 4 |
 | 09_TEMPLATES/ | Patient templates | 5 |
-| ARCHIVE/ | Older project materials | 15 |
-| docs/ | GitHub docs | 1 |
-| **TOTAL** | | **161+ files** |
+| ARCHIVE/ | Older project materials | 16 |
+| **TOTAL** | | **168 files** |
+
 ## Current Folder Structure
 
 ```
@@ -54,3 +54,17 @@ La oportunidad: Mercado premium + expats + "Dental CIO" como servicio diferencia
 09_TEMPLATES/           # Appointment, recall, referral cards
 docs/                   # Planning docs (historical)
 ```
+
+---
+
+## Entry Points
+
+- `start-here.md` — Executive summary of the project kit (5 min read)
+- `TODO.md` — Action tracker with pending/blocked items
+- `docs/REPO-WORK-PLAN.md` — Phased work plan (P0–P5)
+
+---
+
+## Tooling
+
+- `tools/repo-audit.py` — Repo audit: counts, stale-value scan, cross-ref validation, size report

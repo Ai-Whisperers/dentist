@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # EAS REGISTRATION — STEP-BY-STEP WALKTHROUGH
 ## Dra. Gabriella González Pane — Legal Setup
 

@@ -8,3 +8,14 @@
 text_*.json
 *_20260601_*.json
 .playwright-mcp/
+
+# Sensitive / runtime data
+.ig_session.json
+.instagram_session.json
+.odonto_*.json
+_*.json
+01_RESEARCH/community/expat-scraped-data.json
+01_RESEARCH/community/referral-targets-research.json
+03_LAUNCH/corporate-sales/*.csv
+03_LAUNCH/corporate-sales/*.xlsx
+03_LAUNCH/instagram-contacts/**

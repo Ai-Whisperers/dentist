@@ -127,7 +127,7 @@ Investment: Zero
 - Tests all assumptions in real conditions
 
 **First Steps (Week 1-2):**
-1. [ ] Find equipped rental space (must be Gs 3M/mo or less - revised June 2026 from Gs 1.5M per actual procurement data)
+1. [ ] Find equipped rental space (must be Gs 3M/mo (updated June 2026 from original Gs 3M estimate))
 2. [ ] Register E.A.S. (eas.mic.gov.py)
 3. [ ] Setup Google Business Profile
 4. [ ] Setup WhatsApp Business
@@ -241,7 +241,7 @@ Risk: Medium (keeps current income)
 If Roque didn't offer real improvement AND space is available at Gs 3M/mo or less:
 → START OPTION B THIS WEEK. No reason to wait.
 
-(Original rule said Gs 1.5M threshold. Updated to Gs 3M based on actual procurement research showing the only currently verified equipped space is San Lorenzo at Gs 3M all-incl. See PROCUREMENT-MASTER-GUIDE.md for full rental landscape.)
+(Original rule used an estimated Gs 3M threshold before procurement. Updated to Gs 3M based on the only currently verified equipped space (San Lorenzo at Gs 3M all-incl). See PROCUREMENT-MASTER-GUIDE.md.)
 ```
 
 ---

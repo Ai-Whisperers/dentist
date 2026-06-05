@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # ROQUE NEGOTIATION - FULL PREPARATION
 ## Dra. Gabriella Gonzalez Pane
 **Version:** 1.0 - June 2026

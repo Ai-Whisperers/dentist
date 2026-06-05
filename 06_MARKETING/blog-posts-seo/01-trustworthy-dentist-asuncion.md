@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # How to Find a Trustworthy English-Speaking Dentist in Asuncion, Paraguay
 
 A practical guide for expats and English-speaking residents.

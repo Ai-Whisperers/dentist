@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # Root Canal Treatment in Paraguay: What It Is, What It Costs, and When You Need It
 
 A practical guide for pacientes and expats in Asuncion facing root canal decision.

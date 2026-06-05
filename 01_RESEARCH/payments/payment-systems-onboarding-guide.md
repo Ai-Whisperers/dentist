@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # PAYMENT INFRASTRUCTURE — PAGOPAR & BANCARD ONBOARDING
 ## Dra. Gabriella González Pane — Merchant Setup Guide
 

@@ -5,7 +5,7 @@
 ## Current baseline
 - 165+ .md files across 12 folders + ARCHIVE
 - Canonical pricing declared in `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
-- Multiple stale values: Gs 1.5M thresholds, file counts (135/138/181), duplicate folder remnants
+- Multiple stale values: Gs 3M thresholds, file counts (135/138/181), duplicate folder remnants
 - Sensitive artifacts: xlsx trackers, JSON scrapes, `.ig_session.json`, `.cp_*.json`
 - 4 competing entry-point documents: README, start-here, COMPLETE-INDEX, TODO
 - No repo-level AI config (`AGENTS.md`) until today
@@ -15,11 +15,11 @@
 ## Phase 0 — Repo Hygiene & Trust (P0, must finish before any feature work)
 **Owner:** Erebus  
 **Duration:** 1 session  
-**Exit criteria:** Repo is internally consistent; pricing tables cross-check clean; no stale "135/138/181/1.5M" values outside ARCHIVE.
+**Exit criteria:** Repo is internally consistent; pricing tables cross-check clean; no stale "135/138/181/3M" values outside ARCHIVE.
 
 | ID | Task | Steps | Acceptance |
 |----|------|-------|-----------|
-| P0.1 | Stale-value sweep | Grep `Gs 1\.5M\|Gs 1,5M\|~[0-9]+ files\|135 files\|138 files\|181 files` across all non-ARCHIVE .md; patch every hit to match canonical (Gs 3M threshold or live .md count) | 0 stale hits in active folders |
+| P0.1 | Stale-value sweep | Grep `Gs 1\.5M\|Gs 3M\|~[0-9]+ files\|135 files\|138 files\|181 files` across all non-ARCHIVE .md; patch every hit to match canonical (Gs 3M threshold or live .md count) | 0 stale hits in active folders |
 | P0.2 | Sensitive-data audit | Inventory `.json/.xlsx/.csv` outside ARCHIVE/.gitignore. Flag session files. Add `.gitignore` rules for `.xlsx .csv .env *.json` outside whitelisted site-config(); move ARCHIVE scrapes to private repo or add to gitignore | 0 raw session/cookie files tracked in git |
 | P0.3 | ARCHIVE hygiene | Add ARCHIVE/README.md (done). Audit each JSON for PII/credentials. Either prune or keep with clear naming (no `ddgs-*` / `scrape-*` in active tree) | ARCHIVE has README, every file has a 1-line purpose note |
 | P0.4 | PRICING CROSS-REFERENCE block enforcement | Find every doc with price tables; confirm top-of-file block exists; if missing, add the standard 4-line block pointing to canonical | 100% of priced docs have the block |

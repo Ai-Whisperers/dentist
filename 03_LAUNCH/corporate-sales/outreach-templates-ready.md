@@ -1,4 +1,6 @@
-# Corporate Outreach Templates - WhatsApp
+# CORPORATE OUTREACH TEMPLATES — READY TO SEND
+
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. Corporate fees must be calculated from that source, not guessed.
 
 ## Ready to send (Dra. GP personalize before sending)
 

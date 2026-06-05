@@ -1,5 +1,6 @@
 # WHATSAPP OPERATIONS — HERMES AGENT MANAGEMENT
-## Dra. Gabriella González Pane — Dental Practice
+
+> **PRICING CROSS-REFERENCE:** Agent pricing responses are governed by `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. Agent never quotes loyalty/generated prices.
 **Version:** 1.0 — June 2026
 **Purpose:** Complete operational blueprint for Hermes agents managing WhatsApp channel
 

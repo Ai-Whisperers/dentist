@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # DIGITAL MYSTERY SHOPPING REPORT — JUNIO 2026
 ## Dra. Gabriella González Pane — Competitor Price Intelligence
 

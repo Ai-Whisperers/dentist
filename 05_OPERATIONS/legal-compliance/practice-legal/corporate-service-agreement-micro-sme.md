@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # ACUERDO DE SERVICIOS DENTALES — MICRO EMPRESA
 ## Dra. Gabriella González Pane — Plan Micro (2-20 empleados)
 

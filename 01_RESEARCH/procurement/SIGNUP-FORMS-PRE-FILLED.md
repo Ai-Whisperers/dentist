@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # SIGNUP FORMS - Pre-Filled Placeholders
 
 Dra. GP - All Forms Ready to Submit. When Dra. GP gets CI + RUC + bank account, these are ready to fill.

@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # PHONE MYSTERY SHOPPING — CONTACT SHEET + PRICING (June 2026)
 ## Status: Phone numbers collected, actual calls PENDING
 

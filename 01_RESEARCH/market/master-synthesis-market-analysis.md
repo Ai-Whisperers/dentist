@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # RESEARCH: COMPREHENSIVE SUMMARY — ALL FINDINGS
 
 **Last updated**: Mayo 31, 2026
@@ -111,12 +113,12 @@ After comprehensive research across 6 key areas, the findings CONFIRM that Dra. 
 
 - Odonto Excellence (chain) multiple locations
 - Individual practices: Sanz Dent, Clínica Cisa, Dentopolis
-- Spaces renting from Gs 2-3M/month (revised June 2026 from Gs 1-1.5M per actual procurement data)
+- Spaces renting from Gs 2-3M/month (revised June 2026 from Gs 1-3M per actual procurement data)
 - **EQUIPPED spaces exist** — don't need to buy equipment
 
 ### Recommended path:
 **Rent equipped in Luque, near Traumato Center or UNA area**
-- Gs 2-3M/month (revised June 2026 from Gs 1-1.5M)
+- Gs 2-3M/month (revised June 2026 from Gs 1-3M)
 - Already has dental chair, autoclave, X-ray
 - Start immediately
 - Test market before commitment
@@ -210,7 +212,7 @@ Instead of taking patients from the clinic illegally:
 | Insurance model | Broken, won't change | ✅ HIGH |
 | Payment infrastructure | Available, works | ✅ HIGH |
 | Legal (E.A.S.) | Simple to establish | ✅ HIGH |
-| Rental | Gs 1-1.5M equipped | ✅ HIGH |
+| Rental | Gs 1-3M equipped | ✅ HIGH |
 | Competition | Gap in premium expat | ✅ HIGH |
 | Ethics as differentiator | Valid positioning | ✅ HIGH |
 

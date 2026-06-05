@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # PATIENT FAQ — DRA. GP
 ## 20 Most Common Questions Answered
 **Version:** 1.0 — June 2026

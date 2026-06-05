@@ -146,4 +146,4 @@ Fill in `02_MEETINGS/client-prep/roque-meeting/roque-meeting-results.md` — the
 ---
 
 *Last updated: June 2, 2026*
-*Total: ~135 documents across 10 folders*
+*Total: 165+ documents across 12 active folders + ARCHIVE*

@@ -1,3 +1,12 @@
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
+>
+> Any price update should happen in the canonical file only.
+
+---
+
 # GOOGLE BUSINESS PROFILE — COMPLETE SETUP GUIDE
 ## Dra. Gabriella González Pane
 **Version:** 1.0 — June 2026

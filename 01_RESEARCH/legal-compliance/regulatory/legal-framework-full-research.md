@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # LEGAL REQUIREMENTS RESEARCH — JUNE 2026
 ## Paraguay Dental Practice Legal Framework
 
@@ -95,7 +97,7 @@
 |------|------|
 | MIC Registration Fee | **Gs 0** (with Estatuto Proforma) |
 | Notary (Escritura Pública) | Gs 1.5–3M (only if custom statute) |
-| Notary certification (Doc. Privado) | Gs 800k–1.5M (if using private document) |
+| Notary certification (Doc. Privado) | Gs 800k–3M (if using private document) |
 | Accountant/gestor assistance | Gs 1.5–4M (optional but recommended) |
 | BNF deposit (capital >Gs 3.478M) | 20% of excess only if capital in cash exceeds threshold |
 

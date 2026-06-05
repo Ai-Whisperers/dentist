@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # EAS REGISTRATION — VERIFIED OFFICIAL INFO (June 2026)
 ## Source: eas.mic.gov.py + MIC verification
 
@@ -41,7 +43,7 @@
 |------|------|
 | EAS Registration | **Gs 0** (with proforma statute) |
 | Electronic Identity | **Gs 0** (free at paraguay.gov.py) |
-| Contador (monthly) | Gs 500k-1.5M (ongoing, optional) |
+| Contador (monthly) | Gs 500k-3M (ongoing, optional) |
 | Notary if needed | Gs 200-500k one-time |
 
 ---

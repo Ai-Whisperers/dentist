@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # PHASE 0 CHECKLIST - Dra. GP Project
 ## This Week (June 4-13, 2026) - 5 Days
 ### The critical unblock. If this is not done, nothing else moves.
@@ -89,7 +91,7 @@ Use the LAB-MYSTERY-SHOP-CALL-KIT.md script in 01_RESEARCH/procurement/ for exac
 - Update master launch roadmap to reflect THIS WEEKS decisions
 - Update financial model with real numbers
 - Update procurement master guide with real quotes
-- Update COMPLETE-INDEX.md (currently stale at 138 files, actual 181)
+- Update COMPLETE-INDEX.md and README.md to match actual 165+ .md files
 
 ### Ivan (15 min) - DECIDE:
 - Corporate program scope: Option A (1 client Y1) / Option B (5-10 hrs/week for 6 mo) / Option C (delete)

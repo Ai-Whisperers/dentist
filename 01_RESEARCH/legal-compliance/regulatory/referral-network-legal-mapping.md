@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # REFERRAL NETWORK RESEARCH — JUNE 2026
 ## Specialist Relationships for Dental Practice
 
@@ -121,6 +123,6 @@
 ## NOTES FOR MEETING PREP
 
 - **Market gap:** No dedicated endodontist practices — complex molar cases get referred into big clinics; Dra. GP could own the "difficult diagnosis + referral" role
-- **Lab pricing:** CEO San Jorge lists prosthetic work from Gs 1.5M — this is the market reference price
+- **Lab pricing:** CEO San Jorge listed prosthetic work from Gs 3M historically — use as baseline, not current canonical
 - **COP doesn't formalize referrals** — she needs to build personal specialist relationships directly
 - **IPS is an alternative channel** for maxilofacial cases but requires navigating social security bureaucracy

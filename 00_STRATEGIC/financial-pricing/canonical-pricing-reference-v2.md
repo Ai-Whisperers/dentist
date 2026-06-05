@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # MASTER PRICING SHEET — AUTHORITATIVE
 ## Dra. Gabriella Gonzalez Pane
 **Version:** 2.0 — June 2026

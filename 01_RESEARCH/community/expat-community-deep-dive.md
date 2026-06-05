@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # EXPAT COMMUNITY DEEP-DIVE — PARAGUAY DENTAL MARKET
 ## Asunción/Luque Expat Population & Dental Referral Channels
 
@@ -143,7 +145,7 @@
 |-----------|------------------------|---------------|
 | Cleaning | Gs 150-250k | $20-32 |
 | Filling (resin) | Gs 400-600k | $50-77 |
-| Root canal | Gs 800k-1.5M | $100-195 |
+| Root canal | Gs 800k-3M | $100-195 |
 | Crown | Gs 2-4M | $260-515 |
 | Implant | Gs 3-5M | $390-645 |
 

@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # 02_MEETINGS — Meeting Materials
 
 Meeting materials split by audience.
@@ -53,4 +55,4 @@ The entire decision tree depends on it.
 - Option B: Start parallel private practice NOW
 - Option C: Full exit (after B validated)
 
-If Roque did not offer real improvement AND space available at Gs 3M/mo → START B TODAY (revised June 2026 from Gs 1.5M per actual procurement data).
+If Roque did not offer real improvement AND space available at Gs 3M/mo → START B TODAY. (Threshold revised June 2026 from the original Gs 3M estimate.)

@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # SPECIALIST REFERRAL LIST - Paraguay
 ## 1-Page Printable for Dra. GP
 ### For referring complex cases (perio, endo, implants, surgery)
@@ -147,7 +149,7 @@
 ## RESEARCH NOTES (raw data from existing project research)
 
 From  (line 153-155):
-- CEO San Jorge - 4 branches, 24/7, all specialties, own lab, protesis from Gs 1.5M
+- CEO San Jorge - 4 branches, 24/7, all specialties, own lab, protesis pricing from Gs 3M (legacy/baseline; validate against current lab quotes)
 - Odonto Center - open since 2006, in-house specialists
 - Centro Odontologico Victoria - implant specialists on staff (Dr. Diego Adrian Martinez)
 - IPEO (Av. Boggiani 5760) - CAD/CAM lab, specialists, bilingual (CONFIRMED bilingual)

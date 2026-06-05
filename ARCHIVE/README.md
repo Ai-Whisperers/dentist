@@ -1,6 +1,7 @@
 # ARCHIVE
 
-This folder holds older project materials that are preserved for reference but are not actively maintained.
+Historical research artifacts preserved for traceability, not execution.
 
-- Do not edit files here for live execution.
-- Move obsolete workspace materials here instead of deleting them, so we keep traceability.
+- JSON/CSV here are raw scrape exports, competitor dumps, and session data.
+- Do not edit files in this folder for live work.
+- If moving files here, add a one-line purpose comment at the top.

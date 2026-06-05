@@ -1,3 +1,12 @@
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
+>
+> Any price update should happen in the canonical file only.
+
+---
+
 # WEBSITE SPECIFICATION
 ## Dra. Gabriella González Pane — Premium Dental Practice
 **Phase:** Planning (not building)
@@ -156,7 +165,7 @@ Home
    - Exodoncias (Gs 250-400k)
 
 4. **Odontología Estética**
-   - Blanqueamiento (Gs 1-1.5M)
+   - Blanqueamiento (Gs 1-3M)
    - Carillas (por evaluación)
    - Diseño de sonrisa (por evaluación)
 

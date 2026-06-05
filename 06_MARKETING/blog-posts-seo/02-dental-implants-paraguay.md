@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # Dental Implants in Paraguay: Cost, Quality, and What to Expect in 2026
 
 A guide for expats and Asunceños considering implant treatment in Asuncion.

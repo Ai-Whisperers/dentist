@@ -1,3 +1,12 @@
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
+>
+> Any price update should happen in the canonical file only.
+
+---
+
 # Instagram Scrape Report — Paraguay Dental Clinics
 **Last updated:** June 3, 2026 · auto-updated as scraper runs
 **Scraper:** `scripts/scrape_all.py` v4 — instagrapi

@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # PATIENT VoC ANALYSIS — JUNIO 2026
 ## Price Sensitivity & Demand Signals from Existing Data
 
@@ -195,7 +197,7 @@ Based on Dra. GP's current 130 patients/month:
 
 **Revenue estimate at Gs 400k avg:**
 - 23 patients × Gs 400,000 = Gs 9.2M/month
-- 23 patients × Gs 500,000 = Gs 11.5M/month
+- 23 patients × Gs 500,000 = Gs 13M/month
 
 **Breakeven:** Need ~15-18 private patients/month to cover current income gap
 

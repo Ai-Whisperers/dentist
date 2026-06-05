@@ -1,3 +1,5 @@
+> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+
 # ACUERDO DE SERVICIOS DENTALES CORPORATIVOS
 ## Dra. Gabriella González Pane — Servicio Dental Directo
 

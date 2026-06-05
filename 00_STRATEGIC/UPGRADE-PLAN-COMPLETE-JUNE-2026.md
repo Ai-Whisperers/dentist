@@ -10,7 +10,7 @@
 
 ## 1. EXECUTIVE SUMMARY
 
-The repo is **85 percent documented** but **0 percent launched**. 161+ .md files, 33985 lines, 29MB, covering strategy, research, legal, payments, procurement, marketing, sales, ops. After the June 4 cleanup: pricing is now cross-referenced to a single source of truth, the decision rule is fixed to match real rent data (Gs 3M, not the dead Gs 1.5M threshold), and 5 high-confidence bloat files are archived. The decision tree is internally consistent.
+The repo is **85 percent documented** but **0 percent launched**. 161+ .md files, 33985 lines, 29MB, covering strategy, research, legal, payments, procurement, marketing, sales, ops. After the June 4 cleanup: pricing is now cross-referenced to a single source of truth, the decision rule is fixed to match real rent data (Gs 3M, not the stale Gs 3M estimate), and 5 high-confidence bloat files are archived. The decision tree is internally consistent.
 
 **The bottleneck is NOT the repo. The bottleneck is 4 phone calls (Ivan) + 11 personal-data items (Dra. GP).**
 
