@@ -1,6 +1,14 @@
 # TODO — Dra. Gabriella González Pane
 ## Strategic Repositioning Project
 
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> ****
+> Any price update should happen in the canonical file only.
+
+---
+
 **Last updated**: June 2, 2026
 **Status**: Research complete — Awaiting Dra. GP data for validation
 **Next milestone**: Meeting with Kiki after data collection

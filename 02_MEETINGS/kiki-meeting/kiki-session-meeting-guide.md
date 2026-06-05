@@ -1,6 +1,14 @@
 # KIKI MEETING — Meeting Structure & Materials
 ## Dra. Gabriella González Pane | Strategic Repositioning Session
 
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> ****
+> Any price update should happen in the canonical file only.
+
+---
+
 ---
 
 ## MEETING OBJECTIVE

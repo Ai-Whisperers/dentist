@@ -1,6 +1,14 @@
 # START HERE — Dra. GP Project
 ## What Is This
 
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> ****
+> Any price update should happen in the canonical file only.
+
+---
+
 This is a business launch kit for Dra. Gabriella González Pane to open a premium private dental practice in Luque, Asunción, Paraguay.
 
 **The goal:** Move from the current insurance-volume model (earning Gs 60k per restoration while the market pays Gs 400-550k) to a value-based private practice.

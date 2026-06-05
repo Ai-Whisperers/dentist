@@ -1,6 +1,14 @@
 # MODELO FINANCIERO — ACTUALIZADO
 ## Dra. Gabriella González Pane
 
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> ****
+> Any price update should happen in the canonical file only.
+
+---
+
 **Versión**: 2.0 — Junio 2026
 **Base**: Research completo + mercado Asunción + benchmarking internacional
 

@@ -1,6 +1,14 @@
 # ENCUESTA DE PACIENTES — Dra. GP
 ## Mensaje para enviar por WhatsApp
 
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> ****
+> Any price update should happen in the canonical file only.
+
+---
+
 **Fecha:** Para enviar después de la consulta con Dra. GP
 **Canal:** WhatsApp directo
 **Objetivo:** Validar demanda para práctica private + coleccionar datos básicos

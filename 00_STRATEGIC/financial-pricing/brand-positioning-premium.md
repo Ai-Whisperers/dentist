@@ -1,6 +1,14 @@
 # POSICIONAMIENTO PREMIUM
 ## Dra. Gabriella González Pane
 
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> ****
+> Any price update should happen in the canonical file only.
+
+---
+
 **Objetivo**: Definir identidad de marca y propuesta de valor diferenciada
 
 ---

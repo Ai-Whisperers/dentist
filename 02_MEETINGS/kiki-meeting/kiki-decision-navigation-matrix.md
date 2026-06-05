@@ -1,6 +1,14 @@
 # DECISION MATRIX — Dra. Gabriella González Pane
 ## Strategic Decision Framework
 
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> ****
+> Any price update should happen in the canonical file only.
+
+---
+
 **Date:** June 2026
 **Purpose:** Navigate all scenarios based on Roque meeting + validation data
 

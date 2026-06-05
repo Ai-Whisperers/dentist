@@ -1,6 +1,14 @@
 # DATA COLLECTION KIT — Updated June 4, 2026
 ## Lo que necesitas llevar a la reunión con Kiki
 
+## PRICING CROSS-REFERENCE (June 2026)
+
+> Service prices in this document are NOT authoritative. The master reference is:
+> ****
+> Any price update should happen in the canonical file only.
+
+---
+
 **Esta semana: Lunes 1 Junio — Jueves 5 Junio**
 
 ---
