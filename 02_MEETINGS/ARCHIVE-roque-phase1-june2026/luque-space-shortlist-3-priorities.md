@@ -1,15 +1,15 @@
 > **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
 
 # LUQUE SPACE SHORTLIST — JUNIO 2026
-## 3 Options Compared for Dental Practice
+## 4 Options Compared for Dental Practice
 
-**Generated:** June 1, 2026
-**Based on:** Live classifieds search (InfoCasas, Clasipar, Inmobiliaria.com)
+**Generated:** June 1, 2026 (updated June 12, 2026)
+**Based on:** Live classifieds search + Dra. GP field intelligence
 **Priority criteria:** Centro Luque zone, 60-100m², commercial or medical use, Gs 1.5-5M/month
 
 ---
 
-## RECOMMENDED: OPTION 1 — Centro Luque (Clasipar)
+## OPTION 1 — Centro Luque (Clasipar)
 
 | Field | Value |
 |-------|-------|
@@ -20,10 +20,8 @@
 | **Price** | **Gs 3,675,000/mes** |
 | **Features** | Sobre calle comercial, entrepiso/depósito, baño |
 | **Dental suitability** | ✅ Size adequate for 1-2 chairs + waiting |
-| **Habilitación** | Preguntar al landlord — likely commercial, no dental habilitación yet |
+| **Habilitación** | ❓ Preguntar al landlord |
 | **Contact** | responder via Clasipar listing |
-
-**为何推荐:** Mejor precio zona centro, good foot traffic, size workable. Calle comercial = pacientes que caminan = visibilidad.
 
 ---
 
@@ -32,16 +30,13 @@
 | Field | Value |
 |-------|-------|
 | **Source** | Infocasas.com.py |
-| **URL** | infocasas.com.py/alquiler/locales-comerciales-y-oficinas/central/luque |
-| **Location** | San Lorenzo /靠近UNA (Granada?) |
+| **Location** | San Lorenzo /靠近UNA |
 | **Size** | 70m² |
 | **Price** | **Gs 5,000,000/mes** |
 | **Features** | Office/consultorio, baño moderno, instalación eléctrica trifásica, alto flujo |
 | **Dental suitability** | ✅ Good for consultorio médico/oficinas |
-| **Habilitación** | Likely office use, confirmar si permite consultorio odontológico |
+| **Habilitación** | ❓ Likely office use, confirmar si permite consultorio odontológico |
 | **Contact** | Via infocasas.com.py |
-
-**为何推荐:** Más profesional, ya configurado como oficina. Electrical trifásica = bueno para equipos médicos.
 
 ---
 
@@ -51,106 +46,77 @@
 |-------|-------|
 | **Source** | Infocasas.com.py |
 | **Location** | Zona alto flujo, Luque Centro |
-| **Size** | 70m²+ (other listings in same search) |
+| **Size** | 70m²+ |
 | **Price** | **Gs 4,000,000-5,000,000/mes** |
 | **Features** | Videovigilancia, office tipo |
 | **Dental suitability** | ✅ Could work with build-out |
-| **Habilitación** | Confirm with landlord |
-
-**为何推荐:** Precio en medio, zona aktiv komersial. Mejor que bare space.
+| **Habilitación** | ❓ Confirm with landlord |
 
 ---
 
-## ZONA CIT / TRAUMATOCENTER (BONUS — RESEARCH ONLY)
+## OPTION 4 — Clínica Mburucuya (Mariana Brecia) ✅ CONFIRMED REAL
 
-**No concrete listings found at Gs 3-5M in this search.**
-
-But from `research/luque-rental-research.md`, zona CIT is recommended if you can find equipped medical:
-- **Contact CIT directly:** Search "CIT Luque consultorio odontológico" or visit Traumatocenter building
-- **Price range if found:** Gs 5M+ (equipped medical space)
-- **Advantage:** Medical cluster referrals, already habilitado
-- **Disadvantage:** Más caro, menos visibilidad
-
-**Action:** Visit CIT in person or call to check availability.
+| Field | Value |
+|-------|-------|
+| **Source** | Dra. GP colleague — Mariana Brecia |
+| **Clínica name** | Clínica Mburucuya |
+| **Location** | Barrio Mburucuya, Asunción (not Luque — verify with Mariana) |
+| **Status** | ✅ CONFIRMED — details PENDING |
+| **Social** | Instagram: @clinica_mburucuya / @clinicamburucuya |
+| **Owner** | Mariana Brecia |
+| **What we know** | Established dental clinic in Mburucuya. Space may be available to share or rent. Zero dental competition in this barrio. |
+| **What we need** | Price, equipment included, habilitación status, contract terms, whether chair-time or full space is available |
+| **Action** | Dra. GP to call/visit Mariana Brecia this week |
 
 ---
 
-## WHAT TO ASK EACH LANDLORD
+## WHAT TO ASK EACH LANDLORD / PARTNER
 
 ```
 1. "¿El local tiene habilitación del MSPBS vigente?"
-   (如果是 → más rápido, 能立即用)
-
 2. "¿Está incluido el precio del alquiler + expensas?"
-   o solo alquiler?
-
 3. "¿Tiene autorización para consultorio odontológico?"
-   (cambio de uso comercial → clínico)
-
-4. "¿Qué equipos están incluidos?"
-   (silla, equipo RX, esterilización...)
-
+4. "¿Qué equipos están incluidos?" (silla, equipo RX, esterilización...)
 5. "¿Se puede hacer horario de clínica los sábados?"
-   (important for Dra. GP's schedule)
-
-6. "¿Hay contrato mínimo?"
-   (6 meses? 12 meses?)
-
+6. "¿Hay contrato mínimo?" (6 meses? 12 meses?)
 7. "¿Qué coûte el depósito?"
-   (通常 1-3 meses de alquiler)
 ```
 
 ---
 
 ## COMPARISON TABLE
 
-| | Option 1 — Centro Luque (Clasipar) | Option 2 — InfoCasas | Option 3 — Principal |
-|---|---|---|---|
-| Precio | **Gs 3,675,000** ✅ | Gs 5,000,000 | Gs 4-5M |
-| Tamaño | ~75-100m ² | 70m ² | 70m ²+ |
-| Zona | Centro ✅ | Comercial/Avenida | Centro |
-| Parking | Preguntar | Preguntar | Preguntar |
-| Already habilitado? | ❓ Confirm | ❓ Confirm | ❓ Confirm |
-| Equipado? | partial (?) | partial (?) | partial (?) |
-| Ease to use |medium|medium|medium|
+| | Option 1 — Centro Luque | Option 2 — InfoCasas | Option 3 — Principal | Option 4 — Mburucuya |
+|---|---|---|---|---|
+| Precio | Gs 3,675,000 ✅ | Gs 5,000,000 | Gs 4-5M | ❓ PENDING |
+| Tamaño | ~75-100m² | 70m² | 70m²+ | ❓ |
+| Zona | Centro ✅ | Comercial/Avenida | Centro | Mburucuya (Asunción) |
+| Parking | Preguntar | Preguntar | Preguntar | ❓ |
+| Habilitado? | ❓ | ❓ | ❓ | ❓ |
+| Equipado? | partial | partial | partial | ❓ |
+| Contacto | via Clasipar | via InfoCasas | via InfoCasas | Mariana Brecia |
 
 ---
 
-## ACTION PLAN
+## ACTION PLAN — ESTA SEMANA
 
-**Esta semana:**
+- [ ] **Llamar a Mariana Brecia** (Clínica Mburucuya) — confirmar: precio, equipo, habilitación, espacio disponible
 - [ ] Llamar/visitar Option 1 (Clasipar Gs 3.675M centro)
 - [ ] Llamar/visitar Option 2 (InfoCasas Gs 5M)
 - [ ] Visit zona CIT and ask about availability
-
-**Next visit ( physically):**
-- [ ] Take photos of each space
-- [ ] Ask for written quote (cotización por escrito)
-- [ ] Get landlord CI + property docs
-
-**Critical questions for EACH:**
-1. Habilitación MSPBS? Si no — cuánto cuesta y tiempo?
-2. Equipment included?
-3. Minimum contract length?
-4. Deposit required?
+- [ ] Confirmar si San Lorenzo equipado sigue disponible (Gs 3M)
 
 ---
 
-*Generated: June 1, 2026 from live classifieds search*
-*Next step: Physical visits + written quotes from each landlord*
+## CONTACTOS CLAVE
+
+| Who | Why | Phone |
+|---|---|---|
+| **Mariana Brecia** (Clínica Mburucuya) | Option 4 — space sharing/rental | DM via Instagram @clinica_mburucuya |
+| **REMAX EXECUTIVE** | San Lorenzo equipped Gs 3M | via infocasas |
+| **Beatriz Oviedo (SkyOne)** | Laurelty Gs 1.7M | 0961 712 141 |
+
 ---
 
-## OPTION 4 — Barrio Mburucuya (PENDING DATA)
-
-| Field | Value |
-|-------|-------|
-| **Source** | Dra. GP colleague (colega en Mburucuya) |
-| **Status** | ❓ PENDING — data not yet received |
-| **Location** | Barrio Mburucuya, Luque |
-| **Notes** | Zero dental competition in this barrio. Recent F&B expansion (Burger King, Popeyes Dec 2025) signals growing commercial zone. Low-hanging fruit for a new practice. |
-| **Mburucuya research** | Confirmed real barrio. No consultorio listings found online. No dental clinics identified in the area. Zone appears underserved. |
-| **What we need** | Address, price, equipment, habilitación status, contact |
-| **Action** | Awaiting response from Dra. GP via WhatsApp |
-
-> ⚠️ **Cannot be compared until data arrives.** Follow-up message sent June 12, 2026 via WhatsApp.
-> See: `09_TEMPLATES/follow-up-mburucuya.md`
+*Generated: June 1, 2026 | Updated: June 12, 2026*
+*Next step: Physical visits + written quotes from each landlord + call to Mariana*
