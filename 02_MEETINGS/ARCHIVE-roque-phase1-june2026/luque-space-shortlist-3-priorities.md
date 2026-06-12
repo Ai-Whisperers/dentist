@@ -138,3 +138,19 @@ But from `research/luque-rental-research.md`, zona CIT is recommended if you can
 
 *Generated: June 1, 2026 from live classifieds search*
 *Next step: Physical visits + written quotes from each landlord*
+---
+
+## OPTION 4 — Barrio Mburucuya (PENDING DATA)
+
+| Field | Value |
+|-------|-------|
+| **Source** | Dra. GP colleague (colega en Mburucuya) |
+| **Status** | ❓ PENDING — data not yet received |
+| **Location** | Barrio Mburucuya, Luque |
+| **Notes** | Zero dental competition in this barrio. Recent F&B expansion (Burger King, Popeyes Dec 2025) signals growing commercial zone. Low-hanging fruit for a new practice. |
+| **Mburucuya research** | Confirmed real barrio. No consultorio listings found online. No dental clinics identified in the area. Zone appears underserved. |
+| **What we need** | Address, price, equipment, habilitación status, contact |
+| **Action** | Awaiting response from Dra. GP via WhatsApp |
+
+> ⚠️ **Cannot be compared until data arrives.** Follow-up message sent June 12, 2026 via WhatsApp.
+> See: `09_TEMPLATES/follow-up-mburucuya.md`

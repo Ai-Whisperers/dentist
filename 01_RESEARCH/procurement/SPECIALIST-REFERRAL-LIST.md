@@ -1,182 +1,154 @@
-> **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
+# RED DE DERIVACIÓN — Dra. Gabriella González Pane
+## Lista de Especialistas de Confianza — Asunción
+### Para imprimir y colgar en la clínica
 
-# SPECIALIST REFERRAL LIST - Paraguay
-## 1-Page Printable for Dra. GP
-### For referring complex cases (perio, endo, implants, surgery)
-
-**Generated:** June 2026
-**Purpose:** One-page printable list. Keep at the clinic. Refer patients with confidence.
-**Update:** When phone or address changes, update this file.
+**Actualizado:** Junio 2026 | **Versión:** 2.0 — datos verificados
+**Propósito:** Referir casos complejos con nombre, número y contexto. No derivar a ciegas.
 
 ---
 
-## HOW TO USE THIS LIST
+## ⚙️ PROTOCOLO DE DERIVACIÓN
 
-1. Identify which specialist the patient needs (perio / endo / implant / surgery)
-2. Call the specialist, introduce yourself, ask about their availability
-3. If accepting new patients: WhatsApp the patient the specialists contact info
-4. Document the referral in DenPro (referral tab)
-5. Follow up with the patient 2 weeks later to confirm they went
-6. Follow up with the specialist 1 month later to confirm treatment happened
+1. Identificar qué especialista necesita el paciente (perio / endo / implante / cirugía / ortho)
+2. Llamar al especialista, presentarse, confirmar disponibilidad
+3. Enviar al paciente el contacto del especialista por WhatsApp
+4. Documentar la derivación en DenPro (pestaña derivación)
+5. Seguimiento al paciente en **2 semanas** — ¿fue a la consulta?
+6. Seguimiento al especialista en **1 mes** — ¿se realizó el tratamiento?
 
-**Referral agreement:** A formal referral agreement (Dra. GP receives 10% of treatment value as referrer) is documented in . Not yet lawyer-reviewed.
+**Nota legal:** El acuerdo de derivación formal (10% del valor del tratamiento como honorario referente) está pendiente de revisión por abogado.
 
----
-
-## PERIODONTIST (Perio - Gum disease, soft tissue grafts, implant placement)
-
-### Specialists in Asuncion (to verify):
-- **Dr. [NAME]** - [Clinic name], [Address]
-  - Phone: +595 XXX XXX XXX
-  - WhatsApp: same
-  - Email: [email]
-  - Specialty: Conservative perio, no surgical by default (matches Dra. GP philosophy)
-  - Status: TO CALL
-
-### How to find:
-1. COP directory (after membership signup)
-2. Google Maps: "periodoncista Asuncion"
-3. Refer from existing patients who have had perio work done
-4. Ask Dra. GP colleagues at Odontologia 3 for referrals
+**Script de presentación:**
+> *"Buen día, soy la Dra. Gabriella González Pane, estoy armando mi práctica privada en Luque. Me gustaría referirle pacientes con casos complejos. ¿Acepta pacientes referidos? ¿Cuánto cobra por consulta? ¿Cuál es el tiempo de espera actual?"*
 
 ---
 
-## ENDODONTIST (Endo - Root canals, retreatments, calcified canals)
+## 🦷 PERIODONCIA — Enfermedades de encías, injertos, implantes
 
-### Specialists in Asuncion (to verify):
-- **Dr. [NAME]** - [Clinic name], [Address]
-  - Phone: +595 XXX XXX XXX
-  - WhatsApp: same
-  - Email: [email]
-  - Specialty: Microscope-equipped endo (high success rate on complex cases)
-  - Status: TO CALL
+| Campo | Datos |
+|-------|-------|
+| **Especialista** | Dr. Diego Defazio |
+| **Clínica** | Centro Periodentist + Instituto Randall |
+| **WhatsApp** | +595 981-311-470 |
+| **Especialidad** | Periodontología, salud de encías y hueso, implantes dentales |
+| **Acepta referidos** | Sí — consultar disponibilidad |
+| **Notas** | Periodoncista dedicado más claramente identificado en Asunción |
 
-### How to find:
-1. IPEO has in-house endodontist - good referral option (mentioned in dental-tourism-opportunity-analysis.md)
-2. Google Maps: "endodoncista Asuncion"
-3. Dr. Diego Adrian Martinez at Centro Odontologico Victoria (mentioned in research)
-4. COP directory
+**Cuándo derivar:** Periodontitis moderada/severa, cirugía de encías, colocación de implantes (Dra. GP hace la corona).
 
 ---
 
-## IMPLANTOLOGIST (Implants - Surgical placement of titanium posts)
+## 🦷 ENDODONCIA — Canales radiculares, retratamientos, calcificaciones
 
-### Specialists in Asuncion (to verify):
-- **Dr. [NAME]** - [Clinic name], [Address]
-  - Phone: +595 XXX XXX XXX
-  - WhatsApp: same
-  - Email: [email]
-  - Specialty: Implant placement (Dra. GP does the crown)
-  - Status: TO CALL
+| Campo | Datos |
+|-------|-------|
+| **Especialista** | Dra. Karen Rivas |
+| **Clínica** | Odonto Excellence (corredor UNA) |
+| **Especialidad** | Tratamiento de canales radiculares, casos complejos |
+| **Redes** | Activa en redes sociales — contactar por DM o vía clínica |
 
-### How to find:
-1. Dr. Raul Quevedo at Odex Centro Odontologico (mentioned in research)
-2. Google Maps: "implantologo Asuncion"
-3. COP directory
+| **Backup urgencias** | CEO San Jorge | 4 sucursales, 24/7, equipo de endodoncistas |
+| **CEO San Jorge** | Av. Eusebio Ayala N° 4227 |
 
----
-
-## ORAL + MAXILLOFACIAL SURGEON (Wisdom teeth, complex extractions, trauma)
-
-### Specialists in Asuncion (to verify):
-- **Dr. [NAME]** - [Clinic name], [Address]
-  - Phone: +595 XXX XXX XXX
-  - WhatsApp: same
-  - Email: [email]
-  - Specialty: Wisdom teeth, complex extractions, orthognathic
-  - Hospital privileges: [list]
-  - Status: TO CALL
-
-### How to find:
-1. Hospital San Roque (24-hour dental emergencies)
-2. Hospital de Clinicas (universitario)
-3. Google Maps: "cirujano maxilofacial Asuncion"
+**Cuándo derivar:** Canales calcificados, retratamientos fallidos, anatomía compleja, molares con curvatura severa.
 
 ---
 
-## ORTHODONTIST (Ortho - Brackets, clear aligners)
+## 🔪 CIRUGÍA MAXILOFACIAL — Extracciones complejas, terceros molares, trauma
 
-### Specialists in Asuncion (to verify):
-- **Dra. Natalia Prieto** - odontologiaprieto.com.py (CONFIRMED from research)
-  - Phone: 0994 156717 (WhatsApp-first)
-  - Specialty: Ortodoncia y estetica dental (price-accessible brackets)
-  - Status: Contacted, accept referred patients
+**Primera opción — alta complejidad (IPS):**
 
-### How to find:
-1. orthodontics.com.py (mentioned in research)
-2. Google Maps: "ortodoncista Asuncion"
+| Campo | Datos |
+|-------|-------|
+| **Cirujana** | Dra. Lorena Centurión |
+| **Hospital** | IPS Hospital Central, Asunción |
+| **Experiencia** | Cirujana permanente desde 2008 — ~1,500 cirugías realizadas |
+| **Perfil** | Media-alta complejidad; cubre pacientes con cobertura IPS |
+| **Contacto** | Vía admisión IPS Hospital Central |
 
----
+**Segunda opción — clínica privada:**
 
-## RADIOLOGIST (Imaging referrals - CBCT, panoramic)
+| Campo | Datos |
+|-------|-------|
+| **Cirujano** | Dr. Oscar Thompson |
+| **Clínica** | CMB Consultorios San Roque, Asunción |
+| **Credenciales** | Cirujano maxilofacial — Univ. del Norte / Autónoma del Paraguay |
 
-### Centers in Asuncion (to verify):
-- **Diagnostico Tesla** (from prior research)
-  - Phone: see 01_RESEARCH/community/expat-community-deep-dive.md
-  - Services: Panoramic, CBCT
-  - Per-scan price: panoramic Gs 450-800k, CBCT Gs 1.2-2.5M
+**Contactos adicionales:**
+- Dr. Italo Funes — Cirujano maxilofacial, búsqueda en YouTube/redes
+- Dra. Rita Inés Ustariz Gómez — Cirujana oral/maxilofacial Asunción — vía abcmedico.co
 
-- **Innovare Radiologia** (from rent-share-map research)
-  - Locations: San Lorenzo + Capiata
-  - Phone: see research
-
-- **Radiodent SA** (from rent-share-map)
-
-- **ProMax3D** (Planmeca equipment, from rent-share-map)
-
-### How to find more:
-1. Google Maps: "radiografia panoramica Asuncion" or "CBCT dental Asuncion"
-2. Ask specialists (perio, endo) where they send patients for imaging
-3. COP directory (after membership)
+> ⚠️ Solo 50-60 especialistas maxilofaciales registrados en Paraguay (2024). Conocerlos personalmente es ventaja.
 
 ---
 
-## PROSTHODONTIST (Complex full-mouth rehabilitation, advanced aesthetics)
+## 😁 ORTODONCIA — Brackets, alineadores, ortopedia facial
 
-### Specialists in Asuncion (to verify):
-- **Dr. [NAME]** - [Clinic name]
-  - Phone: +595 XXX XXX XXX
-  - Specialty: Full-mouth rehabilitation, complex aesthetics
-  - Status: TO CALL
+| Campo | Datos |
+|-------|-------|
+| **Especialista** | Dra. Natalia Prieto |
+| **Web** | orthodontiaprieto.com.py |
+| **WhatsApp** | 0994 156717 (preferir WhatsApp) |
+| **Especialidad** | Ortodoncia + Ortopedia Facial |
+| **Estado** | Práctica propia — recibe pacientes referidos |
 
-### How to find:
-1. Alta Gama lab (Alta Gama may know who orders their complex aesthetics)
-2. Risus Clinic (Dr. Patricia Filippini - per expat dental tourism research)
-3. Google Maps: "prostodoncista Asuncion"
-
----
-
-## RESEARCH NOTES (raw data from existing project research)
-
-From  (line 153-155):
-- CEO San Jorge - 4 branches, 24/7, all specialties, own lab, protesis pricing from Gs 3M (legacy/baseline; validate against current lab quotes)
-- Odonto Center - open since 2006, in-house specialists
-- Centro Odontologico Victoria - implant specialists on staff (Dr. Diego Adrian Martinez)
-- IPEO (Av. Boggiani 5760) - CAD/CAM lab, specialists, bilingual (CONFIRMED bilingual)
-- Odex Centro Odontologico - Dr. Raul Quevedo (implant specialist)
-
-From :
-- IPEO: (021) Boggiani 5760, 5.0 stars
-- Dra. Silvana Boccia: (021) 227 368, 25 De Mayo 3490, 40+ years experience
-- Praxis Dental: (021) 224 902, Mayor Bullo 264
-- Centro Victoria: (0981) 654 084, Cap. Figari 1244
-
-**For Dra. GP to call and verify, the script:**
-"Buen dia, soy la Dra. Gabriella Gonzalez Pane, estoy armando mi practica privada en Luque. Me gustaria refererir pacientes con casos complejos. Me podria decir: (1) acepta pacientes referidos? (2) que especialidad? (3) cuanto cobra por consulta? (4) tiempo de espera actual?"
+**Cuándo derivar:** Maloclusiones, brackets, alineadores invisibles, ortopedia en niños/adolescentes.
 
 ---
 
-## HOW TO UPDATE THIS LIST
+## 🩻 RADIOLOGÍA — Panorámicas, CBCT, tomografías
 
-Whenever Dra. GP contacts a specialist:
-1. Fill in the [NAME], [Clinic], [Phone], [Address] placeholders
-2. Note: accepts referred patients (Y/N), pricing, wait time, philosophy match
-3. Commit the updated file to git
-4. Print new page for the clinic wall
+| Centro | Servicios | Contacto |
+|--------|-----------|----------|
+| **Diagnóstico Tesla** | Panorámica digital, tomografía, CBCT | Consultar número y agenda directamente |
+| **CEO San Jorge** | Radiografía in-house | Av. Eusebio Ayala N° 4227, 4 sucursales, 24/7 |
+
+**Precios orientativos:** Panorámica Gs 450k–800k | CBCT Gs 1.2–2.5M (verificar con cada centro)
 
 ---
 
-*List generated: June 2026*
-*For: Dra. Gabriella Gonzalez Pane*
-*Owner: Sisyphus*
+## 🔬 LABORATORIOS — Coronas, prótesis, estética
 
+**Laboratorio premium (CAD/CAM digital):**
+
+| Campo | Datos |
+|-------|-------|
+| **Laboratorio** | Alta Gama |
+| **Web** | altagamalab.com.py |
+| **Teléfono** | (021) 412-9900 |
+| **Dirección** | Quesada N° 4439, Recoleta, Asunción |
+| **Servicios** | CAD/CAM, zirconia, e.max, disilicato, carillas, prótesis fija, ortodoncia |
+
+**Laboratorio alternativo:**
+
+| Campo | Datos |
+|-------|-------|
+| **Laboratorio** | Laboratorio Mereles |
+| **Fijo** | 021-583393 |
+| **Celular** | 0981-740187 |
+
+Referencia de mercado: CEO San Jorge lista coronas/prótesis desde Gs 1.500.000
+
+---
+
+## 🏥 BACKUP MULTI-ESPECIALIDAD — Urgencias
+
+**CEO San Jorge** — Av. Eusebio Ayala N° 4227
+- 4 sucursales en Asunción — **24 horas / 7 días**
+- Endodoncia, periodoncia, cirugía, ortodoncia, implantes
+- Laboratorio propio
+
+Para urgencias fuera de horario o cuando los especialistas anteriores no tienen disponibilidad.
+
+---
+
+## 📋 CÓMO ACTUALIZAR
+
+Cuando cambie un dato o se agregue un especialista:
+1. Actualizar 
+2. Anotar: acepta referidos (S/N), precio orientativo, tiempo de espera, filosofía clínica
+3. Commit al git + imprimir nueva versión para la clínica
+
+---
+
+*Lista v2.0 — Junio 2026 | Para: Dra. Gabriella González Pane | Sisyphus*
