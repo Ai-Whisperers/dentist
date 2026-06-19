@@ -32,11 +32,11 @@
 
 ### Las 3 cosas que tenés que NO pensar
 
-1. **No pensar en讨好 a Roque.** No es una relación padre-hijo, es una relación profesional. La sumisión no te compra lealtad; te compra sumisión futura.
+1. **No pensar en congraciarte con Roque.** No es una relación padre-hijo, es una relación profesional. La sumisión no te compra lealtad; te compra sumisión futura.
 
 2. **No pensar en él como villano.** Es un empresario que protege su sistema. Eso no lo hace malo, lo hace previsibles. Tu ventaja es que vos ya sabés cómo funciona su sistema.
 
-3. **No pensar en que la reunión es成败.** No es成败, es una conversación. Si sale bien, avanzás. Si sale mal, activás Plan B. En ambos casos, tenés camino.
+3. **No pensar en el resultado de la reunión.** No es cuestión de éxito ni de fracaso, es una conversación. Si sale bien, avanzás. Si sale mal, activás Plan B. En ambos casos, tenés camino.
 
 ---
 
