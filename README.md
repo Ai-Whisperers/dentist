@@ -1,7 +1,26 @@
 # Dra. Gabriella Gonzalez Pane - Strategic Repositioning Project
 
-**Status:** P0–P2.3 complete. P3 staged for next session.
-**Last updated:** June 5, 2026
+**Status:** P0–P5 complete (strategic + content). Site live, awaiting Kiki validation (Sección 1 of `07_DESIGN/website/validacion-cliente-dra-gp.md`).
+**Last updated:** June 19, 2026
+
+---
+
+## 🌐 Live site & platform link
+
+The actual website is **deployed and live** — this repo is the **strategic + content source of truth**, not the runtime code.
+
+| What | Where | Status |
+|---|---|---|
+| **Live site** | https://dragabriela.paragu-ai.com | ✅ Live (1/1 swarm replica) |
+| Production code | [`Ai-Whisperers/paragu-ai-platform`](https://github.com/Ai-Whisperers/paragu-ai-platform) → `apps/dra-gabriela/` | ✅ Deployed on Docker Swarm |
+| Swarm service | `dra-gabriela_web` (1/1, `dra-gabriela:prod-013ea3b-20260618-1326`) | ✅ Converged |
+| Traefik routing | `Host(dragabriela.paragu-ai.com)` + `dra-gabriela.com.py` (pending DNS) | ✅ Active |
+| **Content sync flow** | `dentist/07_DESIGN/website/*.md` → `paragu-ai-platform/apps/dra-gabriela/content/{en,es}/*.json` | This repo is authoritative; platform app consumes JSON |
+| Canonical pricing | `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` | ✅ Single source of truth |
+
+**Why two repos?** The dentist repo holds *strategy, research, client-side content authoring* (markdown). The platform app holds *runtime code + deployable JSON bundles*. The flow is: edit markdown here → port to JSON there → redeploy.
+
+**Client gate (Sección 1 of `07_DESIGN/website/validacion-cliente-dra-gp.md`):** WhatsApp, phone, address, RUC, MSPBS, email are PENDING from Kiki. Until received, every ContactButton on the live site falls back to email (graceful chain: WA → phone → email → contact page).
 
 ---
 
@@ -11,6 +30,7 @@
 2. **Exec summary:** `docs/executive-summary.md`
 3. **Work plan:** `docs/REPO-WORK-PLAN.md`
 4. **Action tracker:** `TODO.md`
+5. **Client validation form:** `07_DESIGN/website/validacion-cliente-dra-gp.md` (23 questions, 5 sections)
 
 ---
 
