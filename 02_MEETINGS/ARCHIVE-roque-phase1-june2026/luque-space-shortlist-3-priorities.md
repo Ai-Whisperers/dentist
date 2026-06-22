@@ -54,19 +54,19 @@
 
 ---
 
-## OPTION 4 — Clínica Mburucuya (Mariana Brecia) ✅ CONFIRMED REAL
+## OPTION 4 — Clínica Mburucuya (Mariana Brescia) ✅ CONFIRMED REAL
 
 | Field | Value |
 |-------|-------|
-| **Source** | Dra. GP colleague — Mariana Brecia |
+| **Source** | Dra. GP colleague — Mariana Brescia |
 | **Clínica name** | Clínica Mburucuya |
 | **Location** | Barrio Mburucuya, Asunción (not Luque — verify with Mariana) |
 | **Status** | ✅ CONFIRMED — details PENDING |
 | **Social** | Instagram: @clinica_mburucuya / @clinicamburucuya |
-| **Owner** | Mariana Brecia |
+| **Owner** | Mariana Brescia |
 | **What we know** | Established dental clinic in Mburucuya. Space may be available to share or rent. Zero dental competition in this barrio. |
 | **What we need** | Price, equipment included, habilitación status, contract terms, whether chair-time or full space is available |
-| **Action** | Dra. GP to call/visit Mariana Brecia this week |
+| **Action** | Dra. GP to call/visit Mariana Brescia this week |
 
 ---
 
@@ -94,13 +94,13 @@
 | Parking | Preguntar | Preguntar | Preguntar | ❓ |
 | Habilitado? | ❓ | ❓ | ❓ | ❓ |
 | Equipado? | partial | partial | partial | ❓ |
-| Contacto | via Clasipar | via InfoCasas | via InfoCasas | Mariana Brecia |
+| Contacto | via Clasipar | via InfoCasas | via InfoCasas | Mariana Brescia |
 
 ---
 
 ## ACTION PLAN — ESTA SEMANA
 
-- [ ] **Llamar a Mariana Brecia** (Clínica Mburucuya) — confirmar: precio, equipo, habilitación, espacio disponible
+- [ ] **Llamar a Mariana Brescia** (Clínica Mburucuya) — confirmar: precio, equipo, habilitación, espacio disponible
 - [ ] Llamar/visitar Option 1 (Clasipar Gs 3.675M centro)
 - [ ] Llamar/visitar Option 2 (InfoCasas Gs 5M)
 - [ ] Visit zona CIT and ask about availability
@@ -112,7 +112,7 @@
 
 | Who | Why | Phone |
 |---|---|---|
-| **Mariana Brecia** (Clínica Mburucuya) | Option 4 — space sharing/rental | DM via Instagram @clinica_mburucuya |
+| **Mariana Brescia** (Clínica Mburucuya) | Option 4 — space sharing/rental | DM via Instagram @clinica_mburucuya |
 | **REMAX EXECUTIVE** | San Lorenzo equipped Gs 3M | via infocasas |
 | **Beatriz Oviedo (SkyOne)** | Laurelty Gs 1.7M | 0961 712 141 |
 

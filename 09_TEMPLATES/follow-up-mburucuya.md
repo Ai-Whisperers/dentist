@@ -1,37 +1,44 @@
-# WhatsApp Message — Mburucuya Consultorio Details
+# ⚠️ ARCHIVADO — Mensaje equivocado, ver el nuevo
 
-**Para:** Dra. Gabriella González Pane
-**De:** Ivan
-**Fecha:** June 12, 2026
-**Tipo:** Follow-up consulta búsqueda consultorio
+**Este archivo está obsoleto.** El mensaje acá asume que Gaby ya confirmó espacio con Mariana Brescia, lo cual es FALSO.
 
----
+**Usá en su lugar:** [`follow-up-MBURUCUYA-mariana-asuncion.md`](./follow-up-MBURUCUYA-mariana-asuncion.md)
 
-Hola Kiki!! 🎉
-
-Qué bueno que conseguiste uno más seguro en Mburucuya!! Necesito los detalles para agregarlo al shortlist y compararlo con las otras opciones que ya tenemos.
-
-Me podrías pasar:
-
-**1. ¿Dirección exacta?** (barrio + calle/referencia)
-**2. ¿Precio por mes?** (Gs ___)
-**3. ¿Tiene habilitación MSPBS vigente?** (sí/no/no sé)
-**4. ¿Está equipado o vacío?** (si tiene equipo: qué incluye exactamente)
-**5. ¿Contrato mínimo? ¿Depósito?**
-**6. ¿Cómo es el espacio?** (tamaño aprox, cuántas piezas)
-
-Si tenés el contacto de la colega también lo sumo — así sabemos quién es la propietaria.
-
-Gracias!! Quedo esperando. 🙏
+**Razón del cambio (22 junio 2026):**
+- Este doc asumía que Mariana Brescia estaba confirmada. No lo está.
+- Asumía ubicación en Asunción. No era claro.
+- Tenía el typo "Brecia" en vez de "Brescia".
+- El nuevo doc está corregido y es el que Gaby debe usar.
 
 ---
 
-**Follow-up opcional:**
+## Mensaje original (no usar, archivado por referencia)
 
-Ah y también — ¿qué te dijo Roque? ¿Hubo algún avance o no mejoró?
-
-Y una cosa más — necesitás mandarme el número de tus ahorros (Gs ___M) para confirmar que Phase 1 es viable. El modelo necesita Gs 50-80M para 6 meses de runway.
+> Hola Kiki!! 🎉
+>
+> Qué bueno que conseguiste uno más seguro en Mburucuya!! Necesito los detalles para agregarlo al shortlist y compararlo con las otras opciones que ya tenemos.
+>
+> Me podrías pasar:
+>
+> **1. ¿Dirección exacta?** (barrio + calle/referencia)
+> **2. ¿Precio por mes?** (Gs ___)
+> **3. ¿Tiene habilitación MSPBS vigente?** (sí/no/no sé)
+> **4. ¿Está equipado o vacío?** (si tiene equipo: qué incluye exactamente)
+> **5. ¿Contrato mínimo? ¿Depósito?**
+> **6. ¿Cómo es el espacio?** (tamaño aprox, cuántas piezas)
+>
+> Si tenés el contacto de la colega también lo sumo — así sabemos quién es la propietaria.
+>
+> Gracias!! Quedo esperando. 🙏
+>
+> **Follow-up opcional:**
+>
+> Ah y también — ¿qué te dijo Roque? ¿Hubo algún avance o no mejoró?
+>
+> Y una cosa más — necesitás mandarme el número de tus ahorros (Gs ___M) para confirmar que Phase 1 es viable. El modelo necesita Gs 50-80M para 6 meses de runway.
+>
+> *Ivan*
 
 ---
 
-*Ivan*
+*Archivo archivado 22 junio 2026 — usar `follow-up-MBURUCUYA-mariana-asuncion.md`*
