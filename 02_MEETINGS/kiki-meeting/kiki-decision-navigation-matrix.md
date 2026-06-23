@@ -1,5 +1,6 @@
 # DECISION MATRIX — Dra. Gabriella González Pane
-## Strategic Decision Framework
+# DECISION MATRIX — Dra. Gabriella González Pane
+## Strategic Decision Framework (v2 — 22 jun)
 
 ## PRICING CROSS-REFERENCE (June 2026)
 
@@ -10,44 +11,50 @@
 
 ---
 
-**Date:** June 2026
-**Purpose:** Navigate all scenarios based on Roque meeting + validation data
+**Date:** v2 — 22 junio 2026 (post-audio Ptt 17:04)
+**Purpose:** Navigate scenarios based on Roque meeting + validation data
+
+> 🆕 v2: Ara (hija de Roque) es decision-maker real. La Merced ya NO es opción (Ara la cerró). Gaby ya tomó la decisión de abrir práctica privada en paralelo. La Opción B es la **operativa por default** independientemente de lo que diga Roque.
 
 ---
 
-## DECISION FRAMEWORK OVERVIEW
+## DECISION FRAMEWORK OVERVIEW (v2)
 
 ```
-                    ┌─────────────────────────────────────────┐
-                    │         ROQUE MEETING (Thursday)         │
-                    └─────────────────────────────────────────┘
-                                       │
-              ┌────────────────────────┼────────────────────────┐
-              ▼                        ▼                        ▼
-      ┌───────────────┐      ┌───────────────┐      ┌───────────────┐
-      │ OFFERS REAL   │      │ OFFERS TOKEN  │      │ NO CHANGE     │
-      │ IMPROVEMENT  │      │ ( Cosmetic)   │      │ OR WON'T      │
-      │ (>20% better)│      │ (<10% better) │      │ BUDGE         │
-      └───────────────┘      └───────────────┘      └───────────────┘
-              │                        │                        │
-              ▼                        ▼                        ▼
-      ┌─────────────┐        ┌─────────────┐        ┌─────────────────────┐
-      │ OPTION A     │        │ EVALUATE A  │        │ OPTION B            │
-      │ + Start B    │        │ + Start B    │        │ STARTS IMMEDIATELY  │
-      │ SLOWLY       │        │ cautiously   │        │ (Rental + EAS +     │
-      │              │        │             │        │  Digital setup)      │
-      └─────────────┘        └─────────────┘        └─────────────────────┘
-                                       │
-                                       ▼
-                          ┌─────────────────────────┐
-                          │ RENTAL QUOTE VALIDATED? │
-                          │ (Gs 3M/mo or less,         │
-                          │  equipped, accessible)   │
-                          └─────────────────────────┘
-                                       │
-                    ┌───────────────────┴───────────────────┐
-                    ▼                                       ▼
-            ┌───────────────┐                      ┌───────────────┐
+            ┌─────────────────────────────────────────┐
+            │  GABY YA DECIDIÓ (audio 22 jun)        │
+            │  Práctica privada en paralelo en Luque │
+            └─────────────────────────────────────────┘
+                            │
+                            ▼
+        ┌───────────────────────────────────────────┐
+        │  REUNIÓN CON ROQUE (próxima, fecha TBD)  │
+        │  Objetivo: comunicar decisión, no pedir  │
+        │  permiso                                 │
+        └───────────────────────────────────────────┘
+                            │
+   ┌────────────────────────┼────────────────────────┐
+   ▼                        ▼                        ▼
+┌──────────┐         ┌──────────┐         ┌──────────────────┐
+│ Roque +  │         │ Roque    │         │ Roque se pone    │
+│ Ara      │         │ solo,    │         │ hostil / echa    │
+│ aceptan  │         │ Ara      │         │ sin causa        │
+│ + Ara    │         │ bloquea  │         │                  │
+│ avala    │         │          │         │                  │
+└──────────┘         └──────────┘         └──────────────────┘
+   │                        │                        │
+   ▼                        ▼                        ▼
+┌──────────┐         ┌──────────┐         ┌──────────────────┐
+│ Opción A │         │ ACTIVAR  │         │ Plan emergencia  │
+│ + B      │         │ PLAN B   │         │ 7 días           │
+│ combin.  │         │ INMEDIAT │         │ + indemnización  │
+│          │         │ (Burucuyá│         │                  │
+│ Con     │         │  amiga)  │         │ Si indemniz.     │
+│ trazab. │         │          │         │ confirmada →     │
+│ operativa│         │ NO       │         │ Plan B con       │
+│ con Ara │         │ esperes  │         │ runway           │
+└──────────┘         └──────────┘         └──────────────────┘
+```
             │     YES       │                      │     NO        │
             │ OPTION B     │                      │ DELAY/PAUSE   │
             │ PROCEED      │                      │ Find space     │

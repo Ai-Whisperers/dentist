@@ -154,16 +154,11 @@ Kiki — necesitamos fotos e imágenes para el sitio web y las redes. Por favor 
 
 ---
 
-## SECCIÓN 7: ASSETS LEGALES
+## SECCIÓN 7: ~~ASSETS LEGALES~~ ELIMINADA v2 (22 jun) — duplicada con client-personal-data-checklist
 
-### ¿Tenés:
-- CI (cédula de identidad) — copia escaneada (sí/no)
-- RUC activo (sí/no)
-- Título universitario escaneado (sí/no)
-- Registro COP (sí/no)
-- Habilitación MSPBS vigente (sí/no / fecha vencimiento)
-- E.A.S. registrada (sí/no)
-- Timbrado (sí/no / número)
+> 🆕 v2: esta sección se eliminó porque está duplicada. Los datos legales (CI, RUC, MSPBS, EAS, Timbrado) ya se piden en `02_MEETINGS/client-prep/digital-systems/client-personal-data-checklist.md`.
+
+**La info de datos legales ahora está en:** `02_MEETINGS/client-prep/digital-systems/client-personal-data-checklist.md`
 
 ---
 

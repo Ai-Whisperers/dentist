@@ -1,6 +1,10 @@
 # 🔍 Análisis crítico de los 3 cuestionarios
-## Cuestionarios para Dra. GP — revisión 22 junio 2026
+## Cuestionarios para Dra. GP — revisión 22 junio 2026 (v2)
 **Audiencia:** Ivan, Kiki — para entender qué funciona y qué no de los cuestionarios que le estamos pidiendo a Gaby
+
+> 🆕 v2 (22 jun): **NINGUNO de los cuestionarios del repo ha sido respondido por Gaby al 22 de junio 2026.** Son todos templates esperando input. Los campos `___` están todos vacíos. La paciente sigue pendiente de llenar Sección 1 del validacion-cliente-dra-gp.md.
+>
+> **Lo que SÍ sabemos (del audio espontáneo del 22 jun) está en:** `02_MEETINGS/gabi-audio-prompts/CONTEXTO-PREVIO-22JUN.md`. NO preguntes eso de nuevo.
 
 ---
 

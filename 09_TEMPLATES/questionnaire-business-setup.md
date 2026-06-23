@@ -92,12 +92,11 @@ Este cuestionario es para temas legales/fiscales/operativos que afectan el sitio
 
 ---
 
-## SECCIÓN 9: METAS
+## SECCIÓN 9: ~~METAS~~ ELIMINADA v2 (22 jun) — redundante con canonical pricing
 
-- **¿Cuántos pacientes nuevos por mes esperás en los primeros 3 meses?** (5 / 10 / 20 / 30+)
-- **¿Cuántos por mes esperás en el año 1?** (15 / 30 / 50+)
-- **¿Ticket promedio por consulta?** (Gs 400k / 500k / más)
-- **% de consultas que se convierten en tratamiento:** (50% / 70% / 90%)
+> 🆕 v2: esta sección se eliminó porque las preguntas sobre "ticket promedio" y "% conversión" ya están definidas en `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. Mantenerlas acá duplicaba info.
+
+**La info de metas ahora está en:** `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` (precios) y `financial-model-projections-v2.md` (proyecciones).
 
 ---
 

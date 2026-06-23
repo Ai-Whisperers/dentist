@@ -14,6 +14,18 @@
 
 **Evaluación**: 3 paths estratégico para el reposicionamiento
 
+> 🆕 v2 (22 junio 2026): Las 3 opciones se mantienen conceptualmente, pero el contexto cambió:
+>
+> - **Ara (hija de Roque) es decision-maker real**, no solo Roque. Esto debilita la Opción A (Upsell dentro de O3) porque cualquier acuerdo con Roque sin Ara es papel mojado.
+> - **La Merced ya NO es opción para pedir.** Ara la cerró. La Opción A en su forma original (uso de La Merced para privados) es línea muerta.
+> - **Gaby ya tomó la decisión de abrir práctica privada en paralelo** (audio 22 jun, pivote psicológico: "ya no soy la misma"). La Opción B deja de ser recomendada y pasa a ser la **operativa por default**.
+> - **Plan B ya casi confirmado**: amiga odontóloga en Barrio Burucuyá, Luque, viernes. Mensaje de WhatsApp listo en `09_TEMPLATES/follow-up-burucuya-amiga-luque.md`.
+> - **Combustible Luque↔Asunción: ~Gs 1M/mes** (audio 22 jun) — reduce el margen real de O3. Si se queda sin cambio de % o de sede, está perdiendo plata trabajando.
+>
+> **Recomendación operativa post-audio:** la reunión con Roque ya no es para "explorar" la Opción A vs B. Es para **comunicar la decisión de ejecutar Opción B (con Plan B independiente)**, y acordar los términos de convivencia o salida con O3.
+>
+> Ver: `02_MEETINGS/client-prep/roque-meeting/02-roque-decision-matrix.md` (v2 con escenario 7), `00-ONE-PAGE-CHEAT-SHEET.md`, `13-emergency-plan-7-days.md`.
+
 ---
 
 ## OPORTUNIDAD CENTRAL

@@ -12,13 +12,19 @@
 
 ---
 
-## MEETING OBJECTIVE
+## MEETING OBJECTIVE (v2)
 
-Walk out with a clear decision: **What path do we take?**
+Walk out with un **plan operativo claro** para ejecutar la decisión que Gaby ya tomó.
 
-- Option A: Upsell premium (if Roque improved deal)
-- Option B: Parallel practice (recommended baseline)
-- Option C: Full exit (only after Option B validates)
+**Decisión ya tomada (audio 22 jun):** abrir práctica privada en paralelo en Luque, independientemente de lo que diga Roque.
+
+**Lo que se decide en esta reunión con Kiki:**
+- Cuándo arranca el Plan B (amiga Burucuyá viernes + Luque lunes)
+- Qué se necesita para arrancar (EAS, RUC, WhatsApp Business, primer día)
+- Cómo manejar la transición con O3 (qué le dice a Roque, qué le dice a los pacientes actuales, qué no)
+- Qué se hace con el sitio web live (mostrar marca propia o mantener en pausa)
+
+> **NOTA v2:** La Opción A (Upsell dentro de O3) ya NO es la recomendada porque Ara (hija de Roque) tiene poder de veto real. La Opción B (práctica paralela) es la **operativa por default** independientemente de lo que pase con Roque. La Opción C (full exit) sigue dependiendo de indemnización confirmada.
 
 ---
 
