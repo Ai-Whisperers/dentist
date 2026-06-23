@@ -277,14 +277,15 @@ Cargamos 5 principios: Criterio clínico primero · Conservación sobre interven
 
 ## SECCIÓN 5 — Estrategia (opcional, responde si ya lo tenés claro)
 
-### 22. Roque — ¿Opción A (quedarse) o B (paralelo propio)?
+### 22. Roque — ¿Cómo pensás seguir por ahora en O3?
 
-> Esto afecta si la dirección será Luque o Asunción, y la disponibilidad horaria.
+> Esto afecta si la dirección será Luque o Asunción, y la disponibilidad horaria. 🆕 v2: la pregunta se suavizó — ya no se asume que la decisión está abierta.
 
-- ( ) **a)** **Opción B** (consultorio paralelo propio) — es la que estamos planificando
-- ( ) **b)** **Opción A** (quedarse en Roque) — cambiaría la dirección
-- ( ) **c)** Todavía no está definido
-- ( ) **d)** Otro: _____________________________________
+- ( ) **a)** Como hasta ahora, sin cambios
+- ( ) **b)** Reducir horas en O3 para abrir práctica propia
+- ( ) **c)** Renunciar a O3
+- ( ) **d)** Todavía no está definido
+- ( ) **e)** Otro: _____________________________________
 
 ### 23. ¿Hay algo más que quieras cambiar o agregar?
 

@@ -167,6 +167,26 @@ English tone (expat-facing):
 
 Never use: "¡Tu sonrisa es nuestra pasión!" — this is oversaid by every clinic; differentiate on trust, not emotion.
 
+### 🆕 v2 (22 jun) — Diferenciación visual de marca
+
+Audio del 22 jun, textual:
+> "yo no soy una odontóloga vestida de blanco, yo soy una odontóloga que está vestida de repente de una forma más chill, mis uniformes son así de Disney, de dibujos con colores... uniformes de colores, scrubs de colores, chaquetas de colores, mi consultor tiene muchos colores"
+
+**Implicación para la marca visual:**
+
+- **NO usar bata blanca como símbolo visual principal.** Diferenciador de mercado: nadie en PY hace esto.
+- **Sí usar scrubs de colores** (chaquetas con onda, colores cálidos).
+- **Sí usar paleta de colores cálidos** en el sitio web (no azul clínico frío).
+- **Sí usar fotos de Gaby con scrubs de colores** como hero de la página.
+- **Sí usar el ángulo "cercano y colorido"** vs "serio y acartonado".
+
+**Qué preguntar a Gaby (audio #5 — `02_MEETINGS/gabi-audio-prompts/05-marca-personal-y-sitio-web.md`):**
+
+- 3 colores específicos que ella usa
+- Marca de scrubs favorita
+- Estilo de consultorio actual (3 cosas concretas: color de paredes, música, algo en el escritorio)
+- Si quiere foto personal en el sitio o no
+
 ---
 
 ## 8. LAUNCH CHECKLIST
@@ -189,6 +209,8 @@ Never use: "¡Tu sonrisa es nuestra pasión!" — this is oversaid by every clin
 | Before/after photography + consent forms | In-person + legal |
 | Meta ad account setup | Human identity verification |
 | Google Business verification (postcard) | Physical address receipt required |
+| 🆕 **Sesión de fotos Dra. GP con scrubs de colores (v2)** | Diferenciación visual revelada en audio 22 jun — NO bata blanca, scrubs coloridos |
+| 🆕 **Grabar audio #5 de marca personal** | Para confirmar paleta específica, marca de scrubs, estilo del consultorio |
 
 ---
 

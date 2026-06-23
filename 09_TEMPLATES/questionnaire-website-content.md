@@ -44,7 +44,10 @@ Este cuestionario cierra todos los espacios en blanco (PLACEHOLDERS) en el conte
 ## SECCIÓN 4: SOBRE VOS (página /sobre-mi)
 
 ### Preguntas para la sección "Personal Story"
-- ¿Algo específico que te motivó a dejar Odontología 3? (1-2 oraciones)
+
+> 🆕 v2 (22 jun): se reescribieron 2 preguntas que eran riesgosas. Ver análisis en `02_MEETINGS/gabi-audio-prompts/00-ANALYSIS-questionnaires.md`.
+
+- ¿Qué te motivó a buscar tu propia práctica? (1-2 oraciones) — 🆕 v2: ya no menciona O3
 - ¿Tenés alguna filosofía personal más allá de las 5 que ya están? (describir brevemente)
 - ¿Tenés un caso emblemático que te marcó? (sin revelar identidad del paciente)
 - ¿Qué te diferencia de otros dentistas además de la planificación?
@@ -117,7 +120,10 @@ Este cuestionario cierra todos los espacios en blanco (PLACEHOLDERS) en el conte
 ## SECCIÓN 8: BLOG
 
 ### Primer artículo (personal)
-- ¿Querés que el primer artículo sea tu historia personal? ("Por qué dejé el seguro médico después de 13 años")
+
+> 🆕 v2 (22 jun): el título propuesto v1 era demasiado explícito. Ver análisis en `02_MEETINGS/gabi-audio-prompts/00-ANALYSIS-questionnaires.md`. Se cambió a algo más suave.
+
+- ¿Querés que el primer artículo sea sobre tu filosofía? ("Por qué elegí la práctica privada" o "Criterio sobre prisa: cómo ejerzo la odontología") — 🆕 v2: ya no menciona explícitamente el "dejar el seguro"
 - Si querés, contame brevemente esa historia (3-5 oraciones) — yo la edito a formato blog.
 
 ### Otros artículos prioritarios

@@ -1,9 +1,9 @@
 # DOSSIER ESTRATÉGICO PROFESIONAL
 ## Dra. Gabriella González Pane
 
-**Versión**: 1.0 — Junio 2026
+**Versión**: 2.0 — 22 junio 2026 (post-audio Ptt 17:04)
 **Clasificación**: Trabajo interno / estratégico
-**Objetivo**:Reposicionamiento de práctica odontológica
+**Objetivo**: Reposicionamiento de práctica odontológica
 
 ---
 
@@ -15,7 +15,11 @@
 
 **Idiomas**: Español (variante paraguaya), English
 
-**Volumen actual**: ~130 pacientes/mes
+**Volumen actual**: ~130 pacientes/mes en O3
+
+**Ubicación**: Vive en Luque, trabaja en Asunción (Odontología 3, Mcal. Estigarribia 1414). Combustible Luque↔Asunción: ~Gs 1M/mes (audio 22 jun).
+
+**🆕 Pivote psicológico (22 jun):** *"Ya no soy la misma Gabriela. Ya no entro de tipo ahí no me eches. Ahora mi reunión, la reunión va a ser desde mi lado."* La decisión de abrir práctica privada en paralelo está tomada. La reunión con Roque es para comunicar, no para pedir permiso.
 
 ---
 
@@ -53,6 +57,8 @@
 - Presión de insurers sobre fees
 - Commoditization de servicios odontológicos
 - Pacientes educados que buscan second opinions online
+- **🆕 Ara (hija de Roque) como veto holder (v2):** cualquier acuerdo verbal con Roque puede ser anulado operativamente por Ara. Caso real: La Merced.
+- **🆕 Margen real de O3 más bajo de lo asumido (v2):** el combustible Luque↔Asunción (Gs 1M/mes) + materiales reducen el ingreso efectivo. Si no hay cambio de % o de sede, está perdiendo plata trabajando.
 
 ---
 

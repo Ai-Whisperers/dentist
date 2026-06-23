@@ -161,18 +161,49 @@
 
 ---
 
-## 7. PLANES INMEDIATOS
+## 7. PLANES INMEDIATOS (v2 — post-audio 22 jun)
 
-### Reunión con Roque (Jueves):
-- Ver si ofrece moverse a Luque (Odontología 3 nueva sede)
-- Si ofrece "La Merced" → no hay pacientes, no conviene
-- Necesita respuesta concreta sobre mejorar su situación
+### 🆕 Estado del conflicto con O3 (a 22 de junio)
+
+| Evento | Estado |
+|---|---|
+| Reunión inicial (queja paciente + presupuesto) | ✅ Ocurrió (mayo 2026) |
+| Roque amenaza con evaluar continuidad | ✅ Confirmado |
+| Gaby manda nota pidiendo 70% | ❌ Sin respuesta (silencio) |
+| Roque promete 3 meses en La Merced (verbal) | ❌ Cumplida parcialmente |
+| La Merced abre con equipo nuevo (sin Gaby) | ✅ Inaugurada (may-jun 2026) |
+| Ara (hija de Roque) le dice "no hay lugar" | ✅ Bloqueada (jun 2026) |
+| Roque dice "en el próximo período vas a ir" | 🟡 Verbal, sin fecha |
+| Próxima reunión con Roque | 🔴 Pendiente, fecha TBD |
+
+### La Merced ya NO es opción (v2 — cambio crítico)
+
+- La Merced ya está abierta y operativa.
+- Ara (hija de Roque) tiene la decisión operativa sobre quién atiende allá.
+- Ara le dijo a Gaby explícitamente "no hay lugar" (audio 22 jun).
+- **No volver a pedir La Merced.** Es línea muerta.
+- La propuesta de Roque de 3 meses en La Merced **se rompió** (verbalmente, no por escrito).
+
+### Reunión con Roque (próxima, fecha TBD) — OBJETIVO NUEVO v2
+
+**Objetivo viejo (v1):** "negociar" La Merced o un sillón en Luque.
+**Objetivo nuevo (v2):** **comunicar la decisión** de abrir práctica privada en Luque en paralelo, y acordar términos de convivencia o salida.
+
+**Cambio crítico:** Gaby ya no entra en modo "no me eches". Entra en modo "te informo mi decisión y acordamos cómo seguir". El audio del 22 jun revela el pivote psicológico explícito: *"ya no soy la misma Gabriela"*.
+
+### Plan B (independiente de Roque) — actualizado
+
+1. **Burucuyá (Luque) viernes** — consultorio de la **amiga odontóloga**. Mensaje de WhatsApp listo: `09_TEMPLATES/follow-up-burucuya-amiga-luque.md`.
+2. **Luque lunes a la mañana** — espacio adicional, pendiente confirmar contacto.
+3. **Clasipar #1596372, Centro Luque** — Gs 3.675M/mes.
+4. **Clínica Mburucuyá (Dra. Mariana Brescia)** — Asunción, no Luque. Ver `01_RESEARCH/locations/luque-space-shortlist-v2.md` para el shortlist completo.
 
 ### Extraer base de datos:
 - Tiene acceso al sistema de Odontología 3
 - Miles de pacientes con nombres, teléfonos, historial
-- Dilema ético pero también oportunidad legítima
-- Necesita advise legal antes de usar
+- **PERO (v2):** la base de O3 es institucional, no transferible legalmente
+- **No usar la base para la práctica privada propia** — riesgo legal + ético
+- Solo usar red personal + referidos
 
 ### Encontrarse con Kiki:
 - Estructurar plan de negocio formal
@@ -180,10 +211,9 @@
 - Página web + branding personal
 - Primeros pasos antes de officially abrir
 
-### Evaluar alquileres en Luque:
-- **COP Clínica Odontología** — zona Traumato Center
-- **Frente a UNA** — Mariscal López
-- Consultorio equipado desde Gs 500k/día (no sirve) → busca mensual Gs 2-3M (revisado June 2026 con datos reales de procurement)
+### Evaluar alquileres en Luque (v2):
+- 6 opciones en shortlist, **Opción 1 priorizada: amiga Burucuyá viernes** (costo probablemente bajo)
+- Ver `01_RESEARCH/locations/luque-space-shortlist-v2.md` para detalle
 
 ---
 
@@ -222,12 +252,30 @@ Del audio, el equipo le dijo:
 
 > Audio: "Yo tengo un mundo de cosas en mi cabeza. Ayer estuve horas con IA haciendo todos mis análisis y me quedé así, en depresión por ahí. Me quedé y dije: 'Dios mío, porque en serio es así.' Tantos años estudié."
 
-### Señales de burnout:
+### Señales de burnout (v1):
 - Estrés acumulado de 13 años
 - Physical symptoms (ampollas en manos y pies durante doctorado)
 - Primeiro balance financiero a los 20 años de carrera
 - Momento de claridad: "Hice el clic"
 - Necesidad de cambio urgente
+
+### 🆕 Pivote psicológico del 22 junio 2026 (v2 — CRÍTICO)
+
+> Audio 22 jun, textual: *"Ya no soy la misma Gabriela. Ya no entro de tipo ahí no me eches. Ahora mi reunión, la reunión va a ser desde mi lado."*
+
+> Audio 22 jun, textual: *"esto depende bastante — no de lo que diga Roque — sino de hacia dónde voy a ir en el futuro"*
+
+**Lo que esto significa:**
+
+1. **Gaby ya no negocia desde el miedo.** Antes entraba a las reuniones con Roque en modo "ay, no me eches, yo no me quiero ir". Ahora entra en modo "te informo mi decisión, no me importa si te gusta".
+
+2. **La decisión ya está tomada.** Ya no es "evaluar opciones". Es comunicar y ejecutar. El "qué hago en la reunión" no es sobre Roque — es sobre hacia dónde va ella.
+
+3. **El framing de toda la comunicación cambia.** De "necesito que me autorices" a "esto es un hecho y te lo digo yo".
+
+4. **El plan B deja de ser backup.** Es el plan real, y la reunión es solo el canal formal para comunicarlo.
+
+**Implicación para todos los scripts:** toda la conversación con Roque debe asumir esta nueva Gabriela. No la Gabriela que pide, no la que tiene miedo. La que **informa** y **ejecuta**.
 
 ---
 
@@ -283,6 +331,8 @@ Del audio, el equipo le dijo:
 - Alquiler en Luque (cerca de casa, menos commute)
 - Payment plans via Pagopar para casos grandes
 - Loyalty program para retención
+- **🆕 Amiga de Burucuyá (Luque) como Plan B firme (v2):** espacio viernes ya casi confirmado, costo probablemente bajo, 5 min de la casa.
+- **🆕 Diferenciación visual de marca (v2):** scrubs de colores, onda "cercano y colorido" vs "serio y acartonado". Mercado local no tiene esto. Diferenciador visual + clínico.
 
 ### Amenazas:
 - Roque puede reaccionar si detecta que deriva pacientes
@@ -291,6 +341,8 @@ Del audio, el equipo le dijo:
 - Competencia de dentistas que sí "paraguayizan"
 - Contexto económico PY (inflación, etc.)
 - Regulatory risk si hace algo incorrecto con base de datos
+- **🆕 Ara como veto holder (v2):** los acuerdos verbales con Roque son anulados operativamente por Ara. Sin trazabilidad con Ara, los acuerdos son papel mojado.
+- **🆕 Combustible Luque↔Asunción: Gs 1M/mes (v2):** reduce margen real de O3. Si se queda en O3 sin cambio de % o de sede, está perdiendo plata trabajando.
 
 ---
 
@@ -298,28 +350,35 @@ Del audio, el equipo le dijo:
 
 ### Fase 0: Baseline (Esta semana)
 - [ ] Extraer base de datos (con advise legal)
-- [ ] Reunión con Roque (jueves)
-- [ ] Cotizar alquileres en Luque
+- [ ] Reunión con Roque (jueves) — 🆕 **objetivo v2: comunicar decisión, no negociar La Merced**
+- [ ] Cotizar alquileres en Luque — 🆕 **Opción 1 priorizada: amiga Burucuyá viernes**
 - [ ] Balance financiero real (no estimate)
+- [ ] 🆕 **Grabar audio #1 (cronología Roque 4 semanas)** y audio #2 (números reales)
+
+### Fase 0.5: Post-reunión Roque (1-2 semanas)
+- [ ] Si Roque dice sí + Ara avala → borrador de acuerdo, firma
+- [ ] Si Roque dice no / Ara bloquea → activar Plan B completo (Burucuyá amiga viernes)
+- [ ] Si reunión sale mal → plan de emergencia 7 días (`13-emergency-plan-7-days.md`)
 
 ### Fase 1: Validación (2-4 semanas)
 - [ ] Validar pricing con mystery shopping
 - [ ] Hablar con Pagopar sobre implementación
 - [ ] Consultar abogado sobre estructura legal
 - [ ] Evaluación de equipos necesarios
+- [ ] 🆕 Confirmar espacio amiga Burucuyá (visita física + habilitar EAS)
 
 ### Fase 2: Estrategia (1-2 meses)
 - [ ] Sessão con Kiki para plan completo
-- [ ] Branding y página web
+- [ ] Branding y página web — 🆕 **incluir diferenciación visual de scrubs de colores**
 - [ ] Diseñar oferta de servicios
 - [ ] Implementar Google Business optimizado
 
 ### Fase 3: Launch (3-6 meses)
-- [ ] Opción A: Planning sessions como upsell (si se queda)
-- [ ] Opción B: Parallel book si encuentra espacio
-- [ ] Opción C: Full exit solo con evidencia
+- [ ] Opción A: Planning sessions como upsell (si se queda) — **limitada por Ara**
+- [ ] Opción B: Parallel book si encuentra espacio (Burucuyá amiga viernes) — **RECOMENDADA v2**
+- [ ] Opción C: Full exit solo con evidencia (indemnización confirmada)
 
 ---
-
-**Document status**: ACTUALIZADO con data real del audio de Mayo 31, 2026
-**Next update**: Después de Sprint 1 (reunión Roque, base de datos, cotizaciones)
+**Document status**: ACTUALIZADO con data de audio del 22 junio 2026 (Ptt 17:04 + 2da transcripción TurboScribe)
+**Cambios v2:** Ara como decision-maker real + pivote psicológico + nota 70% sin respuesta + La Merced cerrada + amiga Burucuyá como Plan B firme
+**Next update**: Después de la próxima reunión con Roque (TBD) + después de recibir audios #1 y #2 de Gaby

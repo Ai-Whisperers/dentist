@@ -17,6 +17,12 @@ The actual website is **deployed and live** — this repo is the **strategic + c
 | Traefik routing | `Host(dragabriela.paragu-ai.com)` + `dra-gabriela.com.py` (pending DNS) | ✅ Active |
 | **Content sync flow** | `dentist/07_DESIGN/website/*.md` → `paragu-ai-platform/apps/dra-gabriela/content/{en,es}/*.json` | This repo is authoritative; platform app consumes JSON |
 | Canonical pricing | `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` | ✅ Single source of truth |
+| **Reunión Roque** | 🆕 v2 con Ara como decision-maker — ver `02_MEETINGS/client-prep/roque-meeting/` | 🟡 Pendiente, fecha TBD |
+| **Hoja de la reunión (lo único que Gaby va a usar)** | `02_MEETINGS/client-prep/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md` | ✅ Lista |
+| **Plan B si la reunión sale mal** | `02_MEETINGS/client-prep/roque-meeting/13-emergency-plan-7-days.md` | ✅ Lista |
+| **Audio prompts para Gaby** | `02_MEETINGS/gabi-audio-prompts/` (6 audios + README) | 🟡 Esperando que grabe |
+| **Burucuyá (Luque) ≠ Mburucuyá (Asunción)** | `00_STRATEGIC/strategic-context/burucuya-vs-mburucuya-clarity.md` | ✅ Aclarado |
+| **6 opciones de espacio en Luque** | `01_RESEARCH/locations/luque-space-shortlist-v2.md` | ✅ Priorizada amiga Burucuyá |
 
 **Why two repos?** The dentist repo holds *strategy, research, client-side content authoring* (markdown). The platform app holds *runtime code + deployable JSON bundles*. The flow is: edit markdown here → port to JSON there → redeploy.
 
@@ -26,11 +32,14 @@ The actual website is **deployed and live** — this repo is the **strategic + c
 
 ## Quick Start
 
-1. **START HERE:** `start-here.md` (5 min)
-2. **Exec summary:** `docs/executive-summary.md`
-3. **Work plan:** `docs/REPO-WORK-PLAN.md`
-4. **Action tracker:** `TODO.md`
-5. **Client validation form:** `07_DESIGN/website/validacion-cliente-dra-gp.md` (23 questions, 5 sections)
+1. **REUNIÓN CON ROQUE ESTA SEMANA:** `02_MEETINGS/client-prep/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md` (1 cara, lo único que Gaby va a usar)
+2. **AUDIO PROMPTS para Gaby:** `02_MEETINGS/gabi-audio-prompts/README.md` (6 audios, empezar por el de la pregunta clave)
+3. **START HERE:** `start-here.md` (5 min)
+4. **Exec summary:** `docs/executive-summary.md` (v2 con Ara + Plan B)
+5. **Work plan:** `docs/REPO-WORK-PLAN.md`
+6. **Action tracker:** `TODO.md`
+7. **Client validation form:** `07_DESIGN/website/validacion-cliente-dra-gp.md` (23 preguntas, 5 secciones) — **bloqueada en Sección 1**
+8. **Client validation MÍNIMA:** `07_DESIGN/website/validacion-minima-viable.md` (6 preguntas, destraba en 5 min)
 
 ---
 
