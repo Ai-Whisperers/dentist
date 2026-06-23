@@ -165,6 +165,41 @@ Roque te ofrece algo (verbal o por escrito), pero **Ara no está en la conversac
 
 ---
 
+# 🚨 4. Te dejan de derivar pacientes sin aviso (NUEVO v2 — Gaby es INDEPENDIENTE)
+
+### Qué significa
+
+> ⚠️ **CAMBIO CRÍTICO v2 (22 jun):** Gaby es **trabajadora independiente** que factura a O3 por procedimiento, **NO es empleada**. No tiene antigüedad laboral, no tiene IPS, no tiene derecho a indemnización. Ver `00-CLARIFICACION-LEGAL-INDEPENDIENTE.md` para el análisis legal completo.
+
+Roque deja de asignarle pacientes sin aviso. No hay preaviso legal, no hay protección.
+
+**Variantes que pueden aparecer:**
+- "Ya no necesitamos tanto volumen"
+- "Vamos a redistribuir la agenda"
+- "Tus pacientes van a ir con el doctor X"
+- Ara directamente deja de incluir a Gaby en la rotación
+
+### Por qué es una línea roja (v2)
+
+1. **No hay protección legal.** Si Gaby es independiente, no tiene derecho a reclamar volumen mínimo.
+2. **Es el "despido de facto"** del trabajo independiente.
+3. **Sin preaviso** — Gaby se entera cuando deja de tener pacientes en la agenda.
+4. **Sin ingreso de un día para otro** — el flujo de caja se corta abruptamente.
+
+### Cómo responder en la reunión
+
+> "Doctor, aprecio tu disposición a conversar. Si en algún momento el volumen de O3 cambia, necesito que me avises con al menos 30 días para poder reorganizar mi agenda. Es lo justo para los dos — vos tenés tu planning y yo el mío."
+
+### Qué hacer después
+
+1. **NO firmar nada que diga "a voluntad"** sin cláusula de aviso previo.
+2. **Activar Plan B inmediatamente** (Burucuyá amiga viernes) — sin esperar.
+3. **Empezar a construir clientela propia** con cada paciente que atiendas en O3.
+4. **Documentar la cantidad de pacientes derivados por mes** — tener un registro propio.
+5. **Cada paciente de O3 es una oportunidad de boca en boca** — tratá como si fuera el último.
+
+---
+
 ## Las zonas grises (no son líneas rojas, pero hay que tener cuidado)
 
 ### Zona gris 1: Te ofrece "más turnos en O3" en lugar de práctica paralela

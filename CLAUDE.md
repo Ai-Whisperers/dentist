@@ -82,6 +82,31 @@ Audio 22 jun, textual:
 
 ---
 
+## ⚠️ RELACIÓN LABORAL: GABY ES TRABAJADORA INDEPENDIENTE (NO EMPLEADA) — v2
+
+> 🆕 **NUEVO v2 (22 jun):** Gaby reveló en el audio que **NO es empleada de O3.** Es **trabajadora independiente** que factura a O3 por procedimiento. Antes de este año tenían un fijo en Asismed, pero eso se cambió.
+
+### Implicaciones críticas (cambian TODO el análisis legal):
+
+| Aspecto | Realidad v2 |
+|---|---|
+| Antigüedad laboral | 13 años (comercial, no legal) |
+| Derecho a indemnización si la echan | **NO existe** (no es empleada) |
+| Tiene IPS | **NO** ("no tenemos un IPS") |
+| Tiene aguinaldo/vacaciones | NO |
+| Derecho a preaviso de 30 días | NO (no hay relación de dependencia) |
+| Derecho a non-compete / exclusividad | Probable NO (depende del contrato de servicios) |
+| Libertad para abrir práctica propia | **SÍ, sin pedir permiso** |
+| Su "despido de facto" | Que dejen de derivarle pacientes sin aviso |
+
+### Ver análisis completo: `02_MEETINGS/client-prep/roque-meeting/00-CLARIFICACION-LEGAL-INDEPENDIENTE.md`
+
+**Para Gaby:** esto es MEJOR (más libertad) PEOR (sin red de seguridad). El Plan B es su única protección real.
+
+**Para Ivan/Kiki:** todos los docs del prep asumen "Gaby es empleada" — hay que reescribirlos para la nueva realidad.
+
+---
+
 ## Project Structure (top-level only — full list in `COMPLETE-INDEX.md`)
 
 ```

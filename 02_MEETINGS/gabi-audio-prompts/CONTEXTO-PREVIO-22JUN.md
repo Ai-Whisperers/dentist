@@ -63,6 +63,44 @@
 
 ---
 
+## ⚠️ v2 (22 jun) — RELACIÓN LABORAL REAL DE GABY
+
+> 🆕 **Audio del 22 jun (1:48 min):** Gaby reveló que **NO es empleada de O3.** Es **trabajadora independiente** que factura por procedimiento. Antes de este año había un fijo en Asismed, pero se cambió.
+
+### Lo que esto cambia:
+
+- **Gaby NO tiene antigüedad laboral legal** (13 años son comerciales, no legales)
+- **Gaby NO tiene IPS, aguinaldo, vacaciones, preaviso**
+- **Gaby NO tiene derecho a indemnización si la dejan de derivar pacientes**
+- **Gaby SÍ tiene más libertad** para abrir práctica propia (es su derecho como independiente)
+- **Gaby SÍ puede ser "despedida de facto"** — que O3 deje de derivarle pacientes sin aviso
+
+**Implicación estratégica:**
+- El Plan B (Burucuyá amiga) es **la única protección real de Gaby**
+- La abogada laboralista NO es la prioridad — es una **abogada tributaria** (para confirmar régimen fiscal)
+- El plan de emergencia de 7 días **cambia el Día 1** — ver `13-emergency-plan-7-days.md` v2
+
+**Ver análisis completo:** `02_MEETINGS/client-prep/roque-meeting/00-CLARIFICACION-LEGAL-INDEPENDIENTE.md`
+
+---
+
+## 🆕 v2 (22 jun) — Datos del audio espontáneo
+
+> Gaby mandó un audio espontáneo el 22 jun 17:04 (1:48 min) antes de los prompts oficiales. Contenido:
+
+- **Vive en Luque** (confirmado)
+- **Trabaja en O3, Mcal. Estigarribia 1414, Asunción** (confirmado)
+- **13 años en O3** (no 3 — error de transcripción anterior)
+- **Ara (hija de Roque) bloqueó a Gaby en La Merced** después de la inauguración
+- **Roque le prometió 3 meses en La Merced verbalmente** — no se cumplió
+- **La nota del 70% que Gaby mandó quedó sin respuesta**
+- **Roque dijo "en el próximo período vas a ir"** — sin fecha
+- **Combustible Luque↔Asunción: ~Gs 1M/mes**
+- **Decisión de abrir práctica privada en paralelo está tomada** (pivote psicológico)
+- **Gaby ya estaba en modo "ya no soy la misma Gabriela"** — frase textual
+
+---
+
 ## Pivote psicológico (audio 22 jun) — CRÍTICO
 
 > "Ya no soy la misma Gabriela. Ya no entro de tipo ahí no me eches. Ahora mi reunión, la reunión va a ser desde mi lado."

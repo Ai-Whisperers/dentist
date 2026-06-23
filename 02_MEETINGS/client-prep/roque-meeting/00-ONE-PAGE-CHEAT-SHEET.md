@@ -138,4 +138,16 @@ Y respirá. Nadie te puede sacar eso. Después seguí.
 
 ---
 
-*Imprimí esto. Llevalo a la reunión. Después de la reunión, archivá las notas en `02_MEETINGS/client-prep/roque-meeting/11-meeting-results-capture.md`.*
+> ⚠️ **Gaby lleva 13 años en O3 — pero NO es empleada.** Es **trabajadora independiente** que factura por procedimiento. No tiene antigüedad laboral legal, no tiene IPS, no tiene derecho a indemnización. **Ver `00-CLARIFICACION-LEGAL-INDEPENDIENTE.md`.**
+
+---
+
+## LOS 3 MATERIALES FÍSICOS QUE LLEVÁS A LA REUNIÓN
+
+| # | Material | Para qué | Cuándo lo usás |
+|---|---|---|---|
+| 1 | **`00-ONE-PAGE-CHEAT-SHEET.md`** (este doc) | Tu hoja principal | ANTES de entrar (leer 5 min) |
+| 2 | **`00-TARJETA-BOLSILLO.md`** | Tarjeta de bolsillo (letra grande) | EN la reunión si te bloqueás |
+| 3 | **`00-PROPUESTAS-PARA-LLEVAR.md`** | 3 opciones para ofrecer a Roque | SI él te pregunta "¿qué querés?" |
+
+**Imprimí los 3 documentos. Llevá los 3. Dejá uno en tu bolsillo, otro en la cartera, otro en el cuaderno.**
