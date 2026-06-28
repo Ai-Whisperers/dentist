@@ -2,7 +2,11 @@
 
 Strategic layer: financials, pricing, options, rollout plan, and phase checklist.
 
-**ADN CROSS-REFERENCE (28 jun 2026):** Toda la estrategia, pricing y comunicación de marca se alinean con `ADN_Profesional_Dra_Gabriela_Gonzalez_Pane_EXTENDIDO.pdf` (33 páginas, single source of truth de marca). Categoría: odontología basada en criterio clínico. Frase guía: "La odontología no empieza con una fresa. Empieza pensando."
+**ADN CROSS-REFERENCE (28 jun 2026):** Toda la estrategia, pricing y comunicación de marca se alinean con el **ADN Profesional de la Dra. Gabriela González Pane** (`ADN-Profesional-Dra-Gabriela-Gonzalez-Pane-EXTENDIDO.pdf`, 33 páginas, single source of truth de marca). Categoría: odontología basada en criterio clínico. Frase guía: "La odontología no empieza con una fresa. Empieza pensando."
+
+> 📄 **ADN Profesional:** [`ADN-Profesional-Dra-Gabriela-Gonzalez-Pane-EXTENDIDO.pdf`](./ADN-Profesional-Dra-Gabriela-Gonzalez-Pane-EXTENDIDO.pdf) · [`ADN-README.md`](./ADN-README.md) (descripción, cross-references, reglas de uso)
+>
+> Cuando haya conflicto entre el ADN y cualquier otro documento del repo, **el ADN gana.**
 
 ## financial-pricing/
 - [`POSICIONAMIENTO PREMIUM`](financial-pricing/brand-positioning-premium.md) — alineado al ADN: 5 pilares, símbolo "nunca subestimes un puntito", lista prohibida, jerarquía de comunicación
