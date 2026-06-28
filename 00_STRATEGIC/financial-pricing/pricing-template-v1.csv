@@ -1,0 +1,54 @@
+categoría,subcategoría,procedimiento,clase_tipo,material,complejidad,precio_gaby_gs,precio_circulo_odontologos_gs,precio_colega_asuncion_bajo_gs,precio_colega_asuncion_medio_gs,precio_colega_asuncion_alto_gs,precio_colegia_luque_gs,notas_clinicas,justificacion_precio,se_publica_en_web,se_cotiza_por_chat
+CONSULTAS,consulta,consulta_inicial_30min,,,,300000,,,,,,,Consulta estándar 30 min,Precio base de entrada. Cubre tiempo + uso de equipo.,sí,sí
+CONSULTAS,consulta,consulta_extendida_45_60min,,,,400000,,,,,,,Casos complejos,Más tiempo de análisis + documentación.,sí,sí
+CONSULTAS,segunda_opinion,segunda_opinion_escrita,,,,450000,,,,,,,Documentación de hallazgos,Análisis de radiografías + plan documentado.,sí,sí
+CONSULTAS,segunda_opinion,segunda_opinion_con_plan,,,,600000,,,,,,,Plan completo + múltiples opciones,Incluye plan escrito con alternativas.,sí,sí
+CONSULTAS,planificacion,sesion_planificacion_compleja,,,,800000,,,,,,,Rehabilitación integral 60-90 min,Casos multidisciplinarios. La especialidad de Gaby.,sí,sí
+PROFILAXIS,profilaxis,profilaxis_estandar,,,,280000,,,,,,,Limpieza completa + flúor,Precio base. Lo más común.,sí,sí
+PROFILAXIS,profilaxis,profilaxis_curetaje_cuadrante,,,,400000,,,,,,,Por cuadrante,Para enfermedad periodontal.,sí,sí
+PROFILAXIS,profilaxis,pulido_flash_addon,,,,150000,,,,,,,Pulido rápido,Add-on después de profilaxis.,sí,sí
+OPERATORIA,restauracion_simple,clase_I,directa,resina_compuesta,baja,350000,,,,,,,1 superficie,Gaby usa resina compuesta de alta calidad.,sí,sí
+OPERATORIA,restauracion_simple,clase_II,directa,resina_compuesta,baja,400000,,,,,,,2 superficies,Depende de acceso.,sí,sí
+OPERATORIA,restauracion_simple,clase_III,directa,resina_compuesta,media,400000,,,,,,,Anterior interproximal,Estético, técnico.,sí,sí
+OPERATORIA,restauracion_simple,clase_IV,directa,resina_compuesta,media,450000,,,,,,,Borde incisal fracturado,Estético alto, técnica especializada.,sí,sí
+OPERATORIA,restauracion_simple,clase_V,directa,resina_compuesta_o_ionomero,baja,350000,,,,,,,Cervical,Decisión de material según caso.,sí,sí
+OPERATORIA,restauracion_compuesta,compuesta_2_superficies,directa,resina_compuesta,media,450000,,,,,,,Clase II compuesta,,sí,sí
+OPERATORIA,restauracion_compuesta,compuesta_3_superficies,directa,resina_compuesta,media,500000,,,,,,,Clase II extensa,,sí,sí
+OPERATORIA,restauracion_compuesta,compuesta_3_superficies,directa,resina_compuesta,alta,550000,,,,,,,MOD extensa,,sí,sí
+OPERATORIA,restauracion_compuesta,compuesta_anatomia_grande,directa,resina_compuesta,alta,700000,,,,,,,Reconstrucción grande,Rehabilitación completa de la corona.,sí,sí
+OPERATORIA,incrustacion,inlay,indirecta,ceromero_o_resina,media,800000,,,,,,,Laboratorio digital,Fresado CAD/CAM.,no,sí
+OPERATORIA,incrustacion,onlay,indirecta,ceromero_o_resina,media,900000,,,,,,,Cubre cúspides,,no,sí
+OPERATORIA,incrustacion,overlay,indirecta,ceromero_o_resina,alta,1000000,,,,,,,Cubre toda la superficie oclusal,,no,sí
+BLANQUEAMIENTO,domiciliario,blanqueamiento_domiciliario_arco,por_arco,peroxido_alta_concentracion,baja,1200000,,,,,,,Kit para casa,Más conservador, mantenimiento.,sí,sí
+BLANQUEAMIENTO,consultorio,blanqueamiento_consultorio_arco,por_arco,peroxido_alta_concentracion,media,1800000,,,,,,,Sesión en consultorio,Resultado inmediato.,sí,sí
+BLANQUEAMIENTO,combinado,blanqueamiento_combinado,ambos,ambos,alta,2500000,,,,,,,Domiciliario + consultorio,El más efectivo.,sí,sí
+PRÓTESIS,fija,corona_zirconia,por_unidad,zirconia,alta,3500000,,,,,,,Laboratorio digital,Material premium sin metal.,no,sí
+PRÓTESIS,fija,corona_emax,por_unidad,disilicato_litio,alta,4500000,,,,,,,Cerámica inyectada,Estética superior.,no,sí
+PRÓTESIS,fija,corona_metal_ceramica,por_unidad,metal_cerámica,media,2800000,,,,,,,Opción tradicional,Resistente pero menos estética.,no,sí
+PRÓTESIS,fija,corona_ceromero,por_unidad,ceromero,media,2500000,,,,,,,Cerámica + resina,Opción intermedia.,no,sí
+PRÓTESIS,fija,corona_porcelana_libre_metal,por_unidad,porcelana,alta,4000000,,,,,,,Estética máxima,Para sector anterior.,no,sí
+PRÓTESIS,fija,puente_3_unidades,por_unidad,segun_material,alta,9000000,,,,,,,3 piezas conectadas,,no,sí
+PRÓTESIS,fija,pontic,por_unidad,segun_material,media,1200000,,,,,,,Póntico en puente,,no,sí
+PRÓTESIS,fija,provisional,por_unidad,resina,media,400000,,,,,,,Corona provisoria,Mientras se hace la definitiva.,no,sí
+PRÓTESIS,removible,protesis_completa_acrílica,por_arco,acrílico,media,2500000,,,,,,,Dentadura completa,Para desdentados totales.,no,sí
+PRÓTESIS,removible,protesis_parcial_acrílica,por_arco,acrílico,media,2000000,,,,,,,Parcial acrílica,Opción económica.,no,sí
+PRÓTESIS,removible,protesis_parcial_flex_nylon,por_arco,nylon,media,1800000,,,,,,,Más estética que acrílico,Sin金属 visible.,no,sí
+PRÓTESIS,removible,protesis_parcial_cromo_cobalto,por_arco,cromo_cobalto,alta,3500000,,,,,,,Estructura metálica,Más confortable y duradera.,no,sí
+PRÓTESIS,sobre_implantes,corona_sobre_implante_psi,por_unidad,segun_material,alta,4000000,,,,,,,PSI - Gaby hace la corona,La quirúrgica la hace un colega.,no,sí
+PRÓTESIS,sobre_implantes,protesis_hibrida_sobre_implantes,por_arco,segun_material,alta,8000000,,,,,,,Arcada completa sobre implantes,Rehabilitación total.,no,sí
+PERNOS,perno_fibra,perno_fibra_vidrio_personalizado,por_unidad,fibra_de_vidrio,media,600000,,,,,,,Con núcleo de resina,El que Gaby prefiere usar.,no,sí
+PERNOS,perno_fibra,perno_fibra_vidrio_biobase,por_unidad,biobase_fibra,media,700000,,,,,,,Bioactivo,Materiales de última generación.,no,sí
+PERNOS,perno_metalico,perno_metalico_fundido,por_unidad,metal,media,500000,,,,,,,Gaby casi no lo usa,,no,sí
+ENDODONCIA,NO_HACE,endodoncia,derivado,derivado,alta,0,,,,,,,DERIVA a endodoncista de confianza,,no,no
+CIRUGÍA,NO_HACE,extraccion_simple,por_unidad,,baja,180000,,,,,,,SÍ puede hacer cirugías simples,,sí,sí
+CIRUGÍA,NO_HACE,extraccion_quirurgica,por_unidad,,media,350000,,,,,,,SÍ puede hacer,,sí,sí
+CIRUGÍA,NO_HACE,extraccion_cordal_simple,por_unidad,,media,400000,,,,,,,SÍ puede hacer,,sí,sí
+CIRUGÍA,NO_HACE,extraccion_cordal_quirurgica,por_unidad,,alta,600000,,,,,,,SÍ puede hacer casos no complejos,,sí,sí
+CIRUGÍA,NO_HACE,extraccion_restos_radiculares,por_unidad,,media,250000,,,,,,,SÍ puede hacer,,sí,sí
+CIRUGÍA,NO_HACE,cirugia_maxilofacial_compleja,derivado,derivado,alta,0,,,,,,,DERIVA a cirujano maxilofacial,,no,no
+ORTODONCIA,NO_HACE,ortodoncia,derivado,derivado,media,0,,,,,,,DERIVA a ortodoncista,,no,no
+IMPLANTES,NO_HACE,implante_parte_quirurgica,derivado,derivado,alta,0,,,,,,,DERIVA a implantólogo,Gaby hace la corona (PSI).,no,no
+PEDIATRÍA,consulta,consulta_nino_menor_12,,,,200000,,,,,,,Consulta pediátrica,Más corta.,sí,sí
+PEDIATRÍA,preventiva,flúor_niño,por_sesion,flúor,baja,100000,,,,,,,Aplicación de flúor,Preventivo.,sí,sí
+PEDIATRÍA,restauracion,restauracion_simple_niño,por_diente,resina,baja,200000,,,,,,,Niño,Más rápido.,sí,sí
+PEDIATRÍA,restauracion,corona_acero_niño,por_diente,acero,media,400000,,,,,,,Corona preformada,Para dientes primarios muy destruidos.,sí,sí
