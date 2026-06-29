@@ -6,11 +6,21 @@
 
 ---
 
+## 🎯 LA VERSIÓN QUE GABY ESCRIBIÓ (28 jun 2026, audio 22:02)
+
+> "Soy la Dra. Gaby. Llevo dos décadas siendo odontóloga. Lo mío no es agarrar la fresa — es sentarnos, escucharte y armar juntos un plan de tratamiento que tenga sentido, lo comprendas y sea acorde a tus necesidades. Rehabilitación oral, estética, operatoria. Te escucho."
+
+**Esta es la que pusimos en el sitio. La de Gaby. Literal.**
+
+---
+
 ## 📋 Lo que dijiste en el audio (28 jun)
 
-> "Soy la doctora Gabriela González Pane... hace 20 años de profesión. Mis especialidades son: rehabilitación oral, estética y operativa dental. Yo tengo tres especialidades."
+Tu versión completa (la que te gusta):
 
-Y tu diferencial real:
+> "Soy la Dra. Gaby. Llevo dos décadas siendo odontóloga. Lo mío no es agarrar la fresa — es sentarnos, escucharte y armar juntos un plan de tratamiento que tenga sentido, lo comprendas y sea acorde a tus necesidades. Rehabilitación oral, estética, operatoria. Te escucho."
+
+Y tu diferencial real (en otras partes del audio):
 
 > "Criterio, años de experiencia, y eso, eso es lo que creo que para mí es mi plus especial. Tengo muchísimos años de experiencia, muchísimos, y trabajé con demasiadas, con un flujo de pacientes que normalmente no trabajan todos los odontólogos."
 
@@ -20,48 +30,40 @@ Y tu diferencial real:
 
 ---
 
-## ✍️ 3 Propuestas de bio (elegí una o pedime cambios)
+## ✅ Lo que se adoptó en el sitio live
 
-### Opción 1 — La corta y directa (recomendada)
+**La versión de Gaby va en:**
+- `apps/dra-gabriela/content/es/about.json` → "Quién es"
+- `apps/dra-gabriela/content/es/site.json` → "manifiestoPublico"
+- `apps/dra-gabriela/content/es/hero.json` → Slide 1 del hero
+- `apps/dra-gabriela/app/[locale]/page.tsx` → Cuerpo del servicio destacado
+
+**Build verificado, push hecho a `paragu-ai-platform` main.**
+
+---
+
+## 🗑️ Las 3 opciones que propuse antes (ya no aplican)
+
+Las opciones 1, 2 y 3 de la versión anterior del archivo fueron **reemplazadas** por la versión de Gaby. Las dejamos acá como histórico por si querés volver a alguna.
+
+### Opción 1 — La corta y directa (histórico)
 
 > Soy la Dra. Gabriella González Pane. Hace más de 20 años que atiendo pacientes en Asunción. Me especializo en rehabilitación oral, estética y operatoria dental — los casos donde alguien necesita que alguien piense antes de tocar.
 
-**Por qué esta:** es la que más te representa. Tiene tus 3 especialidades, menciona tu experiencia, y termina con la idea central del ADN ("pensar antes de tocar" — sin repetir literalmente).
-
----
-
-### Opción 2 — La que destaca tu diferencial
+### Opción 2 — La que destaca tu diferencial (histórico)
 
 > Soy la Dra. Gabriella González Pane. 20 años atendiendo en Asunción, tres especialidades (rehabilitación oral, estética, operatoria), cero problemas técnicos en mi carrera. Mi ventaja no es la técnica — es el criterio acumulado de haber visto muchos casos como el tuyo.
 
-**Por qué esta:** menciona explícitamente tu diferencial (criterio, años, cero problemas). Más personal, menos genérica.
-
----
-
-### Opción 3 — La que habla con el paciente
+### Opción 3 — La que habla con el paciente (histórico, similar a la de Gaby)
 
 > Soy Gaby. Hace 20 años que atiendo bocas en Asunción. Lo mío no es agarrar la fresa — es sentarme, escucharte, mirar la panorámica y armar contigo un plan que tenga sentido. Rehabilitación oral, estética, operatoria. Te escucho.
 
-**Por qué esta:** es la más cálida. Usa "Gaby" en vez de "Dra." para ser más cercana, menciona "Te escucho" directamente. Es la que más refleja cómo sos.
-
 ---
 
-## 🤔 ¿Cuál te gusta?
+## 🦷 Resumen
 
-Si te gusta una, decime "me gusta la 1" / "me gusta la 2" / "me gusta la 3" y la uso.
+**Lo que el paciente lee en el sitio ahora, en tus palabras:**
 
-Si ninguna, decime qué cambiar y armo una versión 4.
+> "Soy la Dra. Gaby. Llevo dos décadas siendo odontóloga. Lo mío no es agarrar la fresa — es sentarnos, escucharte y armar juntos un plan de tratamiento que tenga sentido, lo comprendas y sea acorde a tus necesidades. Rehabilitación oral, estética, operatoria. Te escucho."
 
-Si te gusta una pero le querés cambiar algo (una palabra, una frase), decime y la ajusto.
-
----
-
-## 📋 Otras versiones que podemos probar
-
-Si querés, puedo armar más versiones:
-- Una más formal
-- Una con humor paraguayo
-- Una que enfatice la segunda opinión
-- Una que enfatice el coaching a colegas
-
-Decime qué tono preferís y armo.
+Eso es. Eso va al sitio. Eso sos vos.
