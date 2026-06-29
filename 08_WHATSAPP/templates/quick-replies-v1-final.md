@@ -1,6 +1,8 @@
-# Quick Replies — WhatsApp Business — Dra. Gabriella González Pane
+# Quick Replies — WhatsApp Business — Ometz Dental
 
 **Última actualización:** 28 jun 2026
+**Marca comercial:** Ometz Dental (אומץ — "coraje" en hebreo)
+**Profesional a cargo:** Dra. Gabriella González Pane
 **Tono:** paraguayo, cálido, "vos". No robot médico.
 **Dirección correcta:** Barrio Mburucuyá, Asunción.
 **NO hace:** endodoncia, cirugía, ortodoncia, implantes.
@@ -120,12 +122,13 @@ Configurar en: Herramientas → Mensaje de bienvenida
 ```
 Hola! 👋
 
-Soy la Dra. Gabriella González Pane. Mi consultorio queda
-en el Barrio Mburucuyá, Asunción.
+Soy la Dra. Gabriella González Pane, de Ometz Dental.
+Mi consultorio queda en el Barrio Mburucuyá, Asunción.
 
-Trabajo con odontología con criterio: pienso antes de tocar,
-conservo antes de reemplazar, y explico antes de vender.
-No hago procedimientos que no son necesarios.
+"Ometz" significa "coraje" en hebreo. Coraje para pensar
+antes de tocar, conservar antes de reemplazar, y explicarte
+todo antes de cualquier tratamiento. No hacemos procedimientos
+que no son necesarios.
 
 ¿En qué puedo ayudarte?
 
@@ -150,7 +153,7 @@ Si es una urgencia dental (dolor fuerte, fractura,
 inflamación), llamá al [tu número personal de urgencias]
 o acercate a la guardia odontológica más cercana.
 
-— Equipo Dra. Gabriella González Pane
+— Equipo Ometz Dental
 ```
 
 ---

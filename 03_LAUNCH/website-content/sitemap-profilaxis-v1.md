@@ -1,7 +1,9 @@
-# Estructura Sitio Web — Dra. Gabriella González Pane
+# Estructura Sitio Web — Ometz Dental
 
 **Versión:** 1.0 — 28 jun 2026
-**Dominio tentativo:** dra-gabriela.com.py (o el nombre comercial que elijamos)
+**Marca comercial:** Ometz Dental (אומץ — "coraje" en hebreo)
+**Profesional:** Dra. Gabriella González Pane
+**Dominio tentativo:** ometzdental.com.py (registrar 2 años mínimo)
 **Foco SEO inicial:** profilaxis bucodental (keyword secundaria: "limpieza dental")
 **Idioma:** español (con secciones en inglés para expats)
 **Mercados:** Asunción (Mburucuyá) + Luque (cuando se confirme segunda sede)
@@ -11,7 +13,7 @@
 
 ## Filosofía de la web
 
-> "La odontología no empieza con una fresa. Empieza pensando."
+> "Ometz — Coraje para tu boca."
 
 **Principio:** Presencia digital = evidencia, no publicidad.
 **No se hace:** marketing genérico, frases prohibidas del ADN ("carillas sin tallar", "sonrisa perfecta", "precio imperdible").
@@ -37,17 +39,17 @@
 ## 1. HOME (`/`)
 
 ### Hero
-- **H1 (ES):** Odontología con criterio. No con prisa.
-- **H1 (EN):** Dentistry with judgment. Not with speed.
-- **Subtítulo:** Atención personalizada en Asunción. Pienso antes de tocar, conservo antes de reemplazar, explico antes de vender.
+- **H1 (ES):** Ometz. Odontología con coraje.
+- **H1 (EN):** Ometz. Dentistry with courage.
+- **Subtítulo:** "Ometz" significa coraje en hebreo. Coraje para pensar antes de tocar, conservar antes de reemplazar, y explicar antes de vender. Atención personalizada en Asunción.
 - **CTA principal:** Agendar consulta por WhatsApp → [link directo a wa.me]
 - **CTA secundario:** Conocer servicios
 
-### Bloque "Cómo trabajo" (3-4 columnas)
-- **Pienso antes de tocar.** Diagnóstico claro antes de cualquier procedimiento.
-- **Conservo antes de reemplazar.** Si se puede arreglar, se arregla.
-- **Explico antes de vender.** Sabés exactamente qué, por qué, y cuánto.
-- **Derivo cuando corresponde.** Endodoncia, ortodoncia, cirugía: te conecto con colegas de confianza.
+### Bloque "Qué es Ometz" (3-4 columnas)
+- **Coraje para pensar.** Diagnóstico claro antes de cualquier procedimiento.
+- **Coraje para conservar.** Si se puede arreglar, se arregla.
+- **Coraje para explicar.** Sabés exactamente qué, por qué, y cuánto.
+- **Coraje para derivar.** Endodoncia, ortodoncia, cirugía: te conecto con colegas de confianza.
 
 ### Bloque "Perfil del paciente" (a quién le sirve esto)
 - Pacientes con tratamientos previos que no están seguros
@@ -65,7 +67,7 @@
 > **Nota SEO:** "Limpieza dental" sigue siendo el término de búsqueda más usado por los pacientes. En el H1 usamos "profilaxis bucodental" (término profesional correcto), pero el contenido, meta description y alt tags mencionan "limpieza dental" como sinónimo para capturar ambas búsquedas.
 
 ### Meta title
-Profilaxis Bucodental en Asunción | Limpieza Dental Profesional — Dra. Gabriella González Pane
+Ometz Dental — Odontología con Coraje | Profilaxis y Segunda Opinión en Asunción
 
 ### Meta description
 Profilaxis bucodental profesional en Asunción. Limpieza dental con criterio: evaluación completa, ultrasonido, pulido y recomendaciones. Gs 280.000. Agenda por WhatsApp.

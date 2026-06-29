@@ -1,5 +1,7 @@
-# Mensaje para Pedir Reseñas a Pacientes Top
+# Mensaje para Pedir Reseñas — Ometz Dental
 
+**Marca comercial:** Ometz Dental (אומץ)
+**Profesional:** Dra. Gabriella González Pane
 **Cuándo enviar:** las próximas 2 semanas, antes de abrir en Mburucuyá.
 **A quién:** los 5-10 pacientes más antiguos, más leales, más traumados que te van a seguir.
 **Incentivo:** 5-10% de descuento en próxima limpieza (profilaxis).
