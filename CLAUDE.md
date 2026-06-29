@@ -20,6 +20,25 @@
 - **Frase del consultorio**: **"Te escucho."** — adoptada 28 jun
 - **Servicio estrella**: **Rehabilitación oral** (NO profilaxis — eso es lo básico)
 - **Diferenciador #2**: Segunda opinión formal por escrito
+- **3 especialidades reales de Gaby**: Rehabilitación oral, Estética dental, Operatoria dental
+- **RUC**: `1375421-1` (confirmado 28 jun)
+- **Registro MSPBS**: `3618` (confirmado 28 jun)
+- **Email profesional**: `doctora.gabi@ometsdental.com.py` (pendiente de crear, dominio por registrar)
+- **Timbrado**: ✅ tiene, puede facturar
+- **Contador**: ✅ tiene (falta nombre)
+- **Banco**: ✅ a su nombre, en guaraníes y dólares
+- **Fecha apertura tentativa**: **mitad de julio 2026** (3 semanas desde 28 jun)
+- **Tipo de lanzamiento**: **Soft launch** al principio (va más con ella)
+- **Horario de atención**: Lunes a viernes, 14:30 a 19:00
+- **Días por semana**: Lun-vie, agendado (no estar colgada en el consultorio)
+- **Atiende urgencias**: Sí, evalúa caso por caso (no tiene número dedicado)
+- **Inglés**: ✅ sí, "re-lo"
+- **Foto en sitio**: Atendiendo o profesional linda
+- **Quiere soft launch**: sí
+- **Quiere robar pacientes de O3**: sí, en modo captación activa
+- **No quiere community manager**: prefiere delegar
+- **No quiere estar todo el día**: prefiere agendado
+- **No tiene seguro responsabilidad civil**: decidió no sacarlo por ahora (no recomendado)
 
 ---
 

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ometz Dental — Te escucho | Rehabilitación oral y segunda opinión en Asunción</title>
+    <meta name="description" content="Ometz Dental es el consultorio de la Dra. Gabriella González Pane en Barrio Mburucuyá, Asunción. Rehabilitación oral, segunda opinión formal, estética dental. Te escucho.">
+    <meta name="keywords" content="dentista Asunción, rehabilitación oral, segunda opinión odontológica, profilaxis, blanqueamiento, Ometz Dental, Mburucuyá">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦷</text></svg>">
+    <style>
+        :root {
+            --warm-cream: #FDF8F0;
+            --terracotta: #C4956A;
+            --terracotta-dark: #A37550;
+            --salvia: #8FA68E;
+            --warm-white: #FEFCF8;
+            --text: #3D2E1F;
+            --text-light: #6B5B47;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--warm-white);
+        }
+        .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+        header {
+            background: var(--warm-cream);
+            padding: 18px 0;
+            border-bottom: 1px solid rgba(196, 149, 106, 0.2);
+        }
+        .header-inner { display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 24px; font-weight: 700; color: var(--terracotta-dark); }
+        .logo .hebrew { font-size: 18px; margin-left: 6px; opacity: 0.8; }
+        .nav a { color: var(--text); text-decoration: none; margin-left: 24px; font-size: 15px; }
+        .nav a:hover { color: var(--terracotta); }
+        .hero {
+            background: var(--warm-cream);
+            padding: 100px 0 80px;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 64px;
+            font-weight: 800;
+            color: var(--text);
+            margin-bottom: 24px;
+            letter-spacing: -1.5px;
+        }
+        .hero h1 em { font-style: normal; color: var(--terracotta-dark); }
+        .hero p.subtitle {
+            font-size: 20px;
+            color: var(--text-light);
+            max-width: 700px;
+            margin: 0 auto 40px;
+        }
+        .cta {
+            display: inline-block;
+            background: var(--terracotta);
+            color: white;
+            padding: 16px 36px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 17px;
+            transition: background 0.2s;
+        }
+        .cta:hover { background: var(--terracotta-dark); }
+        .section { padding: 80px 0; }
+        .section-warm { background: var(--warm-cream); }
+        h2 {
+            font-size: 38px;
+            font-weight: 700;
+            color: var(--text);
+            margin-bottom: 16px;
+            text-align: center;
+        }
+        .section-intro {
+            text-align: center;
+            color: var(--text-light);
+            max-width: 700px;
+            margin: 0 auto 50px;
+            font-size: 18px;
+        }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 24px; }
+        .card {
+            background: var(--warm-white);
+            padding: 32px;
+            border-radius: 12px;
+            border: 1px solid rgba(196, 149, 106, 0.15);
+        }
+        .card h3 {
+            font-size: 20px;
+            color: var(--terracotta-dark);
+            margin-bottom: 12px;
+        }
+        .card p { color: var(--text-light); font-size: 15px; }
+        .service-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 32px; }
+        .service {
+            padding: 32px;
+            border-left: 3px solid var(--terracotta);
+            background: var(--warm-white);
+            border-radius: 0 12px 12px 0;
+        }
+        .service h3 { font-size: 22px; color: var(--terracotta-dark); margin-bottom: 12px; }
+        .service p { color: var(--text-light); margin-bottom: 16px; }
+        .price {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--text);
+        }
+        .price small { font-size: 14px; font-weight: 400; color: var(--text-light); display: block; margin-top: 4px; }
+        .footer {
+            background: var(--text);
+            color: rgba(255,255,255,0.7);
+            padding: 60px 0 30px;
+        }
+        .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 40px; margin-bottom: 40px; }
+        .footer h4 { color: white; margin-bottom: 16px; font-size: 16px; }
+        .footer a { color: rgba(255,255,255,0.7); text-decoration: none; display: block; margin-bottom: 8px; font-size: 14px; }
+        .footer a:hover { color: var(--terracotta); }
+        .footer-bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 20px; font-size: 13px; text-align: center; }
+        .lang-switch { position: fixed; top: 12px; right: 12px; z-index: 100; background: white; padding: 6px 12px; border-radius: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-size: 13px; }
+        .lang-switch a { color: var(--terracotta-dark); text-decoration: none; font-weight: 600; }
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 40px; }
+            .hero p.subtitle { font-size: 17px; }
+            .section { padding: 60px 0; }
+            h2 { font-size: 28px; }
+            .footer-grid { grid-template-columns: 1fr; }
+            .nav { display: none; }
+        }
+    </style>
+</head>
+<body>
+    <div class="lang-switch">
+        <a href="/en/">EN</a> · <strong>ES</strong>
+    </div>
+
+    <header>
+        <div class="container header-inner">
+            <div class="logo">Ometz Dental <span class="hebrew">אומץ</span></div>
+            <nav class="nav">
+                <a href="#filosofia">Cómo trabajo</a>
+                <a href="#servicios">Servicios</a>
+                <a href="#rehabilitacion">Rehabilitación</a>
+                <a href="#segunda-opinion">Segunda opinión</a>
+                <a href="#contacto">Contacto</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Te <em>escucho</em>.</h1>
+            <p class="subtitle">
+                Rehabilitación oral y segunda opinión odontológica en Asunción.
+                Antes de tocar, pienso. Antes de planificar, te escucho.
+            </p>
+            <a href="https://wa.me/5959XXXXXXXX?text=Hola!%20Quiero%20una%20consulta.%20Te%20escucho." class="cta">
+                Escribime por WhatsApp
+            </a>
+        </div>
+    </section>
+
+    <section class="section" id="filosofia">
+        <div class="container">
+            <h2>Cómo trabajo</h2>
+            <p class="section-intro">
+                Veinte años atendiendo bocas en Asunción me enseñaron algo:
+                el paciente no es una cosa. Es una persona que me está dando
+                su confianza.
+            </p>
+            <div class="grid">
+                <div class="card">
+                    <h3>Te escucho</h3>
+                    <p>Tu historia clínica importa más que tu radiografía. La primera consulta es para entender qué te pasó, no para venderte un tratamiento.</p>
+                </div>
+                <div class="card">
+                    <h3>Pienso antes de tocar</h3>
+                    <p>Cada caso empieza con un plan, no con una fresa. La planificación es lo que diferencia. La ejecución es lo más fácil.</p>
+                </div>
+                <div class="card">
+                    <h3>Conservo antes de reemplazar</h3>
+                    <p>Si un diente se puede restaurar, se restaura. Si una corona está bien hecha, se deja. No hay que cambiar todo por cambiar.</p>
+                </div>
+                <div class="card">
+                    <h3>Derivo cuando corresponde</h3>
+                    <p>Endodoncia, ortodoncia, cirugía, implantes: te conecto con colegas de confianza y trabajo en equipo.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section section-warm" id="servicios">
+        <div class="container">
+            <h2>Servicios</h2>
+            <p class="section-intro">
+                Lo que sí hago. Lo que derivo está listado al final con honestidad.
+            </p>
+            <div class="service-grid">
+                <div class="service">
+                    <h3>🦷 Rehabilitación oral</h3>
+                    <p>Reconstrucción integral de bocas con mucho por resolver: dientes perdidos, restauraciones viejas, operatoria acumulada. Un plan, no parches.</p>
+                    <p class="price">Desde Gs 800.000<small>Sesión de planificación integral</small></p>
+                </div>
+                <div class="service">
+                    <h3>🔍 Segunda opinión</h3>
+                    <p>¿Te dijeron que necesitás un tratamiento importante? Traé el presupuesto. Te hago una segunda opinión formal con todo por escrito.</p>
+                    <p class="price">Gs 400-600.000<small>Documentación escrita incluida</small></p>
+                </div>
+                <div class="service">
+                    <h3>🦷 Operatoria dental</h3>
+                    <p>Restauraciones de caries. Resina compuesta, ionómero vítreo, cerómero. Material según el caso.</p>
+                    <p class="price">Gs 350-700.000<small>Según complejidad</small></p>
+                </div>
+                <div class="service">
+                    <h3>✨ Profilaxis</h3>
+                    <p>Limpieza profesional completa. Evaluación, ultrasonido, pulido, flúor. Más que una limpieza: prevención clínica.</p>
+                    <p class="price">Gs 280.000<small>Estándar</small></p>
+                </div>
+                <div class="service">
+                    <h3>✨ Blanqueamiento</h3>
+                    <p>Domiciliario, en consultorio o combinado. Con peróxido de alta concentración.</p>
+                    <p class="price">Desde Gs 1.200.000<small>Por arco</small></p>
+                </div>
+                <div class="service">
+                    <h3>🔧 Prótesis sobre implantes (PSI)</h3>
+                    <p>La corona sobre el implante la hago yo. La parte quirúrgica la hace un colega de confianza.</p>
+                    <p class="price">Gs 4.000.000<small>PSI por unidad</small></p>
+                </div>
+            </div>
+            <p style="text-align: center; margin-top: 40px; color: var(--text-light);">
+                <strong>Lo que NO hago (con honestidad):</strong> endodoncia, cirugía bucal, ortodoncia,
+                implantes (parte quirúrgica). Te derivo a colegas de confianza.
+            </p>
+        </div>
+    </section>
+
+    <section class="section" id="rehabilitacion">
+        <div class="container">
+            <h2>Rehabilitación oral: cuando la boca necesita un plan, no parches</h2>
+            <p class="section-intro">
+                Es la reconstrucción integral de una boca que tiene mucho por resolver.
+                Dientes perdidos, restauraciones viejas que fallaron, operatoria acumulada.
+                No es "arreglar un diente". Es mirar la boca completa, entender qué pasó,
+                y armar un plan que tenga sentido clínico, funcional y económico.
+            </p>
+            <div class="grid" style="margin-top: 40px;">
+                <div class="card">
+                    <h3>Para quién es esto</h3>
+                    <p>Pacientes con varios dientes perdidos, tratamientos que fallaron, operatoria acumulada, coronas viejas, dolor crónico que nadie pudo explicar. Pacientes que fueron de consultorio en consultorio sin encontrar solución.</p>
+                </div>
+                <div class="card">
+                    <h3>Cómo trabajo</h3>
+                    <p>1. Te escucho. 2. Te explico con la panorámica en pantalla. 3. Planificamos juntos. 4. Ejecuto con criterio. 5. Derivo cuando corresponde.</p>
+                </div>
+                <div class="card">
+                    <h3>Lo que no es</h3>
+                    <p>No es "carillas para todos". No es "arreglar lo que se puede y dejar lo demás". No es "el plan más caro". Si lo que necesitás es algo conservador, te lo digo.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section section-warm" id="segunda-opinion">
+        <div class="container">
+            <h2>Segunda opinión: decidí con información real</h2>
+            <p class="section-intro">
+                Si otro profesional te dijo que necesitás un tratamiento importante y querés
+                confirmar, traé el presupuesto. Te hago una segunda opinión formal, con
+                todo por escrito.
+            </p>
+            <div class="grid" style="margin-top: 40px;">
+                <div class="card">
+                    <h3>Cuándo pedirla</h3>
+                    <p>Te dijeron que necesitás endodoncia, corona, extracción, o un plan grande. Te cotizaron algo que te parece caro. Ya empezaste un tratamiento y querés confirmar.</p>
+                </div>
+                <div class="card">
+                    <h3>Qué incluye</h3>
+                    <p>Análisis de radiografías previas, examen clínico completo, revisión del plan propuesto, plan alternativo documentado por escrito, derivación a especialista si corresponde.</p>
+                </div>
+                <div class="card">
+                    <h3>Confidencialidad</h3>
+                    <p>Lo que hablamos es estrictamente entre vos y yo. Si decidís no avanzar con mi propuesta, te entrego toda la documentación por escrito. Nunca hablo mal de otro colega: no conozco el contexto completo.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" id="contacto">
+        <div class="container">
+            <h2>¿Hablamos?</h2>
+            <p class="section-intro">
+                Atendemos con cita previa, lunes a viernes de 14:30 a 19:00.
+                Español e inglés. Si tenés una urgencia, avisame.
+            </p>
+            <div class="grid" style="margin-top: 40px;">
+                <div class="card">
+                    <h3>📱 WhatsApp</h3>
+                    <p><a href="https://wa.me/5959XXXXXXXX" style="color: var(--terracotta-dark);">+595 9XX XXXXXX</a></p>
+                    <p>La forma más rápida de contactarme. Te respondo en horario de consulta.</p>
+                </div>
+                <div class="card">
+                    <h3>📍 Dirección</h3>
+                    <p>Barrio Mburucuyá, Asunción</p>
+                    <p>Calle exacta: completar cuando confirmes</p>
+                </div>
+                <div class="card">
+                    <h3>🕐 Horario</h3>
+                    <p>Lunes a viernes: 14:30 - 19:00</p>
+                    <p>Sábado y domingo: cerrado</p>
+                </div>
+                <div class="card">
+                    <h3>📧 Email</h3>
+                    <p>doctora.gabi@ometsdental.com.py</p>
+                    <p>Para presupuestos, segunda opinión escrita, o preguntas que no son urgentes.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div>
+                    <h4>Ometz Dental</h4>
+                    <p>Consultorio de la Dra. Gabriella González Pane.<br>
+                    "Ometz" (אומץ) = coraje en hebreo.<br>
+                    Coraje para pensar antes de tocar.</p>
+                </div>
+                <div>
+                    <h4>Servicios</h4>
+                    <a href="#rehabilitacion">Rehabilitación oral</a>
+                    <a href="#segunda-opinion">Segunda opinión</a>
+                    <a href="#servicios">Operatoria dental</a>
+                    <a href="#servicios">Profilaxis y blanqueamiento</a>
+                </div>
+                <div>
+                    <h4>Contacto</h4>
+                    <a href="https://wa.me/5959XXXXXXXX">WhatsApp</a>
+                    <a href="mailto:doctora.gabi@ometsdental.com.py">Email</a>
+                    <a href="#contacto">Dirección</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2026 Ometz Dental · Dra. Gabriella González Pane · RUC 1375421-1 · Reg. MSPBS 3618</p>
+                <p>Hecho con criterio, no con prisa.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

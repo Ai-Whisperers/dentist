@@ -1,6 +1,6 @@
 # TODO — Ometz Dental Launch
 
-**Última actualización:** 28 jun 2026 (post-master-audios + nuevo ADN de marca)
+**Última actualización:** 28 jun 2026 (post-master-audios + nuevo ADN de marca + datos de Gaby confirmados)
 
 ## P0 — Decisiones de marca (28 jun 2026) ✅ COMPLETE
 - [x] Adoptar "Ometz Dental" como marca comercial
@@ -18,6 +18,28 @@
 - [x] Actualizar start-here.md con nueva marca
 - [x] Actualizar README de gabi-audio-prompts
 - [x] Crear MASTER-TODO.md como single source of truth
+
+## P0.5 — Datos confirmados de Gaby (28 jun 2026) ✅ NEW
+- [x] Email profesional: `doctora.gabi@ometsdental.com.py`
+- [x] RUC: `1375421-1`
+- [x] Registro MSPBS: `3618`
+- [x] Timbrado: ✅ tiene, puede facturar
+- [x] Contador: ✅ tiene (falta nombre)
+- [x] Banco: ✅ a su nombre, en guaraníes y dólares
+- [x] Horario: lunes a viernes, 14:30 a 19:00
+- [x] Fecha apertura: mitad de julio 2026 (3 semanas desde 28 jun)
+- [x] Tipo de launch: soft launch
+- [x] Días por semana: lun-vie, agendado
+- [x] Inglés: sí
+- [x] Foto: atendiendo o profesional linda
+- [x] Bio corta: 3 propuestas hechas (`propuesta-bio-corta-gaby.md`)
+- [x] 3 especialidades reales: rehabilitación oral, estética, operatoria
+- [x] Diferencial: criterio + años + flujo de pacientes + cero problemas técnicos
+- [x] NO quiere community manager
+- [x] NO quiere estar todo el día en consultorio
+- [x] NO tiene seguro responsabilidad civil
+- [x] Quiere "robar" pacientes de O3 (captación activa)
+- [x] Procesar audio del 28 jun 22:02 (`RESPUESTAS-GABY-2026-06-28.md`)
 
 ## P1 — Cuestionarios (status al 28 jun)
 - [x] Análisis crítico de cuestionarios viejos (00-ANALYSIS-questionnaires.md)
@@ -51,12 +73,15 @@
 - [x] Sección servicios, profilaxis (no destacada), segunda opinión, rehabilitación, coaching
 - [x] Sección precios
 - [x] Sección contacto
+- [x] **Página web HTML completa lista para deploy** (07_DESIGN/website/ometzdental.com.py/index.html)
+- [x] 3 propuestas de bio corta (03_LAUNCH/website-content/propuesta-bio-corta-gaby.md)
+- [x] Instructivo Google Business paso a paso (03_LAUNCH/website-content/instructivo-google-business-ometz-dental.md)
+- [x] Instructivo Facebook profesional paso a paso (06_MARKETING/facebook/instructivo-pagina-facebook-ometz-dental.md)
+- [x] Quick replies WhatsApp personalizados con tus datos (08_WHATSAPP/templates/quick-replies-PERSONALIZADO-gaby.md)
 - [ ] Registrar dominio ometzdental.com.py (decisión: comprar en nic.py o Hostinger)
 - [ ] Logo de Ometz Dental (palabra + hebreo אומץ)
-- [ ] Paleta de colores cálidos del ADN
-- [ ] Gaby apruebe el sitemap final
-- [ ] Implementar el sitio (cuando Gaby apruebe)
-- [ ] Deploy a producción
+- [ ] Gaby apruebe la bio corta (elegir 1 de 3 o pedir cambios)
+- [ ] Deploy a producción (Hostinger)
 
 ## P5 — Google Business Profile (status al 28 jun)
 - [ ] Crear GBP con marca "Ometz Dental"
