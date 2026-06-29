@@ -1,52 +1,50 @@
-# 📋 Cuestionario C — FASE 2 OPERACIONAL (30 min)
+# 🎙️ Cuestionario C — FASE 2 OPERACIONAL — Versión audio-friendly
 
 **Para:** Dra. Gabriella González Pane
-**Duración:** 30-45 minutos (se puede hacer en 2-3 sesiones)
+**Duración:** 30-45 minutos (se puede hacer en 4 audios de 7-10 min, uno por bloque)
 **Cuándo:** Cuando ya tengas consultorio abierto y estés atendiendo al menos 5-10 pacientes
-**Objetivo:** Tener los 20 datos para terminar de armar el sitio web, las redes, los testimonios, el blog, y las integraciones.
+**Objetivo:** 20 datos para terminar el sitio, las redes, los testimonios, el blog y las integraciones.
 
 ---
 
-## ⚠️ Por qué este cuestionario es para DESPUÉS
+## 🎬 Cómo grabar
 
-Necesita que ya estés atendiendo. La mayoría de las preguntas son sobre:
+Te recomiendo **4 audios cortos**, uno por bloque. Te dejo abajo qué decir en cada uno.
 
-- Fotos que se pueden sacar del consultorio ya montado
-- Testimonios reales de pacientes que ya pasaron
-- Contenido que requiere práctica (no teoría)
-- Decisiones que solo se pueden tomar con el día a día
-
-**No contestes este cuestionario antes de tener 2-3 semanas atendiendo.**
+**Reglas:**
+- Si no sabés una respuesta, decí **"no sé"** y seguimos
+- Si una pregunta no aplica, decí **"esta no aplica"**
+- Si te trabás, decí **"no sé exacto, pero calculo que..."**
 
 ---
 
 ## 📦 BLOQUE C1 — Fotos profesionales (5 preguntas)
 
+**Cuándo responder:** cuando ya tengas consultorio armado (no antes, las fotos necesitan el espacio listo).
+
 ### C1.1 — ¿Tenés fotos tuyas con scrubs de colores?
 
-> "Sí, ya tengo. No, todavía no me saqué. Sí tengo pero son feas."
+> "Bloque C1, pregunta uno, fotos mías. [Sí, ya tengo] / [No, todavía no me saqué] / [Sí tengo pero son feas]."
 
-**Lo que necesito:** saber si tenés fotos profesionales (no selfies). Si no, te paso opciones de fotógrafo.
+**Si no tenés:** te paso opciones de fotógrafo cuando estés lista.
 
 ---
 
 ### C1.2 — ¿Querés foto de cuerpo completo o solo busto?
 
-> "Cuerpo completo. Solo busto (cara + hombros). Una de cada."
+> "Bloque C1, pregunta dos, tipo de foto. [Cuerpo completo] / [Solo busto, cara y hombros] / [Una de cada]."
 
 ---
 
 ### C1.3 — ¿Tenés fotos del consultorio?
 
-> "Sí, ya tengo. No, todavía no. Sí pero el consultorio todavía no está listo."
-
-**Si ya las tenés:** me las pasás. Si no, te paso opciones de fotógrafo.
+> "Bloque C1, pregunta tres, fotos del consultorio. [Sí, ya tengo] / [No, todavía no] / [Sí pero el consultorio todavía no está listo]."
 
 ---
 
 ### C1.4 — ¿Querés fotos con pacientes?
 
-> "No, sin pacientes. Sí, con un paciente ficticio (mano, sin cara)."
+> "Bloque C1, pregunta cuatro, fotos con pacientes. [No, sin pacientes] / [Sí, con un paciente ficticio, mano sin cara]."
 
 **Nota legal:** si la foto es con un paciente real, necesitamos consentimiento firmado (formulario en `05_OPERATIONS/legal-compliance/patient-legal/`).
 
@@ -54,7 +52,7 @@ Necesita que ya estés atendiendo. La mayoría de las preguntas son sobre:
 
 ### C1.5 — ¿Tenés fotos de antes/después de casos?
 
-> "Sí, con consentimiento firmado. No, todavía no tengo. Sí, pero no tengo consentimiento escrito."
+> "Bloque C1, pregunta cinco, antes/después. [Sí, con consentimiento firmado] / [No, todavía no tengo] / [Sí pero no tengo consentimiento escrito]."
 
 **Nota legal:** sin consentimiento firmado por escrito, NO se pueden publicar.
 
@@ -64,33 +62,31 @@ Necesita que ya estés atendiendo. La mayoría de las preguntas son sobre:
 
 ### C2.1 — ¿Tenés pacientes que quieran dejar testimonio escrito?
 
-> "Sí, [número] pacientes. No, todavía no. Depende, hay que preguntarles."
-
-**Lo que necesito:** cuántos pacientes tenés dispuestos a dejar testimonio escrito.
+> "Bloque C2, pregunta uno, testimonios escritos. [Sí, [número] pacientes] / [No, todavía no] / [Depende, hay que preguntarles]."
 
 ---
 
 ### C2.2 — ¿Tenés pacientes que quieran dejar testimonio en video?
 
-> "Sí, [número]. No. Depende."
+> "Bloque C2, pregunta dos, testimonios en video. [Sí, [número]] / [No] / [Depende]."
 
 ---
 
 ### C2.3 — ¿Querés testimonios con foto del paciente o anónimos?
 
-> "Con foto. Anónimos (sin foto). Iniciales (ej: "M.A., 45 años")."
+> "Bloque C2, pregunta tres, formato. [Con foto] / [Anónimos sin foto] / [Iniciales, tipo M.A. 45 años]."
 
 ---
 
 ### C2.4 — ¿Tenés pacientes expats que quieran dejar testimonio en inglés?
 
-> "Sí. No. Todavía no."
+> "Bloque C2, pregunta cuatro, testimonios en inglés. [Sí] / [No] / [Todavía no]."
 
 ---
 
 ### C2.5 — ¿Tenés formulario de consentimiento firmado para testimonios?
 
-> "Sí, ya los tengo firmados. No, todavía no. No, pero puedo conseguirlos."
+> "Bloque C2, pregunta cinco, consentimientos. [Sí, ya los tengo firmados] / [No, todavía no] / [No, pero puedo conseguirlos]."
 
 **Si no los tenés:** te paso el formulario modelo en `05_OPERATIONS/legal-compliance/patient-legal/testimonial-consent.md`.
 
@@ -100,15 +96,15 @@ Necesita que ya estés atendiendo. La mayoría de las preguntas son sobre:
 
 ### C3.1 — ¿Querés tener Facebook activo para Ometz Dental?
 
-> "Sí, lo voy a hacer yo. No, mejor que alguien lo haga por mí. No, no quiero redes."
+> "Bloque C3, pregunta uno, Facebook. [Sí, lo voy a hacer yo] / [No, mejor que alguien lo haga por mí] / [No, no quiero redes]."
 
-**Si querés que alguien lo haga por vos:** te ayudo a armar el brief para community manager. **Si no querés redes:** está bien, sin presión.
+**Si querés que alguien lo haga por vos:** te ayudo a armar el brief para community manager.
 
 ---
 
 ### C3.2 — ¿Tenés Instagram personal o querés que Ometz tenga uno?
 
-> "No, Instagram no es mi canal. Sí, abrí uno nuevo para Ometz. Ya tengo uno y lo voy a usar."
+> "Bloque C3, pregunta dos, Instagram. [No, Instagram no es mi canal] / [Sí, abrí uno nuevo para Ometz] / [Ya tengo uno y lo voy a usar]."
 
 **Recordatorio:** según el ADN, Instagram NO es tu canal. Pero si querés tener uno igual, está bien.
 
@@ -116,7 +112,7 @@ Necesita que ya estés atendiendo. La mayoría de las preguntas son sobre:
 
 ### C3.3 — ¿Querés tener un blog en el sitio web?
 
-> "Sí, voy a escribir. No, no tengo tiempo. No, mejor que alguien escriba por mí."
+> "Bloque C3, pregunta tres, blog. [Sí, voy a escribir] / [No, no tengo tiempo] / [No, mejor que alguien escriba por mí]."
 
 **Si no querés blog:** está bien, el sitio funciona sin blog.
 
@@ -124,7 +120,7 @@ Necesita que ya estés atendiendo. La mayoría de las preguntas son sobre:
 
 ### C3.4 — ¿Tenés LinkedIn?
 
-> "Sí, ya tengo. No, no tengo. No, no me interesa."
+> "Bloque C3, pregunta cuatro, LinkedIn. [Sí, ya tengo] / [No, no tengo] / [No, no me interesa]."
 
 **Recordatorio:** LinkedIn no es prioridad para práctica local. Solo si querés posicionarte con expats.
 
@@ -132,9 +128,7 @@ Necesita que ya estés atendiendo. La mayoría de las preguntas son sobre:
 
 ### C3.5 — ¿Querés newsletter (emails)?
 
-> "No, no tengo contenido para newsletter. Sí, pero no ahora. No, no me interesa."
-
-**Recordatorio:** newsletter no es prioridad al inicio. Solo si tenés contenido sostenible.
+> "Bloque C3, pregunta cinco, newsletter. [No, no tengo contenido para newsletter] / [Sí, pero no ahora] / [No, no me interesa]."
 
 ---
 
@@ -142,33 +136,33 @@ Necesita que ya estés atendiendo. La mayoría de las preguntas son sobre:
 
 ### C4.1 — ¿Tenés Pagopar configurado?
 
-> "Sí, ya lo tengo. No, todavía no. No sé qué es Pagopar."
+> "Bloque C4, pregunta uno, Pagopar. [Sí, ya lo tengo] / [No, todavía no] / [No sé qué es Pagopar]."
 
-**Si no sabés qué es:** te explico. Pagopar es la plataforma de pago en cuotas más usada en Paraguay.
+**Si no sabés qué es:** Pagopar es la plataforma de pago en cuotas más usada en Paraguay. Te explico cuando me digas.
 
 ---
 
 ### C4.2 — ¿Tenés Bancard POS?
 
-> "Sí, ya lo tengo. No, todavía no. No, no me interesa (prefiero transferencia)."
+> "Bloque C4, pregunta dos, Bancard. [Sí, ya lo tengo] / [No, todavía no] / [No, no me interesa, prefiero transferencia]."
 
 ---
 
 ### C4.3 — ¿Querés agenda online (Calendly u otro)?
 
-> "Sí, lo voy a usar. No, prefiero coordinar por WhatsApp. No, no me interesa."
+> "Bloque C4, pregunta tres, agenda online. [Sí, lo voy a usar] / [No, prefiero coordinar por WhatsApp] / [No, no me interesa]."
 
 ---
 
 ### C4.4 — ¿Tenés Google Analytics en el sitio web?
 
-> "Sí, ya está configurado. No, no sé qué es. No, no me interesa."
+> "Bloque C4, pregunta cuatro, Analytics. [Sí, ya está configurado] / [No, no sé qué es] / [No, no me interesa]."
 
 ---
 
 ### C4.5 — ¿Querés que el sitio web tenga formulario de contacto?
 
-> "Sí, además del WhatsApp. No, con el WhatsApp alcanza. Sí, pero que vaya a mi email."
+> "Bloque C4, pregunta cinco, formulario. [Sí, además del WhatsApp] / [No, con el WhatsApp alcanza] / [Sí, pero que vaya a mi email]."
 
 ---
 
@@ -220,4 +214,4 @@ Una vez que tengas los 20 datos:
 
 ---
 
-*Mandame tu respuesta por WhatsApp a Kiki cuando estés lista. Si querés contestar solo 1 bloque hoy y los otros mañana, perfecto.*
+*Mandame tus audios por WhatsApp a Kiki cuando estés lista. Si querés contestar solo 1 bloque hoy y los otros mañana, perfecto.*

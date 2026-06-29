@@ -34,7 +34,10 @@
 - `06-cuestionario-del-sitio-validacion.md` (10-15 min)
 
 **Cuando ya estés atendiendo (mes 1-2):**
-- `08-cuestionario-fase-2-operacional.md` (30 min)
+- `questionnaire-fase-2-operacional.md` (30 min, audio-friendly)
+
+**Cuando estés lista para ofrecer coaching (mes 2-3):**
+- `08-cuestionario-coaching.md` (10 preguntas)
 
 ---
 
@@ -62,7 +65,9 @@ Si tuvieras que contestarme **una sola cosa** ahora mismo, en una frase:
 | `04-quejas-contrato-y-plan-de-salida.md` | Quejas, contrato, plan si sale mal | 🟡 borrador |
 | `05-marca-personal-y-sitio-web.md` | Tu marca visual (después de la reunión) | 🟡 borrador |
 | `06-cuestionario-del-sitio-validacion.md` | Datos del sitio (después de la reunión) | 🟡 borrador |
-| **`07-cuestionario-hoy-5min.md`** | **6 datos bloqueantes** | 🟢 LISTO para responder |
+| **`07-cuestionario-hoy-5min.md`** | **6 datos bloqueantes (HOY, audio-friendly)** | 🟢 LISTO para responder |
+| **`08-cuestionario-coaching.md`** | **Cuestionario de coaching a colegas (mes 2-3)** | 🟢 LISTO cuando quiera |
 | `CONTEXTO-PREVIO-22JUN.md` | Lo que ya sabemos (no preguntar de nuevo) | ✅ |
 | `00-ANALYSIS-questionnaires.md` | Análisis crítico de los cuestionarios viejos | ✅ |
+| `AUDIO-PROCESSOR.md` | Cómo procesar los audios de Gaby (para IA) | ✅ |
 | `README.md` | Este archivo | ✅ |
