@@ -2,6 +2,8 @@
 ## Para Dra. Gabriella González Pane
 ### Necesario para completar el website + marketing
 
+> **🆕 v3 (28 jun 2026):** Este cuestionario fue **reemplazado** por el cuestionario operacional en `09_TEMPLATES/questionnaire-fase-2-operacional.md` (20 preguntas, Bloque C1 = fotos, C2 = testimonios, C4 = integraciones). Si querés completar este cuestionario, hacelo después del cuestionario C. La Sección 7 (ASSETS LEGALES) fue removida por estar duplicada 3 veces en el repo. La Sección 6 (LinkedIn) fue removida por no ser prioridad.
+
 ---
 
 ## INSTRUCCIONES

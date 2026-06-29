@@ -11,11 +11,15 @@
 - **Name**: Dra. Gabriella González Pane
 - **Profession**: Odontología general, operatoria dental, estética dental, rehabilitación oral
 - **Experience**: ~20 años clínica, ~13 años en Odontología 3
-- **Location**: Vive en Luque, trabaja en Asunción (Odontología 3, Mcal. Estigarribia 1414)
+- **Location**: Vive en Luque, va a atender en **Barrio Mburucuyá, Asunción** (no Luque)
 - **Patient volume**: ~130 pacientes/mes en O3
 - **Language**: Español (paraguayo), English (for foreign patients)
 - **Combustible Luque↔Asunción**: ~Gs 1M/mes (audio 22 jun)
-- **Edad**: ~45 años
+- **Edad**: 45 años
+- **Marca comercial**: **Ometz Dental** (אומץ = "coraje" en hebreo) — adoptado 28 jun
+- **Frase del consultorio**: **"Te escucho."** — adoptada 28 jun
+- **Servicio estrella**: **Rehabilitación oral** (NO profilaxis — eso es lo básico)
+- **Diferenciador #2**: Segunda opinión formal por escrito
 
 ---
 
@@ -283,11 +287,43 @@ SALE BIEN   SALE MAL
 
 **Implicación:** el sitio web y los assets visuales NO deben usar el lenguaje "clínica dental seria tradicional". Paleta de colores cálidos, scrubs coloridos, vibe "cercano y colorido" vs "serio y acartonado".
 
+## 🆕 Decisiones de marca (28 jun 2026)
+
+### Marca comercial: Ometz Dental
+- "Ometz" (אומץ) = "coraje" en hebreo
+- Dominio principal: `ometzdental.com.py` (a registrar)
+- Tagline: "Ometz — Coraje para tu boca"
+- Logo: palabra "OMETZ" + hebreo אומץ debajo
+
+### Servicio destacado: Rehabilitación oral
+- NO profilaxis (eso es lo básico)
+- Lo que Gaby realmente disfruta hacer: planificar, explicar, decidir
+- Su público meta: pacientes con la boca "hecha mierda", operatoria acumulada, casos complejos
+
+### Canales
+- **Facebook sí** — público meta (paraguayos 30-60 + expats) está ahí
+- **Instagram NO** — público no está, no es su canal
+- **WhatsApp Business SÍ** — crítico
+- **Google Business SÍ** — crítico
+- **LinkedIn NO por ahora** — no es prioridad para práctica local
+
+### Frase: "Te escucho."
+- Reemplaza "Odontología con criterio, no con prisa" como claim público
+- Es la frase real que Gaby le dice al paciente
+- Va en home, welcome message WhatsApp, quick replies, redes
+
+### Servicio adicional: Coaching a colegas odontólogos
+- En Paraguay no existe como servicio formal
+- Gaby enseña a dentistas recién recibidos (sus "residentes")
+- Es una línea de ingreso aparte que diferencia
+
 ---
 
 ## Lema
 
-"Odontología con criterio, no con prisa"
+**"Te escucho."** (adoptado 28 jun 2026)
+
+> La frase anterior "Odontología con criterio, no con prisa" sigue siendo válida como posicionamiento estratégico, pero el claim público del consultorio es **"Te escucho."** porque es la frase que Gaby realmente le dice al paciente cuando se sienta por primera vez. Tres palabras. Lo que define la práctica.
 
 ---
 

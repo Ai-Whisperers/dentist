@@ -2,11 +2,15 @@
 ## Para Dra. Gabriella González Pane
 ### Cierra los PLACEHOLDERS que faltan
 
+> **🆕 v3 (28 jun 2026):** Este cuestionario fue **reemplazado** por el consolidado único en `09_TEMPLATES/questionnaire-consolidado-post-reunion.md` (15 preguntas, 3 bloques). Si querés completar este cuestionario, hacelo después del consolidado. Las preguntas de Sección 4 (motivación) y Sección 8 (artículo "Por qué dejé los seguros") fueron removidas por riesgo legal — ver `02_MEETINGS/gabi-audio-prompts/00-ANALYSIS-questionnaires.md`.
+
 ---
 
 ## INSTRUCCIONES
 
 Este cuestionario cierra todos los espacios en blanco (PLACEHOLDERS) en el contenido del sitio web. Tiempo estimado: 30-45 minutos. Responder todo de una vez si podés.
+
+> ⚠️ **Recomendación:** NO respondas este cuestionario. En su lugar, contestá `09_TEMPLATES/questionnaire-consolidado-post-reunion.md` (15 preguntas, 15-20 min). Este cuestionario (50+ preguntas) es overwhelming.
 
 ---
 

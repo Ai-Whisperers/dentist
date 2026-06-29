@@ -2,6 +2,8 @@
 ## Datos legales, fiscales, operativos
 ### Cierra los gaps para lanzamiento
 
+> **🆕 v3 (28 jun 2026):** Este cuestionario fue **reemplazado** por el consolidado único en `09_TEMPLATES/questionnaire-consolidado-post-reunion.md` (15 preguntas, Bloque B1 = datos del consultorio). Si querés completar este cuestionario, hacelo después del consolidado. La Sección 9 (METAS) fue removida por redundancia con el canonical pricing.
+
 ---
 
 ## INSTRUCCIONES

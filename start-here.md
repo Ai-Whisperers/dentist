@@ -1,4 +1,4 @@
-# START HERE — Dra. GP Project
+# START HERE — Ometz Dental (Dra. Gabriella González Pane)
 ## What Is This
 
 ## PRICING CROSS-REFERENCE (June 2026)
@@ -10,9 +10,11 @@
 
 ---
 
-This is a business launch kit for Dra. Gabriella González Pane to open a premium private dental practice in Luque, Asunción, Paraguay.
+> **🆕 v2 (28 jun 2026):** Gaby adoptó **Ometz Dental** como marca comercial. Frase del consultorio: **"Te escucho."** Servicio estrella: **Rehabilitación oral** (no profilaxis). Dirección: **Barrio Mburucuyá, Asunción**.
 
-**The goal:** Move from the current insurance-volume model (earning Gs 60k per restoration while the market pays Gs 400-550k) to a value-based private practice.
+This is a business launch kit for **Ometz Dental** — el consultorio privado de la **Dra. Gabriella González Pane** en Barrio Mburucuyá, Asunción, Paraguay.
+
+**El goal:** pasar del modelo de seguros/volumen en Odontología 3 (donde Gaby cobra Gs 60k por restauración cuando el mercado paga Gs 400-550k) a una práctica privada con criterio clínico.
 
 ---
 
@@ -118,11 +120,13 @@ MES 7-12 (Stabilize):
 
 ## THE DIFFERENTIATOR
 
-**"No overtreatment."**
+**"Te escucho."**
 
-Nobody in Asunción owns this. In a market of chains and overtreatment, honesty is the product.
+Tres palabras. Lo que Gaby realmente le dice al paciente cuando se sienta por primera vez. Antes de cualquier fresa, antes de cualquier presupuesto: te escucho.
 
-**Tagline:** "Odontología con criterio, no con prisa."
+**Tagline:** "Te escucho." → Rehabilitación oral + Segunda opinión.
+
+**Sub-posicionamiento:** "Odontología con criterio, no con prisa" (sigue válido, pero el claim público es "Te escucho.").
 
 ---
 

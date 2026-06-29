@@ -1,8 +1,11 @@
-# 📋 Contexto previo (audio 22 jun 2026) — Lo que ya sabemos
+# 📋 Contexto previo (audios 22 jun + 28 jun 2026) — Lo que ya sabemos
 
-> 🆕 v2 (22 jun): para evitar preguntarle a Gaby cosas que ya reveló en el audio espontáneo del 22 jun, este documento centraliza los datos confirmados.
+> 🆕 v3 (28 jun 2026): nueva ronda de audios confirmó varias cosas — marca adoptada (Ometz Dental), frase del consultorio ("Te escucho."), servicio estrella (rehabilitación oral), decisión de canal (no Instagram), plan inmediato (comprar chip Tigo). Este documento centraliza TODOS los datos confirmados.
 
-**Audio original:** `/root/.hermes/hermes-agent/.hermes/desktop-attachments/WhatsApp Ptt 2026-06-22 at 5.04.50 PM.ogg` (1:48 min, transcrito)
+**Audios originales:**
+- `/root/.hermes/hermes-agent/.hermes/desktop-attachments/WhatsApp Ptt 2026-06-22 at 5.04.50 PM.ogg` (1:48 min, transcrito)
+- 2 audios espontáneos más de Gaby entre 27-28 jun 2026
+- Audio espontáneo de Gaby del 28 jun 21:31 (charla con Iván sobre el plan)
 
 ---
 
@@ -112,63 +115,70 @@
 - El framing de toda comunicación cambia
 - El Plan B es el plan real, la reunión es solo el canal formal
 
----
-
 ## Lo que NO hay que preguntarle a Gaby (ya lo sabemos)
 
-- ❌ Vive en Luque o Asunción (Luque)
+### Datos básicos
+- ❌ Vive en Luque (sí)
 - ❌ Trabaja en O3 (sí)
 - ❌ 13 años en O3 (sí)
 - ❌ Quiere abrir práctica privada (sí, decisión tomada)
-- ❌ La Merced es opción (no, Ara la cerró)
 - ❌ Combustible cuánto gasta (Gs 1M/mes)
-- ❌ Pivote psicológico está hecho (sí)
+
+### Marca y servicios
+- ❌ Marca comercial = Ometz Dental (adoptado 28 jun)
+- ❌ Frase del consultorio = "Te escucho." (adoptado 28 jun)
+- ❌ Servicio estrella = rehabilitación oral (NO profilaxis)
+- ❌ Diferenciador #2 = segunda opinión formal
+- ❌ No hace: endodoncia, cirugía, ortodoncia, implantes (deriva)
+- ❌ Sí hace: operatoria, pernos, blanqueamiento, PSI, profilaxis, planificación
+- ❌ Quiere atender expats (sí, habla inglés)
+- ❌ No quiere community manager ella (prefiere delegar o no hacer)
+- ❌ No quiere Instagram (Facebook sí)
+
+### Pivote psicológico
+- ❌ Pivote psicológico está hecho (sí, "ya no soy la misma Gabriela")
 - ❌ Quiere vestirse con scrubs de colores (sí)
+- ❌ Está enojada pero enfocada (sí, no se quedó llorando)
+- ❌ Tiene miedo de trabajar sola, pero el miedo pasa (sí, "el miedo pasa, ahora tengo que arrancar y no hay otra")
+
+### Conflicto con O3
+- ❌ La Merced es opción (no, Ara la cerró)
+- ❌ Pivote a Roque está hecho (sí, "la reunión va a ser desde mi lado")
+- ❌ Nota del 70% quedó sin respuesta (sí, en silencio)
+
+### Plan inmediato
+- ❌ Va a comprar chip Tigo esta semana (sí, decidido)
+- ❌ Va a buscar pacientes de a uno en Facebook (sí, no tiene acceso a la base de datos de O3)
+- ❌ Va a abrir en Barrio Mburucuyá, Asunción (sí, no Luque)
 
 ---
 
 ## Lo que SÍ hay que preguntarle (cuestionarios activos)
 
-### Datos del sitio web (cuestionario Sec 1)
-- WhatsApp
-- Teléfono
-- Dirección
-- RUC
-- MSPBS
-- Email
+### Cuestionario A — HOY (5 min) — 6 datos bloqueantes
+Ver `02_MEETINGS/gabi-audio-prompts/07-cuestionario-hoy-5min.md`
 
-### Datos legales (cuestionario business-setup)
-- EAS status
-- Razón social
-- Timbrado
-- Contador
-- Pagopar / Bancard configurado?
-- Banco principal
+1. Número de WhatsApp Business (o fecha de compra)
+2. Calle exacta del consultorio en Mburucuyá
+3. Email profesional
+4. RUC
+5. Habilitación MSPBS
+6. Horario de atención tentativa
 
-### Datos del consultorio (cuestionario images-and-photos)
-- Fotos profesionales (sí/no/cantidad)
-- Testimonios disponibles
-- Logo (sí/no)
-- Redes sociales (@)
+### Cuestionario B — POST-REUNIÓN (15 min) — 15 datos
+Ver `09_TEMPLATES/questionnaire-consolidado-post-reunion.md`
 
-### Plan B operacional (audio #3)
-- Amiga Burucuyá: habilitación, equipo, precio, día fijo, coexistencia
-- Luque lunes: nombre del contacto, dirección, costo
+**Bloque B1 — Datos del consultorio (5):** EAS, RUC a nombre de EAS, Timbrado, contador, banco
+**Bloque B2 — Contenido del sitio (5):** bio corta, lista de servicios, inglés sí/no, foto sí/no, bio larga
+**Bloque B3 — Operación y timing (5):** fecha apertura, soft/hard launch, días por semana, urgencias, seguro responsabilidad civil
 
-### Marca visual (audio #5)
-- 3 colores específicos
-- Marca de scrubs favorita
-- Estilo consultorio actual (3 cosas concretas)
+### Cuestionario C — FASE 2 OPERACIONAL (30 min) — 20 datos
+Ver `09_TEMPLATES/questionnaire-fase-2-operacional.md`
 
-### Datos del contrato O3 (audio #4)
-- Lectura de palabras clave (exclusividad, no-competencia, etc.)
-- Antigüedad formal en IPS
-- Fecha de vencimiento del contrato
-
-### Decisión sobre Roque (audio #4)
-- Abogada laboralista (sí/no/nombre)
-- Capital inicial disponible
-- Fecha límite de salida (si existe)
+**Bloque C1 — Fotos profesionales (5)**
+**Bloque C2 — Testimonios (5)**
+**Bloque C3 — Contenido de redes (5)**
+**Bloque C4 — Integraciones y operaciones (5)**
 
 ---
 
