@@ -103,14 +103,17 @@ paso horarios.
 ## /horarios
 
 ```
-Atención con cita previa, de lunes a viernes.
+Hola! Trabajo con turnos coordinados, no con horario fijo
+de atención, porque cada caso necesita su tiempo.
 
-Los horarios disponibles los manejamos por este chat para
-poder adaptarnos a tu caso. Escribime qué día te viene
-mejor y vemos.
+Si te interesa una consulta, escribime qué día te viene
+mejor y vemos. Soy profesional, estoy haciendo otras
+cosas además de atender (planifico, enseño a colegas,
+derivo casos), así que te confirmo el horario apenas
+vea mi agenda y te aviso.
 
 Si es una urgencia (dolor fuerte, fractura, inflamación),
-avisame por acá y te priorizo.
+avisame y te priorizo.
 ```
 
 ---
@@ -125,18 +128,18 @@ Hola! 👋
 Soy la Dra. Gabriella González Pane, de Ometz Dental.
 Mi consultorio queda en el Barrio Mburucuyá, Asunción.
 
-"Ometz" significa "coraje" en hebreo. Coraje para pensar
-antes de tocar, conservar antes de reemplazar, y explicarte
-todo antes de cualquier tratamiento. No hacemos procedimientos
-que no son necesarios.
+Te escucho. Mi trabajo empieza por entender qué te pasa,
+no por agarrar la fresa. Planifico, explico, y derivo
+cuando corresponde.
 
 ¿En qué puedo ayudarte?
 
-1 — Agendar segunda opinión / consulta
-2 — Consulta general / profilaxis
-3 — Blanqueamiento / estética
-4 — Hablar con la doctora directo
-5 — Precios / planes de pago
+1 — Quiero planificar mi caso / rehabilitación oral
+2 — Pedir una segunda opinión
+3 — Consulta general / profilaxis
+4 — Blanqueamiento / estética
+5 — Hablar con la doctora directo
+6 — Precios / planes de pago
 ```
 
 ---

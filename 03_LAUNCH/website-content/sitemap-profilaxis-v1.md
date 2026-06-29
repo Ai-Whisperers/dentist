@@ -1,10 +1,12 @@
 # Estructura Sitio Web — Ometz Dental
 
-**Versión:** 1.0 — 28 jun 2026
+**Versión:** 1.1 — 28 jun 2026
+**Frase que define el consultorio:** "Te escucho."
 **Marca comercial:** Ometz Dental (אומץ — "coraje" en hebreo)
 **Profesional:** Dra. Gabriella González Pane
 **Dominio tentativo:** ometzdental.com.py (registrar 2 años mínimo)
-**Foco SEO inicial:** profilaxis bucodental (keyword secundaria: "limpieza dental")
+**Foco SEO inicial:** rehabilitación oral + segunda opinión odontológica en Asunción
+**Servicio destacado:** Rehabilitación oral + Segunda opinión (NO profilaxis — eso es lo básico)
 **Idioma:** español (con secciones en inglés para expats)
 **Mercados:** Asunción (Mburucuyá) + Luque (cuando se confirme segunda sede)
 **Lo que NO ofrecemos:** endodoncia, cirugía, ortodoncia, implantes (se derivan).
@@ -13,11 +15,17 @@
 
 ## Filosofía de la web
 
-> "Ometz — Coraje para tu boca."
+> "Te escucho."
 
 **Principio:** Presencia digital = evidencia, no publicidad.
 **No se hace:** marketing genérico, frases prohibidas del ADN ("carillas sin tallar", "sonrisa perfecta", "precio imperdible").
 **Sí se hace:** explicar criterio clínico, mostrar el proceso, dar precio honesto.
+
+**Tu servicio estrella no es lo básico. Es rehabilitación oral + segunda opinión:**
+- Lo que más te gusta hacer: planificar. Armar el plan, explicar con la panorámica, decidir qué se hace y qué no.
+- La ejecución es lo más fácil. La planificación es lo que diferencia.
+- Tu público: pacientes con la boca "hecha mierda", con tratamientos acumulados, con casos que nadie más quiere pensar.
+- También: segunda opinión formal de tratamientos que otro colega propuso.
 
 ---
 
@@ -25,13 +33,15 @@
 
 ```
 /                          → Home
-/profilaxis-bucodental     → Servicio destacado (SEO principal)
-/segunda-opinion           → Servicio destacado (diferenciador)
+/rehabilitacion-oral       → Servicio destacado #1 (lo que más te gusta)
+/segunda-opinion           → Servicio destacado #2 (diferenciador)
+/profilaxis                → Servicio (NO destacado — es lo básico)
 /servicios                 → Listado completo
-/filosofia                 → Quién soy + los 5 pilares
+/filosofia                 → Quién soy + los 5 principios + "te escucho"
 /precios                   → Pricing público
 /contacto                  → WhatsApp + dirección + horarios
-/en/...                    → Mirror en inglés (sólo Home, Servicios, Contacto, Segunda opinión)
+/coaching                  → Coaching a colegas odontólogos (servicio aparte)
+/en/...                    → Mirror en inglés
 ```
 
 ---
@@ -39,74 +49,75 @@
 ## 1. HOME (`/`)
 
 ### Hero
-- **H1 (ES):** Ometz. Odontología con coraje.
-- **H1 (EN):** Ometz. Dentistry with courage.
-- **Subtítulo:** "Ometz" significa coraje en hebreo. Coraje para pensar antes de tocar, conservar antes de reemplazar, y explicar antes de vender. Atención personalizada en Asunción.
-- **CTA principal:** Agendar consulta por WhatsApp → [link directo a wa.me]
-- **CTA secundario:** Conocer servicios
+- **H1 (ES):** Te escucho.
+- **H1 (EN):** I listen.
+- **Subtítulo:** Rehabilitación oral y segunda opinión odontológica en Asunción. Antes de tocar, pienso. Antes de planificar, te escucho.
+- **CTA principal:** Escribime por WhatsApp → [link directo a wa.me]
+- **CTA secundario:** Conocé cómo trabajo
 
-### Bloque "Qué es Ometz" (3-4 columnas)
-- **Coraje para pensar.** Diagnóstico claro antes de cualquier procedimiento.
-- **Coraje para conservar.** Si se puede arreglar, se arregla.
-- **Coraje para explicar.** Sabés exactamente qué, por qué, y cuánto.
-- **Coraje para derivar.** Endodoncia, ortodoncia, cirugía: te conecto con colegas de confianza.
+### Bloque "Cómo trabajo" (4 columnas)
+- **Te escucho.** Tu historia clínica importa más que tu radiografía. La primera consulta es para entender qué te pasó, no para venderte un tratamiento.
+- **Pienso antes de tocar.** Cada caso empieza con un plan, no con una fresa.
+- **Conservo antes de reemplazar.** Si un diente se puede restaurar, se restaura.
+- **Derivo cuando corresponde.** Endodoncia, ortodoncia, cirugía: te conecto con colegas de confianza.
 
-### Bloque "Perfil del paciente" (a quién le sirve esto)
-- Pacientes con tratamientos previos que no están seguros
-- Pacientes que quieren planificar antes de actuar
-- Pacientes con operatoria acumulada que necesitan criterio clínico
+### Bloque "A quién le sirve esto"
+- Pacientes con tratamientos acumulados que no resolvieron nada
+- Pacientes que quieren confirmar un diagnóstico antes de avanzar
+- Pacientes con operatoria complicada que necesitan un plan integral
 - Pacientes que priorizan la conservación sobre la intervención
 
 ### CTA Final
-- Mensaje directo a WhatsApp con quick reply pre-armado: "Hola! Quiero agendar una consulta."
+- Mensaje directo a WhatsApp con quick reply pre-armado: "Hola! Quiero una consulta. Te escucho."
 
 ---
 
-## 2. PROFILAXIS BUCODENTAL (`/profilaxis-bucodental`) ⭐ SEO principal
-
-> **Nota SEO:** "Limpieza dental" sigue siendo el término de búsqueda más usado por los pacientes. En el H1 usamos "profilaxis bucodental" (término profesional correcto), pero el contenido, meta description y alt tags mencionan "limpieza dental" como sinónimo para capturar ambas búsquedas.
+## 2. REHABILITACIÓN ORAL (`/rehabilitacion-oral`) ⭐ Servicio destacado #1
 
 ### Meta title
-Ometz Dental — Odontología con Coraje | Profilaxis y Segunda Opinión en Asunción
+Rehabilitación Oral en Asunción | Casos Complejos con Criterio — Ometz Dental
 
 ### Meta description
-Profilaxis bucodental profesional en Asunción. Limpieza dental con criterio: evaluación completa, ultrasonido, pulido y recomendaciones. Gs 280.000. Agenda por WhatsApp.
+Rehabilitación oral integral en Asunción. Para pacientes con tratamientos acumulados, operatoria complicada o casos que requieren planificación cuidadosa. Sesión de planificación: Gs 800.000. Segunda opinión por escrito.
 
 ### H1
-Profilaxis Bucodental en Asunción — Más que una "limpieza"
+Rehabilitación oral — Cuando la boca necesita un plan, no parches
 
-### H2 — ¿Qué es la profilaxis?
-La profilaxis bucodental es el procedimiento profesional de limpieza profunda que elimina placa bacteriana, sarro y manchas que el cepillado diario no alcanza. Lo que la gente llama "limpieza dental" es en realidad un procedimiento clínico: no es cosmético, es prevención.
+### H2 — ¿Qué es rehabilitación oral?
+Es la reconstrucción integral de una boca que tiene mucho por resolver: dientes perdidos, restauraciones viejas que fallaron, operatoria acumulada, problemas funcionales o estéticos que se fueron agravando con el tiempo. No es "arreglar un diente". Es mirar la boca completa, entender qué pasó, y armar un plan que tenga sentido clínico, funcional y económico.
 
-### H2 — ¿Qué incluye?
-1. Evaluación clínica inicial
-2. Remoción de sarro supragingival con ultrasonido
-3. Limpieza subgingival según necesidad
-4. Pulido coronario
-5. Aplicación de flúor (cuando corresponde)
-6. Recomendaciones personalizadas de higiene
+### H2 — Cómo trabajo
+1. **Te escucho.** La primera consulta es para entender tu historia, no para empezar a fresar. Te pregunto qué te pasó, qué te dijeron, qué te hicieron, qué te duele, qué querés.
+2. **Te explico.** Con la panorámica en pantalla, te muestro qué tenés, qué se puede hacer, qué no, y por qué. Te doy opciones, no una sola.
+3. **Planificamos juntos.** Armamos un plan por etapas, según urgencia y presupuesto. Nada de "pagá todo junto o nada".
+4. **Ejecuto con criterio.** Una vez que el plan está claro, ejecuto paso a paso, explicando cada paso.
+5. **Derivo cuando corresponde.** Si necesitás endodoncia, ortodoncia o cirugía, te conecto con un colega de confianza y trabajo en equipo.
 
-### H2 — ¿Cada cuánto?
-- Pacientes sin enfermedad periodontal: cada 6 meses
-- Pacientes con antecedentes de periodontitis: cada 3-4 meses
-- Pacientes con ortodoncia o prótesis: según indicación
+### H2 — Para quién es esto
+- Pacientes con varios dientes perdidos o en mal estado
+- Pacientes con tratamientos que fallaron o que se hicieron mal
+- Pacientes con operatoria acumulada que necesitan un plan integral
+- Pacientes que fueron de consultorio en consultorio sin encontrar solución
+- Pacientes con coronas viejas que ya no sirven
+- Pacientes con dolor crónico que nadie pudo explicar
 
-### H2 — ¿Por qué importa?
-La profilaxis regular no es "ir a higienizar" — es la intervención más barata que existe para evitar caries, enfermedad periodontal, y deterioro de trabajos existentes.
+### H2 — Qué no es rehabilitación oral
+- No es "carillas para todos". Si venís a pedirme carillas a los 18 sin que clínicamente correspondan, no te las hago. Te explico por qué.
+- No es "arreglar lo que se puede y dejar lo demás". Cada caso se evalúa completo.
+- No es "el plan más caro". Si lo que necesitás es algo conservador, te lo digo.
 
 ### H2 — Precio
-- **Profilaxis estándar: Gs 280.000**
-- Profilaxis con curetaje por cuadrante: Gs 400.000 (casos con enfermedad periodontal)
-
-### H2 — ¿Tenés radiografías previas o un presupuesto de otro profesional?
-Si tenés imágenes o un plan de otro consultorio, podés traerlos — la consulta de profilaxis se puede convertir en una segunda opinión formal sin costo extra si pedís cita ampliada.
+- **Consulta inicial (30 min):** Gs 300.000
+- **Consulta extendida (45-60 min):** Gs 400.000
+- **Sesión de planificación integral compleja (60-90 min):** Gs 800.000
+- El presupuesto del tratamiento se entrega por escrito después de la consulta.
 
 ### CTA
-→ Agendar profilaxis por WhatsApp
+→ Pedir consulta de rehabilitación por WhatsApp
 
 ---
 
-## 3. SEGUNDA OPINIÓN (`/segunda-opinion`) ⭐ Diferenciador
+## 3. SEGUNDA OPINIÓN (`/segunda-opinion`) ⭐ Servicio destacado #2
 
 ### H1
 Segunda Opinión Odontológica en Asunción — Decidí con información real
@@ -130,10 +141,40 @@ Segunda Opinión Odontológica en Asunción — Decidí con información real
 - Sesión de planificación compleja: Gs 800.000 (rehabilitación integral, multidisciplinaria)
 
 ### H2 — Confidencialidad
-Lo que hablamos es estrictamente entre vos y yo. Si decidís no avanzar con mi propuesta, te entrego toda la documentación por escrito para que sigas con quien vos elijas.
+Lo que hablamos es estrictamente entre vos y yo. Si decidís no avanzar con mi propuesta, te entrego toda la documentación por escrito para que sigas con quien vos elijas. Nunca hablo mal de otro colega: yo no conozco el contexto completo de lo que te hicieron, y eso es algo que me tomo muy en serio.
 
 ### CTA
 → Pedir segunda opinión por WhatsApp
+
+---
+
+## 3.5. COACHING A COLEGAS ODONTÓLOGOS (`/coaching`) ⭐ Servicio aparte
+
+> Este es un servicio que Gaby ofrece a dentistas jóvenes, no a pacientes. Está acá en la web para que los colegas la encuentren.
+
+### H1
+Coaching odontológico — Para dentistas que recién empiezan
+
+### H2 — ¿Qué es?
+Es un espacio de aprendizaje clínico para odontólogos que se recibieron hace poco y quieren aprender a tratar pacientes reales con criterio. No es un curso, no es un posgrado, no da título. Es mentoría práctica: te sentás con la doctora, ves casos, aprendés a planificar, a hablar con el paciente, a tomar decisiones clínicas.
+
+### H2 — ¿A quién le sirve?
+- Odontólogos recién recibidos (0-3 años de experiencia)
+- Odontólogos que quieren mejorar su criterio clínico
+- Odontólogos que atienden muchos pacientes y quieren aprender a hacerlo mejor
+
+### H2 — Lo que no es
+- No es un título habilitante
+- No reemplaza un posgrado
+- No es atención al paciente (es formación profesional)
+
+### H2 — Cómo funciona
+- Modalidad: presencial, en el consultorio de Ometz Dental
+- Duración: según acuerdo (puede ser un día, una semana, o un programa más largo)
+- Costo: a convenir según modalidad
+
+### CTA
+→ Escribime por WhatsApp para conversar
 
 ---
 
