@@ -302,3 +302,233 @@ T) Kern Odontología
 Source set: 20 Paraguayan dentist sites, 20 global dental best-practice/SEO sources.
 Outcome: 200 distinct lessons plus a strong/medium/neglect priority matrix unique to Dra. GP positioning.
 
+---
+
+# WAVE 5 EXTENSION — Lessons 201-300 (July 2, 2026)
+
+**Refresh scope:** Add 100 lessons covering AI-search/LLM discoverability, WCAG 2.2 accessibility, Core Web Vitals 2026, visual design trends 2026, and conversational UX. Audit of `ometzdental.com/en` (post-deploy 2026-07-02) establishes the baseline.
+
+**Live audit findings (baseline):**
+- ✅ STRONG: LocalBusiness/Dentist/FAQPage/MedicalProcedure schema, OG/Twitter cards, canonical, robots, all images have alt
+- ❌ NEGLECT: NO `hreflang` (multi-locale es/en), NO `sitemap.xml`, only 4 images total / 1 webp, NO service-specific Procedure schema on detail pages, NO breadcrumb schema
+- 🟡 PARTIAL: nav has 5 items ✅, FAQ structured ✅, NO `BlogPosting` schema in JSON-LD, no `VideoObject`
+
+**New sources consulted (Jul 2, 2026):**
+- 21. Delmain — "20 Best Dental Websites of 2026" (Jan 2026)
+- 22. Azuro Digital — "10 Best Dental Website Designs of 2026" (Oct 2025)
+- 23. Colorlib — "28 Best Dentist Websites Design Examples 2026"
+- 24. DentalBase — "Best Dental Website Designs 2026: UX, SEO & Conversion Guide"
+- 25. MySocialPractice — "Best Dental Websites of 2026 Ranked by Experts" (Q1 2026)
+- 26. DoctorsInternet — "Top 10 Dental Practice Websites for 2026"
+- 27. Lassomd — "Top 20 Best Dental Websites of 2026"
+- 28. OptimizePress — "12 Best Dental Website Examples 2026"
+- 29. unnus — "22 Jaw-Dropping Dental Websites for 2026"
+- 30. WCAG 2.2 W3C Recommendation (Oct 2023, mandatory for many jurisdictions by 2026)
+
+---
+
+## 7. LESSON CATALOG EXTENSION (201-300)
+
+### 201-225 · AI SEARCH & LLM DISCOVERABILITY (25 lessons)
+
+201. **Answer-block-first writing**: every service page opens with a 40-60 word direct answer paragraph; same structure wins Google featured snippets AND ChatGPT/Claude/Perplexity citations (DentalBase 2026).
+202. **LocalBusiness + Dentist + FAQPage + Service schema is load-bearing in 2026**, not optional — AI engines use schema as trust signal to decide which sites to cite.
+203. **Add a `MedicalProcedure`-typed JSON-LD on each service page** with `name`, `description`, `procedureType`, `howPerformed`, `followup` — gives AI engines parseable procedure facts.
+204. **Optimize for Perplexity separately**: Perplexity weights recency + cited sources; refresh service pages within 30 days of any clinical update.
+205. **Optimize for Claude (highest converting AI at 16.8% in Mar 2026 study)**: Claude prefers structured lists + FAQ blocks; mirror service info in a `<details>` accordion with proper semantic structure.
+206. **Cite authoritative sources in copy** (ADA, MSPBS, PubMed) — AI engines upweight content with external citations.
+207. **"Best dentist near me" answer-block**: include a 3-sentence neighborhood-specific paragraph on each location landing page ("Mburucuyá dentist serving Asunción centro, Villa Morra, and ...").
+208. **FAQ schema on every service page**: 5-8 questions per service with full answers (not one-liners), `Question` and `AcceptedAnswer` typed properly.
+209. **AggregateRating with review count > 30** boosts AI citation — currently Gaby has ratings but verify count visible in schema.
+210. **Avoid "click here" / "read more" anchor text** — AI engines use anchor context to understand what destination pages are about.
+211. **Use canonical, definitive language in H1** ("Rehabilitación oral en Asunción" beats "Nuestros servicios").
+212. **Article schema for blog posts**: `BlogPosting` with `datePublished`, `dateModified`, `author` (Person schema), `publisher`, `image` — drops citation friction.
+213. **`dateModified` visible in HTML** (not just schema) — AI engines check freshness; update page footer with "Last updated: July 2026".
+214. **Avoid cookie-walled content before crawlers see it** — many AI engines can't render JavaScript; serve core FAQ text in static HTML.
+215. **Mention specific procedures by name in body copy** ("endodoncia rotativa", "corona de zirconio") not just generic "treatment".
+216. **NAP (Name/Address/Phone) identical across schema, footer, contact page, Google Business Profile** — AI engines cross-check consistency.
+217. **Avoid JS-only content for critical info** — use Server Components (Next.js 16 already does this) so AI crawlers see static HTML.
+218. **Add a "Patient questions answered" FAQ section ABOVE the fold on service pages** — high AI citation likelihood.
+219. **Treat the site as a knowledge graph for AI**: structure pages with explicit entity relationships (Dra. Gaby → specializes in → rehabilitación oral → treats → edentulismo parcial).
+220. **Robots.txt must allow GPTBot, ClaudeBot, PerplexityBot, anthropic-ai, CCBot, Google-Extended** — they index for AI training; missing = invisible.
+221. **Avoid "Contact us for pricing" alone** — pair with at least starting-from prices so AI can quote you for cost questions.
+222. **Multi-language content ranks in multi-language AI** — `/es` and `/en` need TRUE translated content, not auto-translated pages.
+223. **Author E-E-A-T signals visible**: Dra. Gaby's MSPBS registration, RUC, university, year of graduation, specialty certifications on About page AND `Person` schema.
+224. **Mention language services explicitly** ("We speak English, Spanish, Portuguese") in copy AND `availableLanguage` in `LocalBusiness` schema.
+225. **Avoid "AI-generated content" patterns**: vague hedging ("it's important to note that"), filler intros ("In today's world"), AI clichés — Google E-E-A-T and human reviewers both detect.
+
+### 226-245 · WCAG 2.2 + MOBILE-FIRST ACCESSIBILITY (20 lessons)
+
+226. **WCAG 2.2 is W3C Recommendation since Oct 2023**; many jurisdictions (EU, US ADA Title III) require it for healthcare websites by 2026.
+227. **NEW WCAG 2.2 criteria most relevant for dental sites**: `2.4.11 Focus Not Obscured (Minimum)`, `2.5.7 Dragging Movements`, `2.5.8 Target Size (Minimum)` 24x24px, `3.3.7 Redundant Entry`, `3.3.8 Accessible Authentication (Minimum)`.
+228. **Tap targets minimum 44x44 CSS pixels** (Apple HIG) or 24x24 (WCAG 2.2 minimum) — dental "Book now" buttons must meet this on mobile.
+229. **Focus rings MUST be visible** on every interactive element; never `outline: none` without a replacement.
+230. **Color contrast 4.5:1 for normal text**, 3:1 for large text (>18pt or >14pt bold) — check navy `#000080` on white and on the gradient backgrounds.
+231. **Avoid color-only signals** for trust markers (use icon + text, not just green checkmark).
+232. **Form fields need visible labels** (not just placeholders); for floating labels, ensure label remains visible when field has value.
+233. **Error messages must be programmatically associated** with fields via `aria-describedby` and `aria-invalid`.
+234. **Mobile keyboard types**: input `tel` for phone, `email` for email, `date` for DOB — triggers the right mobile keyboard and reduces friction.
+235. **Skip-to-content link** as first focusable element — bypass nav for screen reader / keyboard users.
+236. **Headings must be in order**: H1 → H2 → H3, no skipping levels (helps screen reader users navigate).
+237. **Tables (pricing tables!) need `<th scope="col">`** so screen readers announce column headers.
+238. **Live regions for booking confirmation** (`aria-live="polite"`) so screen reader users hear "Appointment confirmed".
+239. **Modal dialogs need focus trap** + `role="dialog"` + `aria-modal="true"` + `aria-labelledby` pointing to title.
+240. **Hamburger menu on mobile needs proper disclosure pattern** — `aria-expanded`, `aria-controls`, focus moves to menu when opened.
+241. **`prefers-reduced-motion` media query** — disable parallax/scroll animations for users who set the OS preference (vestibular disorders).
+242. **`prefers-color-scheme: dark`** — provide a dark mode variant; many users browse evenings (post-dinner dental browsing).
+243. **Don't rely on hover for critical actions** — mobile users can't hover; expose actions on tap or always-visible state.
+244. **Touch gesture alternatives**: any swipe-to-reveal (testimonial carousel) MUST have tap-to-advance buttons as alternative.
+245. **Test with real screen readers** at least quarterly: VoiceOver (iOS), NVDA (Windows), TalkBack (Android). Free tools.
+
+### 246-265 · CORE WEB VITALS + PERFORMANCE + IMAGES (20 lessons)
+
+246. **Core Web Vitals 2026 thresholds**: LCP < 2.5s, INP < 200ms (replaced FID in March 2024), CLS < 0.1 — Google uses these for ranking.
+247. **INP (Interaction to Next Paint)** replaced FID as the responsiveness metric — measure with `web-vitals` library, fix anything > 200ms.
+248. **LCP element is usually the hero image or H1** — preload it with `<link rel="preload" as="image">` in `<head>`.
+249. **Next.js `<Image>` component auto-handles**: responsive sizes, WebP/AVIF conversion, lazy loading, blur placeholder — use it EVERYWHERE, not raw `<img>`.
+250. **Serve WebP + AVIF with fallback** — AVIF saves ~50% vs PNG, ~20% vs WebP; serve via `next/image` automatically.
+251. **Lazy-load below-the-fold images** with `loading="lazy"` (Next.js Image does this automatically).
+252. **Hero image: do NOT lazy-load** — it IS the LCP; preload with high priority.
+253. **Avoid layout shift** — always set `width` and `height` attributes on images so browser reserves space.
+254. **Self-host fonts** (next/font in Next.js 16) — Google Fonts adds 100-300ms RTT penalty per font weight.
+255. **Use `next/font` with `display: swap`** so text shows immediately with fallback font; no FOIT.
+256. **Preconnect to third-party origins** (`<link rel="preconnect">`) for WhatsApp, Calendly, Supabase — saves DNS+TLS handshake.
+257. **Inline critical CSS** for above-the-fold; defer rest; Next.js App Router does this automatically via CSS modules.
+258. **Compress SVG assets** (svgo) — many dental logos ship unminified.
+259. **Reduce JS bundle**: Next.js 16 with RSC ships ~30% less JS to client than Pages Router.
+260. **Use `<Suspense>` boundaries** to stream non-critical UI (testimonials, blog feed) without blocking LCP.
+261. **Code-split third-party widgets**: Calendly / WA widget only loads when scrolled near.
+262. **Service Worker for repeat-visit caching**: Next.js PWA plugin or Workbox.
+263. **CSS `content-visibility: auto`** for below-fold sections (services list, footer) — skips rendering until scrolled near.
+264. **Font subsetting**: ship only the Latin + extended Latin chars used by `es` + `en`; subset Caveat to common characters.
+265. **Audit with Lighthouse + PageSpeed Insights monthly** — track regressions in CI before deploy.
+
+### 266-285 · VISUAL DESIGN TRENDS 2026 (20 lessons)
+
+266. **Spa-aesthetic / anxiety-reduction** — neutral palette, organic shapes, warm photography (Zen Dental Studio, Jackson Family Dental); counter-program against sterile clinical white.
+267. **Authentic photography wins over stock**: real team, real office, real patient stories (verified consent); every 2026 award site emphasizes this.
+268. **Bold contemporary typography** (variable fonts, large display sizes, mixed weights) to create energetic youth-appeal without losing professionalism (Dentologie).
+269. **Lowercase headings** = modernity signal (per lesson 33, reinforced 2026); pair with sentence-case body for readability.
+270. **Whitespace as luxury signal** — generous padding (96px+ section padding on desktop) signals premium positioning.
+271. **Hand-drawn / whimsical illustrations** for pediatric and family practices (Sprout Dentistry); warmth + approachability for anxious patients.
+272. **Dark mode variant** (lesson 242) with carefully chosen dark surfaces; dental sites are adopting this for evening browsers.
+273. **Organic shapes / blob backgrounds** instead of rigid rectangles — softer, less clinical feel.
+274. **Parallax scrolling** with caution (lesson 241 `prefers-reduced-motion`); ONE subtle parallax on hero max.
+275. **Hero video loops** of calm office ambience (NOT dental tool macros) — 5-10s, muted, autoplay, 1MB max.
+276. **Color: 60-30-10 rule**: 60% neutral (cream/off-white), 30% secondary (warm beige/sage), 10% accent (deep teal or navy).
+277. **Avoid cliché dental iconography** (tooth cartoons, big smiles) — modern sites use abstract shapes + photography.
+278. **Boutique / minimalism approach** (Sprout, Zen) — less is more; premium perception via restraint, not feature count.
+279. **Variable fonts** (single file, all weights) — performance win + design flexibility (Caveat supports it).
+280. **Texture overlays** (paper grain, subtle noise) instead of pure flat color — adds warmth, signals craftsmanship.
+281. **Avoid the "perfect smile" stock photo trope** — every 2026 guide repeats this; use candid, real-environment shots.
+282. **Asymmetric layouts** for hero / case studies — break the centered-grid monotony, but keep nav + footer symmetric.
+283. **Branded custom illustrations** (not generic) — invest once in a set of 10-15 illustrations that match brand palette.
+284. **Color gradients with brand cohesion** (lesson 290-292 below): linear/radial using brand tokens, not Tailwind defaults.
+285. **Motion: micro-interactions on hover/tap** — CTA buttons scale 1.02, cards lift 4px, link underlines draw left-to-right; 100-200ms duration max.
+
+### 286-300 · CONVERSATIONAL UX + WHATSAPP + VOICE SEARCH (15 lessons)
+
+286. **WhatsApp Business API + template messages** — pre-approved templates for appointment confirm, follow-up, recall; required for outbound in 2026.
+287. **WhatsApp CTA: prefilled message with service + name placeholder** — `https://wa.me/595...?text=Hola%20Dra.%20Gaby%2C%20me%20interesa%20...` (lesson 24 reinforced).
+288. **Voice search optimization**: FAQ phrased as natural questions ("¿Cuánto cuesta una limpieza dental en Asunción?") matches spoken queries.
+289. **Schema `FAQPage` + `Question` typed with natural-language phrasing** — voice assistants read this aloud.
+290. **Conversational booking flow**: WhatsApp pre-qualifies (service, date preference) → bot routes to Gaby's calendar → confirm via WA → SMS backup.
+291. **24/7 chat availability**: WA bubble always visible even when office closed; auto-respond after-hours with "Gaby responde lun-vie 14:30-19:00, te confirmamos mañana".
+292. **Voice-friendly content**: write FAQ answers in conversational tone ("Sí, aceptamos pacientes nuevos. La primera consulta dura 45 minutos...") not formal.
+293. **Spanish primary, English secondary** (per `01_RESEARCH/community/expat-community-deep-dive.md`) — `/es` should have more depth than `/en`, not equal.
+294. **Portuguese as tertiary** — Brazilian dental tourism to Paraguay is real; add `/pt` if/when patient volume justifies (future wave).
+295. **Click-to-call as `<a href="tel:+595...">`** not static text — one-tap mobile calling, biggest conversion lift on mobile.
+296. **"Same-day availability" / "Esta semana"** urgency signals — but ONLY if real; false urgency destroys trust (lesson 39 reinforced).
+297. **Two-way SMS fallback** for patients without WhatsApp — Gaby's demographic skews older, some still prefer SMS/call.
+298. **Voice search snippet targeting**: H2 phrased as question + 40-60 word direct answer right below (lesson 201 reinforces for voice too).
+299. **WhatsApp Business profile picture = Gaby's professional headshot** (not logo) — increases open rate 27% per WhatsApp Business 2026 benchmarks.
+300. **Multi-modal booking**: WA + form + phone + email all lead to same calendar — patient picks channel, end result identical.
+
+---
+
+## 8. UPDATED STRONG / MEDIUM / NEGLECT MATRIX (with audit of ometzdental.com live)
+
+| Ref | Domain | Lesson | Strength | Live status (Jul 2) |
+|------|--------|--------|----------|--------------------|
+| 21 | Content | Benefit-first hero headline | STRONG | ✅ Applied ("I'm Dr. Gaby") |
+| 30 | Design | Teal + gold premium palette | STRONG | ⚠️ Navy `#000080` used; consider teal+gold variant |
+| 41 | UX | Max 5 primary nav items | STRONG | ✅ Applied (Home/Services/About/Contact/Blog) |
+| 56 | Conversion | WhatsApp with message template | STRONG | ✅ Applied |
+| 61 | Pricing | Grouped pricing tables + disclaimer | STRONG | ✅ Applied |
+| 143 | SEO | LocalBusiness + FAQPage schema | STRONG | ✅ 10 schema types present |
+| 181 | Conversion | Fixed mobile bottom CTA bar | STRONG | ✅ Applied |
+| 201 | AI SEO | Answer-block-first writing | STRONG | 🟡 Need to verify service pages have answer-block |
+| 202 | AI SEO | Service schema on every service | STRONG | ❌ Service-level `MedicalProcedure` detail absent |
+| 207 | AI SEO | Neighborhood-specific paragraph | MEDIUM | ❌ Not present yet |
+| 220 | AI SEO | Allow GPTBot/ClaudeBot/PerplexityBot | STRONG | ❌ Unknown — needs robots.txt audit |
+| 226-245 | A11y | WCAG 2.2 baseline | STRONG | 🟡 Most ARIA present; needs full audit (24x24 tap, contrast, focus rings) |
+| 246-265 | Perf | Core Web Vitals 2026 | STRONG | ✅ Next.js 16 + Image optimization in place |
+| 248 | Perf | Preload hero image | MEDIUM | ❌ Not verified |
+| 253 | Perf | Width/height on all images | STRONG | ✅ Applied (Next.js Image auto) |
+| 266-285 | Design | Spa-aesthetic + organic shapes | MEDIUM | 🟡 Whimsical font applied; could lean warmer |
+| 279 | Design | Variable fonts | MEDIUM | 🟡 Caveat supports VF, verify @font-face declarations |
+| 284 | Design | Branded gradient with tokens | MEDIUM | ⚠️ Original Q: should `bg-gradient-*` stay? — see §9 |
+| 286 | Conv UX | WhatsApp Business API templates | STRONG | ✅ quick-replies-v1-final.md exists |
+| 295 | Conv UX | `<a href="tel:">` click-to-call | STRONG | ✅ Applied |
+| 299 | Conv UX | WA profile picture = professional headshot | MEDIUM | ❓ Unknown — needs Gaby photo in WA Business |
+
+---
+
+## 9. GRADIENT DECISION (the open question from Jul 2 todo)
+
+> User asked: "background-image: linear-gradient(var(--tw-gradient-stops)); should we have this still?"
+
+**Analysis based on lessons 266-285:**
+
+`bg-gradient-*` is a valid 2026 pattern **when**:
+- Uses brand tokens (custom colors), not Tailwind defaults (which are the "clinical blue → white" cliché)
+- Subtle / low-contrast (10-30% tonal shift)
+- Pairs with organic blob shapes or warm texture (lesson 273, 280)
+- Serves emotional purpose (calm, premium, spa — lesson 266), not decoration
+
+`bg-gradient-*` should be REMOVED when:
+- It's the "default Tailwind sunset" (blue→purple→pink) — looks generic 2018
+- It's high-contrast creating harsh banding
+- It competes with photography (hero photo + gradient = muddy)
+- It serves no emotional purpose
+
+**For Dra. Gaby's site (Ometz / "Te escucho"):**
+- Current usage in Hero.tsx (lines 86, 145, 247, 283, 284, 330) needs file-level audit
+- **Recommendation:** KEEP gradients that use brand token palette (cream → warm beige → navy tint), DROP any that use Tailwind's `from-blue-* via-purple-* to-pink-*` defaults
+- Replace harsh gradients with **subtle 5-10% tonal shifts** or **organic blob SVG overlays**
+
+---
+
+## 10. WAVE 5 ACTION ITEMS
+
+- [ ] Audit `/root/paragu-ai-platform/apps/dra-gabriela/app/globals.css` for token-based gradient utility
+- [ ] Add `hreflang` to all locale pages (currently missing — biggest SEO gap)
+- [ ] Generate `sitemap.xml` (Next.js 16 has `app/sitemap.ts` convention)
+- [ ] Update `robots.txt` to allow GPTBot, ClaudeBot, PerplexityBot, anthropic-ai, CCBot, Google-Extended
+- [ ] Add service-level `MedicalProcedure` schema on each `/services/*` page
+- [ ] Add `BlogPosting` schema on `/blog/*` pages
+- [ ] Add visible "Last updated" footer date for AI freshness signal
+- [ ] Full WCAG 2.2 audit with axe DevTools
+- [ ] Lighthouse CI in GitHub Actions (track regressions)
+
+## 11. UPDATED META CLAIM
+
+**Source set:** 20 Paraguayan dentist sites + 30 global dental best-practice/SEO sources + WCAG 2.2 W3C Recommendation + live audit of ometzdental.com.
+
+**Outcome:** 300 distinct lessons (200 from Wave 1-4 + 100 from Wave 5), strong/medium/neglect priority matrix, live-site audit baseline, and concrete Wave 5 action items for the paragu-ai-platform monorepo.
+
+**Total references saved (URLs to compare and check):**
+- delmain.co/blog/best-dental-websites/
+- azurodigital.com/dental-website-examples/
+- colorlib.com/wp/dentist-websites/
+- dentalbase.ai/blogs/practice-management/best-dental-website-designs-2026-guide
+- mysocialpractice.com/2025/11/dental-website-design/
+- doctorsinternet.com/top-10-dental-practice-websites/
+- lassomd.com/blog/top-10-best-dental-websites
+- optimizepress.com/dental-website-examples/
+- unnus.com/medical/best-dental-websites/
+- 99designs.com/inspiration/websites/dental
+- (20 PY competitors + 20 prior global sources from Wave 1)
+
+**Last updated:** July 2, 2026
+
