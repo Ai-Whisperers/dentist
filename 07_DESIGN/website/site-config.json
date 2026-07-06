@@ -1,20 +1,31 @@
-// site-config.json — auto-archived research artifact, not authoritative
 {
+  "_meta": {
+    "comment": "auto-archived research artifact, not authoritative. Updated 5 jul 2026 with Gaby's confirmed data from Cuestionario A.",
+    "brand": "Ometz Dental",
+    "tagline": "Te escucho.",
+    "addressSource": "Cuestionario A — 5 jul 2026"
+  },
   "site": {
-    "name": "Dra. Gabriella González Pane",
-    "tagline": "Odontología con criterio. No con prisa.",
-    "description": "Second opinions, treatment planning, and quality dental care in Asunción. 20 years experience. English spoken.",
-    "url": "[PLACEHOLDER: https://dra-gabriela.com.py or similar - TBD]",
-    "email": "[PLACEHOLDER: email address]",
+    "name": "Ometz Dental — Dra. Gabriella González Pane",
+    "tagline": "Te escucho.",
+    "description": "Rehabilitación oral, segunda opinión y planificación en Asunción. 20 años de experiencia. English spoken. אומץ — coraje para tu boca.",
+    "url": "https://ometzdental.com",
+    "email": "doctora.gabi@ometzdental.com.py",
     "phone": "[PLACEHOLDER: +595 XXX XXX XXX]",
-    "whatsapp": "[PLACEHOLDER: +595 XXX XXX XXX]",
-    "whatsapp_prefilled": "Hola Dra. GP, me gustaría agendar una consulta.",
+    "whatsapp": "[PLACEHOLDER: línea WhatsApp Business — Gaby compra semana del 7 jul]",
+    "whatsapp_prefilled": "Hola Dra. Gaby, me gustaría agendar una consulta en Ometz Dental.",
     "address": {
-      "city": "Luque",
+      "street": "Auditores de la Guerra del Chaco 617",
+      "neighborhood": "Barrio Mburucuyá",
+      "city": "Asunción",
       "country": "Paraguay",
-      "note": "Dirección por confirmar"
+      "ruc": "1375421-1",
+      "mspbs": "3618",
+      "googleMapsEmbed": true
     },
+    "openingDate": "Antes del 26 de julio de 2026",
     "acceptingPatients": true,
+    "launchType": "soft launch",
     "languages": ["Español", "English"],
     "currency": "PYG",
     "currencySymbol": "Gs"
@@ -58,7 +69,7 @@
     }
   },
   "footer": {
-    "tagline": "Odontología con criterio. No con prisa.",
+    "tagline": "Te escucho.",
     "columns": [
       {
         "title": "Servicios",
@@ -88,9 +99,11 @@
     ],
     "contact": {
       "phone": "[PLACEHOLDER: +595 XXX XXX XXX]",
-      "email": "[PLACEHOLDER: email]",
-      "address": "Luque, Paraguay",
-      "hours": "Solo con cita previa"
+      "email": "doctora.gabi@ometzdental.com.py",
+      "address": "Auditores de la Guerra del Chaco 617, Barrio Mburucuyá, Asunción, Paraguay",
+      "ruc": "1375421-1",
+      "mspbs": "3618",
+      "hours": "Lun–Vie 14:30–19:00, agendado"
     },
     "social": {
       "whatsapp": "[PLACEHOLDER: wa.me link]"
@@ -112,24 +125,26 @@
   },
   "content": {
     "priceDisclaimer": "Precios referenciales. Pueden variar según complejidad del caso. Consulta para evaluación personalizada.",
-    "acceptingPatients": "Aceptando nuevos pacientes",
-    "hoursLabel": "Solo con cita previa",
+    "acceptingPatients": "Aceptando nuevos pacientes desde julio 2026",
+    "openingNote": "Apertura formal antes del 26 de julio de 2026 — Barrio Mburucuyá, Asunción.",
+    "hoursLabel": "Lun–Vie 14:30–19:00, agendado",
     "responseTime": "Respondo mensajes dentro de 24 horas en días hábiles.",
     "englishNote": "English-speaking patients welcome. We can conduct the full consultation in English."
   },
   "seo": {
-    "defaultTitle": "Dra. GP — Odontología con Criterio en Asunción",
-    "defaultDescription": "Second opinions, treatment planning, and quality dental care in Asunción. 20 years experience. English spoken.",
+    "defaultTitle": "Ometz Dental — Te escucho. Rehabilitación oral en Asunción",
+    "defaultDescription": "Dra. Gabriella González Pane. Rehabilitación oral, segunda opinión y planificación en Barrio Mburucuyá, Asunción. 20 años de experiencia. English spoken. אומץ — coraje para tu boca.",
     "keywords": [
       "dentista Asunción",
       "segunda opinion dental Paraguay",
       "odontologo confianza Asunción",
       "dentista bilingue Asunción",
-      "clinica dental Luque",
-      "tratamiento conducto Asunción precio",
-      "corona dental Asunción precio",
+      "odontologa Mburucuyá",
+      "clinica dental Mburucuyá Asunción",
+      "rehabilitación oral Asunción",
       "dentist Asunción expats",
-      "English speaking dentist Paraguay"
+      "English speaking dentist Paraguay",
+      "Ometz Dental"
     ],
     "ogImage": "[PLACEHOLDER: path to OG image - needs to be designed]",
     "twitterCard": "summary_large_image"

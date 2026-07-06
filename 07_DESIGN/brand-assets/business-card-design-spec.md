@@ -26,23 +26,23 @@ Exact specifications for printing the business card. Print-ready once approved.
 ```
 ┌─────────────────────────────────────┐
 │                                     │
-│  [LOGO — optional if have one]      │
+│  [LOGO — Ometz Dental + אומץ opcional]│
 │                                     │
 │  DRA. GABRIELLA GONZÁLEZ PANE      │
 │  ────────────────────────────────     │
 │                                     │
-│  Odontología con Criterio            │
+│  Odontología · Rehabilitación oral  │
 │                                     │
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
 │                                     │
-│  📍  Luque, Asunción               │
+│  📍  Auditores de la Guerra del    │
+│      Chaco 617, Mburucuyá, Asunción│
 │  📞  +595 XXX XXX XXX              │
-│  💬  WhatsApp: +595 XXX XXX XXX    │
+│  💬  WhatsApp Business: +595 XXX   │
 │                                     │
+│  אומץ — Coraje para tu boca        │
 │                                     │
-│  "Odontología con criterio.          │
-│   No con prisa."                    │
-│                                     │
+└─────────────────────────────────────┘
 └─────────────────────────────────────┘
 ```
 
@@ -70,7 +70,7 @@ Leave blank for simplicity, OR:
 |---------|-------|-----|
 | Name | Deep Teal | #1A5F5A |
 | Tagline | Dark Charcoal | #2D2D2D |
-| Divider line | Gold/Terracotta | #B8860B |
+| Hebrew אומץ | Gold/Terracotta | #B8860B |
 | Background | Warm White | #FAFAF8 |
 
 ---

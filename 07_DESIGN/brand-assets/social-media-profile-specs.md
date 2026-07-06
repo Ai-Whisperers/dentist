@@ -34,15 +34,15 @@ Optimize profiles on Facebook, LinkedIn, and Google Business. These are the spec
 
 ### About Section (Bio)
 ```
-Dra. Gabriella González Pane
-Odontología con Criterio | Segunda Opinión | Planificación
+Dra. Gabriella González Pane — Ometz Dental
+Rehabilitación oral · Segunda opinión · אומץ — Coraje para tu boca
 
-20 años de experiencia. No soy la más rápida — soy la que se toma el tiempo de entender tu caso antes de actuar.
+Soy la Dra. Gaby. Llevo dos décadas siendo odontóloga. Lo mío no es agarrar la fresa — es sentarnos, escucharte y armar juntos un plan de tratamiento que tenga sentido, lo comprendas y sea acorde a tus necesidades. Rehabilitación oral, estética, operatoria. Te escucho.
 
-📍 Luque, Asunción
+📍 Auditores de la Guerra del Chaco 617, Mburucuyá, Asunción
 📞 [PHONE]
-💬 WhatsApp: [NUMBER]
-🌐 [WEBSITE — when live]
+💬 WhatsApp Business: [NUMBER]
+🌐 ometzdental.com
 ```
 
 ### Privacy Settings
@@ -107,45 +107,48 @@ Request 3-5 from patients/colleagues who can speak to your philosophy
 
 ### Business Name
 ```
-Dra. Gabriella González Pane — Odontología con Criterio
+Ometz Dental — Dra. Gabriella González Pane
 ```
 
 ### Category
 - Primary: "Dentist"
-- Secondary: "Cosmetic Dentist" (if offering aesthetics)
+- Secondary: "Cosmetic Dentist" (estética dental — sí se ofrece)
 
 ### Contact Method
 - Phone: [PHONE]
-- WhatsApp: [WHITEAPP NUMBER]
+- WhatsApp Business: [WHATSAPP NUMBER]
 
 ### Address
 ```
-[STREET ADDRESS — Luque, when confirmed]
-Luque, Central, Paraguay
+Auditores de la Guerra del Chaco 617
+Barrio Mburucuyá
+Asunción, Central, Paraguay
 ```
 
 ### Hours
 ```
-Monday: [HOURS]
-Tuesday: [HOURS]
-Wednesday: [HOURS]
-Thursday: [HOURS]
-Friday: [HOURS]
-Saturday: Closed
-Sunday: Closed
+Monday:    14:30–19:00
+Tuesday:   14:30–19:00
+Wednesday: 14:30–19:00
+Thursday:  14:30–19:00
+Friday:    14:30–19:00
+Saturday:  Closed
+Sunday:    Closed
 ```
 
 ### Description (750 char max)
 ```
-Dra. Gabriella González Pane — Odontología con Criterio. Second opinions, treatment planning, and quality dental care in Asunción.
+Ometz Dental — Dra. Gabriella González Pane. Rehabilitación oral, segunda opinión y planificación en Barrio Mburucuyá, Asunción.
 
-With 20 years of experience, I focus on conservative dentistry and honest diagnosis. No overtreatment. No unnecessary procedures.
+אומץ — Coraje para tu boca. Te escucho.
 
-I speak Spanish and English, and regularly treat expats and international patients.
+Con 20 años de experiencia, mi enfoque es la odontología con criterio: conservadora, planificada, sin overtreatment. Casos complejos, segunda opinión, rehabilitación oral integral.
 
-Specialties: Second opinions, complex cases, restorative dentistry, treatment planning.
+Hablo español e inglés, y atiendo expats y pacientes internacionales de forma regular.
 
-"Odontología con criterio, no con prisa."
+Especialidades: rehabilitación oral, segunda opinión formal por escrito, operatoria dental, estética dental, pernos de fibra de vidrio, blanqueamiento, PSI.
+
+"Te escucho."
 ```
 
 ### Photos to Upload
@@ -170,9 +173,9 @@ Same as Facebook
 
 ### Bio (150 char max)
 ```
-Odontología con Criterio 🦷 | Segunda Opinión 📋
-20 años de experiencia | Asunción
-"No con prisa" 💬
+Ometz Dental 🦷 Rehabilitación oral · Segunda opinión
+20 años · Mburucuyá, Asunción · אומץ
+"Te escucho." 💬
 ```
 
 ### Link
