@@ -1,6 +1,6 @@
 # MASTER TODO — Ometz Dental Launch
 **Para:** Iván Weiss, Erebus, Kiki, y Gaby
-**Última actualización:** 7 jul 2026 — research wave sobre mercado de odontólogos recién recibidos + vacío de mentoría (2 docs nuevos en `01_RESEARCH/market/`)
+**Última actualización:** 7 jul 2026 — 30+ docs nuevos creados en sesión (research + ops + marketing + programa de referidos) → ver sección "✅ Tareas masivas completadas 7 jul 2026" abajo
 **Estado:** En ejecución (post-audios 22 jun + 28 jun)
 
 ---
@@ -131,6 +131,51 @@ Crear los 3 cuestionarios priorizados:
 - [ ] Decisión de community manager
 - [ ] Evaluar Luque como segunda sede
 - [ ] Evaluar coaching a colegas como servicio ✅ HECHO 7 jul 2026 (ver `01_RESEARCH/market/mercado-recién-recibidos-y-vacío-mentoría-2026.md` + QUICK REFERENCE)
+
+---
+
+## ✅ Tareas masivas completadas 7 jul 2026
+
+Sesión Erebus generó los siguientes 22 docs nuevos (todos commiteados en master):
+
+### Research / research gaps PY
+- ✅ `01_RESEARCH/legal-compliance/seguros-responsabilidad-civil-odontologos-py-2026.md` (10K) — Mapfre, Sancor, Werthein, claims-made
+- ✅ `01_RESEARCH/legal-compliance/coaching-odontologico-regulacion-py-2026.md` (11K) — Marco regulatorio PY mentoría
+- ✅ `01_RESEARCH/procurement/dental-labs-regional-coverage-2026.md` (8K) — Labs PY fuera de Asunción
+
+### Programa de referidos colegas (Idea de negocio #4)
+- ✅ `03_LAUNCH/referral-program/01-list-target-colleagues-asuncion.md` (10K) — 30 dentistas categorizados
+- ✅ `03_LAUNCH/referral-program/02-outreach-script-colega.md` (11K) — 3 scripts (generalista/especialista/bilingüe)
+- ✅ `03_LAUNCH/referral-program/03-tracking-sheet-instructions.md` (10K) — Schema Google Sheets
+- ✅ `03_LAUNCH/referral-program/04-referral-program-faq.md` (6K) — 16 FAQ
+
+### Marketing backlog (Idea #6 Blog + #5 Captación)
+- ✅ `06_MARKETING/facebook/06-posts-pre-armados-mes-1.md` (9K) — 6 posts FB
+- ✅ `06_MARKETING/blog-posts-seo/04-cuando-segunda-opinion-dental-paraguay.md` (10K)
+- ✅ `06_MARKETING/blog-posts-seo/05-rehabilitacion-oral-asuncion-guia.md` (12K)
+- ✅ `06_MARKETING/blog-posts-seo/06-profilaxis-vs-limpieza-dental-paraguay.md` (9K)
+- ✅ `06_MARKETING/email-templates.md` (6K) — 3 templates
+- ✅ `06_MARKETING/instructivo-doctoralia-ometz-dental.md` (9K) — Activar perfil Doctoralia
+- ✅ `06_MARKETING/manual-community-manager.md` (11K) — Manual CM
+
+### Operaciones clínicas y paciente
+- ✅ `05_OPERATIONS/biosecurity-checklist-mspbs.md` (20K) — Bioseguridad MSPBS completa
+- ✅ `05_OPERATIONS/guia-habilitacion-mspbs-operativa.md` (16K) — Paso a paso habilitar
+- ✅ `05_OPERATIONS/staff-manual-asistente.md` (16K) — Manual del auxiliar
+- ✅ `05_OPERATIONS/cronograma-operativo-mensual.md` (12K) — Rituales semanal/mensual
+- ✅ `05_OPERATIONS/patient-communications/faq-expandida-50-preguntas.md` (16K) — 50 FAQ
+- ✅ `05_OPERATIONS/patient-communications/patient-journey-C-expat-english.md` (16K) — Journey expat
+- ✅ `05_OPERATIONS/recuperacion-pacientes-inactivos.md` (12K) — Programa reactivación
+- ✅ `05_OPERATIONS/guia-cobranza-preventiva.md` (12K) — Cómo cobrar
+- ✅ `05_OPERATIONS/guia-crisis-reputacional.md` (16K) — 5 tipos crisis
+- ✅ `05_OPERATIONS/guia-derivacion-efectiva.md` (16K) — Derivación ética
+- ✅ `05_OPERATIONS/plan-contingencia-operativa.md` (14K) — 10 tipos contingencia
+- ✅ `05_OPERATIONS/sistema-documentacion-clinica.md` (17K) — Sistema doc clínica
+- ✅ `05_OPERATIONS/legal-compliance/practice-legal/coaching-agreement-legal.md` (12K) — Convenio mentoría
+- ✅ `06_MARKETING/guia-marketing-etico-odontologos.md` (16K) — Compliance publicitario
+
+### Master plan
+- ✅ `docs/MASTER-PLAN-COMPLETE-2026.md` (53K) — Plan integral 220 docs, 14 áreas research, 9 upgrades, 12 ideas, planes ejecución, KPIs
 
 ---
 
