@@ -29,6 +29,8 @@ Research reports across market, legal, payments, locations, procurement, and com
 - [`DENTAL MARKET RESEARCH — JUNE 2026`](market/dental-market-paraguay-analysis.md)
 - [`RESEARCH: COMPREHENSIVE SUMMARY — ALL FINDINGS`](market/master-synthesis-market-analysis.md)
 - [`DIGITAL MYSTERY SHOPPING REPORT — JUNIO 2026`](market/mystery-shop-20-clinics-report.md)
+- [`MERCADO REAL: Odontólogos recién recibidos + vacío de mentoría (jul 2026)`](market/mercado-recién-recibidos-y-vacío-mentoría-2026.md)
+- [`⚡ QUICK REFERENCE: Mercado nuevos odontólogos (jul 2026)`](market/MERCADO-NUEVOS-ODONTOLOGOS-QUICK-REFERENCE.md)
 
 ## payments/
 - [`PAYMENT INFRASTRUCTURE RESEARCH — JUNE 2026`](payments/payment-infrastructure-analysis.md)

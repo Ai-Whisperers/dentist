@@ -1,6 +1,6 @@
 # MASTER TODO — Ometz Dental Launch
 **Para:** Iván Weiss, Erebus, Kiki, y Gaby
-**Última actualización:** 28 jun 2026
+**Última actualización:** 7 jul 2026 — research wave sobre mercado de odontólogos recién recibidos + vacío de mentoría (2 docs nuevos en `01_RESEARCH/market/`)
 **Estado:** En ejecución (post-audios 22 jun + 28 jun)
 
 ---
@@ -130,7 +130,7 @@ Crear los 3 cuestionarios priorizados:
 - [ ] Evaluación semana 1 + ajuste
 - [ ] Decisión de community manager
 - [ ] Evaluar Luque como segunda sede
-- [ ] Evaluar coaching a colegas como servicio
+- [ ] Evaluar coaching a colegas como servicio ✅ HECHO 7 jul 2026 (ver `01_RESEARCH/market/mercado-recién-recibidos-y-vacío-mentoría-2026.md` + QUICK REFERENCE)
 
 ---
 

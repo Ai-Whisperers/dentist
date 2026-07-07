@@ -98,7 +98,7 @@
 - [ ] Posts pre-armados para Facebook (6 posts)
 - [ ] Decisión de community manager
 - [ ] Evaluar Luque como segunda sede
-- [ ] Evaluar coaching a colegas como servicio
+- [ ] Evaluar coaching a colegas como servicio ✅ HECHO 7 jul 2026 — `01_RESEARCH/market/mercado-recién-recibidos-y-vacío-mentoría-2026.md` + `MERCADO-NUEVOS-ODONTOLOGOS-QUICK-REFERENCE.md`. Vacío real confirmado; mercado 20-40 clientes/año; pricing PY Gs 1,5-6M/programa; cohorte piloto recomendada mes 1-2 post-Mburucuyá
 
 ## P7 — Estrategia de pricing (status al 28 jun)
 - [x] Canonical pricing reference v2 (00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md)
