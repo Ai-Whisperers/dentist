@@ -32,6 +32,21 @@ All posts are SEO-optimized for expat and Asunceño dental searches in Asuncion,
    - Conversion goal: Book a consultation or get a second opinion
    - Symptom-focused audience (people in pain)
 
+4. **04-cuando-segunda-opinion-dental-paraguay.md** (~1,800 words) — NEW jul 2026
+   - Target search: "segunda opinión odontológica Paraguay", "dentista segunda opinión Asunción", "consulta segunda opinión dental"
+   - Conversion goal: Captación de pacientes con dudas sobre otros diagnósticos
+   - Servicio diferencial Ometz Dental
+
+5. **05-rehabilitacion-oral-asuncion-guia.md** (~2,500 words) — NEW jul 2026
+   - Target search: "rehabilitación oral Asunción", "rehabilitación bucal Paraguay", "odontóloga rehabilitadora"
+   - Conversion goal: Captación de pacientes con operatoria acumulada
+   - Servicio estrella Ometz Dental
+
+6. **06-profilaxis-vs-limpieza-dental-paraguay.md** (~1,500 words) — NEW jul 2026
+   - Target search: "profilaxis dental Asunción", "limpieza dental profesional Paraguay", "profilaxis vs limpieza"
+   - Conversion goal: Diferenciar profilaxis profesional vs limpieza simple
+   - Captación de pacientes que no entienden la diferencia
+
 ---
 
 ## SEO Strategy
@@ -63,11 +78,14 @@ All posts are SEO-optimized for expat and Asunceño dental searches in Asuncion,
 
 ## Future posts to write (5+ more)
 
-1. **"The Real Cost of Dental Cleaning in Asuncion: 2026 Prices"** - high search volume, simple content
-2. **"When to Get a Second Opinion on Dental Treatment"** - differentiation content (matches Dra. GP philosophy)
-3. **"Dental Tourism in Paraguay: Is It Worth It?"** - for expat/external audience
-4. **"Wisdom Teeth: When to Remove, When to Wait"** - high search volume
-5. **"Dental Insurance vs Private Pay in Paraguay: What Expats Need to Know"** - educational, addresses common confusion
+1. **"The Real Cost of Dental Cleaning in Asuncion: 2026 Prices"** — ✅ DONE jul 2026 (`06-profilaxis-vs-limpieza-dental-paraguay.md`)
+2. **"When to Get a Second Opinion on Dental Treatment"** — ✅ DONE jul 2026 (`04-cuando-segunda-opinion-dental-paraguay.md`)
+3. **"Dental Tourism in Paraguay: Is It Worth It?"** — pending
+4. **"Wisdom Teeth: When to Remove, When to Wait"** — pending
+5. **"Dental Insurance vs Private Pay in Paraguay: What Expats Need to Know"** — pending
+6. **"Rehabilitación oral: guía completa para pacientes con operatoria acumulada"** — ✅ DONE jul 2026 (`05-rehabilitacion-oral-asuncion-guia.md`)
+
+3 de 6 futuras ya están escritas (jul 2026).
 
 Each future post estimated at 1500-2500 words, 2-3 hours agent work.
 
