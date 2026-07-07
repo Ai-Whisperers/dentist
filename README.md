@@ -36,7 +36,7 @@ The actual website is **deployed and live** — this repo is the **strategic + c
 2. **AUDIO PROMPTS para Gaby:** `02_MEETINGS/gabi-audio-prompts/README.md` (6 audios, empezar por el de la pregunta clave)
 3. **START HERE:** `start-here.md` (5 min)
 4. **Exec summary:** `docs/executive-summary.md` (v2 con Ara + Plan B)
-5. **Work plan:** `docs/REPO-WORK-PLAN.md`
+5. **Work plan:** `docs/REPO-WORK-PLAN.md` (repo hygiene P0-P5) + **`docs/MASTER-PLAN-COMPLETE-2026.md`** ⭐ NEW 7 jul 2026 — comprehensive master plan covering research, upgrades, business ideas, execution plans, considerations
 6. **Action tracker:** `TODO.md`
 7. **Client validation form:** `07_DESIGN/website/validacion-cliente-dra-gp.md` (23 preguntas, 5 secciones) — **bloqueada en Sección 1**
 8. **Client validation MÍNIMA:** `07_DESIGN/website/validacion-minima-viable.md` (6 preguntas, destraba en 5 min)
@@ -80,7 +80,7 @@ La oportunidad: Mercado premium + expats + "Dental CIO" como servicio diferencia
 | `start-here.md` | Project overview + option summary |
 | `docs/executive-summary.md` | Current status and next block |
 | `TODO.md` | Phase tracker (P0–P5) |
-| `docs/REPO-WORK-PLAN.md` | Phased execution plan |
+| `docs/MASTER-PLAN-COMPLETE-2026.md` | ⭐ Master plan: research + upgrades + business ideas + execution + KPIs |
 
 ---
 
