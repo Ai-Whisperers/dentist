@@ -31,8 +31,11 @@ Una línea de negocio nueva dentro de **Ometz Dental** donde Gaby enseña, en fo
 
 ```
 10_COACHING/
+├── README.md                          ← Quick-start para Gaby/Kiki/Ivan
 ├── 00-index.md                        ← Este archivo
 ├── 01-estrategia.md                   ← Modelo de negocio, propuesta de valor, validación
+├── 01-research/                       ← Investigación con datos públicos reales
+│   └── 01-investigacion-mercado.md    ← Mercado PY + comparables USA/LATAM + pedagogía
 ├── 02-programa/                       ← Diseño pedagógico
 │   ├── 01-estructura-general.md       ← 12 semanas, formato, cohortes
 │   ├── 02-sesion-tipo.md              ← Anatomía de una sesión de 90 min
@@ -74,13 +77,15 @@ Una línea de negocio nueva dentro de **Ometz Dental** donde Gaby enseña, en fo
 
 | Archivo | Estado | Bloqueado por |
 |---|---|---|
+| `README.md` | ✅ Listo | — |
 | `00-index.md` | ✅ Listo | — |
-| `01-estrategia.md` | 🟡 Borrador completo | Validación con Gaby + datos investigación |
-| `02-programa/01-estructura-general.md` | 🟡 Borrador completo | Datos investigación pedagogía |
+| `01-estrategia.md` | ✅ Listo con datos reales | Validación con Gaby |
+| `01-research/01-investigacion-mercado.md` | ✅ Listo con datos reales | — |
+| `02-programa/01-estructura-general.md` | 🟡 Borrador completo | — |
 | `02-programa/02-sesion-tipo.md` | 🟡 Borrador completo | — |
 | `02-programa/03-temario-12-semanas.md` | 🟡 Borrador completo | — |
 | `02-programa/04-casos-clinicos.md` | 🟡 Esquema | Banco de casos que solo Gaby puede aportar |
-| `03-pricing/01-pricing-propuesto.md` | 🟡 Rango tentativo | Datos investigación pricing LATAM |
+| `03-pricing/01-pricing-propuesto.md` | ✅ Listo con comparables reales | — |
 | `04-marketing/01-mensajes-reclutamiento.md` | 🟡 Borrador | — |
 | `04-marketing/02-one-pager-mentorizado.md` | 🟡 Borrador | — |
 | `04-marketing/03-faq-objeciones.md` | 🟡 Borrador | — |

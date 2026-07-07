@@ -47,6 +47,13 @@
 - Quieren independencia profesional pero no saben cómo arrancar
 - Valoran el contacto directo con alguien que ya pasó por eso
 
+**Tamaño de mercado (validado jul 2026, ver `01-research/`):**
+- Paraguay tiene 4+ facultades de odontología (UNA, UAA, UAP, UPE).
+- Estimación conservadora: **200-400 nuevos odontólogos por año** (4 facultades × 50-100 egr./año).
+- De esos, ~70-80% ejercen activamente = **150-300 odontólogos recién recibidos activos/año en PY**.
+- **TAM target:** 150-300 profesionales/año para Ometz Academy.
+- **El programa puede sostener 1-2 mentorizados simultáneos sin saturar.**
+
 ### Cliente secundario: Odontólogos con 3-7 años que quieren dar el salto a práctica propia
 
 **Por qué incluirlos:**
@@ -78,12 +85,13 @@
 | **Paquete 12 semanas (pago mensual)** | Gs 1.500.000/mes × 3 | ~192/mes | 12% descuento vs. upfront |
 | **Sesión de visita al consultorio del mentorizado (120 min)** | Gs 600.000 | ~77 | Cuando aplique (no todas las semanas) |
 | **Programa "fundador" (primeros 1-2 mentorizados)** | Gs 2.500.000 upfront | ~321 | 38% descuento; incluye feedback semanal + acceso a Gaby por WhatsApp entre sesiones |
+### Reglas de pricing (validadas con comparables reales, jul 2026, ver `01-research/`)
 
-**Reglas de pricing:**
 1. **Anclar a la consulta premium de Ometz** (Gs 800k por planificación compleja). El coaching NO puede costar lo mismo que una sesión con paciente, pero sí más que una consulta estándar (Gs 300k).
 2. **Pago upfront o mensual, NO por sesión suelta** — el compromiso es lo que hace que funcione.
 3. **"Fundadores"** son los primeros 1-2 — precio reducido a cambio de feedback honesto y caso público de éxito.
 4. **Nunca descuento público** — coherente con principio canónico de Ometz ("Nunca descuento públicamente — ofrecer planes de pago en su lugar").
+5. **El precio está en el mismo barrio que Spear Foundations ($599 USD/año) y muy por debajo de Pankey Essentials ($3,150/curso).** Bien posicionado para early-career dentists que pueden invertir en su desarrollo.
 
 > 📊 **Pendiente:** Investigación de pricing comparable en LATAM (ImplantePerio, Spear, otros) en curso vía subagent. Actualizar este rango con datos reales.
 
@@ -124,10 +132,13 @@
 ✅ **Diferenciación competitiva** clara: nadie en PY lo ofrece formalmente.
 
 ❓ **Pendiente validar:**
-- Tamaño real del mercado (cuántos recién recibidos por año en PY)
-- Disposición real a pagar (no solo "todo el mundo te va a pagar")
-- Temario concreto (esto depende de lo que Gabi quiera enseñar)
-- Marco regulatorio (MSPBS, Círculo de Odontólogos, RC profesional)
+- 🟢 **TAM** cuantificado: ~150-300 odontólogos recién recibidos/año en PY (estimación conservadora)
+- 🟢 **Competencia directa en LATAM:** no hay programa presencial 1-a-1 equivalente (validado por búsqueda)
+- 🟢 **Competencia USA:** Spear Foundations ($599/año), Pankey Essentials ($3,150/curso) — diferentes segmentos, no competidores directos
+- 🟡 **Disposición real a pagar** (no solo "todo el mundo te va a pagar") — validar con los primeros mentorizados fundadores
+- 🟡 **Temario concreto** (esto depende de lo que Gabi quiera enseñar)
+- 🟢 **Marco regulatorio** básico: MSPBS (registro vigente), COP (asociación gremial no reguladora), SPOyP (aranceles de referencia) — datos integrados en `06-legal/02-marco-regulatorio.md`
+- 🟡 **Detalle del marco:** confirmar con contador + abogado que el formato de mentoría entre profesionales no requiere registro especial
 
 ---
 

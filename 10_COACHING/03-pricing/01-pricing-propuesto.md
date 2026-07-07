@@ -74,20 +74,34 @@ Coherente con `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
 
 ## 📈 Pricing comparable (LATAM) — DATOS PENDIENTES
 
-Los siguientes benchmarks se están investigando vía subagent. Actualizar cuando lleguen los datos reales:
+Los siguientes benchmarks fueron investigados el 7 jul 2026 (ver `01-research/01-investigacion-mercado.md` para URLs y metodología completa):
 
-| Programa | País | Formato | Precio | Fuente |
-|---|---|---|---|---|
-| ImplantePerio | Brasil | Residencia 1 año | ~USD 1.000/mes | (mencionado en cuestionario 08 — confirmar) |
-| Spear Education | USA | Online + mentoría | ~USD 5.000/año | (mencionado en cuestionario 08 — confirmar) |
-| Cataviña | Argentina | ??? | ??? | (a investigar) |
-| Pankey Institute | USA | Continuum | ??? | (a investigar) |
-| Kois Center | USA | Pathway | ??? | (a investigar) |
-| Dawson Academy | USA | Pathway | ??? | (a investigar) |
+| Programa | País | Formato | Precio | URL | Diferenciador |
+|---|---|---|---|---|---|
+| **Spear Foundations** | USA | Online + comunidad + CE curado | **$599 USD/año** | https://www.speareducation.com/foundations | Para dentists 0-5 años, online no presencial |
+| **Pankey Essentials** | USA | Presencial retreats + continuum | **$3,150 USD/curso** (4 cursos = ~$12,600) | https://pankey.org/all-courses/ | Avanzado, no early-career |
+| **Kois Center** | USA | Presencial 3-5 días | No público | https://www.koiscenter.com/ | Restauradora avanzada |
+| **Dawson Academy** | USA | Pathways + cursos | No público | https://thedawsonacademy.com/ | Oclusión avanzada |
+| **Stanley Institute** | USA | 1-a-1 con expertos | No público | https://www.stanleyinstitute.com/mentorship | Implantes, no early-career |
+| **Implant Daddy** | USA | Casos en vivo | $0 al dentista (paciente paga) | https://dentalimplantlearningcenter.com/ce-courses/implant-daddy-mentorship-program/ | Implantes específicos |
+| **CBP Odontología** | Argentina | Online | 194.900 ARS (~$190 USD) | https://www.cursosresidencias.com/argentina/online/cbp-odontologia/ | Online, no presencial |
 
-**Posicionamiento esperado (a validar):**
-- Gaby está en el segmento **premium accesible** — más barato que programas de USA (Spear USD 5K/año) pero más caro que los brasileños estructurados.
-- Diferenciador: **presencialidad + casos reales + criterio**, no diploma.
+**Posicionamiento de Ometz Academy (validado con datos reales, jul 2026):**
+
+| Dimensión | Spear Foundations | Pankey Essentials | **Ometz Academy** |
+|---|---|---|---|
+| Target | 0-5 años | Avanzado | **0-3 años** ✅ |
+| Modalidad | Online + comunidad | Presencial retreats | **Presencial + pacientes reales** ✅ |
+| Ratio | Plataforma masiva | Cohorte pequeña | **1-a-1 personalizado** ✅ |
+| Pricing | $599/año | $3,150/curso | **Gs 4M upfront (~$513)** ✅ |
+| Formato de pago | Membresía anual | Por curso | **Programa 12 semanas completo** ✅ |
+| Certificación | CE credits | CE + philosophy | **Certificado propio, no académico** ✅ |
+
+**Lectura estratégica:**
+- Ometz Academy está **al mismo precio que Spear Foundations** ($513 vs $599) pero ofrece **presencialidad + casos reales + 1-a-1** que Spear NO ofrece.
+- Ometz Academy es **6x más barato que Pankey Essentials** ($513 vs $3,150) y se enfoca en el segmento que Pankey ignora (recién recibidos).
+- Ometz Academy es **único en su clase en LATAM** — no hay programa presencial 1-a-1 de mentoría clínica para recién recibidos en el mercado hispanohablante.
+- **Riesgo competitivo:** Si Spear traduce su Foundations al español o crea un programa LATAM, capturaría mercado. **Mitigación:** lanzar rápido, consolidar posición, crear red de alumni antes de año 2.
 
 ---
 

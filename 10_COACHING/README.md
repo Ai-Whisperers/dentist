@@ -135,12 +135,13 @@ Leé todo en orden:
 
 | Componente | Estado | Comentario |
 |---|---|---|
-| Diseño del programa | 🟢 Completo | 15 docs listos en el repo |
+| Diseño del programa | 🟢 Completo | 17 docs listos en el repo |
 | Validación con Gaby | 🟡 Pendiente | Kiki tiene que mostrarle |
-| Investigación mercado PY | 🟡 En background | Subagent corriendo |
-| Investigación pedagogía | 🟡 En background | Subagent corriendo |
-| RC profesional | 🔴 Bloqueante | Sin esto no se puede abrir Ometz ni coaching |
-| Marco regulatorio | 🔴 Bloqueante | Sin validación legal no se acepta mentorizado |
+| Investigación mercado PY | 🟢 Completo | TAM ~150-300/año validado. Datos en `01-research/01-investigacion-mercado.md` |
+| Investigación pedagogía | 🟢 Completo | Spear, Pankey, Kois, Dawson investigados. Datos en `01-research/`. |
+| Pricing comparable | 🟢 Completo | Spear Foundations $599, Pankey $3,150. Datos en `01-research/`. |
+| RC profesional | 🔴 Bloqueante | Sin esto no se puede abrir Ometz ni coaching. Doc en `06-legal/01-seguro-rc-coaching.md`. |
+| Marco regulatorio | 🟡 Documentado | MSPBS, COP, SPOyP integrados. Pendiente: confirmar con abogado. |
 | Cuestionario 08 respondido | 🔴 Pendiente | Gaby tiene que completarlo |
 | Cuestionario 08 procesado | 🔴 Pendiente | Kiki/Erebus después |
 
