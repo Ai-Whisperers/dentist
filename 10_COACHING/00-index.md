@@ -88,8 +88,8 @@ Una línea de negocio nueva dentro de **Ometz Dental** donde Gaby enseña, en fo
 | `05-operaciones/02-contrato-template.md` | 🟡 Borrador | Revisión legal contador |
 | `05-operaciones/03-checklist-semanal.md` | 🟡 Borrador | — |
 | `05-operaciones/04-metricas-exito.md` | 🟡 Borrador | — |
-| `06-legal/01-seguro-rc-coaching.md` | 🔴 Memo | Investigación subagent (en curso) |
-| `06-legal/02-marco-regulatorio.md` | 🔴 Memo | Investigación subagent (en curso) |
+| `06-legal/01-seguro-rc-coaching.md` | 🟡 Borrador con datos reales | Datos de Mapfre/Brokers ya integrados (de guía RC 6 jul 2026). Pendiente: confirmar cobertura de mentoría con aseguradora. |
+| `06-legal/02-marco-regulatorio.md` | 🟡 Borrador con datos reales | Datos de MSPBS, COP, SPOyP ya integrados. Pendiente: confirmar con contador + abogado. |
 
 ---
 

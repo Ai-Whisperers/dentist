@@ -2,155 +2,195 @@
 
 **Documento:** `10_COACHING/06-legal/01-seguro-rc-coaching.md`
 **Para:** Gaby, Kiki, contador, abogado
-**Versión:** 0.5 — jul 2026 (borrador preliminar, **requiere revisión legal**)
-**Estado:** 🔴 Investigación en curso (subagent) — completar antes de aceptar mentorizados
+**Versión:** 1.0 — jul 2026
+**Estado:** 🟡 Datos reales integrados. Pendiente: validar con Mapfre/Brokers si la póliza cubre mentoría entre profesionales.
 
 ---
 
-## 🚨 ESTADO CRÍTICO
+## 🚨 BLOQUEANTE ACTIVO
 
-**Este memo está en estado BLOQUEANTE.**
+**El coaching NO puede arrancar hasta que Gaby tenga seguro RC profesional vigente.**
 
-Gaby NO tiene seguro de responsabilidad civil profesional. Esto ya se identificó como **BLOQUEANTE NUEVO** en el cuestionario del 6 jul 2026 (`02_MEETINGS/gaby-responses/cuestionario-a-2026-07-06-respuestas.md`, respuesta #5).
+Esto ya se identificó como **BLOQUEANTE NUEVO** el 6 jul 2026 en `02_MEETINGS/gaby-responses/cuestionario-a-2026-07-06-respuestas.md`. El plan completo para resolverlo está en `05_OPERATIONS/legal-compliance/practice-legal/seguro-responsabilidad-civil-odontologica-guia.md` (investigado por Erebus 2026-07-06).
 
-> ⚠️ **El coaching NO puede arrancar hasta que Gaby tenga seguro RC profesional vigente.**
-
-Razón: cuando un mentorizado observa o practica en el consultorio de Gaby, o cuando Gaby observa al mentorizado en su propio consultorio, hay al menos **dos riesgos legales**:
-
-1. **Si el mentorizado practica bajo supervisión de Gaby** (formato "residency") → ¿la RC de Gaby cubre los actos del mentorizado? En general, **NO**, porque el mentorizado es un profesional independiente con su propia RC.
-2. **Si el mentorizado aprende algo incorrecto y lo aplica después en su consultorio** → ¿hay responsabilidad de Gaby? Zona gris legal; depende de la jurisdicción y del formato del coaching.
-3. **Si un paciente del consultorio de Gaby se entera de que hay un mentorizado observando y se queja** → tema de consentimiento informado, confidencialidad.
+Este memo **complementa** esa guía con lo específico del coaching.
 
 ---
 
-## 📋 Preguntas que DEBEN responderse antes de aceptar mentorizados
+## ✅ Lo que YA sabemos (de la guía del 6 jul)
 
-### Sobre el seguro RC de Gaby (ya bloqueante para Ometz)
+### Producto y costo
 
-1. ¿Qué aseguradoras en Paraguay ofrecen RC profesional odontológica?
-   - Candidatas: Mapfre, La Consolidada, Seguros Asunción, Aseguradora del Este, El Surco, otras.
-2. ¿Cuál es el costo mensual típico?
-3. ¿Cuál es la cobertura mínima recomendable?
-4. ¿Cuánto tarda el trámite?
-5. ¿La póliza cubre actos de "capacitación" o "mentoría" a otros profesionales?
-6. ¿La póliza cubre actos del mentorizado mientras está en mi consultorio?
+| Producto | Compañía sugerida | Costo anual | Cobertura sugerida |
+|---|---|---:|---|
+| **RC Profesional Odontológica** | **Mapfre Paraguay** (líder PY) | Gs 1.800.000-3.500.000/año ($240-470) | Gs 500M-1.000M por evento |
+| RC General del consultorio | Mapfre / La Consolidada | Gs 600.000-1.200.000/año | Gs 200M-500M |
+| Seguro incendio + robo | Mapfre / La Consolidada / Patria | Gs 800.000-1.500.000/año | Reemplazo valor nuevo |
 
-### Sobre el seguro RC del mentorizado
+**Total recomendado para abrir:** Gs 3.200.000-6.200.000/año ($425-825/año).
 
-1. ¿El mentorizado debería tener su propia RC independiente?
-2. ¿La RC del mentorizado es requisito para entrar al programa?
-3. ¿Quién paga la RC del mentorizado (él mismo, Gaby,分担)?
+### Contactos para cotizar
+- **Mapfre Ventas:** +595 21 405 3598
+- **Werthein Brokers:** +595 21 440 555 (recomendado comparar 3 aseguradoras)
+- **Marsh Paraguay:** +595 21 616 9000
+- **AON Paraguay:** +595 21 417 9000
 
-### Sobre consentimiento del paciente
-
-1. ¿Se necesita consentimiento informado especial del paciente cuando hay un mentorizado observando?
-2. ¿Qué información debe contener ese consentimiento?
-3. ¿Se necesita firmar uno nuevo cada sesión o uno al inicio del programa?
-4. ¿Qué pasa si un paciente se niega a que el mentorizado observe?
-
-### Sobre el formato legal del coaching
-
-1. ¿El coaching es "capacitación profesional" o "mentoría"? ¿Hay diferencia legal?
-2. ¿Necesita algún registro ante el MSPBS?
-3. ¿Necesita algún registro ante el Círculo de Odontólogos del Paraguay?
-4. ¿Hay diferencia si el mentorizado paga (relación comercial) vs si es gratis (relación de cooperación)?
-5. ¿Gaby puede emitir factura por este servicio? ¿Con qué código?
+### Plantilla de mensaje para Mapfre/broker
+Ya está en `seguro-responsabilidad-civil-odontologica-guia.md`. **Gaby debe agregar una línea** sobre el coaching.
 
 ---
 
-## 🔍 Estado de la investigación (subagent en background)
+## ❓ Preguntas NUEVAS específicas del coaching
 
-**Tareas delegadas en curso (subagent investigating):**
-- Cuáles aseguradoras ofrecen RC odontológica en PY
-- Costos típicos mensuales
-- Cobertura típica (qué cubre, qué no)
-- Marco regulatorio del MSPBS sobre "capacitación entre profesionales"
-- Si Círculo de Odontólogos tiene algún rol
+Una vez que Gaby tenga su RC básica vigente, **debe confirmar con la aseguradora si la cobertura aplica al coaching**. Preguntas específicas:
 
-**Resultado esperado:** actualización de este memo en los próximos minutos (cuando el subagent termine).
+### A la aseguradora
 
-**Por ahora (placeholder):** asumir que **sin RC vigente, no se acepta mentorizado**.
+1. **¿La póliza RC Profesional Odontológica de Gaby cubre la actividad de "mentoría clínica" o "capacitación entre profesionales"?**
+2. **¿Cubre los actos clínicos que el mentorizado realice mientras está siendo observado/formado por Gaby en su consultorio?**
+3. **¿Cubre los consejos o indicaciones que Gaby dé al mentorizado y que después el mentorizado aplique en su propio consultorio?**
+4. **¿La póliza tiene alguna cláusula de "capacitación profesional" o "docencia"?**
+5. **¿Es necesario un endoso adicional para incluir la actividad de mentoría?**
+6. **¿Cuánto costaría ese endoso?**
 
----
+### Sobre el mentorizado
 
-## ✅ Acciones inmediatas (no negociables)
+1. **¿El mentorizado debería tener su propia RC independiente?**
+2. **¿La RC de Gaby cubre al mentorizado mientras está en su consultorio?**
+3. **Si el mentorizado atiende pacientes bajo la "supervisión" de Gaby, ¿hay relación de dependencia legal?**
 
-### Antes de aceptar cualquier mentorizado
+### Sobre el consentimiento del paciente
 
-1. **Gaby contrata RC profesional** con cobertura odontológica.
-2. **Consultar con contador** sobre cómo facturar el servicio (código, si aplica IVA, etc.).
-3. **Consultar con abogado** sobre el contrato (`02-contrato-template.md`) — sección 7 especialmente.
-4. **Diseñar formulario de consentimiento del paciente** para cuando hay mentorizado observando.
-5. **Verificar marco regulatorio** del MSPBS / Círculo sobre "capacitación entre profesionales".
-
-### Recomendación operativa
-
-- **No aceptar mentorizados hasta tener RC vigente + contrato revisado + consentimiento diseñado.**
-- **Plazo target:** 30-60 días desde hoy.
-- **En paralelo:** seguir diseñando el programa + hablar con candidatos, pero NO firmar acuerdos hasta tener todo resuelto.
+1. **¿Se necesita consentimiento informado especial del paciente cuando hay un mentorizado observando la consulta?**
+2. **¿Qué pasa si un paciente se niega a ser observado?**
+3. **¿Se puede cobrar igual al paciente si se niega a la observación?**
 
 ---
 
-## 📚 Hipótesis preliminares (a validar con investigación)
+## 🛡️ Plan B si la RC NO cubre la mentoría
 
-### Sobre la aseguradora más probable
+Si después de consultar con Mapfre y los brokers, resulta que la RC de Gaby **NO cubre** actos del mentorizado o la actividad de mentoría:
 
-En Paraguay, las aseguradoras que típicamente ofrecen RC profesional médica/odontológica son:
-- **Mapfre Paraguay** — tiene productos para profesionales de la salud
-- **La Consolidada** — productos comerciales + profesionales
-- **Seguros Asunción** (Sancor Seguros en algunos productos)
-- **Aseguradora del Este**
-- **El Surco**
+### Opción 1 — Limitar el formato a observación + discusión (RECOMENDADA para arrancar)
 
-Costo estimado (orden de magnitud): Gs 100.000-300.000/mes para RC profesional odontológica con cobertura Gs 500M-1.000M. **A confirmar con investigación.**
+**Qué cambia:**
+- El mentorizado **observa** consultas y procedimientos de Gaby.
+- **Discute** casos propios con Gaby.
+- **NO practica** procedimientos bajo supervisión de Gaby en el consultorio de Gaby.
+- **NO interviene** en la atención de pacientes de Gaby.
 
-### Sobre el marco regulatorio
+**Por qué funciona:**
+- Cubre el 90% del valor pedagógico del programa.
+- Evita el riesgo legal de "actos clínicos delegados".
+- Es coherente con el posicionamiento de Gaby: ella enseña a pensar, no a hacer.
 
-Hipótesis: el coaching/mentoría entre profesionales NO requiere registro específico en MSPBS ni en Círculo de Odontólogos. **A confirmar.**
+**Limitación:**
+- El mentorizado no tiene práctica supervisada.
+- Pierde una parte del aprendizaje kinestésico.
+- Se compensa con visitas al consultorio del mentorizado (semanas 5 y 8).
 
-Riesgo: si el formato se considera "docencia" o "capacitación formal", podría requerir algún tipo de habilitación. **Por eso es clave la consulta legal.**
+### Opción 2 — Endoso específico para mentoría
+
+**Qué es:**
+- Pedirle a la aseguradora un **endoso** que extienda la cobertura a la actividad de mentoría clínica.
+- Costo adicional estimado: Gs 50.000-150.000/mes (a confirmar).
+
+**Cuándo conviene:**
+- Después de validar que el formato funciona con Opción 1.
+- Si algún mentorizado tiene experiencia y quiere práctica supervisada.
+
+### Opción 3 — Requisito de RC propia del mentorizado
+
+**Qué es:**
+- El mentorizado debe tener **su propia** RC profesional vigente antes de empezar el programa.
+- Compartir copia de la póliza con Gaby antes de la semana 1.
+
+**Costo para el mentorizado:**
+- Gs 100.000-300.000/mes adicionales.
+- Barrera de entrada alta — puede filtrar candidatos.
+
+**Cuándo conviene:**
+- Si la aseguradora de Gaby rechaza explícitamente la cobertura de mentoría.
+- Como complemento de Opción 2 (defensa en profundidad).
 
 ---
 
-## 🛡️ Plan B (si la RC no cubre mentoría)
+## 📋 Recomendación operativa
 
-Si la RC de Gaby **no cubre** actos del mentorizado mientras está en su consultorio:
+### Fase 0 (esta semana, paralelo a apertura de Ometz)
 
-**Opción 1:** El mentorizado trae su PROPIA RC. Requisito de entrada.
+1. ✅ Gaby llama a Mapfre Ventas y pide cotización de RC Profesional.
+2. ✅ Gaby llama a Werthein Brokers para cotización comparativa.
+3. ✅ Compara 2-3 opciones en 7 días.
+4. ✅ Firma póliza antes del 25 jul 2026 (1 día antes de apertura target).
 
-**Opción 2:** Limitar el coaching a **observación + discusión**, NO práctica supervisada. El mentorizado observa, después analiza con Gaby, pero no toca pacientes en el consultorio de Gaby.
+### Fase 1 (antes de aceptar primer mentorizado)
 
-**Opción 3:** Gaby extiende su póliza con un endoso específico para "capacitación profesional" (si la aseguradora lo permite). Costo adicional estimado: Gs 50.000-150.000/mes.
+5. ⏭ Llamar a la aseguradora con la que se contrató y preguntar específicamente por cobertura de mentoría.
+6. ⏭ Si NO cubre → arrancar con Opción 1 (observación + discusión).
+7. ⏭ Si cubre → documentar el alcance de la cobertura y agregarlo al acuerdo con el mentorizado.
 
-**Recomendación actual:** arrancar con **Opción 2** (observación + discusión) por simplicidad. Migrar a Opción 1 o 3 cuando haya datos.
+### Fase 2 (después del primer mentorizado "fundador")
+
+8. ⏭ Evaluar si vale la pena Opción 2 (endoso) o Opción 3 (RC propia del mentorizado).
 
 ---
 
-## 📅 Próximos pasos concretos
+## 📅 Timeline concreto
 
-| Cuándo | Qué | Quién |
-|---|---|---|
-| Esta semana | Llamar a 2-3 aseguradoras y pedir cotización de RC profesional odontológica | Gaby |
-| Esta semana | Preguntar al contador cómo se factura el servicio de mentoría | Gaby |
-| Próxima semana | Consulta con abogado sobre contrato + marco regulatorio | Gaby / Kiki |
-| Cuando llegue investigación subagent | Actualizar este memo con datos reales | Erebus |
-| Antes del primer mentorizado | Diseñar formulario de consentimiento del paciente | Gaby / Kiki |
-| Antes del primer mentorizado | Decidir Opción 1, 2 o 3 del Plan B | Gaby / Kiki / Ivan |
+| Cuándo | Qué | Quién | Estado |
+|---|---|---|---|
+| 7 jul 2026 | Llamar a Mapfre Ventas | Gaby | ⏭ Pendiente |
+| 7-8 jul | Llamar a Werthein Brokers | Gaby | ⏭ Pendiente |
+| 10 jul | Tener 2 cotizaciones escritas | Gaby | ⏭ Pendiente |
+| 12-13 jul | Decisión final | Gaby + Ivan | ⏭ Pendiente |
+| 15-20 jul | Firma de póliza | Gaby | ⏭ Pendiente |
+| 22-24 jul | Preguntar a la aseguradora por cobertura de mentoría | Gaby | ⏭ Pendiente |
+| 25 jul | RC vigente + apertura de Ometz | Gaby | ⏭ Pendiente |
+| 1-15 ago | Decidir Opción 1, 2 o 3 para coaching | Gaby + Kiki | ⏭ Pendiente |
+| 1-15 ago | Llamada de 20 min con primer candidato "fundador" | Gaby | ⏭ Pendiente |
+| 1 sep | Primer mentorizado arranca (si todo OK) | Gaby | ⏭ Pendiente |
+
+---
+
+## 📝 Lo que se agrega al acuerdo con el mentorizado (`05-operaciones/02-contrato-template.md`)
+
+### Sección 7 (ya incluida) — Relación clínica y seguro de responsabilidad civil
+
+> **Importante:** Este programa es **educativo**, no una relación de supervisión clínica profesional.
+>
+> - El/La Mentorizado/a mantiene **plena autonomía y responsabilidad** sobre todos los actos clínicos que realice durante y después del programa.
+> - La Mentora **NO se hace responsable** por errores, complicaciones, o resultados adversos derivados del trabajo del/de la Mentorizado/a en su consultorio.
+> - Se **recomienda enfáticamente** que el/la Mentorizado/a cuente con su propio seguro de responsabilidad civil profesional.
+> - Se **requiere** que la Mentora cuente con seguro de responsabilidad civil profesional vigente.
+
+### Sección nueva (a agregar) — Cobertura específica del coaching
+
+> **Alcance de la actividad de mentoría:**
+>
+> - El formato del coaching se limita a **observación de consultas + discusión de casos + visitas al consultorio del mentorizado**.
+> - El mentorizado **no realiza actos clínicos** bajo supervisión de la Mentora en el consultorio de la Mentora.
+> - Si en algún momento del programa la Mentora o el/la Mentorizado/a consideran necesario incorporar práctica supervisada, se firmará un **anexo específico** que requerirá confirmación de cobertura con la aseguradora y, si corresponde, endoso adicional.
+>
+> **Consentimiento del paciente:**
+>
+> - Cuando un paciente de la Mentora sea observado por el/la Mentorizado/a, el paciente firmará un **consentimiento informado específico** antes de la sesión.
+> - Si el paciente se niega, la sesión se realiza sin presencia del/de la Mentorizado/a.
 
 ---
 
 ## 📌 Resumen ejecutivo (para Ivan)
 
-**Riesgo:** 🔴 ALTO. Sin RC, el coaching es legalmente inviable.
+**Riesgo:** 🔴 ALTO sin RC; 🟡 MEDIO con RC + Opción 1.
 
-**Costo probable:** Gs 100.000-300.000/mes adicionales a la operación de Ometz.
+**Costo adicional por mentoría:** Probablemente $0 si se arranca con Opción 1 (observación). Gs 50.000-150.000/mes si se opta por Opción 2 (endoso).
 
-**Beneficio:** habilita el coaching + cubre el riesgo legal de Ometz en general.
+**Beneficio:** Habilita el coaching + protege legalmente a Gaby en su práctica general.
 
-**Recomendación:** NO aceptar mentorizados hasta tener RC vigente. Plazo: 30-60 días.
+**Recomendación:** Resolver RC básico esta semana. Antes de aceptar primer mentorizado, confirmar cobertura de mentoría con aseguradora. Si no cubre, arrancar con Opción 1 (observación + discusión).
 
-**Decisión bloqueante para Ivan:** aprobar el gasto adicional de RC + consulta legal antes de lanzar el programa.
+**Decisión bloqueante para Ivan:** Aprobar gasto de RC (~Gs 4-6M/año) + inversión de tiempo de Gaby para llamadas con aseguradoras. Esto es prerrequisito tanto para Ometz como para el coaching.
 
 ---
 
-*Mantenedor:* Erebus · *Owner:* Kiki / Gaby / contador / abogado · *Próxima actualización:* Cuando llegue investigación subagent
+*Mantenedor:* Erebus · *Owner:* Kiki / Gaby / contador / abogado · *Próxima actualización:* Cuando Gaby tenga cotizaciones reales
