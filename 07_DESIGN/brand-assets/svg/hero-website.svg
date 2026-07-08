@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" role="img" aria-label="Hero website">
+  <title>Website Hero — Ometz Dental</title>
+  <rect width="1080" height="1350" fill="#FAFAF8"/>
+
+  <!-- Right side teal block -->
+  <rect x="540" y="0" width="540" height="1350" fill="#1A5F5A"/>
+
+  <!-- Decorative aleph on right -->
+  <text x="810" y="500" text-anchor="middle" font-family="serif" font-size="240" fill="#B8860B" opacity="0.18" direction="rtl">אומץ</text>
+
+  <!-- Brand top -->
+  <text x="80" y="160" font-family="'Montserrat', sans-serif" font-size="22" font-weight="600" fill="#B8860B" letter-spacing="8">OMETZ DENTAL</text>
+  <line x1="80" y1="195" x2="180" y2="195" stroke="#B8860B" stroke-width="3"/>
+
+  <!-- Hero photo placeholder (cream rectangle representing Gaby photo) -->
+  <rect x="80" y="240" width="380" height="500" fill="#B8860B" opacity="0.15"/>
+  <rect x="80" y="240" width="380" height="500" fill="none" stroke="#1A5F5A" stroke-width="2" stroke-dasharray="6 4" opacity="0.4"/>
+  <text x="270" y="490" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="500" fill="#1A5F5A" letter-spacing="3" opacity="0.7">[ GABY HERO PHOTO ]</text>
+  <text x="270" y="515" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="400" fill="#2D2D2D" opacity="0.5">Scrubs rosa coral · Fondo crema</text>
+
+  <!-- Main headline -->
+  <text x="600" y="320" font-family="'Montserrat', sans-serif" font-size="100" font-weight="700" fill="#FAFAF8">Te</text>
+  <text x="600" y="430" font-family="'Montserrat', sans-serif" font-size="100" font-weight="700" fill="#FAFAF8">escucho.</text>
+
+  <!-- Subhead -->
+  <text x="600" y="500" font-family="'Montserrat', sans-serif" font-size="22" font-weight="400" fill="#FAFAF8" opacity="0.85">20 años de odontología</text>
+  <text x="600" y="535" font-family="'Montserrat', sans-serif" font-size="22" font-weight="400" fill="#FAFAF8" opacity="0.85">conservadora en Asunción.</text>
+
+  <!-- Services chips -->
+  <rect x="600" y="600" width="170" height="50" rx="25" fill="none" stroke="#B8860B" stroke-width="2"/>
+  <text x="685" y="632" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="13" font-weight="600" fill="#FAFAF8" letter-spacing="2">REHABILITACIÓN</text>
+
+  <rect x="780" y="600" width="170" height="50" rx="25" fill="none" stroke="#B8860B" stroke-width="2"/>
+  <text x="865" y="632" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="13" font-weight="600" fill="#FAFAF8" letter-spacing="2">2DA OPINIÓN</text>
+
+  <!-- CTA button -->
+  <rect x="600" y="700" width="280" height="64" rx="32" fill="#B8860B"/>
+  <text x="740" y="740" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="700" fill="#FAFAF8" letter-spacing="2">📱 WHATSAPP</text>
+
+  <!-- Trust signals row -->
+  <text x="600" y="830" font-family="'Montserrat', sans-serif" font-size="13" font-weight="600" fill="#FAFAF8" letter-spacing="2">✓ 20+ AÑOS</text>
+  <text x="780" y="830" font-family="'Montserrat', sans-serif" font-size="13" font-weight="600" fill="#FAFAF8" letter-spacing="2">✓ ES · EN</text>
+  <text x="900" y="830" font-family="'Montserrat', sans-serif" font-size="13" font-weight="600" fill="#FAFAF8" letter-spacing="2">✓ MSPBS</text>
+
+  <!-- Bottom aleph -->
+  <text x="270" y="1180" text-anchor="middle" font-family="serif" font-size="80" fill="#1A5F5A" opacity="0.15" direction="rtl">אומץ</text>
+  <text x="270" y="1240" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="11" font-weight="500" fill="#1A5F5A" letter-spacing="6" opacity="0.6">MBURUCUYÁ, ASUNCIÓN</text>
+</svg>

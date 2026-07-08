@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Services grid">
+  <title>Services — Lo que hacemos</title>
+  <rect width="1080" height="1080" fill="#FAFAF8"/>
+
+  <!-- Header -->
+  <text x="540" y="140" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="600" fill="#B8860B" letter-spacing="10">NUESTROS SERVICIOS</text>
+  <text x="540" y="220" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="62" font-weight="700" fill="#1A5F5A">Lo que hacemos</text>
+  <text x="540" y="290" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="62" font-weight="700" fill="#1A5F5A">en Ometz Dental</text>
+  <line x1="490" y1="340" x2="590" y2="340" stroke="#B8860B" stroke-width="3"/>
+
+  <!-- Service 1 — Rehabilitación Oral -->
+  <rect x="80" y="420" width="440" height="240" rx="16" fill="#1A5F5A"/>
+  <text x="300" y="490" text-anchor="middle" font-family="serif" font-size="64" fill="#B8860B" direction="rtl">אומץ</text>
+  <text x="300" y="560" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#FAFAF8">REHABILITACIÓN</text>
+  <text x="300" y="595" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#FAFAF8">ORAL</text>
+  <text x="300" y="630" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#FAFAF8" opacity="0.85">Bocas con plan,</text>
+  <text x="300" y="654" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#FAFAF8" opacity="0.85">no con parches</text>
+
+  <!-- Service 2 — Segunda Opinión -->
+  <rect x="560" y="420" width="440" height="240" rx="16" fill="#FAFAF8" stroke="#1A5F5A" stroke-width="3"/>
+  <text x="780" y="490" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="60" font-weight="700" fill="#B8860B">2da</text>
+  <text x="780" y="560" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#1A5F5A">SEGUNDA</text>
+  <text x="780" y="595" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#1A5F5A">OPINIÓN</text>
+  <text x="780" y="630" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#2D2D2D" opacity="0.75">Plan escrito formal</text>
+  <text x="780" y="654" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#2D2D2D" opacity="0.75">en 2-3 días</text>
+
+  <!-- Service 3 — Operatoria -->
+  <rect x="80" y="690" width="440" height="240" rx="16" fill="#FAFAF8" stroke="#1A5F5A" stroke-width="3"/>
+  <text x="300" y="760" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="56" font-weight="700" fill="#1A5F5A">🦷</text>
+  <text x="300" y="830" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#1A5F5A">OPERATORIA</text>
+  <text x="300" y="865" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#1A5F5A">DENTAL</text>
+  <text x="300" y="900" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#2D2D2D" opacity="0.75">Resinas, pernos,</text>
+  <text x="300" y="924" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#2D2D2D" opacity="0.75">reconstrucciones</text>
+
+  <!-- Service 4 — Estética -->
+  <rect x="560" y="690" width="440" height="240" rx="16" fill="#B8860B"/>
+  <text x="780" y="760" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="56" font-weight="700" fill="#FAFAF8">✨</text>
+  <text x="780" y="830" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#FAFAF8">ESTÉTICA</text>
+  <text x="780" y="865" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#FAFAF8">DENTAL</text>
+  <text x="780" y="900" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#FAFAF8" opacity="0.95">Blanqueamiento,</text>
+  <text x="780" y="924" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#FAFAF8" opacity="0.95">carillas, restauraciones</text>
+
+  <!-- Footer CTA -->
+  <text x="540" y="1010" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="20" font-weight="500" fill="#1A5F5A">📱 +595 9XX XXX XXX · Mburucuyá, Asunción</text>
+</svg>

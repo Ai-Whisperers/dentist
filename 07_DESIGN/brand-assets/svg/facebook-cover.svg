@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 851 315" width="851" height="315" role="img" aria-label="Facebook cover">
+  <title>Ometz Dental — Facebook Cover</title>
+  <desc>Facebook page cover: teal background with hebrew mark, name, tagline, decorative accent.</desc>
+
+  <!-- Teal background -->
+  <rect width="851" height="315" fill="#1A5F5A"/>
+
+  <!-- Decorative pattern (subtle) -->
+  <g opacity="0.08">
+    <text x="-20" y="80" font-family="'Frank Ruhl Libre', serif" font-size="100" fill="#FAFAF8" direction="rtl" letter-spacing="-5">אומץ</text>
+    <text x="-20" y="200" font-family="'Frank Ruhl Libre', serif" font-size="100" fill="#FAFAF8" direction="rtl" letter-spacing="-5">אומץ</text>
+    <text x="700" y="280" font-family="'Frank Ruhl Libre', serif" font-size="100" fill="#FAFAF8" direction="rtl" letter-spacing="-5">אומץ</text>
+  </g>
+
+  <!-- Foreground אומץ (large, terracotta) -->
+  <text x="120" y="180"
+        text-anchor="middle"
+        font-family="'Frank Ruhl Libre', 'David Libre', 'SBL Hebrew', serif"
+        font-size="120"
+        font-weight="700"
+        fill="#B8860B"
+        direction="rtl"
+        unicode-bidi="bidi-override"
+        letter-spacing="8">אומץ</text>
+
+  <!-- Vertical accent line -->
+  <line x1="240" y1="80" x2="240" y2="240" stroke="#B8860B" stroke-width="2" opacity="0.6"/>
+
+  <!-- OMETZ DENTAL -->
+  <text x="270" y="130"
+        font-family="'Montserrat', 'Inter', sans-serif"
+        font-size="48"
+        font-weight="700"
+        fill="#FAFAF8"
+        letter-spacing="8">OMETZ</text>
+
+  <text x="270" y="170"
+        font-family="'Montserrat', 'Inter', sans-serif"
+        font-size="20"
+        font-weight="500"
+        fill="#FAFAF8"
+        letter-spacing="12"
+        opacity="0.85">DENTAL</text>
+
+  <!-- Tagline -->
+  <text x="270" y="220"
+        font-family="'Montserrat', 'Inter', sans-serif"
+        font-size="22"
+        font-weight="400"
+        font-style="italic"
+        fill="#FAFAF8"
+        opacity="0.9">Te escucho.</text>
+
+  <!-- Subline -->
+  <text x="270" y="260"
+        font-family="'Montserrat', 'Inter', sans-serif"
+        font-size="14"
+        font-weight="400"
+        fill="#FAFAF8"
+        letter-spacing="3"
+        opacity="0.7">REHABILITACIÓN ORAL · SEGUNDA OPINIÓN · MBURUCUYÁ</text>
+</svg>

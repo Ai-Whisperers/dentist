@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Quote card 2 - Criterio">
+  <title>Quote — Criterio clínico</title>
+  <rect width="1080" height="1080" fill="#FAFAF8"/>
+
+  <!-- Terracotta corner accent -->
+  <path d="M 0 0 L 220 0 Q 180 180 0 220 Z" fill="#B8860B" opacity="0.15"/>
+  <path d="M 1080 1080 L 860 1080 Q 900 900 1080 860 Z" fill="#B8860B" opacity="0.15"/>
+
+  <!-- Top brand -->
+  <text x="540" y="180" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="20" font-weight="600" fill="#1A5F5A" letter-spacing="8">OMETZ · TE ESCUCHO</text>
+  <line x1="490" y1="220" x2="590" y2="220" stroke="#B8860B" stroke-width="2"/>
+
+  <!-- Big quote -->
+  <text x="540" y="400" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="76" font-weight="700" fill="#2D2D2D">"La odontología</text>
+  <text x="540" y="490" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="76" font-weight="700" fill="#2D2D2D">no empieza con</text>
+  <text x="540" y="580" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="76" font-weight="700" fill="#1A5F5A">una fresa.</text>
+  <text x="540" y="670" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="76" font-weight="700" fill="#1A5F5A">Empieza pensando.</text>
+
+  <!-- Divider -->
+  <line x1="440" y1="780" x2="640" y2="780" stroke="#B8860B" stroke-width="2"/>
+
+  <!-- Subtitle -->
+  <text x="540" y="850" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="28" font-weight="400" fill="#2D2D2D" opacity="0.7">20 años de práctica conservadora</text>
+  <text x="540" y="890" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="28" font-weight="400" fill="#2D2D2D" opacity="0.7">en Asunción.</text>
+
+  <!-- Author -->
+  <text x="540" y="980" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="20" font-weight="600" fill="#1A5F5A" letter-spacing="3">— DRA. GABY · OMETZ DENTAL</text>
+</svg>

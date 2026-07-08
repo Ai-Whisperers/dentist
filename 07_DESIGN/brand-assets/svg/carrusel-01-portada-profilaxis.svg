@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Carrusel portada profilaxis">
+  <title>Carrusel — Qué es la profilaxis (portada)</title>
+  <rect width="1080" height="1080" fill="#FAFAF8"/>
+
+  <!-- Top brand -->
+  <text x="80" y="120" font-family="'Montserrat', sans-serif" font-size="20" font-weight="600" fill="#B8860B" letter-spacing="6">EDUCATIVO · 5 MIN</text>
+  <line x1="80" y1="160" x2="200" y2="160" stroke="#B8860B" stroke-width="3"/>
+
+  <!-- Tooth icon (abstract) -->
+  <g transform="translate(540,360)">
+    <ellipse cx="0" cy="0" rx="140" ry="180" fill="#1A5F5A"/>
+    <ellipse cx="0" cy="-30" rx="90" ry="120" fill="#FAFAF8"/>
+    <text x="0" y="180" text-anchor="middle" font-size="80" fill="#1A5F5A">🦷</text>
+  </g>
+
+  <!-- Title -->
+  <text x="540" y="700" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="76" font-weight="700" fill="#2D2D2D">¿Qué es la</text>
+  <text x="540" y="790" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="76" font-weight="700" fill="#1A5F5A">PROFILAXIS?</text>
+
+  <!-- Subtitle -->
+  <text x="540" y="870" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="28" font-weight="400" fill="#2D2D2D" opacity="0.75">5 verdades que no sabías</text>
+
+  <!-- Bottom hint -->
+  <text x="540" y="980" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="500" fill="#B8860B">→ DESLIZÁ PARA VER MÁS</text>
+
+  <!-- Footer brand -->
+  <text x="540" y="1040" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="500" fill="#1A5F5A" letter-spacing="4">OMETZ DENTAL · @OMETZDENTAL</text>
+</svg>

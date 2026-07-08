@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" role="img" aria-label="WhatsApp catalog hero">
+  <title>WhatsApp Catalog Item — Consulta General</title>
+  <desc>500 x 500 px WhatsApp Business catalog image for Consulta General.</desc>
+
+  <rect width="1080" height="1350" fill="#FAFAF8"/>
+
+  <!-- Top brand bar -->
+  <rect x="0" y="0" width="1080" height="120" fill="#1A5F5A"/>
+  <text x="540" y="80" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="36" font-weight="700" fill="#FAFAF8" letter-spacing="6">OMETZ DENTAL</text>
+
+  <!-- Service icon -->
+  <circle cx="540" cy="500" r="220" fill="#1A5F5A" opacity="0.08"/>
+  <circle cx="540" cy="500" r="160" fill="#1A5F5A" opacity="0.15"/>
+  <text x="540" y="565" text-anchor="middle" font-size="200">🦷</text>
+
+  <!-- Service title -->
+  <text x="540" y="850" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="64" font-weight="700" fill="#1A5F5A">Consulta General</text>
+
+  <!-- Description -->
+  <text x="540" y="920" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="26" font-weight="400" fill="#2D2D2D" opacity="0.75">Evaluación clínica completa · 45-60 min</text>
+
+  <!-- Price block -->
+  <rect x="180" y="980" width="720" height="160" rx="20" fill="#FAFAF8" stroke="#1A5F5A" stroke-width="2"/>
+  <text x="540" y="1040" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="24" font-weight="500" fill="#2D2D2D" opacity="0.6">Desde</text>
+  <text x="540" y="1110" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="64" font-weight="800" fill="#1A5F5A">Gs 300.000</text>
+
+  <!-- CTA -->
+  <text x="540" y="1230" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="500" fill="#B8860B">📱 Pedí tu turno por WhatsApp</text>
+
+  <!-- Footer aleph -->
+  <text x="540" y="1310" text-anchor="middle" font-family="serif" font-size="48" fill="#B8860B" direction="rtl">אומץ</text>
+</svg>

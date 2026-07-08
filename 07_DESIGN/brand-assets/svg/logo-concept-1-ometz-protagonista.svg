@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" width="600" height="360" role="img" aria-label="Ometz Dental logo, vertical">
+  <title>Ometz Dental — אומץ Protagonista</title>
+  <desc>Hebrew word אומץ in terracotta, Ometz Dental in teal, tagline in charcoal.</desc>
+
+  <!-- Background (transparent, optional cream) -->
+  <rect width="600" height="360" fill="#FAFAF8"/>
+
+  <!-- אומץ — HEBREW: alef-mem-tav (large, terracotta) -->
+  <text x="300" y="120"
+        text-anchor="middle"
+        font-family="'Frank Ruhl Libre', 'David Libre', 'SBL Hebrew', serif"
+        font-size="84"
+        font-weight="700"
+        fill="#B8860B"
+        direction="rtl"
+        unicode-bidi="bidi-override"
+        letter-spacing="6">אומץ</text>
+
+  <!-- OMETZ -->
+  <text x="300" y="200"
+        text-anchor="middle"
+        font-family="'Montserrat', 'Inter', sans-serif"
+        font-size="56"
+        font-weight="700"
+        fill="#1A5F5A"
+        letter-spacing="8">OMETZ</text>
+
+  <!-- DENTAL -->
+  <text x="300" y="240"
+        text-anchor="middle"
+        font-family="'Montserrat', 'Inter', sans-serif"
+        font-size="22"
+        font-weight="500"
+        fill="#2D2D2D"
+        letter-spacing="14">DENTAL</text>
+
+  <!-- Tagline -->
+  <text x="300" y="290"
+        text-anchor="middle"
+        font-family="'Montserrat', 'Inter', sans-serif"
+        font-size="18"
+        font-weight="400"
+        font-style="italic"
+        fill="#2D2D2D"
+        opacity="0.75">Te escucho.</text>
+
+  <!-- Subtle decorative line -->
+  <line x1="220" y1="260" x2="380" y2="260" stroke="#B8860B" stroke-width="1" opacity="0.4"/>
+</svg>

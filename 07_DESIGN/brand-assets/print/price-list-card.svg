@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img" aria-label="Price list card">
+  <title>Price List Card — Wallet sized</title>
+  <desc>85 x 55 mm price reference card for patient hand-out.</desc>
+
+  <!-- Cream background -->
+  <rect width="320" height="200" fill="#FAFAF8"/>
+
+  <!-- Top accent -->
+  <rect x="0" y="0" width="320" height="6" fill="#B8860B"/>
+
+  <!-- Brand -->
+  <text x="160" y="30" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="700" fill="#1A5F5A" letter-spacing="4">OMETZ DENTAL</text>
+  <text x="160" y="46" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="9" font-weight="400" font-style="italic" fill="#2D2D2D">Te escucho.</text>
+
+  <!-- Divider -->
+  <line x1="60" y1="58" x2="260" y2="58" stroke="#B8860B" stroke-width="0.8"/>
+
+  <!-- Consultas -->
+  <text x="20" y="78" font-family="'Montserrat', sans-serif" font-size="9" font-weight="700" fill="#1A5F5A" letter-spacing="3">CONSULTAS</text>
+  <text x="20" y="94" font-family="'Montserrat', sans-serif" font-size="9" font-weight="400" fill="#2D2D2D">Consulta general</text>
+  <text x="300" y="94" text-anchor="end" font-family="'Montserrat', sans-serif" font-size="9" font-weight="600" fill="#2D2D2D">Gs 300-400k</text>
+  <text x="20" y="108" font-family="'Montserrat', sans-serif" font-size="9" font-weight="400" fill="#2D2D2D">Segunda opinión</text>
+  <text x="300" y="108" text-anchor="end" font-family="'Montserrat', sans-serif" font-size="9" font-weight="600" fill="#2D2D2D">Gs 450-600k</text>
+  <text x="20" y="122" font-family="'Montserrat', sans-serif" font-size="9" font-weight="400" fill="#2D2D2D">Plan de tratamiento</text>
+  <text x="300" y="122" text-anchor="end" font-family="'Montserrat', sans-serif" font-size="9" font-weight="600" fill="#2D2D2D">Gs 500-800k</text>
+
+  <!-- Divider -->
+  <line x1="60" y1="132" x2="260" y2="132" stroke="#1A5F5A" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Restauraciones -->
+  <text x="20" y="148" font-family="'Montserrat', sans-serif" font-size="9" font-weight="700" fill="#1A5F5A" letter-spacing="3">RESTAURACIONES</text>
+  <text x="20" y="162" font-family="'Montserrat', sans-serif" font-size="9" font-weight="400" fill="#2D2D2D">Simple</text>
+  <text x="300" y="162" text-anchor="end" font-family="'Montserrat', sans-serif" font-size="9" font-weight="600" fill="#2D2D2D">Gs 350-450k</text>
+  <text x="20" y="174" font-family="'Montserrat', sans-serif" font-size="9" font-weight="400" fill="#2D2D2D">Compleja</text>
+  <text x="300" y="174" text-anchor="end" font-family="'Montserrat', sans-serif" font-size="9" font-weight="600" fill="#2D2D2D">Gs 450-550k</text>
+
+  <!-- Footer disclaimer -->
+  <text x="160" y="190" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="7" font-weight="400" font-style="italic" fill="#2D2D2D" opacity="0.6">El precio se confirma después de la evaluación</text>
+</svg>

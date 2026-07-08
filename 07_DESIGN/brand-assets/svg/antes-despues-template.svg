@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Antes despues">
+  <title>Antes / Después — Rehabilitación oral</title>
+  <desc>Side-by-side comparison for ethical case studies (consentimiento firmado).</desc>
+
+  <rect width="1080" height="1080" fill="#FAFAF8"/>
+
+  <!-- Header -->
+  <text x="540" y="100" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="600" fill="#B8860B" letter-spacing="8">CASO CLÍNICO · REHABILITACIÓN</text>
+  <line x1="440" y1="140" x2="640" y2="140" stroke="#B8860B" stroke-width="2"/>
+
+  <!-- Two photo placeholders -->
+  <rect x="80" y="200" width="440" height="500" fill="#1A5F5A" opacity="0.08"/>
+  <rect x="80" y="200" width="440" height="500" fill="none" stroke="#1A5F5A" stroke-width="2" stroke-dasharray="6 4" opacity="0.4"/>
+  <text x="300" y="450" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="20" font-weight="600" fill="#1A5F5A" letter-spacing="3">[ ANTES ]</text>
+  <text x="300" y="478" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="400" fill="#2D2D2D" opacity="0.5">Foto intraoral</text>
+  <text x="300" y="500" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="400" fill="#2D2D2D" opacity="0.5">consentimiento firmado</text>
+
+  <rect x="560" y="200" width="440" height="500" fill="#1A5F5A" opacity="0.08"/>
+  <rect x="560" y="200" width="440" height="500" fill="none" stroke="#1A5F5A" stroke-width="2" stroke-dasharray="6 4" opacity="0.4"/>
+  <text x="780" y="450" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="20" font-weight="600" fill="#1A5F5A" letter-spacing="3">[ DESPUÉS ]</text>
+  <text x="780" y="478" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="400" fill="#2D2D2D" opacity="0.5">Resultado a 6 meses</text>
+  <text x="780" y="500" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="400" fill="#2D2D2D" opacity="0.5">de seguimiento</text>
+
+  <!-- Labels -->
+  <rect x="80" y="220" width="120" height="40" fill="#1A5F5A"/>
+  <text x="140" y="248" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="16" font-weight="700" fill="#FAFAF8" letter-spacing="3">ANTES</text>
+
+  <rect x="880" y="220" width="120" height="40" fill="#B8860B"/>
+  <text x="940" y="248" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="16" font-weight="700" fill="#FAFAF8" letter-spacing="3">DESPUÉS</text>
+
+  <!-- Description -->
+  <text x="540" y="800" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="26" font-weight="600" fill="#1A5F5A">Rehabilitación oral integral</text>
+  <text x="540" y="840" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#2D2D2D" opacity="0.75">Plan en 18 meses · 5 piezas priorizadas ·</text>
+  <text x="540" y="868" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#2D2D2D" opacity="0.75">3 derivadas a especialistas</text>
+
+  <!-- Brand footer -->
+  <text x="540" y="980" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="500" fill="#1A5F5A" letter-spacing="4">OMETZ DENTAL · TE ESCUCHO</text>
+  <text x="540" y="1020" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="11" font-weight="400" fill="#2D2D2D" opacity="0.6">Caso publicado con consentimiento escrito del paciente</text>
+</svg>

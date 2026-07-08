@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Carrusel slide - Eliminar placa">
+  <title>Carrusel — Eliminar placa y sarro</title>
+  <rect width="1080" height="1080" fill="#FAFAF8"/>
+
+  <!-- Slide number -->
+  <text x="80" y="100" font-family="'Montserrat', sans-serif" font-size="20" font-weight="700" fill="#B8860B" letter-spacing="4">1 / 5</text>
+
+  <!-- Big number -->
+  <text x="540" y="280" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="240" font-weight="800" fill="#B8860B" opacity="0.25">1</text>
+
+  <!-- Icon -->
+  <text x="540" y="320" text-anchor="middle" font-size="80">🪥</text>
+
+  <!-- Heading -->
+  <text x="540" y="500" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="60" font-weight="700" fill="#1A5F5A">Eliminar placa</text>
+  <text x="540" y="575" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="60" font-weight="700" fill="#1A5F5A">y sarro</text>
+
+  <!-- Description -->
+  <line x1="490" y1="640" x2="590" y2="640" stroke="#B8860B" stroke-width="2"/>
+  <text x="540" y="730" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="26" font-weight="400" fill="#2D2D2D" opacity="0.8">El cepillado no llega a todos</text>
+  <text x="540" y="770" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="26" font-weight="400" fill="#2D2D2D" opacity="0.8">los rincones. La profilaxis usa</text>
+  <text x="540" y="810" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="26" font-weight="400" fill="#2D2D2D" opacity="0.8">ultrasonido y curetas para sacar</text>
+  <text x="540" y="850" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="26" font-weight="400" fill="#2D2D2D" opacity="0.8">lo que el cepillo no puede.</text>
+
+  <!-- Footer brand -->
+  <text x="540" y="1040" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="500" fill="#1A5F5A" letter-spacing="4">OMETZ DENTAL · TE ESCUCHO</text>
+</svg>

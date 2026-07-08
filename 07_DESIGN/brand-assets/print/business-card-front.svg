@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 200" width="350" height="200" role="img" aria-label="Business card front">
+  <title>Business Card — Front</title>
+  <desc>Print-ready 88.9 x 50.8 mm business card, Ometz Dental.</desc>
+
+  <!-- Cream background -->
+  <rect width="350" height="200" fill="#FAFAF8"/>
+
+  <!-- Decorative terracotta corner top-right -->
+  <path d="M 350 0 L 350 60 Q 290 60 290 0 Z" fill="#B8860B" opacity="0.12"/>
+  <!-- Decorative teal corner bottom-left -->
+  <path d="M 0 200 L 60 200 Q 60 140 0 140 Z" fill="#1A5F5A" opacity="0.10"/>
+
+  <!-- אומץ mark -->
+  <text x="40" y="55" font-family="serif" font-size="32" fill="#B8860B" direction="rtl">אומץ</text>
+
+  <!-- Name -->
+  <text x="40" y="100" font-family="'Montserrat', sans-serif" font-size="14" font-weight="700" fill="#1A5F5A" letter-spacing="3">DRA. GABRIELLA</text>
+  <text x="40" y="118" font-family="'Montserrat', sans-serif" font-size="14" font-weight="700" fill="#1A5F5A" letter-spacing="3">GONZÁLEZ PANE</text>
+
+  <!-- Divider -->
+  <line x1="40" y1="130" x2="80" y2="130" stroke="#B8860B" stroke-width="1.5"/>
+
+  <!-- Title -->
+  <text x="40" y="148" font-family="'Montserrat', sans-serif" font-size="9" font-weight="500" fill="#2D2D2D" letter-spacing="2">ODONTOLOGÍA · REHABILITACIÓN ORAL</text>
+
+  <!-- Contact -->
+  <text x="40" y="170" font-family="'Montserrat', sans-serif" font-size="8" font-weight="400" fill="#2D2D2D">📍 Auditores de la Guerra del Chaco 617</text>
+  <text x="40" y="182" font-family="'Montserrat', sans-serif" font-size="8" font-weight="400" fill="#2D2D2D">    Mburucuyá, Asunción</text>
+  <text x="40" y="194" font-family="'Montserrat', sans-serif" font-size="8" font-weight="400" fill="#2D2D2D">📱 WhatsApp +595 9XX XXX XXX</text>
+</svg>

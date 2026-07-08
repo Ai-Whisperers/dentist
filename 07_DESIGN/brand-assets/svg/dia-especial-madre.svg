@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Dia de la Madre">
+  <title>Día de la Madre — Promo</title>
+  <defs>
+    <linearGradient id="bg-mother" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D88C7A"/>
+      <stop offset="100%" stop-color="#FAFAF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg-mother)"/>
+
+  <!-- Brand top -->
+  <text x="540" y="140" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="500" fill="#1A5F5A" letter-spacing="8">OMETZ DENTAL · DÍA DE LA MADRE</text>
+
+  <!-- Flower -->
+  <text x="540" y="320" text-anchor="middle" font-size="120">💐</text>
+
+  <!-- Main message -->
+  <text x="540" y="500" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="100" font-weight="800" fill="#FAFAF8">FELIZ DÍA</text>
+  <text x="540" y="610" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="100" font-weight="800" fill="#FAFAF8">MAMÁ</text>
+
+  <!-- Sub message -->
+  <text x="540" y="720" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="26" font-weight="400" fill="#FAFAF8" opacity="0.95">Una sonrisa cuidada es</text>
+  <text x="540" y="755" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="26" font-weight="400" fill="#FAFAF8" opacity="0.95">un acto de amor propio.</text>
+
+  <!-- Promo box -->
+  <rect x="180" y="820" width="720" height="120" rx="20" fill="#FAFAF8"/>
+  <text x="540" y="870" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="28" font-weight="600" fill="#1A5F5A">Promo Sonrisa de Mamá</text>
+  <text x="540" y="910" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="500" fill="#2D2D2D">Profilaxis a Gs 200.000 (regular 300k)</text>
+
+  <!-- CTA -->
+  <text x="540" y="990" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="700" fill="#1A5F5A">📱 +595 9XX XXX XXX</text>
+</svg>

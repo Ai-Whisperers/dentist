@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" role="img" aria-label="WhatsApp catalog - Segunda opinion">
+  <title>WhatsApp Catalog — Segunda Opinión</title>
+  <desc>WhatsApp Business catalog item for Segunda Opinión written.</desc>
+
+  <rect width="1080" height="1350" fill="#1A5F5A"/>
+
+  <!-- Top brand -->
+  <text x="540" y="100" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="500" fill="#FAFAF8" letter-spacing="8" opacity="0.8">OMETZ DENTAL · SERVICIO PREMIUM</text>
+
+  <!-- Decorative aleph -->
+  <text x="540" y="450" text-anchor="middle" font-family="serif" font-size="280" fill="#B8860B" opacity="0.18" direction="rtl">אומץ</text>
+
+  <!-- Number 2 -->
+  <text x="540" y="500" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="240" font-weight="800" fill="#B8860B" opacity="0.9">2da</text>
+
+  <!-- Title -->
+  <text x="540" y="780" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="80" font-weight="800" fill="#FAFAF8">SEGUNDA</text>
+  <text x="540" y="870" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="80" font-weight="800" fill="#FAFAF8">OPINIÓN</text>
+
+  <!-- Description -->
+  <text x="540" y="950" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="400" fill="#FAFAF8" opacity="0.9">Plan escrito formal · 2-3 días de entrega</text>
+
+  <!-- Includes -->
+  <text x="540" y="1030" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#FAFAF8" opacity="0.75">✓ Examen clínico completo</text>
+  <text x="540" y="1060" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#FAFAF8" opacity="0.75">✓ Análisis del plan original</text>
+  <text x="540" y="1090" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="400" fill="#FAFAF8" opacity="0.75">✓ Plan alternativo por escrito</text>
+
+  <!-- Price -->
+  <rect x="180" y="1140" width="720" height="140" rx="20" fill="#FAFAF8"/>
+  <text x="540" y="1190" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="500" fill="#2D2D2D" opacity="0.6">Desde</text>
+  <text x="540" y="1255" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="58" font-weight="800" fill="#1A5F5A">Gs 450.000</text>
+</svg>

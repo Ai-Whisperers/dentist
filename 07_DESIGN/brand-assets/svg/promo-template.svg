@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Promo card">
+  <title>Promo card — Promo Sonrisa Primavera</title>
+  <rect width="1080" height="1080" fill="#1A5F5A"/>
+
+  <!-- Top promo banner -->
+  <rect x="0" y="0" width="1080" height="120" fill="#B8860B"/>
+  <text x="540" y="78" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="44" font-weight="800" fill="#FAFAF8" letter-spacing="20">PROMO</text>
+
+  <!-- Brand -->
+  <text x="540" y="200" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="20" font-weight="500" fill="#FAFAF8" letter-spacing="6" opacity="0.8">OMETZ DENTAL · TE ESCUCHO</text>
+
+  <!-- Hero flower/seasonal -->
+  <text x="540" y="320" text-anchor="middle" font-size="80">🌸</text>
+
+  <!-- Title -->
+  <text x="540" y="430" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="58" font-weight="700" fill="#FAFAF8">SONRISA</text>
+  <text x="540" y="495" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="58" font-weight="700" fill="#FAFAF8">PRIMAVERA</text>
+
+  <!-- Service -->
+  <text x="540" y="560" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="24" font-weight="500" fill="#FAFAF8" opacity="0.9">Blanqueamiento consultorio</text>
+
+  <!-- Price block -->
+  <rect x="240" y="620" width="600" height="160" rx="20" fill="#FAFAF8"/>
+  <text x="540" y="680" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="28" font-weight="500" fill="#2D2D2D" opacity="0.6">Antes</text>
+  <text x="540" y="720" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="36" font-weight="600" fill="#2D2D2D" text-decoration="line-through" opacity="0.5">Gs 1.200.000</text>
+  <text x="540" y="765" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="56" font-weight="800" fill="#1A5F5A">Gs 960.000</text>
+
+  <!-- Validity -->
+  <text x="540" y="830" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="500" fill="#FAFAF8">Válido del 21 sept al 21 oct</text>
+
+  <!-- CTA -->
+  <rect x="200" y="890" width="680" height="100" rx="50" fill="#B8860B"/>
+  <text x="540" y="935" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="700" fill="#FAFAF8" letter-spacing="3">📱 RESERVÁ POR WHATSAPP</text>
+  <text x="540" y="970" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="16" font-weight="400" fill="#FAFAF8" opacity="0.85">Cupos limitados · Con cita previa</text>
+
+  <!-- Footer -->
+  <text x="540" y="1040" text-anchor="middle" font-family="serif" font-size="36" fill="#B8860B" direction="rtl">אומץ</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Carrusel cierre - CTA">
+  <title>Carrusel — CTA cierre</title>
+  <rect width="1080" height="1080" fill="#1A5F5A"/>
+
+  <!-- Decorative aleph -->
+  <text x="540" y="380" text-anchor="middle" font-family="serif" font-size="280" fill="#B8860B" opacity="0.18" direction="rtl">אומץ</text>
+
+  <!-- Heading -->
+  <text x="540" y="500" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="64" font-weight="700" fill="#FAFAF8">¿Querés tu</text>
+  <text x="540" y="580" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="64" font-weight="700" fill="#FAFAF8">profilaxis?</text>
+
+  <!-- Bullets -->
+  <text x="540" y="680" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="24" font-weight="400" fill="#FAFAF8" opacity="0.85">✓ 40-50 min en consultorio</text>
+  <text x="540" y="720" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="24" font-weight="400" fill="#FAFAF8" opacity="0.85">✓ Examen periodontal completo</text>
+  <text x="540" y="760" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="24" font-weight="400" fill="#FAFAF8" opacity="0.85">✓ Aplicación de flúor</text>
+
+  <!-- CTA box -->
+  <rect x="180" y="830" width="720" height="120" rx="60" fill="#B8860B"/>
+  <text x="540" y="880" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="28" font-weight="700" fill="#FAFAF8" letter-spacing="4">📱 WHATSAPP</text>
+  <text x="540" y="920" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="22" font-weight="500" fill="#FAFAF8">+595 9XX XXX XXX</text>
+
+  <!-- Footer -->
+  <text x="540" y="1020" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="500" fill="#FAFAF8" letter-spacing="4" opacity="0.7">@OMETZDENTAL · MBURUCUYÁ</text>
+</svg>

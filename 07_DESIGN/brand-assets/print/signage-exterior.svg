@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-label="Exterior signage">
+  <title>Exterior Signage — Main Sign</title>
+  <desc>60 x 40 cm outdoor sign for the clinic exterior.</desc>
+
+  <!-- Teal background -->
+  <rect width="600" height="400" fill="#1A5F5A"/>
+
+  <!-- Inner border -->
+  <rect x="20" y="20" width="560" height="360" fill="none" stroke="#B8860B" stroke-width="1.5" opacity="0.6"/>
+  <rect x="30" y="30" width="540" height="340" fill="none" stroke="#B8860B" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- אומץ large -->
+  <text x="300" y="170" text-anchor="middle" font-family="serif" font-size="100" fill="#B8860B" direction="rtl">אומץ</text>
+
+  <!-- Brand -->
+  <text x="300" y="220" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#FAFAF8" letter-spacing="14">OMETZ DENTAL</text>
+
+  <!-- Divider -->
+  <line x1="220" y1="245" x2="380" y2="245" stroke="#B8860B" stroke-width="2"/>
+
+  <!-- Subtitle services -->
+  <text x="300" y="285" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="500" fill="#FAFAF8" letter-spacing="4">REHABILITACIÓN ORAL · SEGUNDA OPINIÓN</text>
+  <text x="300" y="305" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="14" font-weight="500" fill="#FAFAF8" letter-spacing="4">ODONTOLOGÍA RESTAURADORA</text>
+
+  <!-- Tagline -->
+  <text x="300" y="350" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="20" font-weight="400" font-style="italic" fill="#FAFAF8" opacity="0.9">"Te escucho."</text>
+</svg>

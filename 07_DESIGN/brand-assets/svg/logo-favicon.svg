@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ometz Dental favicon">
+  <title>Ometz Dental — Favicon</title>
+  <desc>Compact favicon: אומץ in terracotta on teal circle.</desc>
+
+  <!-- Teal circle -->
+  <circle cx="32" cy="32" r="32" fill="#1A5F5A"/>
+
+  <!-- אומץ -->
+  <text x="32" y="42"
+        text-anchor="middle"
+        font-family="'Frank Ruhl Libre', 'David Libre', 'SBL Hebrew', serif"
+        font-size="26"
+        font-weight="700"
+        fill="#B8860B"
+        direction="rtl"
+        unicode-bidi="bidi-override">אומץ</text>
+</svg>

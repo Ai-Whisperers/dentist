@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Quote card 3 - Segunda opinion">
+  <title>Quote — Segunda opinión</title>
+  <rect width="1080" height="1080" fill="#FAFAF8"/>
+
+  <!-- Right side teal block -->
+  <rect x="720" y="0" width="360" height="1080" fill="#1A5F5A"/>
+
+  <!-- Top brand on left -->
+  <text x="80" y="160" font-family="'Montserrat', sans-serif" font-size="20" font-weight="600" fill="#1A5F5A" letter-spacing="6">SEGUNDA OPINIÓN</text>
+  <line x1="80" y1="195" x2="180" y2="195" stroke="#B8860B" stroke-width="3"/>
+
+  <!-- Main statement -->
+  <text x="80" y="320" font-family="'Montserrat', sans-serif" font-size="74" font-weight="700" fill="#2D2D2D">Una segunda</text>
+  <text x="80" y="410" font-family="'Montserrat', sans-serif" font-size="74" font-weight="700" fill="#2D2D2D">opinión no es</text>
+  <text x="80" y="540" font-family="'Montserrat', sans-serif" font-size="74" font-weight="700" fill="#1A5F5A">desconfianza.</text>
+  <text x="80" y="630" font-family="'Montserrat', sans-serif" font-size="74" font-weight="700" fill="#1A5F5A">Es sentido</text>
+  <text x="80" y="720" font-family="'Montserrat', sans-serif" font-size="74" font-weight="700" fill="#1A5F5A">común.</text>
+
+  <!-- List -->
+  <text x="80" y="830" font-family="'Montserrat', sans-serif" font-size="22" font-weight="400" fill="#2D2D2D">✓ Confirma o ajusta diagnóstico</text>
+  <text x="80" y="870" font-family="'Montserrat', sans-serif" font-size="22" font-weight="400" fill="#2D2D2D">✓ Plan escrito para comparar</text>
+  <text x="80" y="910" font-family="'Montserrat', sans-serif" font-size="22" font-weight="400" fill="#2D2D2D">✓ Reduce sobretratamiento</text>
+
+  <!-- CTA bottom left -->
+  <rect x="80" y="950" width="320" height="60" rx="30" fill="#1A5F5A"/>
+  <text x="240" y="990" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="700" fill="#FAFAF8">📱 Pedir por WhatsApp</text>
+
+  <!-- Right side content -->
+  <text x="900" y="200" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="18" font-weight="500" fill="#FAFAF8" letter-spacing="6">CONSULTA 45-60 min</text>
+
+  <text x="900" y="450" text-anchor="middle" font-family="serif" font-size="240" fill="#B8860B" direction="rtl">אומץ</text>
+
+  <text x="900" y="900" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="32" font-weight="700" fill="#FAFAF8">Gs 450-600k</text>
+  <text x="900" y="940" text-anchor="middle" font-family="'Montserrat', sans-serif" font-size="16" font-weight="400" fill="#FAFAF8" opacity="0.7">según complejidad</text>
+</svg>
