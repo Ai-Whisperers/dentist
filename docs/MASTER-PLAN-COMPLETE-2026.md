@@ -7,7 +7,7 @@
 > - ADN Profesional (marca): `00_STRATEGIC/ADN-Profesional-Dra-Gabriela-Gonzalez-Pane-EXTENDIDO.pdf`
 > - Pricing canónico: `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
 > - Work plan legacy: `docs/REPO-WORK-PLAN.md` (P0-P5 — repo hygiene)
-> - TODO operacional: `TODO.md` + `MASTER-TODO.md`
+> - TODO operacional: `docs/MASTER-TODO-RESTANTE.md` + `MASTER-docs/MASTER-TODO-RESTANTE.md`
 > - Plan sitio live: `07_DESIGN/website/WEBSITE-COMPLETE.md`
 
 ---
@@ -99,7 +99,7 @@ Este doc **integra** todos los workstreams del proyecto Ometz Dental. Estructura
 |---|---|---|---|---|
 | R-RRHH-1 | Contratación de auxiliares / recepcionistas PY | 🟢 | `DG07_dental_team_hiring_2026-07-06.md` + `procurement/paraguay-dental-labor-assistant-receptionist-costs.md` | ✅ Completo |
 | R-RRHH-2 | Compensación (sueldo + beneficios) PY dental | 🟢 | mismo doc | ✅ Completo |
-| R-RRHH-3 | Roles: asistente, recepcionista, community manager | 🟢 | `MASTER-TODO.md` línea 33 (Gaby NO quiere CM) | 🟡 Decidir quién |
+| R-RRHH-3 | Roles: asistente, recepcionista, community manager | 🟢 | `MASTER-docs/MASTER-TODO-RESTANTE.md` línea 33 (Gaby NO quiere CM) | 🟡 Decidir quién |
 | R-RRHH-4 | Protocolo de selección y onboarding | ⚪ | — | ⚪ Crear cuando contrate |
 | R-RRHH-5 | Contrato laboral PY (plantilla) | ⚪ | — | ⚪ Con contador de Gaby |
 
@@ -904,7 +904,7 @@ Este número captura: retención, calidad clínica, satisfacción, boca-a-boca, 
 
 | Versión | Fecha | Cambio |
 |---|---|---|
-| 1.0 | 7 jul 2026 | Creación inicial. Integra REPO-WORK-PLAN (P0-P5) + TODO.md (P0-P10) + nuevas áreas (research market coaching) + upgrade ops + business ideas + planes + consideraciones. |
+| 1.0 | 7 jul 2026 | Creación inicial. Integra REPO-WORK-PLAN (P0-P5) + docs/MASTER-TODO-RESTANTE.md (P0-P10) + nuevas áreas (research market coaching) + upgrade ops + business ideas + planes + consideraciones. |
 
 ## 8.5 Próxima revisión
 

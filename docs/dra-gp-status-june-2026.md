@@ -64,7 +64,7 @@
 | What | Where |
 |------|-------|
 | Full plan | `docs/REPO-WORK-PLAN.md` |
-| This week tracker | `TODO.md` |
+| This week tracker | `docs/MASTER-TODO-RESTANTE.md` |
 | Phase 0 checklist | `00_STRATEGIC/PHASE-0-CHECKLIST-JUNE-2026.md` |
 | Corporate tracker | `03_LAUNCH/corporate-sales/outreach/corporate-sales-tracker.xlsx` |
 | Competitor intel | `01_RESEARCH/market/battle-cards/` |

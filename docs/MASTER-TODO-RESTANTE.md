@@ -626,7 +626,7 @@ En orden de importancia:
 
 - `docs/PLAN-NEXT-STEPS-BRANDING-MARKETING.md` — plan inicial
 - `docs/GAP-ANALYSIS-COMPLETO-ADS-LOCATIONS.md` — gap analysis previo
-- `MASTER-TODO.md` — master tracker
+- `MASTER-docs/MASTER-TODO-RESTANTE.md` — master tracker
 - `MERGE-TODO-PENDING.md` — tareas pendientes
 - `05_OPERATIONS/guia-habilitacion-mspbs-operativa.md` — guía habilitación
 - `01_RESEARCH/legal-compliance/seguros-responsabilidad-civil-odontologos-py-2026.md` — seguros

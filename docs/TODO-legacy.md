@@ -17,7 +17,7 @@
 - [x] Actualizar CLAUDE.md con nueva marca y decisiones
 - [x] Actualizar start-here.md con nueva marca
 - [x] Actualizar README de gabi-audio-prompts
-- [x] Crear MASTER-TODO.md como single source of truth
+- [x] Crear MASTER-docs/MASTER-TODO-RESTANTE.md como single source of truth
 
 ## P0.5 — Datos confirmados de Gaby (28 jun 2026) ✅ NEW
 - [x] Email profesional: `doctora.gabi@ometsdental.com.py`
@@ -141,7 +141,7 @@
 - [x] `02_MEETINGS/gabi-audio-prompts/00-ANALYSIS-questionnaires.md`
 - [x] `CLAUDE.md` actualizado con nueva marca
 - [x] `start-here.md` actualizado
-- [x] `MASTER-TODO.md` (single source of truth del plan)
+- [x] `MASTER-docs/MASTER-TODO-RESTANTE.md` (single source of truth del plan)
 - [ ] `COMPLETE-INDEX.md` actualizar con los nuevos archivos
 
 ---
@@ -161,7 +161,7 @@
 
 ## 🟢 Lo que ya está hecho (no rehacer)
 
-Ver `MASTER-TODO.md` sección "Lo que ya está hecho".
+Ver `MASTER-docs/MASTER-TODO-RESTANTE.md` sección "Lo que ya está hecho".
 
 ---
 

@@ -35,7 +35,7 @@
 | ID | Task | Steps | Acceptance |
 |----|------|-------|-----------|
 | P1.1 | Auto-count script | `tools/repo-audit.py` with subcommand `counts` that prints per-folder .md counts and exact total. Output is deterministic. | Run: `python tools/repo-audit.py counts` |
-| P1.2 | Unify entry points | Make README the single hub. start-here.md becomes "executive summary of the kit" only. COMPLETE-INDEX.md becomes machine-generated appendix from P1.1. TODO.md stays as action tracker. | README references all other entry points |
+| P1.2 | Unify entry points | Make README the single hub. start-here.md becomes "executive summary of the kit" only. COMPLETE-INDEX.md becomes machine-generated appendix from P1.1. docs/MASTER-TODO-RESTANTE.md stays as action tracker. | README references all other entry points |
 | P1.3 | Missing 00-index.md | Every folder that lacks `00-index.md` gets one: list contents + purpose + key docs to read first. Folders checked: 04_SALES, 05_OPERATIONS/clinical-routines, 05_OPERATIONS/patient-communications, 05_OPERATIONS/legal-compliance, 06_MARKETING, 07_DESIGN/brand-assets, 08_WHATSAPP/templates | No folder is missing its index |
 | P1.4 | Dead-link sweep | Run P0.5 validator on full active tree. Fix every broken intra-repo link. Add to pre-commit hook (Phase 3) | 0 broken intra-repo links |
 | P1.5 | Folder naming audit | Confirm no spaces remain in folder names. Confirm `06_MARKETING/` only (no `06 MARKETING/`). Rename if found. | `find . -type d -name '* *'` returns 0 results in active tree |
@@ -50,7 +50,7 @@
 | ID | Task | Steps | Acceptance |
 |----|------|-------|-----------|
 | P2.1 | Pricing table completeness | For every service in `canonical-pricing-reference-v2.md`, grep across active folders and verify each service appears in at least 3 consumer-facing docs (pricing page, agreement, one-pager, website content). Add missing cross-refs. | 100% coverage |
-| P2.2 | Phase 0 checklist | `00_STRATEGIC/PHASE-0-CHECKLIST-JUNE-2026.md`: expand the 7 awaiting items into sub-items with owner, data source, deadline, and evidence needed. Wire to TODO.md. | Checklist is actionable without new info |
+| P2.2 | Phase 0 checklist | `00_STRATEGIC/PHASE-0-CHECKLIST-JUNE-2026.md`: expand the 7 awaiting items into sub-items with owner, data source, deadline, and evidence needed. Wire to docs/MASTER-TODO-RESTANTE.md. | Checklist is actionable without new info |
 | P2.3 | Patient journey specs | Write 3 patient profiles (insurance, private premium, expat). Map each through: first-contact → scheduling → consultation → treatment plan → payment → recall. Link existing templates to each touchpoint. | 3 de-identified journeys, template cross-refs added |
 | P2.4 | Competitor battle cards | From `01_RESEARCH/market/mystery-shop-20-clinics-report.md`, extract top 3 competitors. One-pager each: positioning, price range, differentiators, weakness. Place in `01_RESEARCH/market/battle-cards/`. | 3 battle cards referencing only verified mystery-shop data |
 | P2.5 | Objection library | From `08_WHATSAPP/flows/` and meeting notes, extract 20 real objections. Template replies split by channel (WhatsApp, phone, in-person). Place in `08_WHATSAPP/templates/objection-library.md`. | 20 objections, reply templates |
@@ -69,7 +69,7 @@
 | P3.1 | `tools/repo-audit.py` (comprehensive) | Subcommands: `counts`, `stale` (grep known stale strings), `crossrefs` (P0.5), `sizes` (largest files per folder), `summary` (all in one). Run as cron. | `python tools/repo-audit.py summary` outputs dashboard |
 | P3.2 | Price propagation script | `tools/update-pricing.py`: reads `canonical-pricing-reference-v2.md`, finds all price tables in active docs, asks (interactive) for confirmations before patching. Log changes to `CHANGELOG.md`. | Dry-run shows 10+ planned changes; actual run applies + commits |
 | P3.3 | Pre-commit hook | `.git/hooks/pre-commit` or `scripts/pre-commit`: run `repo-audit.py stale`; fail commit if any stale hit in non-ARCHIVE files. | Git commit blocks on P0.1/P0.2 violations |
-| P3.4 | Monthly review cron | Weekly cron that runs `repo-audit.py summary`, diffs TODO.md completed vs pending vs last-week snapshot, posts summary to Telegram/n8tify. | First automated review runs and delivers summary within 30 min |
+| P3.4 | Monthly review cron | Weekly cron that runs `repo-audit.py summary`, diffs docs/MASTER-TODO-RESTANTE.md completed vs pending vs last-week snapshot, posts summary to Telegram/n8tify. | First automated review runs and delivers summary within 30 min |
 
 ---
 
@@ -80,8 +80,8 @@
 
 | ID | Task | Steps | Acceptance |
 |----|------|-------|-----------|
-| P4.1 | Dra. GP one-pager | Collapse TODO.md awaiting-items + Phase 0 checklist into a single, visually clean Markdown page. Phone-friendly formatting (tables, no long paragraphs). Place at `docs/dra-gp-status-june-2026.md`. | Fits on one mobile screen per section |
-| P4.2 | Phase 0 binder | Combine TODO.md + checklist + decision tree + pricing summary into `docs/phase-0-binder.md`. Print-ready (wide margins, page-break hints). | PDF export renders correctly from Markdown |
+| P4.1 | Dra. GP one-pager | Collapse docs/MASTER-TODO-RESTANTE.md awaiting-items + Phase 0 checklist into a single, visually clean Markdown page. Phone-friendly formatting (tables, no long paragraphs). Place at `docs/dra-gp-status-june-2026.md`. | Fits on one mobile screen per section |
+| P4.2 | Phase 0 binder | Combine docs/MASTER-TODO-RESTANTE.md + checklist + decision tree + pricing summary into `docs/phase-0-binder.md`. Print-ready (wide margins, page-break hints). | PDF export renders correctly from Markdown |
 | P4.3 | Investor summary | 1-page from `00_STRATEGIC/financial-pricing/financial-model-projections-v2.md`: ask amount, months of runway, break-even scenario, risk factors. Export-ready. | Fits 1 page; numbers match canonical |
 
 ---

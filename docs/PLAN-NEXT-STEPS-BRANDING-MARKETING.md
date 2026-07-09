@@ -420,7 +420,7 @@ En Gs al cambio actual: **Gs 56-100 millones.** Equivale a ~15-25 pacientes de t
 
 ### Para Erebus (esta semana, en paralelo):
 1. ✅ ~~Generar calendario de feriados + calendario operativo + 52 posts pre-armados + sistema de templates + playbook de captura~~.
-2. Actualizar `MASTER-TODO.md` con este nuevo plan.
+2. Actualizar `MASTER-docs/MASTER-TODO-RESTANTE.md` con este nuevo plan.
 3. Preparar 6 archivos JSON de contenido (5 posts + 1 cover) listos para subir a Meta Business Suite apenas Gaby mande los datos.
 4. Standby para deploy de `ometzdental.com` (raíz) → swarm con la dirección real.
 
@@ -447,7 +447,7 @@ Ai-Whisperers/dentist/
 ├── content/              (en + es, JSONs) — contenido del sitio live
 ├── docs/                 (3 docs) — executive summary, master plan
 ├── tools/                (scripts) — repo-audit, validate-refs
-├── MASTER-TODO.md        (este es el master)
+├── MASTER-docs/MASTER-TODO-RESTANTE.md        (este es el master)
 └── COMPLETE-INDEX.md     (índice completo)
 ```
 

@@ -92,7 +92,7 @@ Option C (full exit) → larger roadmap, not this week
 docs/REPO-WORK-PLAN.md       Overall plan
 docs/dra-gp-status-june-2026.md   Current one-pager
 docs/phase-0-binder.md       This print-ready bundle
-TODO.md                       Action tracker
+docs/MASTER-TODO-RESTANTE.md                       Action tracker
 00_STRATEGIC/PHASE-0-CHECKLIST-JUNE-2026.md  This week’s checklist
 00_STRATEGIC/financial-pricing/financial-model-projections-v2.md  Numbers
 00_STRATEGIC/strategic-context/three-strategic-options-analysis.md  A/B/C + recommendation

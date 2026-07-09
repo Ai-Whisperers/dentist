@@ -244,7 +244,7 @@ Todo es **PROYECCIÓN TEÓRICA**. El simulador del crecimiento es solo eso: un s
 
 ## 🔗 CRUZAR CON OTROS DOCUMENTOS
 
-- `MASTER-TODO.md` — tracker principal
+- `MASTER-docs/MASTER-TODO-RESTANTE.md` — tracker principal
 - `docs/PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md` — plan estratégico
 - `docs/MASTER-TODO-RESTANTE.md` — gaps categorizados
 - `docs/GAP-ANALYSIS-COMPLETO-ADS-LOCATIONS.md` — gaps ads

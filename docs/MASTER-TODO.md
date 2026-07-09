@@ -86,7 +86,7 @@ Crear los 3 cuestionarios priorizados:
 - [x] Commit y push
 - [ ] Actualizar `CLAUDE.md` para reflejar la nueva realidad
 - [ ] Actualizar `start-here.md` con la nueva marca
-- [ ] Actualizar `TODO.md` con este master
+- [ ] Actualizar `docs/MASTER-TODO-RESTANTE.md` con este master
 - [ ] Actualizar `COMPLETE-INDEX.md` con los nuevos archivos
 - [ ] Actualizar `00_STRATEGIC/00-index.md` con nuevos docs
 - [ ] Decisión sobre dónde queda el ADN en los nuevos archivos
