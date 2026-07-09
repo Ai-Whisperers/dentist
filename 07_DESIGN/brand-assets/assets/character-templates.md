@@ -220,7 +220,7 @@ SLIDE 6 (cierre):
 │                                     │
 │      ¿Querés tu profilaxis?         │
 │                                     │
-│      📱 +595 9XX XXX XXX            │
+│      📱 +595 981 146 759            │
 │         (WhatsApp)                  │
 │                                     │
 │  [Logo Ometz grande blanco]         │
@@ -259,7 +259,7 @@ SLIDE 6 (cierre):
 │  │ DENTAL      │ │ OPINIÓN     │    │
 │  └─────────────┘ └─────────────┘    │
 │                                     │
-│  📱 +595 9XX XXX XXX                │
+│  📱 +595 981 146 759                │
 │  [Logo Ometz]                       │
 │                                     │
 └─────────────────────────────────────┘
@@ -289,7 +289,7 @@ SLIDE 6 (cierre):
 │                                     │
 │      Válido: [FECHAS]               │
 │                                     │
-│  📱 +595 9XX XXX XXX                │
+│  📱 +595 981 146 759                │
 │                                     │
 │  [Logo Ometz blanco]                │
 │                                     │
@@ -332,7 +332,7 @@ SLIDE 6 (cierre):
 │  primer paso es siempre el          │
 │  mismo: te escucho.                 │
 │                                     │
-│  📱 +595 9XX XXX XXX                │
+│  📱 +595 981 146 759                │
 │                                     │
 │  [Logo Ometz]                       │
 │                                     │
@@ -458,7 +458,7 @@ OPCIÓN B (con logo):
 │      Promo Sonrisa de Mamá          │
 │      [DETALLE]                      │
 │                                     │
-│  📱 +595 9XX XXX XXX                │
+│  📱 +595 981 146 759                │
 │                                     │
 │  [Logo Ometz]                       │
 │                                     │

@@ -12,7 +12,7 @@
 2. **Edita en CapCut o InShot** (gratis, mobile)
 3. **Subtítulos SIEMPRE** (80% mira sin sonido)
 4. **Hook en los primeros 2 segundos** (si no, scroll)
-5. **CTA al final**: "escribime al WhatsApp +595 9XX XXX XXX"
+5. **CTA al final**: "escribime al WhatsApp +595 981 146 759"
 6. **Hashtags**: `#OmetzDental #TeEscucho #Asunción` + 3-5 específicos
 
 > **Frecuencia sugerida:** 1 Reel/semana cuando tengamos capacidad. Empezar con 2/mes para no quemar a Gaby.
@@ -47,7 +47,7 @@ plan escrito. Sin compromiso."
 Gaby sonríe:
 "En Ometz Dental, te escucho.
 Escribime al WhatsApp."
-[Texto en pantalla: +595 9XX XXX XXX]
+[Texto en pantalla: +595 981 146 759]
 
 CAPTION:
 ¿Una segunda opinión vale la pena? Sí.
@@ -97,7 +97,7 @@ Gaby: "No es desconfianza. Es sentido común."
 
 [CTA - 42-45s]
 "¿Querés saber más? Escribime al WhatsApp."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 
 CAPTION:
 La verdad que tu dentista no te dice.
@@ -130,7 +130,7 @@ Por eso vengo cada 6 meses."
 
 [CTA - 20-25s]
 "¿Tenés manchitas así? Hacete un control."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 
 CAPTION:
 Atrapá la caries antes de que duela. 🦷
@@ -164,7 +164,7 @@ Eso es lo que hacés en Ometz."
 
 [CTA - 25-30s]
 "¿Tu última profilaxis fue completa?"
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -193,7 +193,7 @@ Eso es Ometz. אומץ."
 
 [CTA - 25-30s]
 "Te escucho. Escribime."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 
 CAPTION:
 La diferencia es el coraje. 🦷
@@ -231,7 +231,7 @@ Solo vos y yo."
 [27-30s]
 Gaby mira a cámara:
 "¿Venís?"
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 
 CAPTION:
 Te esperamos. ☕📚
@@ -271,7 +271,7 @@ B-roll: pulir + alta luz
 
 [CTA - 42-45s]
 "¿Tenés caries para arreglar?"
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 
 CAPTION:
 Una restauración explicada en 4 pasos. 🦷
@@ -337,7 +337,7 @@ mejor servicio que te puedo dar."
 
 [CTA - 30-35s]
 "En Ometz Dental, los 3 son la base."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -367,7 +367,7 @@ para hablar. Sin tocar. Sin prisa."
 
 [CTA - 25-30s]
 "¿Querés dar el primer paso?"
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -396,7 +396,7 @@ Profilaxis para mamá: Gs 200.000
 
 [CTA - 17-20s]
 "Escribime 'MAMÁ' y te confirmo."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -421,7 +421,7 @@ Cupos limitados. Se pagan por adelantado."
 
 [CTA - 22-25s]
 "Reservá con 'BLACK' al WhatsApp."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -454,7 +454,7 @@ hay que tratar la causa."
 
 [CTA - 25-30s]
 "Si te pasa, escribime 'BRUXISMO'."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -482,7 +482,7 @@ Ignorarla no la arregla."
 
 [CTA - 22-25s]
 "Diagnóstico en 30 min. Escribime."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -515,7 +515,7 @@ cueste más, dura más."
 
 [CTA - 32-35s]
 "¿Tenés dudas? Te explico tu caso."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -545,7 +545,7 @@ No compres el más barato chino."
 
 [CTA - 27-30s]
 "¿Más dudas? Escribime."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -575,7 +575,7 @@ probad:
 
 [CTA - 22-25s]
 "¿Usás hilo? ¿Sí o no? Comentame."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -603,7 +603,7 @@ With appointment."
 
 [CTA - 25-30s]
 "Message me on WhatsApp."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 
 CAPTION:
 English-speaking conservative dentistry in Asunción. 🦷🇵🇾
@@ -639,7 +639,7 @@ obligation. From Gs 450,000."
 
 [CTA - 37-40s]
 "Book on WhatsApp."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -664,7 +664,7 @@ Con cita previa."
 
 [CTA - 17-20s]
 "Coordinamos los turnos en bloque."
-[Texto: +595 9XX XXX XXX · "AMIGOS"]
+[Texto: +595 981 146 759 · "AMIGOS"]
 ```
 
 ---
@@ -688,7 +688,7 @@ Válido del 1 al 28 de febrero."
 
 [CTA - 17-20s]
 "Reservá con 'FAMILIA' al WhatsApp."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -713,7 +713,7 @@ Cupos: 12 por mes."
 
 [CTA - 22-25s]
 "Reservá con 'PRIMAVERA' al WhatsApp."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -751,7 +751,7 @@ cuánto dura."
 [CTA - 27-30s]
 "¿Querés saber qué materiales
 usaste? Preguntame."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -782,7 +782,7 @@ especialistas."
 
 [CTA - 27-30s]
 "¿Necesitás un especialista? Te derivo."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -814,7 +814,7 @@ real de mi tiempo."
 
 [CTA - 32-35s]
 "¿Tenés preguntas sobre precios?"
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -844,7 +844,7 @@ Para que la gente se sienta escuchada."
 
 [CTA - 27-30s]
 "Si te da ansiedad, escribime."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -873,7 +873,7 @@ acuerdo por qué lo hice."
 
 [CTA - 27-30s]
 "Si querés saber más, escribime."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -902,7 +902,7 @@ Ser valiente. Ser Ometz."
 
 [CTA - 22-25s]
 "Te escucho."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -936,7 +936,7 @@ Con opciones. Con precios."
 Gaby mira a cámara:
 "Cada día es así. Paciente por paciente.
 Con criterio. Te escucho."
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---
@@ -969,7 +969,7 @@ Te escucho. Escribime."
 
 [50-60s]
 Logo Ometz + WhatsApp
-[Texto: +595 9XX XXX XXX]
+[Texto: +595 981 146 759]
 ```
 
 ---

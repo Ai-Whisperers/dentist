@@ -51,7 +51,7 @@ paso, y armamos juntos un plan que tenga sentido.
 
 📍 Auditores de la Guerra del Chaco 617, Mburucuyá
 🕐 Lunes a viernes, 14:30 a 19:00 — con cita previa
-📱 WhatsApp: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759
 
 אומץ (Ometz) significa "coraje" en hebreo. El coraje de pensar
 antes de tocar, conservar antes de reemplazar, y explicar antes
@@ -86,7 +86,7 @@ de cualquier tratamiento.
 Derivamos a especialistas de confianza para endodoncia, cirugía,
 ortodoncia e implantes.
 
-📱 +595 9XX XXX XXX (WhatsApp)
+📱 +595 981 146 759 (WhatsApp)
 ```
 
 ### POST 3 — Perfil Dra. Gaby
@@ -105,7 +105,7 @@ Habla español e inglés. Atiende expats y pacientes internacionales.
 
 "En Ometz Dental, no vendo tratamientos. Vendo criterio."
 
-📱 +595 9XX XXX XXX (WhatsApp)
+📱 +595 981 146 759 (WhatsApp)
 📍 Mburucuyá, Asunción
 ```
 
@@ -127,7 +127,7 @@ cuidado.
 Si te da ansiedad ir al dentista, no estás solo/a. Es lo más
 común del mundo. Vení igual. Te explico todo paso a paso.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 📍 Mburucuyá, Asunción
 ```
 
@@ -149,7 +149,7 @@ plan original y plan alternativo por escrito.
 
 Costo: Gs 450.000 a 600.000 según complejidad.
 
-📱 +595 9XX XXX XXX (WhatsApp)
+📱 +595 981 146 759 (WhatsApp)
 ```
 
 ### POST 6 — Día del Amigo (20 julio)
@@ -163,7 +163,7 @@ Gs 200.000 (regular Gs 300.000).
 Válido del 13 al 31 de julio de 2026.
 
 Coordinamos los turnos en bloque para que vengan juntos.
-WhatsApp: +595 9XX XXX XXX.
+WhatsApp: +595 981 146 759.
 
 — Dra. Gabriella González Pane · Ometz Dental
 ```
@@ -184,7 +184,7 @@ procedimiento clínico con objetivos específicos:
 
 En Ometz Dental la profilaxis dura entre 40 y 50 minutos, no 15.
 
-📱 +595 9XX XXX XXX (WhatsApp)
+📱 +595 981 146 759 (WhatsApp)
 📍 Mburucuyá, Asunción
 ```
 
@@ -202,7 +202,7 @@ En Ometz Dental la profilaxis dura entre 40 y 50 minutos, no 15.
 
 No vendemos tratamientos. Vendemos criterio.
 
-📱 +595 9XX XXX XXX (WhatsApp)
+📱 +595 981 146 759 (WhatsApp)
 ```
 
 ### POST 9 — Dientes sensibles
@@ -223,7 +223,7 @@ Lo que NO hay que hacer: ignorar y "aguantar".
 En Ometz Dental, diagnóstico en 30 minutos. Identificamos la
 causa y te decimos qué se puede hacer.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ### POST 10 — Blanqueamiento
@@ -249,7 +249,7 @@ Lo que SÍ:
 
 Costo en Ometz Dental: evaluación previa sin compromiso.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ### POST 11 — Mes del Odontólogo (12 sept)
@@ -292,7 +292,7 @@ Señales de alerta:
 
 Durante noviembre, consulta preventiva sin cargo en Ometz.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ### POST 13 — Bruxismo
@@ -314,7 +314,7 @@ Causa principal: estrés.
 Solución: placa de descarga + manejo del estrés. No solo el
 síntoma, hay que tratar la causa.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ### POST 14 — Black Friday
@@ -334,7 +334,7 @@ Del 1 al 7 de diciembre:
 Cupos limitados. Se pagan por adelantado. Reembolso completo
 si cancelás con 48h de anticipación.
 
-📱 Reservá ahora: +595 9XX XXX XXX
+📱 Reservá ahora: +595 981 146 759
 ```
 
 ### POST 15 — Navidad gift cards
@@ -353,7 +353,7 @@ Gift cards digitales de Ometz Dental:
 
 Se envían por WhatsApp al destinatario. Válidas por 6 meses.
 
-📱 Comprá tu gift card: +595 9XX XXX XXX
+📱 Comprá tu gift card: +595 981 146 759
 ```
 
 ### POST 16 — Caries y dieta
@@ -380,7 +380,7 @@ Recomendaciones:
 ✓ No comás azúcar entre comidas
 ✓ Visita al dentista cada 6 meses
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ### POST 17 — Año nuevo
@@ -398,7 +398,7 @@ Este año, regalá salud. Regalá tiempo. Regalá una sonrisa cuidada.
 
 Volvemos el [FECHA] con turnos para [AÑO].
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 — Dra. Gabriella González Pane · Ometz Dental
 ```
@@ -418,7 +418,7 @@ Promo "Mamá en Ometz" (válida la semana del Día de la Madre):
 
 Todos los servicios incluyen regalo: set de higiene oral premium.
 
-📱 Reservá el turno de mamá: +595 9XX XXX XXX
+📱 Reservá el turno de mamá: +595 981 146 759
 ```
 
 ### POST 19 — Día del Trabajador
@@ -454,7 +454,7 @@ Promo "Sonrisa Primavera" (21 sept al 21 oct):
 
 Cupos: 12 por mes.
 
-📱 Reservá tu lugar: +595 9XX XXX XXX
+📱 Reservá tu lugar: +595 981 146 759
 ```
 
 ### POST 21 — Aniversario 3 meses
@@ -501,7 +501,7 @@ Beneficios de dejar el tabaco:
 ✔ A los 3 meses: flujo salival normalizado
 ✔ Al año: 50% menos riesgo de cáncer bucal
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ### POST 23 — Vuelta a clases
@@ -521,7 +521,7 @@ Válido del 1 al 28 de febrero.
 
 Para los más chicos derivamos a odontopediatras de confianza.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ### POST 24 — Enjuague bucal
@@ -544,7 +544,7 @@ Reglas:
 ✔ Sí usar después de las comidas si no podés cepillarte
 ✔ Niños <6 años NO deben usar enjuague
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ### POST 25 — Aniversario 6 meses
@@ -600,7 +600,7 @@ Promo "Aniversario Ometz" (válida todo el mes):
 Gracias a cada paciente, colega, familia y amigo.
 
 — Dra. Gabriella González Pane
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 ```
 
 ---
@@ -610,7 +610,7 @@ Gracias a cada paciente, colega, familia y amigo.
 - 26 posts pre-armados para 6 meses
 - 1 descripción de negocio (750 caracteres)
 - Cobertura de fechas especiales + pilares P1-P5
-- CTA claro en cada uno (WhatsApp +595 9XX XXX XXX)
+- CTA claro en cada uno (WhatsApp +595 981 146 759)
 
 ---
 

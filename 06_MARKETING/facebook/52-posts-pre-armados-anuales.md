@@ -44,7 +44,7 @@ Hoy abrimos las puertas de Ometz Dental. 📍
 
 Barrio Mburucuyá, Asunción
 Lunes a viernes, 14:30 a 19:00 — con cita previa
-WhatsApp: +595 9XX XXX XXX
+WhatsApp: +595 981 146 759
 
 Ometz (אומץ) significa "coraje" en hebreo. El coraje
 que elijo tener es el de pensar antes de tocar, escuchar
@@ -97,7 +97,7 @@ Si te da ansiedad ir al dentista, no estás solo/a. Es
 lo más común del mundo. Vení igual. Te explico todo
 paso a paso.
 
-📱 WhatsApp: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759
 📍 Barrio Mburucuyá, Asunción
 
 #OmetzDental #TeEscucho #Asunción
@@ -141,7 +141,7 @@ para firmar. Te explico qué veo, qué opciones tenés,
 y qué le haría yo si fuera mi boca.
 
 📱 Para una segunda opinión con plan escrito:
-+595 9XX XXX XXX (WhatsApp)
++595 981 146 759 (WhatsApp)
 
 #OmetzDental #SegundaOpinion #TeEscucho #Asunción
 ```
@@ -186,7 +186,7 @@ plan que no los convenció, o quieren una mirada externa
 antes de avanzar.
 
 📍 Mburucuyá, Asunción — con cita previa
-📱 WhatsApp: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759
 
 #OmetzDental #RehabilitaciónOral #Asunción
 #SegundaOpinion
@@ -226,7 +226,7 @@ entre 45 y 60 minutos. Incluye:
 Costo: Gs 450.000 a 600.000 según complejidad.
 
 📱 Si tenés un plan sobre la mesa y querés otra mirada,
-escribime al WhatsApp +595 9XX XXX XXX. Coordinamos
+escribime al WhatsApp +595 981 146 759. Coordinamos
 horario y me traés lo que tengas.
 
 — Dra. Gabriella González Pane
@@ -272,7 +272,7 @@ mismo: te escucho, te explico, y armamos un plan
 juntos. No vendemos tratamientos. Vendemos criterio.
 
 📱 Si tenés un plan sobre la mesa y querés una segunda
-mirada: +595 9XX XXX XXX (WhatsApp)
+mirada: +595 981 146 759 (WhatsApp)
 
 #OmetzDental #TeEscucho #Asunción #RehabilitaciónOral
 ```
@@ -310,7 +310,7 @@ minutos, no 15. Incluye:
 
 No es un commodity. Es tu base de mantenimiento.
 
-📱 Pedí tu turno: +595 9XX XXX XXX
+📱 Pedí tu turno: +595 981 146 759
 
 #OmetzDental #Profilaxis #Asunción #Prevención
 ```
@@ -339,7 +339,7 @@ Válido del 13 al 31 de julio de 2026.
 Todos los días, con cita previa.
 
 📱 Coordinamos los turnos en bloque para que vengan
-juntos. WhatsApp: +595 9XX XXX XXX.
+juntos. WhatsApp: +595 981 146 759.
 
 — Dra. Gabriella González Pane
    Ometz Dental
@@ -384,7 +384,7 @@ Gs 300.000 e incluye:
 — Radiografía periapical si hace falta
 — Plan con opciones
 
-📱 Pedí tu turno: +595 9XX XXX XXX
+📱 Pedí tu turno: +595 981 146 759
 
 #OmetzDental #SensibilidadDental #Asunción
 ```
@@ -426,7 +426,7 @@ Costo en Ometz Dental:
 
 Siempre con evaluación previa. Sin excepciones.
 
-📱 Pedí tu turno: +595 9XX XXX XXX
+📱 Pedí tu turno: +595 981 146 759
 
 #OmetzDental #Blanqueamiento #Asunción #Estética
 ```
@@ -469,7 +469,7 @@ Cómo se trabaja en Ometz Dental:
 20 años de experiencia me enseñaron: el plan es el 80%
 del tratamiento.
 
-📱 Para una consulta de rehabilitación: +595 9XX XXX XXX
+📱 Para una consulta de rehabilitación: +595 981 146 759
 
 — Dra. Gabriella González Pane
 
@@ -546,7 +546,7 @@ de nuestra red.
 Pero sí diagnosticamos. La consulta inicial es para eso:
 saber qué tenés y a quién derivarte con confianza.
 
-📱 Pedí tu diagnóstico: +595 9XX XXX XXX
+📱 Pedí tu diagnóstico: +595 981 146 759
 
 #OmetzDental #Endodoncia #Conducto #Asunción
 ```
@@ -614,7 +614,7 @@ la Madre):
 Todos los servicios incluyen regalo: set de higiene
 oral premium (cepillo + pasta + hilo dental).
 
-📱 Reservá el turno de mamá: +595 9XX XXX XXX
+📱 Reservá el turno de mamá: +595 981 146 759
 
 — Dra. Gabriella González Pane
 
@@ -656,7 +656,7 @@ Lo que NO usamos:
 
 La diferencia en precio se nota en la duración.
 
-📱 Consultá sobre tu tratamiento: +595 9XX XXX XXX
+📱 Consultá sobre tu tratamiento: +595 981 146 759
 
 #OmetzDental #MaterialesDentales #Calidad
 ```
@@ -690,7 +690,7 @@ no le tengo miedo al dentista."
 
 La salud empieza por sentirse escuchado/a.
 
-📱 +595 9XX XXX XXX (WhatsApp)
+📱 +595 981 146 759 (WhatsApp)
 
 #OmetzDental #TeEscucho #Asunción #RehabilitaciónOral
 ```
@@ -725,7 +725,7 @@ Es:
 Si hace más de 6 meses que no vas al dentista, este
 es un buen momento para empezar.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 — Dra. Gabriella González Pane
 
@@ -766,7 +766,7 @@ MUCHO antes de los dientes de leche:
 En Ometz Dental atendemos adultos. Para niños y
 adolescentes derivamos a odontopediatras de confianza.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #SaludBucal #Prevención #Asunción
 ```
@@ -838,7 +838,7 @@ cualquier paso. Coordinamos con el implantólogo para
 que el caso completo tenga sentido.
 
 📱 Para una segunda opinión sobre tu plan de implante:
-+595 9XX XXX XXX
++595 981 146 759
 
 #OmetzDental #PSI #ImplantesDentales #Asunción
 ```
@@ -873,7 +873,7 @@ de anticipación.
 Cupos limitados. Atendemos con cronograma ajustado
 esa semana.
 
-📱 Reservá ahora: +595 9XX XXX XXX
+📱 Reservá ahora: +595 981 146 759
 
 — Dra. Gabriella González Pane
    Ometz Dental
@@ -917,7 +917,7 @@ Lo que NO hay que hacer:
 En Ometz Dental la primera consulta es solo para
 hablar. Sin tocar. Sin apuro. Sin compromiso.
 
-📱 Si querés dar el primer paso: +595 9XX XXX XXX
+📱 Si querés dar el primer paso: +595 981 146 759
 
 #OmetzDental #MiedoAlDentista #TeEscucho #Asunción
 ```
@@ -948,7 +948,7 @@ Gift cards digitales de Ometz Dental:
 Se envían por WhatsApp al destinatario. Válidas por
 6 meses desde la compra.
 
-📱 Comprá tu gift card: +595 9XX XXX XXX
+📱 Comprá tu gift card: +595 981 146 759
 
 — Dra. Gabriella González Pane
    Ometz Dental · Mburucuyá, Asunción
@@ -994,7 +994,7 @@ En Ometz Dental durante noviembre hacemos consulta
 preventiva a Gs 0. Si tenés alguna duda, sacátela
 sin pagar.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #CáncerBucal #Prevención #OmetzDental
 ```
@@ -1025,7 +1025,7 @@ al 21 de octubre):
 
 Cupos limitados a 12 personas por mes.
 
-📱 Reservá tu lugar: +595 9XX XXX XXX
+📱 Reservá tu lugar: +595 981 146 759
 
 — Dra. Gabriella González Pane
    Ometz Dental
@@ -1073,7 +1073,7 @@ En Ometz Dental:
 — Toma de impresión: en 1 consulta
 — Entrega: 5-7 días después
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #Bruxismo #PlacaDeDescarga #Asunción
 ```
@@ -1158,7 +1158,7 @@ Riesgos:
 En Ometz Dental aplicamos flúor tópico en cada profilaxis
 cuando el caso lo requiere.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #Flúor #Prevención #Asunción
 ```
@@ -1189,7 +1189,7 @@ origen, en español o inglés, con el mismo respeto.
 Hoy feriado, no abrimos. El martes retomamos con
 turnos normales.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 — Dra. Gabriella González Pane
 
@@ -1234,7 +1234,7 @@ Recomendaciones:
 ✓ No comer azúcar entre comidas (solo con las comidas)
 ✓ Visitar al dentista cada 6 meses
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #Caries #Dieta #Prevención #Asunción
 ```
@@ -1270,7 +1270,7 @@ En Ometz Dental NO odiamos Halloween. Solo te pedimos
 que no sea una semana de azúcar libre. La constancia
 en la higiene es lo que cuenta, no la perfección.
 
-📱 Si después de Halloween necesitás control: +595 9XX XXX XXX
+📱 Si después de Halloween necesitás control: +595 981 146 759
 
 #OmetzDental #Halloween #Asunción
 ```
@@ -1313,7 +1313,7 @@ Contraindicaciones:
 En Ometz Dental hacemos carillas de composite. Para
 porcelana derivamos a especialistas de nuestra red.
 
-📱 Para consulta de estética: +595 9XX XXX XXX
+📱 Para consulta de estética: +595 981 146 759
 
 #OmetzDental #Carillas #EstéticaDental #Asunción
 ```
@@ -1403,7 +1403,7 @@ En Ometz Dental NO hacemos prótesis removibles. Pero
 sí planificamos el caso completo y derivamos al
 protésico de confianza con las indicaciones precisas.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #Prótesis #Asunción
 ```
@@ -1431,7 +1431,7 @@ o menor de 25 años):
 
 Válido del 21 de septiembre al 31 de octubre de 2026.
 
-📱 Pedí tu turno con la credencial en mano: +595 9XX XXX XXX
+📱 Pedí tu turno con la credencial en mano: +595 981 146 759
 
 — Dra. Gabriella González Pane
    Ometz Dental
@@ -1476,7 +1476,7 @@ Duración: 10-15 años con buena higiene.
 En Ometz Dental sí hacemos pernos de fibra. Es uno
 de nuestros servicios de operatoria.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #PernoDeFibra #Endodoncia #Asunción
 ```
@@ -1504,7 +1504,7 @@ privilegio.
 A los colegas que confían casos en Ometz: gracias.
 Seguimos construyendo criterio clínico juntos.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 — Dra. Gabriella González Pane
 
@@ -1533,7 +1533,7 @@ Dolor fuerte de muela:
 🟢 Hilo dental para descartar comida impactada
 🟢 Ibuprofeno 400-600 mg cada 8h (si no hay alergia)
 🟢 NO aplicar aspirina directo en la encía
-🟢 Llamar al consultorio: +595 9XX XXX XXX
+🟢 Llamar al consultorio: +595 981 146 759
 
 Fractura de diente:
 🟢 Guardar el fragmento en leche o suero fisiológico
@@ -1549,7 +1549,7 @@ Sangrado post-extracción que no para:
 🚨 Morder gasa firme por 30 min SIN hablar
 🟢 Si no para, concurrir a guardia
 
-📱 +595 9XX XXX XXX (urgencias)
+📱 +595 981 146 759 (urgencias)
 
 #OmetzDental #UrgenciaDental #Asunción
 ```
@@ -1589,7 +1589,7 @@ Lo más valioso del año:
 Gracias a cada persona que confió en Ometz este año.
 Volvemos el [FECHA] con turnos para [AÑO SIGUIENTE].
 
-🎁 Comprá tu gift card para regalar salud: +595 9XX XXX XXX
+🎁 Comprá tu gift card para regalar salud: +595 981 146 759
 
 — Dra. Gabriella González Pane
    Ometz Dental
@@ -1627,7 +1627,7 @@ Y algunas propuestas nuevas:
 Este año, regalá salud. Regalá tiempo. Regalá una
 sonrisa cuidada.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 — Dra. Gabriella González Pane
    Ometz Dental · Mburucuyá, Asunción
@@ -1677,7 +1677,7 @@ Qué hacer:
 ✓ Humidificador en el dormitorio
 ✓ Consulta con tu dentista para evaluar causa
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #BocaSeca #Xerostomía #Asunción
 ```
@@ -1711,7 +1711,7 @@ confianza.
 
 Válido del 1 al 28 de febrero.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 — Dra. Gabriella González Pane
    Ometz Dental
@@ -1755,7 +1755,7 @@ Reglas:
 ✔ Sí usar después de las comidas si no podés cepillarte
 ✔ Niños <6 años NO deben usar enjuague (riesgo ingestión)
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #EnjuagueBucal #Asunción
 ```
@@ -1787,7 +1787,7 @@ Promo "Mujeres en Ometz" (válida todo marzo):
 Para quienes han postergado su consulta por años, este
 es el mes para empezar.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 — Dra. Gabriella González Pane
    Ometz Dental
@@ -1836,7 +1836,7 @@ En Ometz Dental NO somos quienes te vamos a retar.
 Somos quienes te ayudamos a cuidar lo que el tabaco
 te está sacando.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #Tabaco #Asunción #SaludBucal
 ```
@@ -1877,7 +1877,7 @@ Las bebidas más dañinas (de mayor a menor):
 Para los dientes, lo mejor es agua. Lo segundo es agua.
 Lo tercero es agua.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #Agua #SaludBucal #Asunción
 ```
@@ -1923,7 +1923,7 @@ Recomendación Ometz Dental:
 📍 Cualquier cepillo eléctrico Oral-B o Philips Sonicare
    de gama media-alta.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #CepilloEléctrico #HigieneOral #Asunción
 ```
@@ -1957,7 +1957,7 @@ In Ometz Dental:
 
 📍 Auditores de la Guerra del Chaco 617
    Barrio Mburucuyá, Asunción
-📱 WhatsApp: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759
 
 Welcome to Asunción. Your mouth deserves a plan.
 
@@ -2008,7 +2008,7 @@ En Ometz Dental NO hacemos extracciones. Derivamos
 a cirujanos maxilofaciales de confianza con todas las
 indicaciones.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #Extracción #Postoperatorio #Asunción
 ```
@@ -2051,7 +2051,7 @@ En Ometz Dental la operatoria dental es uno de nuestros
 3 servicios principales. Hacemos restauraciones de
 resina compuesta con técnicas adhesivas actuales.
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #Resinas #OperatoriaDental #Asunción
 ```
@@ -2105,7 +2105,7 @@ confió en Ometz este primer año. Vamos por más.
 — Dra. Gabriella González Pane
    Ometz Dental · Mburucuyá, Asunción
 
-📱 +595 9XX XXX XXX
+📱 +595 981 146 759
 
 #OmetzDental #1Año #Asunción #Aniversario
 #SonrisaConCriterio
@@ -2177,7 +2177,7 @@ confió en Ometz este primer año. Vamos por más.
 ## 🛠️ INSTRUCCIONES DE USO
 
 1. **Cargá esta biblioteca en Meta Business Suite** el primer lunes de cada mes, junto con el calendario operativo (`calendario-marketing-2026-completo.md`).
-2. **Personalizá los placeholders** como `[CONFIRMAR]`, `[NÚMERO]`, `+595 9XX XXX XXX` con los datos reales antes de publicar.
+2. **Personalizá los placeholders** como `[CONFIRMAR]`, `[NÚMERO]`, `+595 981 146 759` con los datos reales antes de publicar.
 3. **Ajustá los números de balance** (semanas 28, 34, 40, 52) según los datos reales de cada período.
 4. **Mantené los principios ADN:**
    - Tono cálido, profesional, sin alarmismo

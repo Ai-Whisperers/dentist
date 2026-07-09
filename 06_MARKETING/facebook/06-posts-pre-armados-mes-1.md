@@ -42,7 +42,7 @@ Hoy abrimos las puertas de Ometz Dental.
 
 📍 Barrio Mburucuyá, Asunción
 🕐 Lunes a viernes, 14:30 a 19:00 — con cita previa
-📱 WhatsApp: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759
 
 Ometz (אומץ) significa "coraje" en hebreo. El coraje
 que elijo tener es el de pensar antes de tocar, escuchar
@@ -102,7 +102,7 @@ Si te da ansiedad ir al dentista, no estás solo/a. Es
 lo más común del mundo. Vení igual. Te explico todo
 paso a paso.
 
-📱 WhatsApp: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759
 📍 Barrio Mburucuyá, Asunción
 
 #OmetzDental #TeEscucho #Asunción
@@ -151,7 +151,7 @@ para firmar. Te explico qué veo, qué opciones tenés,
 y qué le haría yo si fuera mi boca.
 
 📱 Para una segunda opinión con plan escrito:
-+595 9XX XXX XXX (WhatsApp)
++595 981 146 759 (WhatsApp)
 
 #OmetzDental #SegundaOpinion #TeEscucho #Asunción
 ```
@@ -200,7 +200,7 @@ plan que no los convenció, o quieren una mirada externa
 antes de avanzar.
 
 📍 Mburucuyá, Asunción — con cita previa
-📱 WhatsApp: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759
 
 #OmetzDental #RehabilitaciónOral #Asunción
 #SegundaOpinion
@@ -244,7 +244,7 @@ entre 45 y 60 minutos. Incluye:
 Costo: Gs 450.000 a 600.000 según complejidad.
 
 📱 Si tenés un plan sobre la mesa y querés otra mirada,
-escribime al WhatsApp +595 9XX XXX XXX. Coordinamos
+escribime al WhatsApp +595 981 146 759. Coordinamos
 horario y me traés lo que tengas.
 
 — Dra. Gabriella González Pane
@@ -294,7 +294,7 @@ mismo: te escucho, te explico, y armamos un plan
 juntos. No vendemos tratamientos. Vendemos criterio.
 
 📱 Si tenés un plan sobre la mesa y querés una segunda
-mirada: +595 9XX XXX XXX (WhatsApp)
+mirada: +595 981 146 759 (WhatsApp)
 
 #OmetzDental #TeEscucho #Asunción #RehabilitaciónOral
 #SegundaOpinion

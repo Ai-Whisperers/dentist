@@ -140,7 +140,7 @@ Dra. GP mantiene consultorio en Odontologia 3 ademas de practica privada. Citas 
 3. Add 5 containers (one per section)
 4. Copy-paste the content above into each container
 5. Pick a color scheme (suggest: deep navy + warm gold + cream)
-6. Add WhatsApp button: link to wa.me/595XXXXXXXXX
+6. Add WhatsApp button: link to wa.me/595981146759
 7. Register domain dra-gabriela.com.py (nic.py or Hostinger)
 8. Connect domain to Carrd (Pro feature)
 9. Add Google Analytics (optional)

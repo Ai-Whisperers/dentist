@@ -66,7 +66,7 @@ Gaby no contacta al paciente sin que el referente confirme que el paciente está
 
 **Canal principal: WhatsApp dedicado.**
 
-Número: **+595 9XX XXX XXX** (a confirmar con la dra.)
+Número: **+595 981 146 759** (a confirmar con la dra.)
 
 Mensaje sugerido al primer contacto con Gaby (de un colega):
 

@@ -23,7 +23,7 @@ QR codes that patients can scan to: message WhatsApp, leave Google review, save 
 
 ### QR 1: WhatsApp Direct Message
 ```
-https://wa.me/595XXXXXXXXX?text=Hola%20Dra.%20GP
+https://wa.me/595981146759?text=Hola%20Dra.%20GP
 ```
 **Where:** Business cards, counter, waiting area, website
 **What it does:** Opens WhatsApp with pre-filled message
@@ -32,7 +32,7 @@ https://wa.me/595XXXXXXXXX?text=Hola%20Dra.%20GP
 
 ### QR 2: WhatsApp — Specific Message (Second Opinion)
 ```
-https://wa.me/595XXXXXXXXX?text=Hola!%20Me%20interesa%20una%20segunda%20opinión%20odontológica
+https://wa.me/595981146759?text=Hola!%20Me%20interesa%20una%20segunda%20opinión%20odontológica
 ```
 **Where:** Expat forums, referral cards
 **What it does:** Opens WhatsApp with second opinion inquiry

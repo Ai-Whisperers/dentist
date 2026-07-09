@@ -116,7 +116,7 @@ No es la regla general — a veces el plan original es correcto. Pero cuando no 
 
 Si tenés un plan sobre la mesa y querés otra mirada, el proceso es simple:
 
-1. **Escribime por WhatsApp** al +595 9XX XXX XXX con la palabra "OPINIÓN".
+1. **Escribime por WhatsApp** al +595 981 146 759 con la palabra "OPINIÓN".
 2. **Coordinamos horario** (lunes a viernes, 14:30 a 19:00).
 3. **Me traés la documentación** que tengas: radiografías, presupuesto, plan escrito.
 4. **Hacés la consulta** de 45-60 minutos, con examen completo.
@@ -135,7 +135,7 @@ Si tenés un plan en la mano y te quedan dudas, no avancés solo. Pedí una segu
 — Dra. Gabriella González Pane
    Ometz Dental
    Mburucuyá, Asunción
-   📱 +595 9XX XXX XXX (WhatsApp)
+   📱 +595 981 146 759 (WhatsApp)
 
 ---
 

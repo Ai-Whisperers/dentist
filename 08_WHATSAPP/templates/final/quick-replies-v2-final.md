@@ -255,7 +255,7 @@ Te respondo mañana en horario de consulta (lun-vie 14:30-19:00).
 📍 Auditores de la Guerra del Chaco 617, Mburucuyá
 
 ⚠️ Si es una urgencia dental (dolor fuerte, fractura, hinchazón):
-Llamame al +595 9XX XXX XXX o escribime "URGENCIA" y te priorizo.
+Llamame al +595 981 146 759 o escribime "URGENCIA" y te priorizo.
 
 — Equipo Ometz Dental
 ```

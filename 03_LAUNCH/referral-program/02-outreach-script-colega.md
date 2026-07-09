@@ -83,7 +83,7 @@ trabajamos?
 Gracias por tu tiempo!
 Dra. Gabriella González Pane
 Ometz Dental
-WhatsApp: +595 9XX XXX XXX
+WhatsApp: +595 981 146 759
 Mburucuyá, Asunción
 ```
 
@@ -121,7 +121,7 @@ Dra. Gabriella
 Hola [NOMBRE]! Última vez que te escribo sobre este tema.
 Si en algún momento futuro querés armar una red de
 derivación mutua en la zona, mi WhatsApp está abierto:
-+595 9XX XXX XXX.
++595 981 146 759.
 
 Te deseo mucho éxito con [NOMBRE CLÍNICA].
 
@@ -171,7 +171,7 @@ hallazgos relevantes, y radiografías si tengo.
 Gracias por tu tiempo!
 Dra. Gabriella González Pane
 Ometz Dental
-WhatsApp: +595 9XX XXX XXX
+WhatsApp: +595 981 146 759
 Mburucuyá, Asunción
 ```
 
@@ -246,7 +246,7 @@ to see if there's a fit? I'm flexible on timing.
 Thanks for your time,
 Dr. Gabriella González Pane
 Ometz Dental
-WhatsApp: +595 9XX XXX XXX
+WhatsApp: +595 981 146 759
 Barrio Mburucuyá, Asunción
 Web: [a completar cuando exista]
 ```

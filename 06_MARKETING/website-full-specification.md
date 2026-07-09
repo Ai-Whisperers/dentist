@@ -295,7 +295,7 @@ Home
 1. **Primary CTA: WhatsApp**
    - Large WhatsApp button
    - Pre-filled message: "Hola Dra. GP, me gustaría agendar una consulta."
-   - Link: wa.me/595XXXXXXXXX
+   - Link: wa.me/595981146759
 
 2. **Phone**
    - Click-to-call number

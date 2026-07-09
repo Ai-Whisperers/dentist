@@ -27,11 +27,16 @@ location:
   google_maps_embed: "https://www.google.com/maps/embed?..."  # placeholder
 
 contact:
-  whatsapp_raw: "+595XXXXXXXXX"   # ← REEMPLAZAR CUANDO GABY CONFIRME
-  whatsapp_formatted: "+595 9XX XXX XXX"   # ← display
-  whatsapp_link: "https://wa.me/595XXXXXXXXX?text=Hola%20Dra.%20Gaby%2C%20me%20interesa%20agendar%20una%20consulta"
-  phone_alt: "+595XXXXXXXXX"
-  email_professional: "doctora.gabi@ometsdental.com.py"   # ← CONFIRMADO
+  # WhatsApp personal Gaby confirmado 6 jul 2026 — usar HASTA que compre Business
+  whatsapp_personal: "+595981146759"   # ← CONFIRMADO 6 jul 2026 (TRANSITORIO)
+  whatsapp_personal_formatted: "+595 981 146 759"
+  whatsapp_personal_link: "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesa%20agendar%20una%20consulta"
+  # WhatsApp Business (chip nuevo) — pendiente compra
+  whatsapp_raw: "+595981146759"   # ← REEMPLAZAR CUANDO GABY CONFIRME (semana 7 jul)
+  whatsapp_formatted: "+595 981 146 759"   # ← display
+  whatsapp_link: "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesa%20agendar%20una%20consulta"
+  phone_alt: "+595981146759"   # mientras tanto, mismo que personal
+  email_professional: "doctora.gabi@ometsdental.com.py"   # ← CONFIRMADO 28 jun 2026
   email_alternate: "dra.gp.odontologia@gmail.com"   # legacy personal
   website_es: "https://ometzdental.com"
   website_en: "https://ometzdental.com/en"
@@ -141,7 +146,7 @@ Reemplazar hardcoded values con referencias:
 
 ANTES (hardcoded):
 ```html
-<a href="https://wa.me/595XXXXXXXXX">📱 +595 9XX XXX XXX</a>
+<a href="https://wa.me/595981146759">📱 +595 981 146 759</a>
 ```
 
 DESPUÉS (referencia):
@@ -154,9 +159,9 @@ Si Gaby confirma el número real (ej. `+595 981 555 444`):
 
 ```bash
 cd /tmp/dentist-repo
-sed -i 's/+595 9XX XXX XXX/+595 981 555 444/g' $(grep -rl "9XX" --include="*.md" --include="*.svg" --include="*.html" .)
-sed -i 's/595XXXXXXXXX/595981555444/g' $(grep -rl "595XXXXXXXXX" --include="*.md" --include="*.svg" --include="*.html" .)
-sed -i 's/wa.me\/595XXXXXXXXX/wa.me\/595981555444/g' $(grep -rl "wa.me/595XXXXXXXXX" --include="*.md" --include="*.svg" --include="*.html" .)
+sed -i 's/+595 981 146 759/+595 981 555 444/g' $(grep -rl "9XX" --include="*.md" --include="*.svg" --include="*.html" .)
+sed -i 's/595981146759/595981555444/g' $(grep -rl "595981146759" --include="*.md" --include="*.svg" --include="*.html" .)
+sed -i 's/wa.me\/595981146759/wa.me\/595981555444/g' $(grep -rl "wa.me/595981146759" --include="*.md" --include="*.svg" --include="*.html" .)
 ```
 
 ---

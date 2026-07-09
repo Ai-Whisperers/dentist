@@ -34,7 +34,7 @@
 > El repo tiene 4 documentos sobre precios pero **NO tiene acción concreta** de setup de Bancard o Pagopar en el consultorio. Gaby atenderá y no sabrá cobrar con tarjeta. **Costo:** perder 30-40% de pacientes que pagan con tarjeta.
 
 **4. 🔴 WHATSAPP NUMBER = "9XX" PLACEHOLDER**
-> En 159 archivos aparece `+595 9XX XXX XXX`. ES UN PLACEHOLDER. Todos los templates, los SVGs, los HTMLs, los posts GBP, los quick replies, las landing pages — TODO dice 9XX. **Costo de no arreglar:** el cliente no puede contactar, todos los CTAs son zombies. Ya hubo este error en `quick-replies-PERSONALIZADO-gaby.md` donde Gaby había confirmado el número y el resto de los archivos no se actualizó. Hay que hacer find-replace de TODOS los archivos al recibir el número real.
+> En 159 archivos aparece `+595 981 146 759`. ES UN PLACEHOLDER. Todos los templates, los SVGs, los HTMLs, los posts GBP, los quick replies, las landing pages — TODO dice 9XX. **Costo de no arreglar:** el cliente no puede contactar, todos los CTAs son zombies. Ya hubo este error en `quick-replies-PERSONALIZADO-gaby.md` donde Gaby había confirmado el número y el resto de los archivos no se actualizó. Hay que hacer find-replace de TODOS los archivos al recibir el número real.
 
 **5. 🔴 ZERO FOTOS REALES DE GABY**
 > 0 fotos profesionales en el repo. 17 AI prompts generados pero ninguno ejecutado. Todas las SVGs dicen "[ GABY HERO PHOTO ]" como placeholder. **Costo:** imposible lanzar con credibilidad.
@@ -168,7 +168,7 @@ Contamos documentos creados vs ejecutados:
 
 Si Gaby diera mañana el WhatsApp real `+595 981 555 444`, hay que hacer:
 ```
-sed -i 's/+595 9XX XXX XXX/+595 981 555 444/g' $(grep -rl "9XX" --include="*.md" .)
+sed -i 's/+595 981 146 759/+595 981 555 444/g' $(grep -rl "9XX" --include="*.md" .)
 ```
 Eso en 159 archivos. Y verificar que no se rompió nada.
 

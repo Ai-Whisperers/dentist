@@ -295,7 +295,7 @@ Soy la Dra. Gabriella González Pane, 20 años de experiencia.
 No hablo mal de colegas: no conozco el contexto completo. Pero
 sí te puedo dar mi perspectiva profesional sobre tu caso.
 
-📱 Para coordinar: WhatsApp +595 9XX XXX XXX
+📱 Para coordinar: WhatsApp +595 981 146 759
 ```
 
 ---
@@ -347,7 +347,7 @@ Yes, message "URGENCY" on WhatsApp and we prioritize you.
 
 ## Contact
 
-📱 WhatsApp: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759
 📧 hello@ometsdental.com.py
 📍 Mburucuyá, Asunción, Paraguay
 ```
@@ -401,7 +401,7 @@ la evaluación clínica.
 5. **¿Atendés en inglés?** — Sí, fluido.
 6. **¿Hacés endodoncia?** — No. Derivo a un especialista de confianza.
 7. **¿Aceptás seguros?** — No facturamos directamente. Te damos recibo para reembolso.
-8. **¿Cómo agendo?** — WhatsApp +595 9XX XXX XXX con la palabra "CITA".
+8. **¿Cómo agendo?** — WhatsApp +595 981 146 759 con la palabra "CITA".
 
 ---
 
@@ -413,8 +413,8 @@ la evaluación clínica.
 # Contacto
 
 ## Para agendar
-📱 WhatsApp: +595 9XX XXX XXX (más rápido)
-📞 Teléfono: +595 9XX XXX XXX
+📱 WhatsApp: +595 981 146 759 (más rápido)
+📞 Teléfono: +595 981 146 759
 📧 Email: hola@ometsdental.com.py
 
 ## Dirección
@@ -431,7 +431,7 @@ Atención con cita previa.
 
 ## Urgencias
 Si tenés una urgencia dental (dolor fuerte, fractura,
-hinchazón), llamame al +595 9XX XXX XXX o escribime "URGENCIA"
+hinchazón), llamame al +595 981 146 759 o escribime "URGENCIA"
 por WhatsApp.
 
 ## Idiomas
