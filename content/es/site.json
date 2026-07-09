@@ -1,25 +1,78 @@
 {
   "site": {
-    "name": "Dra. Gabriella González Pane",
-    "slug": "dra-gabriela",
-    "url": "https://dra-gabriela.com.py",
+    "name": "Ometz Dental",
+    "fullName": "Ometz Dental · Dra. Gabriella González Pane",
+    "shortName": "Ometz",
+    "slug": "ometzdental",
+    "url": "https://ometzdental.com",
+    "urlEs": "https://ometzdental.com/es",
+    "urlEn": "https://ometzdental.com/en",
     "locale": "es-PY",
-    "metaDescription": "Odontología conservadora y planificación primero en Paraguay. Precios públicos, segunda opinión escrita, consultas en inglés y español."
+    "title": "Ometz Dental · אומץ · Te escucho",
+    "metaTitle": "Ometz Dental · אומץ · Dentista en Asunción · Dra. Gabriella González Pane",
+    "metaDescription": "Ometz Dental (אומץ) en Mburucuyá, Asunción. Odontología conservadora, rehabilitación oral, segunda opinión escrita. Bilingüe español/inglés. 20+ años de criterio clínico.",
+    "ogTitle": "Ometz Dental · Te escucho. · Dentista conservadora en Asunción",
+    "ogDescription": "Ometz Dental (אומץ) · Rehabilitación oral + segunda opinión escrita en Mburucuyá, Asunción. Bilingüe. 20+ años.",
+    "ogImage": "https://ometzdental.com/og/og-home.png",
+    "themeColor": "#1A5F5A",
+    "accentColor": "#B8860B"
   },
   "business": {
-    "phone": "PENDIENTE | TBD",
-    "whatsapp": "PENDIENTE",
-    "whatsappMessage": "Hola Dra. GP, quiero coordinar una consulta para plan sin compromiso.",
-    "email": "hola@dra-gp.com.py",
-    "address": "TBD — Preferencia Luque (pendiente alquiler). Actualmente en Odontología 3, Asunción.",
+    "name": "Ometz Dental · Dra. Gabriella González Pane",
+    "shortName": "Ometz Dental",
+    "hebrewName": "אומץ",
+    "tagline": "Te escucho. Antes de mirar tu boca, miro tu historia.",
+    "phone": "+595 981 146 759",
+    "phoneRaw": "+595981146759",
+    "whatsapp": "595981146759",
+    "whatsappFormatted": "+595 981 146 759",
+    "whatsappLink": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta.",
+    "whatsappMessage": "Hola Dra. Gaby, me interesaría agendar una consulta.",
+    "email": "doctora.gabi@ometzdental.com.py",
+    "alternateEmail": "doctora.gaby@ometsdental.com.py",
+    "address": "Auditores de la Guerra del Chaco 617, Barrio Mburucuyá, Asunción, Paraguay",
+    "streetAddress": "Auditores de la Guerra del Chaco 617",
+    "neighborhood": "Barrio Mburucuyá",
+    "city": "Asunción",
+    "region": "Central",
+    "postalCode": "1101",
+    "country": "PY",
     "coordinates": {
       "lat": -25.2836,
       "lng": -57.4831
     },
-    "currency": "Gs",
-    "ruc": "PENDIENTE",
-    "mspbs": "PENDIENTE",
-    "name": "Dra. Gabriella González Pane"
+    "currency": "PYG",
+    "priceRange": "Gs 300.000 - Gs 5.000.000",
+    "ruc": "1375421-1",
+    "rucState": "active",
+    "mspbs": "3618",
+    "mspbsState": "active",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "languagesDisplay": "Español · English",
+    "hours": {
+      "mon": "14:30-19:00",
+      "tue": "14:30-19:00",
+      "wed": "14:30-19:00",
+      "thu": "14:30-19:00",
+      "fri": "14:30-19:00",
+      "sat": "Cerrado",
+      "sun": "Cerrado"
+    },
+    "specialties": [
+      "Rehabilitación Oral",
+      "Estética Dental",
+      "Operatoria Dental"
+    ],
+    "experience": "20+ años",
+    "social": {
+      "instagram": "https://www.instagram.com/dragabriellagp",
+      "instagramHandle": "@dragabriellagp",
+      "linkedin": "",
+      "facebook": ""
+    }
   },
   "features": {
     "bookingForm": true,
@@ -46,19 +99,54 @@
   },
   "navigation": {
     "main": [
-      { "label": "Inicio", "href": "/es" },
-      { "label": "Filosofía", "href": "/es/filosofia" },
-      { "label": "Servicios", "href": "/es/servicios" },
-      { "label": "Precios", "href": "/es/precios" },
-      { "label": "Contacto", "href": "/es/contacto" }
+      {
+        "label": "Inicio",
+        "href": "/es"
+      },
+      {
+        "label": "Filosofía",
+        "href": "/es/filosofia"
+      },
+      {
+        "label": "Servicios",
+        "href": "/es/servicios"
+      },
+      {
+        "label": "Precios",
+        "href": "/es/precios"
+      },
+      {
+        "label": "Contacto",
+        "href": "/es/contacto"
+      }
     ],
     "more": [
-      { "label": "Segunda Opinión", "href": "/es/segunda-opinion" },
-      { "label": "Nosotros", "href": "/es/nosotros" },
-      { "label": "Expat", "href": "/es/expat" },
-      { "label": "Contacto", "href": "/es/contacto", "feature": "map" },
-      { "label": "Blog", "href": "/es/blog", "feature": "blog" },
-      { "label": "FAQ", "href": "/es/faq" }
+      {
+        "label": "Segunda Opinión",
+        "href": "/es/segunda-opinion"
+      },
+      {
+        "label": "Nosotros",
+        "href": "/es/nosotros"
+      },
+      {
+        "label": "Expat",
+        "href": "/es/expat"
+      },
+      {
+        "label": "Contacto",
+        "href": "/es/contacto",
+        "feature": "map"
+      },
+      {
+        "label": "Blog",
+        "href": "/es/blog",
+        "feature": "blog"
+      },
+      {
+        "label": "FAQ",
+        "href": "/es/faq"
+      }
     ]
   },
   "openingHours": {
@@ -73,8 +161,17 @@
   "trust": {
     "license": "Inscripción MSPBS: pendiente",
     "biosecurity": true,
-    "paymentMethods": ["Efectivo", "Transferencia", "Pagopar", "Bancard POS"],
-    "amenities": ["WiFi", "Estacionamiento (guía TBD)", "Aire acondicionado"]
+    "paymentMethods": [
+      "Efectivo",
+      "Transferencia",
+      "Pagopar",
+      "Bancard POS"
+    ],
+    "amenities": [
+      "WiFi",
+      "Estacionamiento (guía TBD)",
+      "Aire acondicionado"
+    ]
   },
   "ctaDefaults": {
     "primary": "Pedir plan sin compromiso",
@@ -85,5 +182,11 @@
     "localBusiness": true,
     "faqPage": true,
     "reviewSchema": true
+  },
+  "launch": {
+    "state": "pre-launch",
+    "target": "2026-07-26",
+    "display": "Apertura antes del 26 de julio de 2026",
+    "softLaunchWeek": "2026-07-21"
   }
 }

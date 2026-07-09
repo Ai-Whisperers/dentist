@@ -1,6 +1,6 @@
 {
   "title": "Contact and appointments",
-  "subtitle": "WhatsApp-based coordination. Clear hours, practical access guidance, and honest availability.",
+  "subtitle": "WhatsApp-based coordination. I listen before we book.",
   "sections": [
     {
       "heading": "Best way to reach us",
@@ -9,41 +9,62 @@
     {
       "heading": "Contact methods",
       "methods": [
-        { "type": "WhatsApp", "label": "WhatsApp", "value": "PENDING", "primary": true },
-        { "type": "Email", "label": "Email", "value": "hola@dra-gp.com.py", "primary": false },
-        { "type": "Phone", "label": "Phone", "value": "PENDING", "primary": false }
+        {
+          "type": "WhatsApp",
+          "label": "WhatsApp",
+          "value": "+595 981 146 759 — reply within <24 business hours",
+          "primary": true,
+          "link": "https://wa.me/595981146759"
+        },
+        {
+          "type": "Email",
+          "label": "Email",
+          "value": "doctora.gabi@ometsdental.com.py",
+          "primary": false,
+          "link": "mailto:doctora.gabi@ometsdental.com.py"
+        },
+        {
+          "type": "Phone",
+          "label": "Phone",
+          "value": "Available when clinic opens",
+          "primary": false
+        }
       ]
     },
     {
       "heading": "Hours",
       "hours": {
-        "mon": "09:00-18:00",
-        "tue": "09:00-18:00",
-        "wed": "09:00-18:00",
-        "thu": "09:00-18:00",
-        "fri": "09:00-18:00",
-        "sat": "08:00-12:00",
+        "mon": "2:30pm-7:00pm",
+        "tue": "2:30pm-7:00pm",
+        "wed": "2:30pm-7:00pm",
+        "thu": "2:30pm-7:00pm",
+        "fri": "2:30pm-7:00pm",
+        "sat": "Closed",
         "sun": "Closed"
       },
-      "note": "Saturday morning availability confirmed."
+      "note": "By appointment only. I'm not in the clinic all day: we schedule what works for you."
     },
     {
       "heading": "Location and access",
-      "body": "Current practice address: Odontología 3, Asunción. Preferred future location: Luque, pending lease confirmation. Access and parking guidance updated at booking."
+      "body": "Ometz Dental · Auditores de la Guerra del Chaco 617, Barrio Mburucuyá, Asunción, Paraguay. Two minutes walk from Mburucuyá main square. Access and parking instructions sent at booking."
     },
     {
       "heading": "Availability",
-      "body": "New patients accepted. First appointments usually available within one to two weeks."
+      "body": "Accepting new patients. Soft launch before July 26, 2026. First appointment usually available within the first or second week from opening."
     }
   ],
   "map": {
     "embed": true,
-    "query": "Odontología 3, Asunción, Paraguay",
-    "coords": { "lat": -25.2836, "lng": -57.4831 }
+    "query": "Mburucuyá, Asunción, Paraguay",
+    "coords": {
+      "lat": -25.2836,
+      "lng": -57.4831
+    }
   },
   "cta": {
-    "primary": "Plan sin compromiso",
-    "secondary": "Solicitar segunda opinión",
-    "whatsapp": true
+    "primary": "Request no-obligation plan",
+    "primaryLink": "https://wa.me/595981146759?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation.",
+    "secondary": "Request second opinion",
+    "secondaryLink": "/en/second-opinion"
   }
 }

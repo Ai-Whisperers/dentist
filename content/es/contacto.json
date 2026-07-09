@@ -1,6 +1,6 @@
 {
   "title": "Contacto y turnos",
-  "subtitle": "Coordinación por WhatsApp. Horarios claros, acceso práctico y disponibilidad real.",
+  "subtitle": "Coordinación por WhatsApp. Te escucho antes de coordinar el turno.",
   "sections": [
     {
       "heading": "Mejor forma de contactarnos",
@@ -9,41 +9,62 @@
     {
       "heading": "Medios de contacto",
       "methods": [
-        { "type": "WhatsApp", "label": "WhatsApp", "value": "PENDIENTE", "primary": true },
-        { "type": "Email", "label": "Email", "value": "hola@dra-gp.com.py", "primary": false },
-        { "type": "Phone", "label": "Teléfono", "value": "PENDIENTE", "primary": false }
+        {
+          "type": "WhatsApp",
+          "label": "WhatsApp",
+          "value": "+595 981 146 759 — respondemos en <24h hábiles",
+          "primary": true,
+          "link": "https://wa.me/595981146759"
+        },
+        {
+          "type": "Email",
+          "label": "Email",
+          "value": "doctora.gabi@ometsdental.com.py",
+          "primary": false,
+          "link": "mailto:doctora.gabi@ometsdental.com.py"
+        },
+        {
+          "type": "Phone",
+          "label": "Teléfono",
+          "value": "Disponible al abrir el consultorio",
+          "primary": false
+        }
       ]
     },
     {
       "heading": "Horarios",
       "hours": {
-        "mon": "09:00-18:00",
-        "tue": "09:00-18:00",
-        "wed": "09:00-18:00",
-        "thu": "09:00-18:00",
-        "fri": "09:00-18:00",
-        "sat": "08:00-12:00",
+        "mon": "14:30-19:00",
+        "tue": "14:30-19:00",
+        "wed": "14:30-19:00",
+        "thu": "14:30-19:00",
+        "fri": "14:30-19:00",
+        "sat": "Cerrado",
         "sun": "Cerrado"
       },
-      "note": "Disponibilidad de sábados confirmada."
+      "note": "Atención con cita previa. No estoy en el consultorio todo el día: agendamos el horario que te funcione."
     },
     {
       "heading": "Ubicación y acceso",
-      "body": "Dirección actual: Odontología 3, Asunción. Ubicación preferida a futuro: Luque, pendiente confirmación de alquiler. Instrucciones de acceso y estacionamiento se envían al confirmar el turno."
+      "body": "Ometz Dental · Auditores de la Guerra del Chaco 617, Barrio Mburucuyá, Asunción, Paraguay. A 2 minutos caminando de la plaza principal de Mburucuyá. Las indicaciones de acceso y estacionamiento se envían al agendar."
     },
     {
       "heading": "Disponibilidad",
-      "body": "Se aceptan pacientes nuevos. Primera cita normalmente dentro de la primera o segunda semana."
+      "body": "Se aceptan pacientes nuevos. Soft launch antes del 26 de julio de 2026. La primera cita normalmente está disponible dentro de la primera o segunda semana desde la apertura."
     }
   ],
   "map": {
     "embed": true,
-    "query": "Odontología 3, Asunción, Paraguay",
-    "coords": { "lat": -25.2836, "lng": -57.4831 }
+    "query": "Mburucuyá, Asunción, Paraguay",
+    "coords": {
+      "lat": -25.2836,
+      "lng": -57.4831
+    }
   },
   "cta": {
     "primary": "Pedir plan sin compromiso",
+    "primaryLink": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta.",
     "secondary": "Solicitar segunda opinión",
-    "whatsapp": true
+    "secondaryLink": "/es/segunda-opinion"
   }
 }

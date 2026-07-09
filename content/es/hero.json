@@ -3,11 +3,11 @@
   "subtitle": "Segunda opinión escrita, plan de tratamiento transparente y atención personalizada.",
   "cta_primary": "Pedir plan sin compromiso",
   "cta_secondary": "Solicitar segunda opinión",
-  "contact_phone": "PENDIENTE",
-  "office_hours_short": "Lu–Vi 9–18 | Sá 8–12",
+  "contact_phone": "+595 981 146 759",
+  "office_hours_short": "Lun a Vie 14:30-19:00",
   "top_bar": {
-    "phone": "PENDIENTE",
-    "hours": "Lu–Vi 9:00–18:00 · Sá 8:00–12:00"
+    "phone": "+595 981 146 759",
+    "hours": "Lun a Vie 14:30-19:00"
   },
   "slides": [
     {
@@ -17,7 +17,8 @@
       "image": "/images/hero/dra-gp-hero-1.jpg",
       "cta": "Pedir plan sin compromiso",
       "badge": "Español · English",
-      "trust_line": "20+ años · enfoque conservador"
+      "trust_line": "20+ años · enfoque conservador",
+      "cta_link": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
     },
     {
       "id": "2",
@@ -25,7 +26,8 @@
       "subtitle": "No vendemos procedimientos. Diagnosticamos primero y mostramos todas las opciones, con precio y plazo.",
       "image": "/images/hero/dra-gp-hero-2.jpg",
       "cta": "Ver servicios",
-      "badge": "Plan de tratamiento escrito"
+      "badge": "Plan de tratamiento escrito",
+      "cta_link": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
     },
     {
       "id": "3",
@@ -33,7 +35,8 @@
       "subtitle": "¿Otro odontólogo te indicó un procedimiento? Revisamos tu caso sin conflicto de interés.",
       "image": "/images/hero/dra-gp-hero-3.jpg",
       "cta": "Solicitar segunda opinión",
-      "badge": "Plan escrito sin compromiso"
+      "badge": "Plan escrito sin compromiso",
+      "cta_link": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
     }
   ]
 }

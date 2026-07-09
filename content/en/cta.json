@@ -4,15 +4,15 @@
     "title": "Your smile deserves it",
     "subtitle": "The best way to know what you need is an evaluation visit. No obligation.",
     "buttonText": "Message on WhatsApp",
-    "buttonLink": "https://wa.me/595981000000?text=Hi%20Dra.%20GP%2C%20I%27d%20like%20to%20book%20a%20consultation.",
+    "buttonLink": "https://wa.me/595981146759?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation.",
     "background": "primary"
   },
   {
     "id": "2",
-    "title": "Looking for a trusted dentist in Asunción?",
-    "subtitle": "We are accepting new patients. Book by WhatsApp.",
-    "buttonText": "Contact now",
-    "buttonLink": "/en/contact",
+    "title": "Want a second opinion on your treatment plan?",
+    "subtitle": "Message me on WhatsApp or email doctora.gabi@ometsdental.com.py",
+    "buttonText": "Request second opinion",
+    "buttonLink": "/en/second-opinion",
     "background": "secondary"
   }
 ]
