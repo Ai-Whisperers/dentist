@@ -1,26 +1,52 @@
-.swarm/
-.opencode/
-.DS_Store
-*.log
-*.tmp
-*.swp
-*~
-.firecrawl/
-*.bak
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
 .pytest_cache/
-.playwright-mcp/
-text_*.json
-*_20260601_*.json
 
-# Sensitive / runtime data
-.ig_session.json
-.instagram_session.json
-.odonto_*.json
-_*.json
-01_RESEARCH/community/expat-scraped-data.json
-01_RESEARCH/community/referral-targets-research.json
-03_LAUNCH/corporate-sales/*.csv
-03_LAUNCH/corporate-sales/*.xlsx
-03_LAUNCH/instagram-contacts/**
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Sensitive — never commit
+*.pem
+*.key
+secrets/
+
+# Hermes cache
+.hermes/cache/
+
+# Temp
+tmp/
+.tmp/
+
+# Logs
+*.log
+logs/
+# ARCHIVE — local-only, not tracked
+ARCHIVE/
+
+# Python cache
+**/__pycache__/
+
