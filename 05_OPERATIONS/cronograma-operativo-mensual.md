@@ -1,7 +1,7 @@
 # CRONOGRAMA OPERATIVO MENSUAL — OMETZ DENTAL
 ## Ritmo de trabajo mes a mes para Gaby + Iván + Kiki + Erebus
 
-> **Cross-ref:** `docs/MASTER-PLAN-COMPLETE-2026.md` §6 (roadmap) + `MASTER-TODO.md` + `TODO.md`
+> **Cross-ref:** `ARCHIVE/legacy-docs-jul-2026/MASTER-PLAN-COMPLETE-2026.md` §6 (roadmap) + `MASTER-docs/MASTER-TODO-RESTANTE.md` + `docs/MASTER-TODO-RESTANTE.md`
 
 **Versión:** 1.0 — Julio 2026
 **Para:** Gaby (operativo) + Iván (estratégico) + Kiki (marketing) + Erebus (research + tooling)
@@ -41,7 +41,7 @@
 
 - [ ] Erebus cierra semana:
   - Snapshot métricas
-  - Update TODO.md si hubo cambios
+  - Update docs/MASTER-TODO-RESTANTE.md si hubo cambios
   - Confirmar próxima semana
   - Pedir feedback a Gaby: "¿Qué necesitás para la semana que viene?"
 
@@ -300,4 +300,4 @@
 
 *Versión 1.0 — 7 julio 2026.*
 *Erebus (Ai-Whisperers).*
-*Cross-ref: `docs/MASTER-PLAN-COMPLETE-2026.md` §6 + `MASTER-TODO.md` + `TODO.md`.*
+*Cross-ref: `ARCHIVE/legacy-docs-jul-2026/MASTER-PLAN-COMPLETE-2026.md` §6 + `MASTER-docs/MASTER-TODO-RESTANTE.md` + `docs/MASTER-TODO-RESTANTE.md`.*

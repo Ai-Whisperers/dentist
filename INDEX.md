@@ -1,7 +1,7 @@
 # 📚 ÍNDICE MAESTRO — OMETZ DENTAL
 ## Single index de todo el repositorio estratégico
 **Versión:** 2.0 — 8 de julio 2026  
-**Reemplaza:** `COMPLETE-INDEX.md`, `00-ONE-PAGE-CHEAT-SHEET.md`, `MASTER-docs/MASTER-TODO-RESTANTE.md`, múltiples `00-index.md` por carpeta.
+**Reemplaza:** `INDEX.md`, `00-ONE-PAGE-CHEAT-SHEET.md`, `MASTER-docs/MASTER-TODO-RESTANTE.md`, múltiples `00-index.md` por carpeta.
 
 ---
 
@@ -28,7 +28,7 @@
 - `docs/SIMULADOR-CRECIMIENTO-AUDIENCIA.md` ← proyecciones 3 escenarios
 - `docs/ROAST-AUDIT-OMETZ-DENTAL.md` ← audit brutal
 - `docs/BRANDING-RECONCILIATION-PLAN.md` ← fix legacy
-- `docs/MASTER-PLAN-COMPLETE-2026.md` ← legado (jul 7) — superseded
+- `ARCHIVE/legacy-docs-jul-2026/MASTER-PLAN-COMPLETE-2026.md` ← legado (jul 7) — superseded
 
 ### 🟡 Audits y reviews
 - `docs/ROAST-AUDIT-OMETZ-DENTAL.md` ← audit reciente
@@ -175,9 +175,9 @@
 |---------|---------|
 | `08_WHATSAPP/templates/quick-replies-PERSONALIZADO-gaby.md` | v1, reemplazado por `quick-replies-v2-final.md` |
 | `08_WHATSAPP/templates/quick-replies-v1-final.md` (si existe) | v1 ya reemplazado |
-| `COMPLETE-INDEX.md` | Reemplazado por este `INDEX.md` |
+| `INDEX.md` | Reemplazado por este `INDEX.md` |
 | `docs/PLAN-NEXT-STEPS-BRANDING-MARKETING.md` | Reemplazado por `PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md` |
-| `docs/MASTER-PLAN-COMPLETE-2026.md` | Legado jul 7, ya superseded |
+| `ARCHIVE/legacy-docs-jul-2026/MASTER-PLAN-COMPLETE-2026.md` | Legado jul 7, ya superseded |
 | `docs/MASTER-TODO-RESTANTE.md` (root) | Reemplazado por `docs/MASTER-TODO-RESTANTE.md` |
 | `start-here.md` | Reemplazado por este |
 | `DEPLOY.md` (root) | No es operacional, mover a `docs/` |
@@ -190,7 +190,7 @@
 1. **MOVER a docs/ desde root:** MASTER-docs/MASTER-TODO-RESTANTE.md, docs/MASTER-TODO-RESTANTE.md, SESSION-SUMMARY-COMPLETE.md, MERGE-TODO-PENDING.md, start-here.md, DEPLOY.md
 2. **DEPRECAR:** TODOs/índices viejos (lista arriba)
 3. **MOVER 02_MEETINGS/ARCHIVE-roque-phase1/ a ARCHIVE/ — es legacy.**
-4. **MOVER 02_MEETINGS/client-prep/roque-meeting/ a ARCHIVE/legacy-roque-jun-2026/** — la marca ya no es Roque
+4. **MOVER ARCHIVE/legacy-roque-jun-2026/roque-meeting/ a ARCHIVE/legacy-roque-jun-2026/** — la marca ya no es Roque
 5. **CONSOLIDAR 06_MARKETING/00-index.md + 06_MARKETING/blog-posts-seo/00-INDEX.md + 07_DESIGN/00-index.md + 07_DESIGN/website/00-index.md** — un solo índice por carpeta (o un solo mega-índice)
 6. **MOVER 02_MEETINGS/client-prep/ (si tiene archivos legacy)**
 

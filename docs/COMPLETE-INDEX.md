@@ -1,4 +1,4 @@
-# COMPLETE-INDEX.md
+# INDEX.md
 
 Auto-generated index — run `python tools/repo-audit.py summary` to refresh counts.
 
@@ -54,9 +54,9 @@ Auto-generated index — run `python tools/repo-audit.py summary` to refresh cou
 - `02_MEETINGS/client-prep/digital-systems/client-personal-data-checklist.md`
 - `02_MEETINGS/client-prep/digital-systems/digital-systems-audit.md`
 - `02_MEETINGS/client-prep/digital-systems/digital-systems-whatsapp-questions.md`
-- `02_MEETINGS/client-prep/roque-meeting/luque-space-shortlist-3-priorities.md`
-- `02_MEETINGS/client-prep/roque-meeting/roque-meeting-results.md`
-- `02_MEETINGS/client-prep/roque-meeting/roque-negotiation-prep.md`
+- `ARCHIVE/legacy-roque-jun-2026/roque-meeting/luque-space-shortlist-3-priorities.md`
+- `ARCHIVE/legacy-roque-jun-2026/roque-meeting/roque-meeting-results.md`
+- `ARCHIVE/legacy-roque-jun-2026/roque-meeting/roque-negotiation-prep.md`
 - `02_MEETINGS/kiki-meeting/kiki-decision-navigation-matrix.md`
 - `02_MEETINGS/kiki-meeting/kiki-session-meeting-guide.md`
 

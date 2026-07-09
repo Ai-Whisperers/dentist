@@ -115,7 +115,7 @@
 ### TIER C — BAJOS (≤5/10) — pulir
 
 **29. 🔵 DUPLICACIÓN: 4 ARCHIVOS INDEX**
-> `00-index.md`, `COMPLETE-INDEX.md`, `README.md`, `MERGE-TODO-PENDING.md` hacen cosas similares. Confuso.
+> `00-index.md`, `INDEX.md`, `README.md`, `MERGE-TODO-PENDING.md` hacen cosas similares. Confuso.
 
 **30. 🔵 PYTHON CACHE FILE EN REPO**
 > `03_LAUNCH/instagram-contacts/scripts/__pycache__/inspect.cpython-312.pyc` no debería commitearse. Falta `.gitignore` que cubra `__pycache__/`.

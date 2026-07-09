@@ -252,7 +252,7 @@ La primera oferta no es descuento. Es **Consulta de Diagnóstico y Planificació
 | `../financial-pricing/digital-presence-strategy.md` | Estrategia digital |
 | `../financial-pricing/referral-network-strategy.md` | Red de derivación |
 | `../../01_RESEARCH/market/master-synthesis-market-analysis.md` | Síntesis de mercado |
-| `../../02_MEETINGS/client-prep/roque-meeting/` | Prep reunión Roque (v2) |
+| `../../ARCHIVE/legacy-roque-jun-2026/roque-meeting/` | Prep reunión Roque (v2) |
 | `../../02_MEETINGS/gabi-audio-prompts/` | Prompts de audio para Gaby |
 | `../../07_DESIGN/website/00-index.md` | Índice de copy web |
 | `ADN_Profesional_Dra_Gabriela_Gonzalez_Pane_EXTENDIDO.pdf` | ADN Profesional (SINGLE SOURCE OF TRUTH de marca) |

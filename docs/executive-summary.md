@@ -30,7 +30,7 @@
 ### Archivos archivados / obsoletos
 
 - `09_TEMPLATES/follow-up-mburucuya.md` — Archivado (mensaje viejo con asunciones incorrectas). Redirige al nuevo.
-- `02_MEETINGS/ARCHIVE-roque-phase1-june2026/luque-space-shortlist-3-priorities.md` — Sigue en ARCHIVE como referencia histórica; usar v2.
+- `ARCHIVE/legacy-roque-jun-2026/phase1-june2026/luque-space-shortlist-3-priorities.md` — Sigue en ARCHIVE como referencia histórica; usar v2.
 
 ### Commits en esta sesión (junio 22, 2026)
 
@@ -84,4 +84,4 @@
 - Actualizar `three-strategic-options-analysis.md` con decisión final
 - Patches a los cuestionarios viejos (preguntas peligrosas, duplicaciones)
 - Patch a `digital-marketing-playbook.md` con scrubs de colores
-- Actualizar `README.md` + `COMPLETE-INDEX.md` con nueva estructura
+- Actualizar `README.md` + `INDEX.md` con nueva estructura

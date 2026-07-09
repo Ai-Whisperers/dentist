@@ -448,7 +448,7 @@ Ai-Whisperers/dentist/
 ├── docs/                 (3 docs) — executive summary, master plan
 ├── tools/                (scripts) — repo-audit, validate-refs
 ├── MASTER-docs/MASTER-TODO-RESTANTE.md        (este es el master)
-└── COMPLETE-INDEX.md     (índice completo)
+└── INDEX.md     (índice completo)
 ```
 
 **Total:** ~220 documentos activos + 5 nuevos este batch = **225 docs**.

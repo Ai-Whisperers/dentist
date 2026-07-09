@@ -18,7 +18,7 @@
 ### Ivan (1.5 hours) - PHONE CALLS:
 
 **3 calls to Luque landlords
-- [ ] | Luque landlord calls | Ivan | 2026-06-09 | 02_MEETINGS/client-prep/roque-meeting/luque-space-shortlist-3-priorities.md + phone log | | (30 min total):**
+- [ ] | Luque landlord calls | Ivan | 2026-06-09 | ARCHIVE/legacy-roque-jun-2026/roque-meeting/luque-space-shortlist-3-priorities.md + phone log | | (30 min total):**
 1. (021) 412-XXXX - San Lorenzo equipped consultorio, ask: still available? Gs 3M confirmed? Habilitacion current?
 2. (021) XXX-XXXX - Local Comercial Centro #1, ask: rent + equipment availability
 3. (021) XXX-XXXX - Local Comercial Centro #2, ask: rent + equipment availability
@@ -34,7 +34,7 @@
 
 Use the LAB-MYSTERY-SHOP-CALL-KIT.md script in 01_RESEARCH/procurement/ for exact questions.
 
-**Document results in: 02_MEETINGS/client-prep/roque-meeting/luque-space-shortlist-3-priorities.md**
+**Document results in: ARCHIVE/legacy-roque-jun-2026/roque-meeting/luque-space-shortlist-3-priorities.md**
 
 ---
 

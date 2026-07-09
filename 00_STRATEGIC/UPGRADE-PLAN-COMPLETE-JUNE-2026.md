@@ -419,7 +419,7 @@ Agent can autonomously do these things:
 4. Write the 3-5 SEO blog posts (treatment-focused, expat-targeted).
 5. Write 2-3 more corporate sales outreach templates (if Dra. GP signs up for that scope).
 6. Reconcile the 3-Option phasing recommendation (3-strategic-options-analysis.md vs master-launch-roadmap.md).
-7. Update COMPLETE-INDEX.md and README.md file counts to match actual 161+ .md file count.
+7. Update INDEX.md and README.md file counts to match actual 161+ .md file count.
 8. Write a 1-page Phase 0 checklist for Dra. GP and Ivan (mobile-friendly).
 9. Prep all the DenPro / Pagopar / Bancard signup forms (filled with placeholder data, ready for Dra. GP).
 10. Build a Phase 1 KPI dashboard template (Google Sheets).

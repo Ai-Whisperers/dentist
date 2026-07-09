@@ -27,7 +27,7 @@
 
 > **Recomendación operativa post-audio:** la reunión con Roque ya no es para "explorar" la Opción A vs B. Es para **comunicar la decisión de ejecutar Opción B (con Plan B independiente)**, y acordar los términos de convivencia o salida con O3.
 
-> Ver: `02_MEETINGS/client-prep/roque-meeting/02-roque-decision-matrix.md` (v2 con escenario 7), `00-ONE-PAGE-CHEAT-SHEET.md`, `13-emergency-plan-7-days.md`.
+> Ver: `ARCHIVE/legacy-roque-jun-2026/roque-meeting/02-roque-decision-matrix.md` (v2 con escenario 7), `00-ONE-PAGE-CHEAT-SHEET.md`, `13-emergency-plan-7-days.md`.
 
 ---
 
@@ -248,7 +248,7 @@ La métrica central es **confianza generada**, no seguidores ni revenue inmediat
 
 ## PRÓXIMOS PASOS
 
-1. Reunión Roque: **comunicar decisión** (no pedir permiso). Script en `02_MEETINGS/client-prep/roque-meeting/04-conversation-script-by-act.md`.
+1. Reunión Roque: **comunicar decisión** (no pedir permiso). Script en `ARCHIVE/legacy-roque-jun-2026/roque-meeting/04-conversation-script-by-act.md`.
 2. Activar Plan B (Burucuyá amiga viernes) en paralelo, sin esperar a Roque.
 3. Implementar Comunicación ADN-aligned: sitio web, contenido, WhatsApp, red.
 4. Revisar resultados a 90 días según métricas del ADN.

@@ -122,7 +122,7 @@ Audio 22 jun, textual:
 | Libertad para abrir práctica propia | **SÍ, sin pedir permiso** |
 | Su "despido de facto" | Que dejen de derivarle pacientes sin aviso |
 
-### Ver análisis completo: `02_MEETINGS/client-prep/roque-meeting/00-CLARIFICACION-LEGAL-INDEPENDIENTE.md`
+### Ver análisis completo: `ARCHIVE/legacy-roque-jun-2026/roque-meeting/00-CLARIFICACION-LEGAL-INDEPENDIENTE.md`
 
 **Para Gaby:** esto es MEJOR (más libertad) PEOR (sin red de seguridad). El Plan B es su única protección real.
 
@@ -130,14 +130,14 @@ Audio 22 jun, textual:
 
 ---
 
-## Project Structure (top-level only — full list in `COMPLETE-INDEX.md`)
+## Project Structure (top-level only — full list in `INDEX.md`)
 
 ```
 dentist/
 ├── start-here.md                    # START HERE — quick reference
 ├── README.md                        # Project index
 ├── CLAUDE.md                        # This file
-├── TODO.md                          # Sprint plan
+├── docs/MASTER-TODO-RESTANTE.md                          # Sprint plan
 │
 ├── 00_STRATEGIC/                    # Strategy, pricing, financial model, positioning
 │   ├── financial-pricing/           # Canonical pricing, financial model, brand positioning
@@ -191,8 +191,8 @@ dentist/
 
 ### Reunión con Roque — los 3 que Gaby va a usar
 
-- **`02_MEETINGS/client-prep/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md`** — hoja de 1 cara para la reunión
-- **`02_MEETINGS/client-prep/roque-meeting/13-emergency-plan-7-days.md`** — plan si la reunión sale mal
+- **`ARCHIVE/legacy-roque-jun-2026/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md`** — hoja de 1 cara para la reunión
+- **`ARCHIVE/legacy-roque-jun-2026/roque-meeting/13-emergency-plan-7-days.md`** — plan si la reunión sale mal
 - **`09_TEMPLATES/follow-up-burucuya-amiga-luque.md`** — WhatsApp para el Plan B
 
 ### Reunión con Roque — los 11 que Kiki/Erebus usan para preparar

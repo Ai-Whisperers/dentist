@@ -17,7 +17,7 @@
 ## Quality bar
 - Single source of truth for pricing: `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
 - Single source of truth for research synthesis: `01_RESEARCH/market/master-synthesis-market-analysis.md`
-- Entry points expected to stay accurate: `README.md`, `COMPLETE-INDEX.md`, `start-here.md`, and `TODO.md`
+- Entry points expected to stay accurate: `README.md`, `INDEX.md`, `start-here.md`, and `docs/MASTER-TODO-RESTANTE.md`
 
 ## Boundaries
 - Do not push to remote without committing staged changes in logical scopes (messages should fit the change set).

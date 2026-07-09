@@ -122,4 +122,4 @@ Y seguí con tu vida. **No es la única opción** — tenés el espacio del lune
 
 ---
 
-*Volver a [Burucuyá vs Mburucuya](../00_STRATEGIC/strategic-context/burucuya-vs-mburucuya-clarity.md) | [Hoja de la reunión](../02_MEETINGS/client-prep/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md)*
+*Volver a [Burucuyá vs Mburucuya](../00_STRATEGIC/strategic-context/burucuya-vs-mburucuya-clarity.md) | [Hoja de la reunión](../ARCHIVE/legacy-roque-jun-2026/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md)*

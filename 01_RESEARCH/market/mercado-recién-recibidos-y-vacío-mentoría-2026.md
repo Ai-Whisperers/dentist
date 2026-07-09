@@ -302,8 +302,8 @@ Estas preguntas NO están en el cuestionario `08-cuestionario-coaching.md` y mer
 | `00_STRATEGIC/strategic-context/client-profile-deep-dive.md` | Sección "ADN — devolver conocimiento" sigue siendo el motor emocional; este doc valida que la oportunidad de mercado es real |
 | `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` | Pricing de Gaby para clientes particulares (Gs 300K consulta) es el **ancla**; el coaching se cobra 2-3x la consulta para 2h |
 | `01_RESEARCH/market/master-synthesis-market-analysis.md` | Doc maestro del mercado general; este doc es el **sub-anexo** específico al nicho coaching |
-| `MASTER-TODO.md` línea 21 ("quiere ofrecer coaching a colegas") | Este doc **convierte esa línea en plan accionable** con math real |
-| `TODO.md` línea 101 ("Evaluar coaching a colegas como servicio") | Este doc **cierra esa evaluación** — respuesta: SÍ, viable como complemento de ingreso y marca |
+| `MASTER-docs/MASTER-TODO-RESTANTE.md` línea 21 ("quiere ofrecer coaching a colegas") | Este doc **convierte esa línea en plan accionable** con math real |
+| `docs/MASTER-TODO-RESTANTE.md` línea 101 ("Evaluar coaching a colegas como servicio") | Este doc **cierra esa evaluación** — respuesta: SÍ, viable como complemento de ingreso y marca |
 
 ---
 

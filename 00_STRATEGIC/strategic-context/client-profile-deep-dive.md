@@ -129,7 +129,7 @@ Los 5 principios del ADN Profesional que Gaby sostiene en su práctica diaria:
 
 **Para Ivan/Kiki:** todos los docs del prep asumen "Gaby es empleada" — reescritos para la nueva realidad (jun 2026).
 
-Ver análisis completo: `02_MEETINGS/client-prep/roque-meeting/00-CLARIFICACION-LEGAL-INDEPENDIENTE.md`.
+Ver análisis completo: `ARCHIVE/legacy-roque-jun-2026/roque-meeting/00-CLARIFICACION-LEGAL-INDEPENDIENTE.md`.
 
 ### El problema con el dueño (Roque) — actualizado v2:
 

@@ -389,4 +389,4 @@ Directora — Ometz Dental
 
 *Versión 1.0 — 7 julio 2026.*
 *Erebus (Ai-Whisperers).*
-*Cross-ref: `08_WHATSAPP/templates/objection-library.md` + `06_MARKETING/digital-marketing-playbook.md` + `02_MEETINGS/client-prep/roque-meeting/13-emergency-plan-7-days.md` (patrón de respuesta a crisis).*
+*Cross-ref: `08_WHATSAPP/templates/objection-library.md` + `06_MARKETING/digital-marketing-playbook.md` + `ARCHIVE/legacy-roque-jun-2026/roque-meeting/13-emergency-plan-7-days.md` (patrón de respuesta a crisis).*

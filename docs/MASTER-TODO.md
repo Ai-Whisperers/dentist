@@ -87,7 +87,7 @@ Crear los 3 cuestionarios priorizados:
 - [ ] Actualizar `CLAUDE.md` para reflejar la nueva realidad
 - [ ] Actualizar `start-here.md` con la nueva marca
 - [ ] Actualizar `docs/MASTER-TODO-RESTANTE.md` con este master
-- [ ] Actualizar `COMPLETE-INDEX.md` con los nuevos archivos
+- [ ] Actualizar `INDEX.md` con los nuevos archivos
 - [ ] Actualizar `00_STRATEGIC/00-index.md` con nuevos docs
 - [ ] Decisión sobre dónde queda el ADN en los nuevos archivos
 
@@ -175,7 +175,7 @@ Sesión Erebus generó los siguientes 22 docs nuevos (todos commiteados en maste
 - ✅ `06_MARKETING/guia-marketing-etico-odontologos.md` (16K) — Compliance publicitario
 
 ### Master plan
-- ✅ `docs/MASTER-PLAN-COMPLETE-2026.md` (53K) — Plan integral 220 docs, 14 áreas research, 9 upgrades, 12 ideas, planes ejecución, KPIs
+- ✅ `ARCHIVE/legacy-docs-jul-2026/MASTER-PLAN-COMPLETE-2026.md` (53K) — Plan integral 220 docs, 14 áreas research, 9 upgrades, 12 ideas, planes ejecución, KPIs
 
 ---
 

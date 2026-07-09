@@ -128,4 +128,4 @@ Gaby puede copiar y pegar esto (adaptar el nombre):
 
 ---
 
-*Volver al [README principal](../00-index.md) | [Plan B de Luque](../../02_MEETINGS/ARCHIVE-roque-phase1-june2026/luque-space-shortlist-3-priorities.md) | [Hoja de la reunión](../../02_MEETINGS/client-prep/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md)*
+*Volver al [README principal](../00-index.md) | [Plan B de Luque](../../ARCHIVE/legacy-roque-jun-2026/phase1-june2026/luque-space-shortlist-3-priorities.md) | [Hoja de la reunión](../../ARCHIVE/legacy-roque-jun-2026/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md)*

@@ -102,4 +102,4 @@ Gaby
 
 ---
 
-*Volver al [cuestionario completo](./validacion-cliente-dra-gp.md) | [Hoja de la reunión](../../02_MEETINGS/client-prep/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md)*
+*Volver al [cuestionario completo](./validacion-cliente-dra-gp.md) | [Hoja de la reunión](../../ARCHIVE/legacy-roque-jun-2026/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md)*

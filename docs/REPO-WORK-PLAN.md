@@ -35,7 +35,7 @@
 | ID | Task | Steps | Acceptance |
 |----|------|-------|-----------|
 | P1.1 | Auto-count script | `tools/repo-audit.py` with subcommand `counts` that prints per-folder .md counts and exact total. Output is deterministic. | Run: `python tools/repo-audit.py counts` |
-| P1.2 | Unify entry points | Make README the single hub. start-here.md becomes "executive summary of the kit" only. COMPLETE-INDEX.md becomes machine-generated appendix from P1.1. docs/MASTER-TODO-RESTANTE.md stays as action tracker. | README references all other entry points |
+| P1.2 | Unify entry points | Make README the single hub. start-here.md becomes "executive summary of the kit" only. INDEX.md becomes machine-generated appendix from P1.1. docs/MASTER-TODO-RESTANTE.md stays as action tracker. | README references all other entry points |
 | P1.3 | Missing 00-index.md | Every folder that lacks `00-index.md` gets one: list contents + purpose + key docs to read first. Folders checked: 04_SALES, 05_OPERATIONS/clinical-routines, 05_OPERATIONS/patient-communications, 05_OPERATIONS/legal-compliance, 06_MARKETING, 07_DESIGN/brand-assets, 08_WHATSAPP/templates | No folder is missing its index |
 | P1.4 | Dead-link sweep | Run P0.5 validator on full active tree. Fix every broken intra-repo link. Add to pre-commit hook (Phase 3) | 0 broken intra-repo links |
 | P1.5 | Folder naming audit | Confirm no spaces remain in folder names. Confirm `06_MARKETING/` only (no `06 MARKETING/`). Rename if found. | `find . -type d -name '* *'` returns 0 results in active tree |

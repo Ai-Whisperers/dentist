@@ -44,7 +44,7 @@ Todos los archivos marcados con bloque `ADN CROSS-REFERENCE` apuntan a este PDF:
 | `00_STRATEGIC/financial-pricing/brand-positioning-premium.md` (v3) | Brand essence = frase guía; 5 pilares, símbolo, lista prohibida, matriz paciente-mensaje, brief diseñador, calendario 30 días |
 | `00_STRATEGIC/00-index.md` | ADN cross-reference block en el índice raíz |
 | `paragu-ai-platform/apps/dra-gabriela/` (sitio live) | Frase guía en hero, 5 pilares en about/philosophy, símbolo en slide, manifiestos en about, lista prohibida aplicada, puerta de entrada comercial (Consulta de Diagnóstico y Planificación) |
-| `02_MEETINGS/client-prep/roque-meeting/` (cuando se arme script) | Alinear el tono de la reunión con la nueva identidad |
+| `ARCHIVE/legacy-roque-jun-2026/roque-meeting/` (cuando se arme script) | Alinear el tono de la reunión con la nueva identidad |
 
 ---
 
