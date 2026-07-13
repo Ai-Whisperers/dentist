@@ -102,6 +102,7 @@
 - `facebook/` ← ★ instructivo + 52 posts + 6 posts mes 1
 - `gbp-posts/26-gbp-posts-6-meses.md` ← ★ 26 posts
 - `guia-marketing-etico-odontologos.md` ← ★ compliance
+- **`guia-onboarding-meta-stack-ometz-dental.md` ← ★ paso a paso para Gaby (cliente) conectar FB/IG/Ads vía Composio + Pipeboard + Postiz**
 - `holidays/` ← (vacío, mover contenido de calendar/)
 - `html-templates/` ← 3 HTML emails
 - `newsletter/` ← (vacío, mover contenido)
