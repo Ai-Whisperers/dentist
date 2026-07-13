@@ -2,7 +2,16 @@
 ## Cuestionarios para Dra. GP — revisión 22 junio 2026 (v2)
 **Audiencia:** Ivan, Kiki — para entender qué funciona y qué no de los cuestionarios que le estamos pidiendo a Gaby
 
-> 🆕 v2 (22 jun): **NINGUNO de los cuestionarios del repo ha sido respondido por Gaby al 22 de junio 2026.** Son todos templates esperando input. Los campos `___` están todos vacíos. La paciente sigue pendiente de llenar Sección 1 del validacion-cliente-dra-gp.md.
+> 🆕 v3 (12 jul 2026): **3 cuestionarios respondidos, 8 siguen vacíos, 4 NUEVOS diseñados.**
+>
+> - ✅ Respondidos: `07-cuestionario-hoy-5min.md` (28 jun), `cuestionario-a-2026-07-06-respuestas.md` (6 jul), `RESPUESTAS-GABY-2026-06-28.md` (28 jun)
+> - ❌ Vacíos (viejos): `validacion-cliente-dra-gp.md`, `questionnaire-business-setup.md`, `questionnaire-images-and-photos.md`, `questionnaire-fase-2-operacional.md`, `08-cuestionario-coaching.md`
+> - 🚫 Descartado: `09_TEMPLATES/questionnaire-website-content.md` (peligroso + reemplazado)
+> - 🆕 Diseñados: `cuestionario-B-apertura-26jul.md` (esta semana), `cuestionario-C-mes-1.md` (mes 1), `cuestionario-D-brand-sistema.md` (mes 3-6)
+>
+> **Status consolidado:** `docs/REPARACION-12JUL/04-STATUS-QUESTIONNAIRES.md`
+>
+> (v2 decía "NINGUNO respondido" — eso era el 22 jun. Al 12 jul la situación cambió.)
 >
 > **Lo que SÍ sabemos (del audio espontáneo del 22 jun) está en:** `02_MEETINGS/gabi-audio-prompts/CONTEXTO-PREVIO-22JUN.md`. NO preguntes eso de nuevo.
 

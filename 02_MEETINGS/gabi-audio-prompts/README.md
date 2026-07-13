@@ -55,6 +55,22 @@ Si tuvieras que contestarme **una sola cosa** ahora mismo, en una frase:
 
 ---
 
+## 🆕 CUESTIONARIOS NUEVOS (12 jul 2026)
+
+| # | Cuestionario | Cuándo | Estado |
+|---|--------------|--------|--------|
+| A | `07-cuestionario-hoy-5min.md` | HOY (respondido 28 jun) | ✅ Respondido |
+| **B** | **`cuestionario-B-apertura-26jul.md`** | **Esta semana (12-19 jul)** | **❌ NO RESPONDIDO** |
+| C | `cuestionario-C-mes-1.md` | Mes 1 post-apertura | ❌ NO RESPONDIDO |
+| D | `cuestionario-D-brand-sistema.md` | Mes 3-6 | ❌ NO RESPONDIDO |
+| E | `08-cuestionario-coaching.md` | Cuando quiera | ❌ NO RESPONDIDO |
+
+**Acción inmediata:** Kiki manda cuestionario B (12 preguntas, 15 min) por WhatsApp a Gaby esta semana.
+
+**Detalle completo:** `docs/REPARACION-12JUL/04-STATUS-QUESTIONNAIRES.md`
+
+---
+
 *Archivos en esta carpeta:*
 
 | Archivo | Tema | Estado |

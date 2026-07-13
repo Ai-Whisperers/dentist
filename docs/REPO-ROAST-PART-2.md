@@ -143,6 +143,19 @@ Total: ~3,500+ lines of "preparation theater" that Dra. GP will never use.
 
 ---
 
+## UPDATE 12 jul 2026 — Break-even reconciliado
+
+**El break-even final es 20-30 pacientes/mes** (no 12-15 como dicen los docs viejos).
+
+**Fuentes canónicas nuevas:**
+- `01_RESEARCH/procurement/PROCUREMENT-MASTER-GUIDE.md` (Gs 8-13M OpEx real)
+- `01_RESEARCH/procurement/DENTAL-RENT-AND-SHARE-MAP.md` (Gs 8-13M OpEx real)
+- `docs/REPARACION-12JUL/01-STATUS-ROASTS.md` (consolidado)
+
+**Acción tomada:** patch a `financial-model-projections-v2.md` y `kiki-decision-navigation-matrix.md` para que digan 20-30 pac/mes. Ambos docs viejos están stale.
+
+---
+
 ## CONTRADICTIONS NOT YET DOCUMENTED (Part 2)
 
 ### Per-procedure pricing contradictions:

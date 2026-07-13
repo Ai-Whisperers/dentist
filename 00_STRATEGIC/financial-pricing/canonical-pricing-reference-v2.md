@@ -2,9 +2,11 @@
 
 # MASTER PRICING SHEET — AUTHORITATIVE
 ## Dra. Gabriella Gonzalez Pane
-**Version:** 2.0 — June 2026
+**Version:** 2.0 — June 2026 (updated 12 jul 2026)
 **Status:** MASTER — All prices derived from this document
 **Supersedes:** Any price in any other document. Conflicts = this file wins.
+
+> **12 jul 2026 update:** Break-even reconciliado a **20-30 pacientes/mes** (Gs 8-13M OpEx real según `PROCUREMENT-MASTER-GUIDE` y `DENTAL-RENT-AND-SHARE-MAP`). Docs viejos que dicen 12-15 pac/mes están stale.
 
 ---
 
