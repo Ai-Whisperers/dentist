@@ -1,315 +1,311 @@
 # 💝 CUESTIONARIO 12: EXPERIENCIA DEL PACIENTE
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 35 preguntas, 5 opciones (A/B/C/D/E) cada una
 
 **Para:** Gaby · **Cuándo:** Mes 1-2 post-apertura
-**Modo de respuesta:** Audio a Kiki
+**Modo:** `12.P{n}: {letra}`
 
 ---
 
 ## 12.1 — PRIMERA CONSULTA
 
-### P1. ¿Qué incluye la primera consulta?
+### P1. ¿Qué incluye 1ra consulta?
+- **A.** Historia+examen+evaluación periodontal+diagnóstico+plan+presupuesto 3 opciones (45-60min)
+- **B.** Solo diagnóstico
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
-> **PRE-RESPUESTA:**
-> - Historia clínica completa (anamnesis, alergias, medicación, hábitos)
-> - Examen clínico intra y extraoral
-> - Evaluación periodontal
-> - Diagnóstico y plan de tratamiento por escrito (si el caso es complejo)
-> - Presupuesto con 3 opciones (económica, media, premium)
-> - Tiempo: 45-60 min
-> **Origen:** `objection-library.md` + `sitemap-profilaxis-v1.md`
-> ✅ / ❌ / ✏️ ___
+### P2. ¿Costo 1ra consulta?
+- **A.** Gs 300k estándar / Gs 400k extendida (se descuenta si hace tratamiento)
+- **B.** Gratis
+- **C.** Más alto
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P2. ¿Cuánto cuesta la primera consulta?
-
-> **PRE-RESPUESTA:** **Gs 300k consulta estándar, Gs 400k extendida.** Si se convierte en tratamiento el mismo día, se descuenta.
-> **Origen:** canonical-pricing v2
-> ✅ / ❌ / ✏️ ___
-
-### P3. ¿Se cobra consulta aunque no haya tratamiento?
-
-> **PRE-RESPUESTA:** **SÍ.** La consulta es un servicio, no una venta forzada.
-> **Origen:** ético
-> ✅ / ❌ / ✏️ ___
+### P3. ¿Cobramos consulta aunque no haya tratamiento?
+- **A.** Sí
+- **B.** No, gratis si no se trata
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
 ### P4. ¿Pedimos radiografías previas?
-
-> **PRE-RESPUESTA:** **Sí, si el paciente tiene.** Si no, se toman en consultorio (periapical). Panorámica derivamos a Centro de Imágenes.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, si tiene. Si no, periapical aquí. Panorámica derivamos
+- **B.** No
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Siempre nuevas
 
 ### P5. ¿Damos plan escrito siempre?
+- **A.** Sí, PDF + email + WA
+- **B.** Solo verbal
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo si pide
 
-> **PRE-RESPUESTA:** **SÍ, en PDF + email + WhatsApp.** Esto es clave de Ometz.
-> **Origen:** brand positioning
-> ✅ / ❌ / ✏️ ___
-
-### P6. ¿Cuánto tarda en estar listo el plan escrito?
-
-> **PRE-RESPUESTA:** **24-48h** después de la consulta (si requiere revisión).
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+### P6. ¿Cuánto tarda plan escrito?
+- **A.** 24-48h
+- **B.** Mismo día
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** 1 semana
 
 ---
 
-## 12.2 — DURANTE EL TRATAMIENTO
+## 12.2 — DURANTE TRATAMIENTO
 
-### P7. ¿Cómo se presenta el plan de tratamiento al paciente?
-
-> **PRE-RESPUESTA:**
-> - Verbal durante la consulta (con imágenes/diagramas)
-> - Escrito en PDF después (24-48h)
-> - Si caso complejo: presentación visual con Canva/PowerPoint
-> - 3 opciones siempre (económica, media, premium)
-> **Origen:** `objection-library.md`
-> ✅ / ❌ / ✏️ ___
+### P7. ¿Cómo se presenta el plan?
+- **A.** Verbal durante consulta + PDF después 24-48h + visual Canva si complejo + 3 opciones
+- **B.** Solo verbal
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo escrito
 
 ### P8. ¿Qué se entrega al paciente?
+- **A.** Presupuesto+plan+consentimiento firmado+receta si aplica+recomendaciones post
+- **B.** Solo presupuesto
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
-> **PRE-RESPUESTA:**
-> - Presupuesto escrito (PDF)
-> - Plan de tratamiento (PDF)
-> - Consentimiento informado (firmado, escaneado)
-> - Receta membretada si corresponde
-> - Recomendaciones post-tratamiento (impresas o PDF)
-> **Origen:** legal + práctica
-> ✅ / ❌ / ✏️ ___
-
-### P9. ¿Cuánto tarda una consulta de seguimiento?
-
-> **PRE-RESPUESTA:** **30-45 min** para control. **60 min** si hay procedimiento.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+### P9. ¿Duración consulta seguimiento?
+- **A.** 30-45min control / 60min si hay procedimiento
+- **B.** Siempre 60min
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** 15min
 
 ### P10. ¿Explicamos costos antes de cada procedimiento?
+- **A.** Sí siempre. No se inicia nada sin confirmar precio+aceptación
+- **B.** Solo al inicio
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **SÍ, siempre.** No se inicia nada sin confirmar precio + aceptación.
-> **Origen:** ético
-> ✅ / ❌ / ✏️ ___
-
-### P11. ¿Tenemos protocolo para paciente ansioso?
-
-> **PRE-RESPUESTA:** **SÍ:**
-> - Explicación detallada paso a paso
-> - Pausas si lo pide
-> - Música relajante
-> - Ambiente tranquilo
-> - Opción de sedación leve si lo decide (mes 6+)
-> **Origen:** `anti-anxiety-dentist-research-gaby-2026.md`
-> ✅ / ❌ / ✏️ ___
+### P11. ¿Protocolo paciente ansioso?
+- **A.** Sí: explicación detallada+pausas+música+ambiente tranquilo+sedación mes 6+
+- **B.** Solo recomendaciones
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
 ## 12.3 — POST-CONSULTA
 
 ### P12. ¿Llamamos al paciente después?
+- **A.** Sí, 24h después de procedimientos invasivos (endo, exodoncia, cirugía menor)
+- **B.** Siempre
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo si reclama
 
-> **PRE-RESPUESTA:** **Sí, 24h después de procedimientos invasivos** (endodoncia, exodoncia, cirugía menor). "¿Cómo te sentís? ¿Dolor? ¿Sangrado?"
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+### P13. ¿Recomendaciones post-tratamiento?
+- **A.** Sí, WA + email + PDF
+- **B.** Solo verbal
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo si pregunta
 
-### P13. ¿Enviamos recomendaciones post-tratamiento?
+### P14. ¿Recordatorio profilaxis cada 6 meses?
+- **A.** Sí, automático
+- **B.** Anual
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **SÍ, por WA + email.** PDF con: qué hacer, qué NO hacer, cuándo llamar, medicación si corresponde.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
-
-### P14. ¿Hacemos recordatorio de profilaxis cada 6 meses?
-
-> **PRE-RESPUESTA:** **SÍ, automático** (Google Sheet o software). Mes 6, 12, 18, etc.
-> **Origen:** fidelización
-> ✅ / ❌ / ✏️ ___
-
-### P15. ¿Tenemos programa de fidelización?
-
-> **PRE-RESPUESTA:** **Mes 6+.** 5ta visita gratis profilaxis. Acumulable.
-> **Origen:** `32-IDEAS-MONETIZACION`
-> ✅ / ❌ / ✏️ ___
+### P15. ¿Programa fidelización?
+- **A.** Sí, mes 6+: 5ta visita gratis profilaxis, acumulable
+- **B.** Sí, descuento 10%
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ### P16. ¿Aceptamos referidos de pacientes?
-
-> **PRE-RESPUESTA:** **SÍ.** Programa simple: "gracias" simbólico (no comisión, no descuento público).
-> **Origen:** `referral-program-plan.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, simple sin comisión, "gracias" simbólico
+- **B.** Sí con descuento al referidor
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
-## 12.4 — FEEDBACK Y MEJORA CONTINUA
+## 12.4 — FEEDBACK
 
-### P17. ¿Pedimos reseña Google al final del tratamiento?
+### P17. ¿Pedimos reseña Google al final?
+- **A.** Sí, solo a satisfechos. WA pre-armado + link directo GBP
+- **B.** A todos
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **SÍ, a pacientes satisfechos.** Mensaje WA pre-armado + link directo a GBP.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
-
-### P18. ¿Hacemos encuesta NPS post-consulta?
-
-> **PRE-RESPUESTA:** **Mes 2+.** Google Form corto (3 preguntas: NPS, comentarios, mejora). Mensual.
-> **Origen:** experiencia
-> ✅ / ❌ / ✏️ ___
+### P18. ¿NPS post-consulta?
+- **A.** Mes 2+, Google Form 3 preguntas (NPS+comentarios+mejora), mensual
+- **B.** Anual
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ### P19. ¿Manejamos quejas formalmente?
+- **A.** Sí: escuchar+disculparse+ofrecer solución+documentar+si escala abogado
+- **B.** Solo documentar
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **SÍ:**
-> 1. Escuchar sin interrumpir
-> 2. Disculparse sin asumir culpa legal
-> 3. Ofrecer solución razonable
-> 4. Documentar incidente
-> 5. Si escala, Abogado
-> **Origen:** `guia-crisis-reputacional.md`
-> ✅ / ❌ / ✏️ ___
+### P20. ¿Seguimiento de quejas?
+- **A.** Sí, revisión mensual + acciones correctivas
+- **B.** Solo si reclama
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-### P20. ¿Hacemos seguimiento de quejas?
-
-> **PRE-RESPUESTA:** **SÍ.** Revisión mensual de quejas + acciones correctivas.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
-
-### P21. ¿Tenemos welcome packet para nuevos pacientes?
-
-> **PRE-RESPUESTA:** **SÍ, mes 2+.** Impreso: bienvenida, qué esperar, política cancelación, FAQ breve, contacto.
-> **Origen:** `patient-welcome-packet.md`
-> ✅ / ❌ / ✏️ ___
+### P21. ¿Welcome packet nuevos pacientes?
+- **A.** Sí, mes 2+ impreso: bienvenida+qué esperar+política+FAQ+contacto
+- **B.** Solo digital
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
 ## 12.5 — PACIENTES DIFÍCILES
 
-### P22. ¿Cómo manejamos paciente conflictivo?
+### P22. ¿Paciente conflictivo?
+- **A.** Mantener calma+escuchar+ofrecer soluciones+si persiste terminar+si agresivo policía
+- **B.** Atender siempre
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Sacar de base
 
-> **PRE-RESPUESTA:**
-> - Mantener calma
-> - Escuchar activamente
-> - Ofrecer soluciones
-> - Si persiste: terminar consulta amablemente
-> - Si agresividad: llamar a la policía, documentar, sacar de la base
-> **Origen:** `guia-crisis-reputacional.md`
-> ✅ / ❌ / ✏️ ___
+### P23. ¿Lista negra pacientes?
+- **A.** Sí interna: 3+ no-show, agresión, fraude. NO se reagenda
+- **B.** Pública
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P23. ¿Tenemos "lista negra" de pacientes?
+### P24. ¿Paciente que llora?
+- **A.** Empatía+espacio. Si procedimiento pausar. Si post conversar
+- **B.** Continuar tratamiento
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Derivar
 
-> **PRE-RESPUESTA:** **Sí, interna.** Pacientes con: 3+ no-shows, agresión, fraude. NO se les reagenda.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+### P25. ¿Paciente no acepta plan?
+- **A.** No presionar. "Te escucho. Si querés 2da opinión te derivo, si querés pensarlo me avisás"
+- **B.** Insistir
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Sacar de lista
 
-### P24. ¿Cómo manejamos paciente que llora?
+### P26. ¿Paciente con miedo?
+- **A.** Explicación detallada+pausas+ambiente calmado (diferenciador principal)
+- **B.** Sedación siempre
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Derivar
 
-> **PRE-RESPUESTA:** Empatía + espacio. Si es durante procedimiento, pausar. Si es post-tratamiento, conversar.
-> **Origen:** empático
-> ✅ / ❌ / ✏️ ___
-
-### P25. ¿Cómo manejamos paciente que no acepta el plan?
-
-> **PRE-RESPUESTA:** No presionar. "Te escucho. Si querés segunda opinión, te derivo. Si querés pensarlo, me avisás."
-> **Origen:** `objection-library.md`
-> ✅ / ❌ / ✏️ ___
-
-### P26. ¿Cómo manejamos paciente con miedo?
-
-> **PRE-RESPUESTA:** Explicación detallada + pausas + ambiente calmado. Es el diferenciador principal.
-> **Origen:** `anti-anxiety-dentist-research-gaby-2026.md`
-> ✅ / ❌ / ✏️ ___
-
-### P27. ¿Cómo manejamos paciente con dolor agudo?
-
-> **PRE-RESPUESTA:** **Atender mismo día** (slot urgencia 14:30-15:00). Diagnóstico + tratamiento del dolor. Plan completo después.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+### P27. ¿Dolor agudo?
+- **A.** Mismo día slot urgencia. Diagnóstico+tratamiento dolor. Plan después
+- **B.** Reagendar
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No atender urgencias
 
 ---
 
-## 12.6 — JOURNEY MAP DEL PACIENTE
+## 12.6 — JOURNEY
 
-### P28. ¿Cuántos touchpoints tenemos con el paciente?
+### P28. ¿Touchpoints?
+- **A.** 8: awareness→consideración→conversión→onboarding→tratamiento→cierre→fidelización→advocacy
+- **B.** Más simple (4-5)
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
-> **PRE-RESPUESTA (8 touchpoints):**
-> 1. **Awareness:** ve post en FB/IG o busca en Google
-> 2. **Consideration:** visita el sitio web, lee sobre Ometz
-> 3. **Conversión:** envía WA pidiendo cita
-> 4. **Onboarding:** llega al consultorio, ficha, primera consulta
-> 5. **Tratamiento:** procedimientos durante 1-6 meses
-> 6. **Cierre:** caso terminado, plan escrito entregado
-> 7. **Fidelización:** recordatorios cada 6 meses, profilaxis
-> 8. **Advocacy:** refiere amigos/familia, deja reseña
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
-
-### P29. ¿Tenemos definido el journey map?
-
-> **PRE-RESPUESTA:** **Pendiente.** Documentar mes 1+ con Kiki.
-> **Origen:** ANALISIS-COMPLETO-UPGRADES
-> ✅ / ❌ / ✏️ ___
+### P29. ¿Journey map definido?
+- **A.** Pendiente, documentar mes 1+ con Kiki
+- **B.** Ya hecho
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ### P30. ¿Optimizamos cada touchpoint?
-
-> **PRE-RESPUESTA:** **Mes 3+, evaluamos cada touchpoint** con datos reales. Optimización continua.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 3+, evaluamos con datos reales. Optimización continua
+- **B.** Anual
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
-## 12.7 — COMUNICACIÓN CONTINUA
+## 12.7 — COMUNICACIÓN
 
-### P31. ¿Newsletter mensual a pacientes?
+### P31. ¿Newsletter mensual?
+- **A.** Mes 6+, gratis con Brevo. Contenido: salud+casos+novedades
+- **B.** Pago premium
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **Mes 6+**, gratis con Brevo. Contenido: consejos salud bucal, casos interesantes (anonimizados), novedades Ometz.
-> **Origen:** plan
-> ✅ / ❌ / ✏️ ___
-
-### P32. ¿WhatsApp directo con Gaby?
-
-> **PRE-RESPUESTA:** **NO** (Gaby no da número personal). Todo va por WA Business + Kiki/auxiliar como filtro.
-> **Origen:** STAFFING-Y-ORGANIZACION
-> ✅ / ❌ / ✏️ ___
+### P32. ¿WA directo con Gaby?
+- **A.** No, todo por WA Business+Kiki+auxiliar como filtro
+- **B.** Sí
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
 ### P33. ¿Email directo?
+- **A.** Sí doctura.gabi@ometsdental.com.py + Gaby responde
+- **B.** No
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Otro email
 
-> **PRE-RESPUESTA:** **SÍ** doctura.gabi@ometsdental.com.py + Gaby responde.
-> **Origen:** email confirmado
-> ✅ / ❌ / ✏️ ___
+### P34. ¿Tono en comunicaciones?
+- **A.** Cálido+honesto+criterioso. Nunca apurado ni condescendiente
+- **B.** Formal+profesional
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Casual
 
-### P34. ¿Cuidamos el tono en todas las comunicaciones?
-
-> **PRE-RESPUESTA:** **SÍ.** Cálido, honesto, criterioso. Nunca apurado, nunca condescendiente.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
-
-### P35. ¿Tenemos template para "feliz cumpleaños"?
-
-> **PRE-RESPUESTA:** **Mes 6+ opcional.** WA automático. Tono personal, no comercial.
-> **Origen:** fidelización
-> ✅ / ❌ / ✏️ ___
+### P35. ¿Feliz cumpleaños?
+- **A.** Mes 6+ opcional. WA automático. Tono personal no comercial
+- **B.** Sí con descuento
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas |
 |---|---|---|
-| Primera consulta | 6 | 0 |
-| Durante tratamiento | 5 | 0 |
-| Post-consulta | 5 | 0 |
-| Feedback | 5 | 0 |
-| Pacientes difíciles | 6 | 0 |
-| Journey map | 3 | 0 |
-| Comunicación | 5 | 0 |
-| **TOTAL** | **35** | **0** |
-
-**No hay bloqueantes.** Experiencia bien documentada en repo.
+| Primera consulta | 6 | P1, P5 |
+| Tratamiento | 5 | P7, P10 |
+| Post | 5 | P15 |
+| Feedback | 5 | P19 |
+| Difíciles | 6 | P25 |
+| Journey | 3 | P28 |
+| Comunicación | 5 | P34 |
+| **TOTAL** | **35** | **6** |
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 1: confirmo, plan escrito en PDF siempre
-Pregunta 5: sí, en PDF + email + WA
-Pregunta 15: 5ta visita gratis profilaxis, no acumulo descuento
-Pregunta 21: ✅ welcome packet mes 2
-Pregunta 22: protocolo paciente difícil ya existe
+12.P1: A
+12.P5: A (plan escrito siempre)
+12.P7: A (verbal + PDF + visual + 3 opciones)
+12.P15: A (5ta gratis)
+12.P19: A (protocolo formal)
+12.P25: A (no presionar)
+12.P34: A (cálido+honesto+criterioso)
 ```
 
 ---
 
-*Próximo cuestionario:* `13-tecnologia.md`
+*Próximo cuestionario:* `14-expansion.md`

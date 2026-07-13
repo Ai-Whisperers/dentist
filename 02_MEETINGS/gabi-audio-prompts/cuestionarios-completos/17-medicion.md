@@ -1,323 +1,329 @@
 # 📊 CUESTIONARIO 17: MEDICIÓN Y KPIs
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 36 preguntas, 5 opciones (A/B/C/D/E) cada una
 
-**Para:** Gaby · **Cuándo:** Mes 1 (KPIs ya están definidos, esto es confirmar las metas y reportes)
-**Modo de respuesta:** Audio a Kiki
+**Para:** Gaby · **Cuándo:** Mes 1 (KPIs ya definidos)
+**Modo:** `17.P{n}: {letra}`
 
 ---
 
-## 17.1 — KPIs PRINCIPALES (12 base)
+## 17.1 — KPIs BASE
 
-### P1. ¿Cuáles son los 12 KPIs base?
-
-> **PRE-RESPUESTA** (de `intelligence-kpis-y-señales-exito-mes-1.md`):
-> 1. Vistas Google Business Profile
-> 2. Visitas sitio web
-> 3. Followers Facebook
-> 4. Llamadas/WhatsApp desde GBP
-> 5. Mensajes WA recibidos
-> 6. Conversión WA → cita agendada
-> 7. Tiempo promedio respuesta WA
-> 8. Pacientes únicos nuevos/mes
-> 9. Tasa no-show / cancelación
-> 10. Ticket promedio primera consulta
-> 11. Tasa aceptación del plan
-> 12. Reseñas Google (total + promedio)
-> ✅ / ❌ / ✏️ ___
+### P1. ¿12 KPIs base?
+- **A.** Los 12 del repo (`intelligence-kpis-y-señales-exito-mes-1.md`)
+- **B.** Menos
+- **C.** Más
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P2. ¿Metas mes 1?
-
-> **PRE-RESPUESTA:**
-> - Vistas GBP: 200-500
-> - Visitas web: 100-300
-> - Followers FB: 50-150
-> - Llamadas GBP: 20-50
-> - Mensajes WA: 50-100
-> - Conversión WA→cita: 25-40%
-> - Tiempo respuesta WA: <30 min en horario
-> - Pacientes únicos nuevos: 5-10
-> - No-show: <10%
-> - Ticket promedio: Gs 300-400k
-> - Aceptación plan: 50-70%
-> - Reseñas: 3-5 con 4.8★+
-> ✅ / ❌ / ✏️ ___
+- **A.** 200-500 vistas GBP, 100-300 visitas web, 50-150 followers, 20-50 calls, 50-100 WA, 5-10 pacientes nuevos
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P3. ¿Metas mes 6?
-
-> **PRE-RESPUESTA:**
-> - Pacientes únicos: 15-22
-> - Reseñas: 25+
-> - Recurrencia: 35%+
-> - Ticket promedio: Gs 400-550k
-> - Margen neto: ≥0% (break-even)
-> ✅ / ❌ / ✏️ ___
+- **A.** 15-22 pacientes únicos, 25+ reseñas, 35%+ recurrencia, Gs 400-550k ticket, break-even margen
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P4. ¿Metas mes 12?
-
-> **PRE-RESPUESTA:**
-> - Pacientes únicos: 22-30
-> - Reseñas: 50+
-> - Recurrencia: 50%+
-> - Ticket promedio: Gs 450-650k
-> - Margen neto: 30%+
-> - Revenue: Gs 18-25M/mes
-> ✅ / ❌ / ✏️ ___
+- **A.** 22-30 pacientes, 50+ reseñas, 50%+ recurrencia, Gs 450-650k ticket, 30%+ margen
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 17.2 — KPIs DE MARKETING
+## 17.2 — MARKETING
 
-### P5. ¿CTR en Meta Ads?
+### P5. ¿CTR Meta Ads?
+- **A.** >1.5% mes 4-6. Pausar <0.5%
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **>1.5%** (mes 4-6). Pausar si <0.5%.
-> ✅ / ❌ / ✏️ ___
+### P6. ¿CPL Meta Ads?
+- **A.** <USD 3
+- **B.** Más bajo
+- **C.** Más alto
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P6. ¿CPL (costo por lead) en Meta Ads?
+### P7. ¿ROAS?
+- **A.** >2x. Escalar si >3x
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **<USD 3** (mes 4-6).
-> ✅ / ❌ / ✏️ ___
-
-### P7. ¿ROAS (return on ad spend)?
-
-> **PRE-RESPUESTA:** **>2x.** Escalar si >3x.
-> ✅ / ❌ / ✏️ ___
-
-### P8. ¿Engagement rate en redes?
-
-> **PRE-RESPUESTA:** **5-7%.** Cambiar formato si <3%.
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 17.3 — KPIs OPERATIVOS
-
-### P9. ¿Tasa de aceptación del plan?
-
-> **PRE-RESPUESTA:** **50-70%** (si menor, revisar explicaciones o presión de venta).
-> ✅ / ❌ / ✏️ ___
-
-### P10. ¿Tasa de cancelación?
-
-> **PRE-RESPUESTA:** **<10%** (sin recordatorio, 20-30%). Con recordatorio 24h, baja a 8-12%.
-> ✅ / ❌ / ✏️ ___
-
-### P11. ¿Tasa de recurrencia?
-
-> **PRE-RESPUESTA:** Mes 3: 20-30%. Mes 6: 35%+. Mes 12: 50%+.
-> ✅ / ❌ / ✏️ ___
-
-### P12. ¿Ticket promedio segunda opinión?
-
-> **PRE-RESPUESTA:** **Gs 450-600k** según complejidad.
-> ✅ / ❌ / ✏️ ___
-
-### P13. ¿Ticket promedio rehabilitación?
-
-> **PRE-RESPUESTA:** **Gs 8-15M** (caso completo).
-> ✅ / ❌ / ✏️ ___
+### P8. ¿Engagement rate redes?
+- **A.** 5-7%. Cambiar formato si <3%
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 17.4 — KPIs DE CALIDAD
+## 17.3 — OPERATIVO
 
-### P14. ¿NPS (Net Promoter Score)?
+### P9. ¿Tasa aceptación plan?
+- **A.** 50-70%
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Mes 3: >60. Mes 12: >70.
-> ✅ / ❌ / ✏️ ___
+### P10. ¿Tasa cancelación?
+- **A.** <10% con recordatorio 24h (baja de 20-30%)
+- **B.** Más estricto
+- **C.** Más permisivo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P15. ¿Reseñas Google negativas (<4★)?
+### P11. ¿Recurrencia?
+- **A.** Mes 3: 20-30%. Mes 6: 35%+. Mes 12: 50%+
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **<5%** del total. Si >10%, revisar servicio.
-> ✅ / ❌ / ✏️ ___
+### P12. ¿Ticket 2da opinión?
+- **A.** Gs 450-600k
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P16. ¿Tiempo de respuesta WA?
-
-> **PRE-RESPUESTA:** **<30 min** en horario consultorio. Si más, automatizar.
-> ✅ / ❌ / ✏️ ___
-
-### P17. ¿Tiempo espera del paciente en consultorio?
-
-> **PRE-RESPUESTA:** **<15 min** promedio.
-> ✅ / ❌ / ✏️ ___
+### P13. ¿Ticket rehabilitación?
+- **A.** Gs 8-15M (caso completo)
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 17.5 — KPIs FINANCIEROS
+## 17.4 — CALIDAD
+
+### P14. ¿NPS?
+- **A.** Mes 3 >60. Mes 12 >70
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P15. ¿% reseñas negativas (<4★)?
+- **A.** <5%. Si >10% revisar servicio
+- **B.** Más estricto
+- **C.** Más permisivo
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P16. ¿Tiempo respuesta WA?
+- **A.** <30 min horario. Si más, automatizar
+- **B.** Más estricto
+- **C.** Más permisivo
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P17. ¿Tiempo espera paciente?
+- **A.** <15 min promedio
+- **B.** Más estricto
+- **C.** Más permisivo
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+---
+
+## 17.5 — FINANCIERO
 
 ### P18. ¿Revenue mensual objetivo?
-
-> **PRE-RESPUESTA:**
-> - Mes 1-3: Gs 3-8M
-> - Mes 4-6: Gs 8-12M
-> - Mes 7-12: Gs 14-18M
-> - Mes 12+: Gs 18-25M
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 1-3: 3-8M. Mes 4-6: 8-12M. Mes 12+: 18-25M
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P19. ¿Margen neto?
+- **A.** Mes 1-6: -10% a 0%. Mes 6: BE. Mes 12: 30%+
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Mes 1-6: -10% a 0%
-> - Mes 6: break-even
-> - Mes 12: 30%+
-> ✅ / ❌ / ✏️ ___
+### P20. ¿Costos fijos mensuales?
+- **A.** Mes 0-2: 1.5-2M. Mes 3-5: 1.8M. Mes 6+: 3.6M. Mes 12+: 8-13M
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P20. ¿Costos fijos mensual?
-
-> **PRE-RESPUESTA:**
-> - Mes 0-2: Gs 1.5-2M (Gaby + servicios)
-> - Mes 3-5: Gs 1.8M (+ auxiliar part-time)
-> - Mes 6+: Gs 3.6M (auxiliar full-time + CM)
-> - Mes 12+: Gs 8-13M (full equipo)
-> ✅ / ❌ / ✏️ ___
-
-### P21. ¿Punto de break-even?
-
-> **PRE-RESPUESTA:** **Mes 6** con 20-30 pacientes/mes. Reconciliado 12 jul 2026.
-> ✅ / ❌ / ✏️ ___
+### P21. ¿Break-even?
+- **A.** Mes 6 con 20-30 pacientes/mes
+- **B.** Mes 3
+- **C.** Mes 12+
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 17.6 — REPORTES
 
 ### P22. ¿Reporte diario?
-
-> **PRE-RESPUESTA:** **SÍ** (Kiki). Cierre de caja + # pacientes + WA recibidos.
-> **Origen:** operativo
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, Kiki. Cierre caja + # pacientes + WA recibidos
+- **B.** Solo semanal
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ### P23. ¿Reporte semanal?
-
-> **PRE-RESPUESTA:** **SÍ** (Kiki, domingos 15 min). Tabla con 12 KPIs.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, domingos 15 min, tabla con 12 KPIs
+- **B.** Otro día
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ### P24. ¿Reporte mensual?
-
-> **PRE-RESPUESTA:** **SÍ** (Kiki + Iván + Gaby, viernes de revisión 30 min). Cierre contable + 12 KPIs + decisiones.
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, viernes 30 min, cierre contable+KPIs+decisiones
+- **B.** Solo semanal
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ### P25. ¿Reporte trimestral?
+- **A.** Sí, revisión estratégica + ajustes plan
+- **B.** Anual
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **SÍ** (Gaby + Iván + Kiki). Revisión estratégica + ajustes al plan.
-> ✅ / ❌ / ✏️ ___
-
-### P26. ¿Anual review?
-
-> **PRE-RESPUESTA:** **SÍ** (Gaby + Iván + Kiki + contador). Cierre fiscal + plan año 2.
-> ✅ / ❌ / ✏️ ___
+### P26. ¿Annual review?
+- **A.** Sí, cierre fiscal + plan año 2
+- **B.** Solo mensual
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
 ## 17.7 — DASHBOARD
 
-### P27. ¿Tenemos dashboard?
+### P27. ¿Dashboard?
+- **A.** Google Sheet compartido, Kiki crea esta semana
+- **B.** Ya hecho
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Software
 
-> **PRE-RESPUESTA:** **Google Sheet compartido** (Kiki crea esta semana). 1 página con 12 KPIs + revenue + costos.
-> ✅ / ❌ / ✏️ ___
+### P28. ¿Quién accede?
+- **A.** Gaby+Kiki+Iván. NO auxiliar
+- **B.** Todos
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo Gaby
 
-### P28. ¿Quién accede al dashboard?
+### P29. ¿Frecuencia actualización?
+- **A.** Semanal (Kiki)
+- **B.** Diaria
+- **C.** Mensual
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Gaby, Kiki, Iván. No auxiliar (datos sensibles).
-> ✅ / ❌ / ✏️ ___
-
-### P29. ¿Con qué frecuencia se actualiza?
-
-> **PRE-RESPUESTA:** Semanal (Kiki).
-> ✅ / ❌ / ✏️ ___
-
-### P30. ¿Cuándo migramos a software específico?
-
-> **PRE-RESPUESTA:** **Mes 6-12.** Cuando el equipo crece o cuando Google Sheet se vuelve insuficiente.
-> ✅ / ❌ / ✏️ ___
+### P30. ¿Cuándo migrar a software?
+- **A.** Mes 6-12 cuando Google Sheet insuficiente
+- **B.** Mes 12+
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Nunca
 
 ---
 
 ## 17.8 — ATRIBUCIÓN
 
 ### P31. ¿Cómo sabemos de dónde viene cada paciente?
+- **A.** Preguntar al 1er contacto: ¿Cómo nos encontraste?+UTM tracking+WA Business insights
+- **B.** Solo pregunta
+- **C.** Solo UTM
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Pregunta al paciente al primer contacto: "¿Cómo nos encontraste?"
-> - UTM tracking en links de Ads
-> - WA Business permite ver de dónde llega cada mensaje
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+### P32. ¿Atribución multi-canal?
+- **A.** Mes 6+, GA4+WA+Meta manual inicialmente
+- **B.** Mes 1+
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-### P32. ¿Tenemos atribución multi-canal?
-
-> **PRE-RESPUESTA:** **Mes 6+.** GA4 + WA Business insights + Meta Ads manager. Manual inicialmente.
-> ✅ / ❌ / ✏️ ___
-
-### P33. ¿Cuál es el canal que más trae pacientes?
-
-> **PRE-RESPUESTA:** **Variable.** Esperar datos reales mes 3+ para decidir.
-> ✅ / ❌ / ✏️ ___
+### P33. ¿Canal que más trae?
+- **A.** Variable, esperar datos reales mes 3+
+- **B.** Assume GBP
+- **C.** Assume FB
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 17.9 — SEÑALES DE ALERTA
+## 17.9 — ALERTAS
 
-### P34. ¿Cuáles son las señales rojas?
-
-> **PRE-RESPUESTA (de `intelligence-kpis-y-señales-exito-mes-1.md`):**
-> - <5 pacientes/mes a fin de mes 1 → captación fallando
-> - Revenue <Gs 5M/mes a fin de mes 2 → conversión fallando
-> - Reseñas <4.5★ con 3+ → servicio fallando
-> - Auxiliar se va antes de 3 meses → problema laboral
-> - Mensajes WA sin respuesta >4 horas → sobrecarga
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+### P34. ¿Señales rojas?
+- **A.** <5 pac/mes mes 1, <Gs 5M mes 2, <4.5★ reseñas, auxiliar se va <3m, WA >4h sin respuesta
+- **B.** Más estricto
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Otro
 
 ### P35. ¿Señales amarillas?
-
-> **PRE-RESPUESTA:**
-> - Crecimiento <10% mes a mes → aumentar presupuesto Ads
-> - ROAS <1.5x → pausar campañas no rentables
-> - CPL >USD 5 → revisar audiencias
-> - Recurrencia <25% → mejorar seguimiento
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Crecimiento <10%, ROAS <1.5x, CPL >USD 5, recurrencia <25%
+- **B.** Más estricto
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Otro
 
 ### P36. ¿Señales verdes?
-
-> **PRE-RESPUESTA:**
-> - Crecimiento >20% mes a mes → invertir más
-> - ROAS >3x → escalar 30%
-> - Referidos >30% → crear programa formal
-> - Margen >40% → evaluar expansión
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Crecimiento >20%, ROAS >3x, referidos >30%, margen >40%
+- **B.** Más estricto
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Otro
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas |
 |---|---|---|
-| KPIs base | 4 | 0 |
-| Marketing | 4 | 0 |
-| Operativo | 5 | 0 |
-| Calidad | 4 | 0 |
-| Financiero | 4 | 0 |
-| Reportes | 5 | 0 |
-| Dashboard | 4 | 0 |
-| Atribución | 3 | 0 |
-| Señales | 3 | 0 |
-| **TOTAL** | **36** | **0** |
-
-**No hay bloqueantes** (todo está documentado en repo).
+| KPIs base | 4 | P2 |
+| Marketing | 4 | P7 |
+| Operativo | 5 | P9 |
+| Calidad | 4 | P14 |
+| Financiero | 4 | P18 |
+| Reportes | 5 | P23 |
+| Dashboard | 4 | P27 |
+| Atribución | 3 | P31 |
+| Alertas | 3 | P34 |
+| **TOTAL** | **36** | **6** |
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 2: ✅ las metas mes 1
-Pregunta 27: Kiki crea Google Sheet esta semana
-Pregunta 34: protocolo señales rojas ya existe
+17.P1: A (los 12 del repo)
+17.P7: A (>2x ROAS)
+17.P9: A (50-70% aceptación)
+17.P14: A (NPS >60 mes 3)
+17.P18: A (Gs 3-8M mes 1)
+17.P23: A (domingos 15 min)
+17.P27: A (Google Sheet)
+17.P34: A (señales rojas)
 ```
 
 ---
 
-*Próximo cuestionario:* `00-INDEX.md` (resumen maestro)
+*Fin de los 17 cuestionarios v2*

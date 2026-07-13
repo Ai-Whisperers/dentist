@@ -1,312 +1,306 @@
 # 🎓 CUESTIONARIO 15: COACHING ODONTOLÓGICO A COLEGAS
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 33 preguntas, 5 opciones (A/B/C/D/E) cada una
 
-**Para:** Gaby · **Cuándo:** Mes 3-6 (cuando quiera arrancar, no antes)
-**Modo de respuesta:** Audio a Kiki
-
----
-
-## 15.1 — DECISIÓN ESTRATÉGICA
-
-### P1. ¿Querés ofrecer coaching a colegas?
-
-> **PRE-RESPUESTA:** **SÍ** (confirmado audio 7 jul). Pero mes 9+ (no antes, no solapar con apertura).
-> **Origen:** audio 7 jul + sesión 12 jul
-> ✅ / ❌ / ✏️ ___
-
-### P2. ¿Por qué querés ofrecer coaching?
-
-> **PRE-RESPUESTA:** "Devolver lo que aprendí en 20 años". Vacío de mentoría odontológica real en PY (validado en research).
-> **Origen:** ADN + `mercado-recién-recibidos-y-vacío-mentoría-2026.md`
-> ✅ / ❌ / ✏️ ___
-
-### P3. ¿Es línea 2 prioritaria o complemento?
-
-> **PRE-RESPUESTA:** **Complemento, no ingreso principal.** Branding + satisfacción personal + Gs 67M/año potencial.
-> **Origen:** `mercado-recién-recibidos-y-vacío-mentoría-2026.md` §5.3
-> ✅ / ❌ / ✏️ ___
-
-### P4. ¿Qué mercado objetivo?
-
-> **PRE-RESPUESTA:** **Dentistas recién recibidos (0-3 años)**. Mercado addressable 20-40 clientes/año.
-> **Origen:** research
-> ✅ / ❌ / ✏️ ___
+**Para:** Gaby · **Cuándo:** Mes 3-6 (cuando quiera arrancar)
+**Modo:** `15.P{n}: {letra}`
 
 ---
 
-## 15.2 — FORMATO DEL COACHING
+## 15.1 — DECISIÓN
 
-### P5. ¿A quiénes vas a enseñar?
+### P1. ¿Querés ofrecer coaching?
+- **A.** Sí, mes 9+
+- **B.** Sí, mes 6+
+- **C.** Sí, mes 12+
+- **D.** No
+- **E.** Diferido
 
-> **PRE-RESPUESTA:**
-> - Dentistas recién recibidos 0-3 años (target primario)
-> - Dentistas con experiencia que quieren mejorar criterio (target secundario)
-> - Estudiantes de últimos años (charlas, no coaching)
-> **Origen:** cuestionario 08
-> ✅ / ❌ / ✏️ ___
+### P2. ¿Por qué coaching?
+- **A.** Devolver lo que aprendí en 20 años
+- **B.** Ingreso extra
+- **C.** Marca personal
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-### P6. ¿En qué formato?
+### P3. ¿Línea 2 prioritaria o complemento?
+- **A.** Complemento
+- **B.** Prioridad
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
-> **PRE-RESPUESTA:** **Mixto:**
-> - Programa insignia "Residencia Ometz": 6 meses, 1 sesión/semana, 4-6 mentees por cohorte
-> - Mentoría 1:1: 6 sesiones individuales (high-ticket)
-> - Jornada completa 1 día: workshops puntuales
-> **Origen:** research §5.2
-> ✅ / ❌ / ✏️ ___
-
-### P7. ¿Cuántas horas por sesión?
-
-> **PRE-RESPUESTA:**
-> - Sesión 1-a-1: 2h
-> - Sesión grupal: 2-3h
-> - Jornada completa: 6-8h (1 día)
-> - Programa 6 meses: 1 sesión/semana
-> **Origen:** cuestionario 08
-> ✅ / ❌ / ✏️ ___
-
-### P8. ¿Cuántos alumnos por sesión?
-
-> **PRE-RESPUESTA:**
-> - 1-a-1: personalizado
-> - Grupal: 4-6 mentees (no más, calidad cae)
-> - Taller: 6-10 participantes
-> **Origen:** cuestionario 08
-> ✅ / ❌ / ✏️ ___
-
-### P9. ¿En qué formato presencial o virtual?
-
-> **PRE-RESPUESTA:** **Mixto:**
-> - Presencial en consultorio Gaby (Mburucuyá) con pacientes reales
-> - Virtual por Google Meet para seguimiento
-> - NO online puro (lo que diferencia es práctica clínica real)
-> **Origen:** research
-> ✅ / ❌ / ✏️ ___
+### P4. ¿Mercado objetivo?
+- **A.** Dentistas recién recibidos 0-3 años
+- **B.** Dentistas con experiencia
+- **C.** Estudiantes últimos años
+- **D.** Mixto
+- **E.** Otro (especificar)
 
 ---
 
-## 15.3 — CONTENIDO DEL COACHING
+## 15.2 — FORMATO
 
-### P10. ¿Qué temas vas a enseñar?
+### P5. ¿A quiénes enseñás?
+- **A.** Recién recibidos + Dentistas con experiencia + Estudiantes (charlas)
+- **B.** Solo recién recibidos
+- **C.** Solo senior
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> 1. Diagnóstico y planificación
-> 2. Manejo del paciente difícil
-> 3. Rehabilitación oral (tu especialidad)
-> 4. Ética profesional
-> 5. Cómo armar consultorio
-> 6. Cómo captar pacientes éticamente
-> 7. Casos prácticos con pacientes reales
-> **Origen:** cuestionario 08
-> ✅ / ❌ / ✏️ ___
+### P6. ¿Formato coaching?
+- **A.** Mixto: Programa insignia 6m + Mentoría 1:1 + Jornada 1 día
+- **B.** Solo 1:1
+- **C.** Solo grupal
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P11. ¿Cuál es el outcome medible?
+### P7. ¿Horas por sesión?
+- **A.** 1:1 = 2h. Grupal = 2-3h. Jornada = 6-8h
+- **B.** Mixto
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Todas 1h
 
-> **PRE-RESPUESTA:** # pacientes atendidos, # casos resueltos, criterio validado por Gaby, feedback del mentee.
-> **Origen:** research §6
-> ✅ / ❌ / ✏️ ___
+### P8. ¿Alumnos por sesión?
+- **A.** 1:1 personalizado. Grupal 4-6. Taller 6-10
+- **B.** Más
+- **C.** Menos
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P12. ¿Hay seguimiento post-programa?
-
-> **PRE-RESPUESTA:** **SÍ opcional.** Mensual (1h) por 6 meses post-programa. Incluido en el precio.
-> **Origen:** research §6
-> ✅ / ❌ / ✏️ ___
+### P9. ¿Presencial o virtual?
+- **A.** Mixto (presencial en consultorio con pacientes reales + virtual seguimiento)
+- **B.** Solo presencial
+- **C.** Solo virtual
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 15.4 — NOMBRE Y MARCA DEL COACHING
+## 15.3 — CONTENIDO
 
-### P13. ¿Qué nombre le ponemos al servicio?
+### P10. ¿Temas a enseñar?
+- **A.** Diagnóstico+Manejo paciente difícil+Rehab oral+Ética+Consultorio+Captar+Casos prácticos
+- **B.** Solo clínicos
+- **C.** Solo business
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA opciones:**
-> - Ometz Academy
-> - Ometz Coaching
-> - Ometz Residency
-> - Otro (especificar)
-> - Decidir después
-> **Origen:** cuestionario 08
-> ✅ / ❌ / ✏️ ___
+### P11. ¿Outcome medible?
+- **A.** # pacientes atendidos+# casos resueltos+criterio validado por Gaby+feedback
+- **B.** Mixto
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo feedback
 
-### P14. ¿Parte de Ometz Dental o servicio aparte?
+### P12. ¿Seguimiento post-programa?
+- **A.** Sí, mensual 1h × 6 meses
+- **B.** Anual
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Parte de Ometz Dental** (mismo nombre, mismo branding). El programa insignia es "Residencia Ometz".
-> **Origen:** cuestionario 08
-> ✅ / ❌ / ✏️ ___
+---
+
+## 15.4 — NOMBRE Y MARCA
+
+### P13. ¿Nombre del coaching?
+- **A.** Ometz Academy
+- **B.** Ometz Coaching
+- **C.** Ometz Residency
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P14. ¿Parte de Ometz Dental o aparte?
+- **A.** Parte de Ometz Dental. Programa insignia "Residencia Ometz"
+- **B.** Aparte
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
 ---
 
 ## 15.5 — PRECIO
 
 ### P15. ¿Cuánto cobrar?
+- **A.** 1:1 2h = Gs 400-800k. Prog 6m = Gs 3-6M. Grupal 6m = Gs 3.6-4.8M/mentee
+- **B.** Más alto
+- **C.** Más bajo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Sesión 1-a-1 (2h): Gs 400-800k
-> - Programa 3 meses: Gs 1.5-3M
-> - Programa 6 meses: Gs 3-6M
-> - Jornada completa 1 día: Gs 800K-1.5M
-> - Cohorte grupal: Gs 600-800k/mes por mentee × 6 meses = Gs 3.6-4.8M total
-> **Origen:** research §5.2 + cuestionario 08
-> ✅ / ❌ / ✏️ ___
+### P16. ¿Pago en cuotas?
+- **A.** Sí, 50% upfront + 50% mitad
+- **B.** Solo upfront
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo mensual
 
-### P16. ¿Aceptamos pago en cuotas?
+### P17. ¿Descuento grupo 4+?
+- **A.** Sí, 10-15% descuento
+- **B.** No
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Otro
 
-> **PRE-RESPUESTA:** **SÍ.** 50% upfront + 50% mitad del programa.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
-
-### P17. ¿Descuento por grupo de 4+?
-
-> **PRE-RESPUESTA:** **SÍ.** 10-15% descuento si vienen 4+ juntos.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
-
-### P18. ¿Beca para recién recibidos sin recursos?
-
-> **PRE-RESPUESTA:** **Opcional.** 1-2 plazas por cohorte con descuento fuerte o gratis a cambio de testimonio público.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 15.6 — LEGAL Y SEGURO
-
-### P19. ¿Firmamos contrato con cada mentee?
-
-> **PRE-RESPUESTA:** **SÍ obligatorio.** Plantilla en `05_OPERATIONS/legal-compliance/practice-legal/coaching-agreement-legal.md`.
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
-
-### P20. ¿El seguro RC profesional cubre coaching?
-
-> **PRE-RESPUESTA:** **PROBABLEMENTE sí** (si el coaching es dentro del consultorio propio). **Confirmar con aseguradora antes de lanzar.**
-> **Origen:** `STAFFING-Y-ORGANIZACION/06-20-criticas-modelo-staffing.md` crítica #6
-> ✅ / ❌ / ✏️ ___
-
-### P21. ¿Hay cláusula de confidencialidad?
-
-> **PRE-RESPUESTA:** **SÍ** (casos clínicos de pacientes del consultorio son confidenciales).
-> **Origen:** legal + ético
-> ✅ / ❌ / ✏️ ___
-
-### P22. ¿Qué pasa si mentee trata mal a un paciente durante práctica?
-
-> **PRE-RESPUESTA:** **Protocolo en contrato:** supervisión directa de Gaby + protocolo de derivación + seguro RC.
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
+### P18. ¿Beca recién recibidos sin recursos?
+- **A.** 1-2 plazas/cohorte descuento fuerte o gratis a cambio de testimonio
+- **B.** Siempre gratis
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 15.7 — CO-MENTORES Y EQUIPO
+## 15.6 — LEGAL
 
-### P23. ¿Tienes co-mentores para el programa?
+### P19. ¿Contrato con cada mentee?
+- **A.** Sí obligatorio
+- **B.** Solo con algunos
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **Por conseguir.** 1-2 colegas senior de confianza como co-mentores técnicos. Sin雇佣, revenue share.
-> **Origen:** `STAFFING-Y-ORGANIZACION/02-roles-12-perfiles-costos.md`
-> ✅ / ❌ / ✏️ ___
+### P20. ¿RC cubre coaching?
+- **A.** Sí, ya confirmé con aseguradora
+- **B.** No, contratar RC específico
+- **C.** Diferido (coaching mes 9+)
+- **D.** No estoy segura
+- **E.** Otro (especificar)
 
-### P24. ¿Quién promociona el coaching?
+### P21. ¿NDA confidencialidad?
+- **A.** Sí obligatorio
+- **B.** Solo casos publicados
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:**
-> - Boca a boca entre colegas (canal #1)
-> - Facebook Ometz
-> - Charlas en facultades (UNA, UAP, UAA)
-> - Sociedad Paraguaya de Odontología
-> - Doctoralia perfil completo
-> **Origen:** research §5.4
-> ✅ / ❌ / ✏️ ___
+### P22. ¿Mentee trata mal paciente durante práctica?
+- **A.** Supervisión directa + protocolo derivación + RC
+- **B.** No hacer práctica
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Confiar
 
-### P25. ¿Tienes合伙人 comercial para coaching?
+---
 
-> **PRE-RESPUESTA:** **Mes 18+** si crece.合伙人 maneja marketing + inscripciones. Gaby queda con 70% revenue.
-> **Origen:** `STAFFING-Y-ORGANIZACION/05-30-ideas-staffing-scaling.md` idea 25
-> ✅ / ❌ / ✏️ ___
+## 15.7 — EQUIPO
+
+### P23. ¿Co-mentores?
+- **A.** Por conseguir, 1-2 senior confianza, revenue share
+- **B.** Sí
+- **C.** Solo Gaby
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P24. ¿Quién promociona coaching?
+- **A.** Boca a boca + FB + charlas facultades + SPoyP + Doctoralia
+- **B.** Solo FB
+- **C.** Solo web
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P25. ¿合伙人 comercial coaching?
+- **A.** Mes 18+, maneja marketing+inscripciones. Gaby 70% revenue
+- **B.** Mes 12+
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 15.8 — CALENDARIO
 
-### P26. ¿Cuándo lanzar cohorte piloto 0 (gratis)?
-
-> **PRE-RESPUESTA:** **Mes 9-12.** 2-3 mentees gratis a cambio de testimonio público. Duración 3 meses (no 6).
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+### P26. ¿Cuándo cohorte piloto 0 (gratis)?
+- **A.** Mes 9-12, 2-3 mentees gratis, duración 3 meses
+- **B.** Mes 6+
+- **C.** Mes 12+
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P27. ¿Cuándo cohorte 1 (pago)?
+- **A.** Mes 13-18, 4-6 mentees, 6 meses, Gs 3.6-4.8M cada uno
+- **B.** Mes 12+
+- **C.** Mes 18+
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Mes 13-18.** 4-6 mentees, programa 6 meses, Gs 3.6-4.8M cada uno.
-> **Origen:** research §8
-> ✅ / ❌ / ✏️ ___
+### P28. ¿Cohortes por año?
+- **A.** 2 (febrero + agosto, alineado calendario académico)
+- **B.** 1
+- **C.** 4 (trimestral)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P28. ¿Cuántas cohortes por año?
+### P29. ¿Máx mentees simultáneos?
+- **A.** 6-8 mentees total (8-12h/sem adicionales)
+- **B.** Menos
+- **C.** Más
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **2 por año** (febrero + agosto, alineado con calendario académico PY).
-> **Origen:** research §5.3
-> ✅ / ❌ / ✏️ ___
-
-### P29. ¿Máximo de mentees simultáneos?
-
-> **PRE-RESPUESTA:** **6-8 mentees total** (sumando todas las cohortes). Carga ~8-12h/semana adicionales.
-> **Origen:** research
-> ✅ / ❌ / ✏️ ___
-
-### P30. ¿Tienes tiempo real para sostenerlo?
-
-> **PRE-RESPUESTA:** **CRÍTICO.** Gaby dijo "no quiero estar todo el día en consultorio". Coaching = 8-12h/sem. Sumar a clínica = burnout potencial.
-> **Origen:** crítica #9
-> ✅ / ❌ / ✏️ ___
+### P30. ¿Tiempo real para sostenerlo?
+- **A.** CRÍTICO: 8-12h/sem. Sumar a clínica = burnout potencial
+- **B.** No es problema
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Delegar
 
 ---
 
 ## 15.9 — DIFERENCIACIÓN
 
-### P31. ¿Qué te diferencia de la competencia?
+### P31. ¿Qué te diferencia?
+- **A.** Práctica clínica real con pacientes (no solo teoría). 20 años. Criterio+ética
+- **B.** Solo precio
+- **C.** Solo online
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Práctica clínica real con pacientes (no solo teoría). 20 años de experiencia. Criterio + ética.
-> **Origen:** research
-> ✅ / ❌ / ✏️ ___
+### P32. ¿Compites con ImplantePerio/Spear/DEAC?
+- **A.** No (LATAM/España/USA). En PY no hay oferta similar
+- **B.** Sí compites
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
-### P32. ¿Compites con ImplantePerio / Spear / DEAC?
-
-> **PRE-RESPUESTA:** **NO directamente** (ellos son LATAM/España/USA). En PY no hay oferta similar.
-> **Origen:** research §3.2
-> ✅ / ❌ / ✏️ ___
-
-### P33. ¿Haces certificaciones formales?
-
-> **PRE-RESPUESTA:** **NO.** No existe marco legal PY para "mentor odontológico" como título. No aporta valor real.
-> **Origen:** research §5.6
-> ✅ / ❌ / ✏️ ___
+### P33. ¿Certificaciones formales?
+- **A.** No, no existe marco PY. No aporta valor
+- **B.** Sí
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Evaluar
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas |
 |---|---|---|
-| Decisión estratégica | 4 | 0 |
-| Formato | 5 | 0 |
-| Contenido | 3 | 0 |
-| Nombre/marca | 2 | 0 |
-| Precio | 4 | 0 |
-| Legal/seguro | 4 | 1 (RC cubre coaching?) |
-| Equipo | 3 | 0 |
-| Calendario | 5 | 0 |
-| Diferenciación | 3 | 0 |
-| **TOTAL** | **33** | **1** |
-
-**Bloqueante:** P20 (confirmar con aseguradora que RC cubre coaching). Sin esto, no se puede lanzar.
+| Decisión | 4 | P1 |
+| Formato | 5 | P6, P9 |
+| Contenido | 3 | — |
+| Nombre/marca | 2 | P13, P14 |
+| Precio | 4 | P15 |
+| Legal | 4 | P20 (RC) |
+| Equipo | 3 | — |
+| Calendario | 5 | P26 |
+| Diferenciación | 3 | — |
+| **TOTAL** | **33** | **4** |
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 13: prefiero "Ometz Academy" suena más serio
-Pregunta 14: parte de Ometz Dental
-Pregunta 15: programa 6 meses Gs 4M por mentee
-Pregunta 20: ya pregunté a Mapfre, SÍ cubre si es dentro del consultorio
-Pregunta 26: cohorte piloto 0 mes 9 con 2 mentees
-Pregunta 30: tengo 8h/sem disponibles (miércoles + sábado AM)
+15.P1: A (mes 9+)
+15.P6: A (mixto)
+15.P13: A (Ometz Academy)
+15.P14: A (parte de Ometz Dental)
+15.P15: A (precios mixtos)
+15.P20: A (RC cubre, ya confirmé)
+15.P26: A (mes 9 piloto)
+15.P28: A (2/año)
 ```
 
 ---

@@ -1,321 +1,330 @@
 # ⚙️ CUESTIONARIO 11: OPERACIONES Y AGENDA
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 38 preguntas, 5 opciones (A/B/C/D/E) cada una
 
-**Para:** Gaby · **Cuándo:** Mes 1 post-apertura (agosto 2026)
-**Modo de respuesta:** Audio a Kiki
-
----
-
-## 11.1 — HORARIOS Y APERTURA
-
-### P1. ¿Cuál es el horario de atención?
-
-> **PRE-RESPUESTA:** **Lunes a viernes, 14:30-19:00.** 4.5 horas/día = 22.5h/semana.
-> **Origen:** confirmado 28 jun
-> ✅ / ❌ / ✏️ ___
-
-### P2. ¿Abrimos los sábados?
-
-> **PRE-RESPUESTA:** **NO rutinariamente.** Evaluar mes 6+ si hay demanda.
-> **Origen:** cuestionario C
-> ✅ / ❌ / ✏️ ___
-
-### P3. ¿Tenemos horario de almuerzo?
-
-> **PRE-RESPUESTA:** **NO** (consultorio abre 14:30, no antes).
-> ✅ / ❌ / ✏️ ___
-
-### P4. ¿Tenemos slot reservado para urgencias?
-
-> **PRE-RESPUESTA:** **SÍ, 14:30-15:00 todos los días.** Si no se usa, queda libre.
-> **Origen:** plan operativo
-> ✅ / ❌ / ✏️ ___
-
-### P5. ¿Cuál es el tiempo entre citas?
-
-> **PRE-RESPUESTA:**
-> - Consulta inicial: 60 min
-> - Consulta seguimiento: 30-45 min
-> - Restauración: 30-90 min (depende complejidad)
-> - Profilaxis: 45-50 min
-> - Segunda opinión: 60 min
-> **Origen:** `sitemap-profilaxis-v1.md`
-> ✅ / ❌ / ✏️ ___
-
-### P6. ¿Manejamos horario extendido?
-
-> **PRE-RESPUESTA:** **NO.** Cerrado a las 19:00 estricto. Si paciente requiere más tiempo, reagendar.
-> **Origen:** boutique + horario personal
-> ✅ / ❌ / ✏️ ___
+**Para:** Gaby · **Cuándo:** Mes 1 post-apertura
+**Modo:** `11.P{n}: {letra}`
 
 ---
 
-## 11.2 — GESTIÓN DE AGENDA
+## 11.1 — HORARIOS
+
+### P1. ¿Horario atención?
+- **A.** Lun-Vie 14:30-19:00 (4.5h/día)
+- **B.** Lun-Sáb 9-13
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Flexible
+
+### P2. ¿Sábados?
+- **A.** No rutinariamente. Mes 6+ evaluar
+- **B.** Sí, 9-13
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
+
+### P3. ¿Horario de almuerzo?
+- **A.** No (consultorio abre 14:30)
+- **B.** Sí, 13-14
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** 30 min
+
+### P4. ¿Slot urgencias?
+- **A.** Sí, 14:30-15:00 todos los días
+- **B.** Solo cuando se necesita
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
+
+### P5. ¿Tiempo entre citas?
+- **A.** Mixto: 60min consulta / 30-45 seguimiento / 60 segunda opinión
+- **B.** Fijo 30min
+- **C.** Fijo 60min
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P6. ¿Horario extendido?
+- **A.** No, cerrado estricto 19:00
+- **B.** Caso por caso
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Hasta 20:00
+
+---
+
+## 11.2 — AGENDA
 
 ### P7. ¿Cómo se agenda?
-
-> **PRE-RESPUESTA:**
-> - Canal principal: WhatsApp Business (quick replies + Gaby confirma slot)
-> - Walk-in: NO (se agenda para próximo slot)
-> - Mes 6+: Calendly opcional para agendar online
-> **Origen:** plan operativo
-> ✅ / ❌ / ✏️ ___
+- **A.** Principal WA Business. Calendly mes 6+
+- **B.** Solo Calendly
+- **C.** Solo presencial
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P8. ¿Quién agenda?
+- **A.** Mes 0-3: Gaby+Kiki. Mes 3+: auxiliar+Kiki
+- **B.** Solo Gaby
+- **C.** Solo Kiki
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Mes 0-3: Gaby+Kiki.** Mes 3+: auxiliar+Kiki con supervisión Gaby.
-> **Origen:** STAFFING-Y-ORGANIZACION
-> ✅ / ❌ / ✏️ ___
+### P9. ¿Slots por día?
+- **A.** 4-5 pacientes/día (4.5h × slots)
+- **B.** 2-3/día
+- **C.** 6-8/día
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P9. ¿Cuántos slots por día?
-
-> **PRE-RESPUESTA:**
-> - Lunes-viernes 14:30-19:00 = 4.5h/día
-> - Slots típicos: 1 inicial (60min) + 3 seguimiento (30-45min c/u) = 4-5 pacientes/día
-> - O 1 segunda opinión (60min) + 1 segunda opinión (60min) + 1 seguimiento (45min) + 1 profilaxis (45min) = 4 pac/día
-> - Slot urgencia 14:30-15:00 (30min, buffer)
-> **Origen:** estimación operativa
-> ✅ / ❌ / ✏️ ___
-
-### P10. ¿Slots recurrentes para casos complejos?
-
-> **PRE-RESPUESTA:** **SÍ, slots fijos** para casos de rehabilitación que requieren varias sesiones (ej: martes + jueves 16:00 mismo paciente).
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+### P10. ¿Slots recurrentes casos complejos?
+- **A.** Sí, slots fijos para rehab que requiere varias sesiones
+- **B.** No
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo si pide paciente
 
 ### P11. ¿Lista de espera?
+- **A.** Sí manual (Google Sheet)
+- **B.** Sí con software
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **SÍ, manual** (Google Sheet). Cuando se libera un slot por cancelación, llamar al primero.
-> **Origen:** estándar
-> ✅ / ❌ / ✏️ ___
-
-### P12. ¿Confirmación de cita?
-
-> **PRE-RESPUESTA:**
-> - WA recordatorio 24h antes (automático o manual)
-> - Confirmación del paciente (sí/no)
-> - Si no confirma: WA recordatorio 3h antes
-> - Si no confirma + no asiste: no-show (ver cuestionario políticas)
-> **Origen:** `intelligence-kpis-y-señales-exito-mes-1.md`
-> ✅ / ❌ / ✏️ ___
+### P12. ¿Confirmación cita?
+- **A.** WA recordatorio 24h + WA 3h antes + Kiki llama si no contesta
+- **B.** Solo 24h
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No recordar
 
 ---
 
-## 11.3 — RECEPCIÓN Y PRIMERA IMPRESIÓN
+## 11.3 — RECEPCIÓN
 
 ### P13. ¿Cómo llega el paciente?
+- **A.** Señalética → puerta abierta → sala espera → Gaby recibe
+- **B.** Solo Gaby recibe en puerta
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Auxiliar
 
-> **PRE-RESPUESTA:** Señalética exterior אומץ → puerta abierta → sala de espera → Gaby recibe personalmente.
-> **Origen:** plan operativo
-> ✅ / ❌ / ✏️ ___
+### P14. ¿Quién recibe?
+- **A.** Mes 0-3: Gaby. Mes 3+: auxiliar
+- **B.** Siempre Gaby
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Kiki
 
-### P14. ¿Quién recibe al paciente?
+### P15. ¿Qué se ofrece en sala espera?
+- **A.** Café+agua+WiFi+libros+plantas+música suave
+- **B.** Solo agua
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Nada
 
-> **PRE-RESPUESTA:**
-> - Mes 0-3: Gaby misma
-> - Mes 3+: auxiliar recibe, ofrece café/agua, completa ficha
-> **Origen:** STAFFING-Y-ORGANIZACION
-> ✅ / ❌ / ✏️ ___
+### P16. ¿Tiempo de espera?
+- **A.** <15 min. Kiki avisa por WA si Gaby se atrasa
+- **B.** Hasta 30 min
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Sin límite
 
-### P15. ¿Qué se ofrece en sala de espera?
-
-> **PRE-RESPUESTA:** Café, agua, WiFi, libros/revistas actuales (no de hace 5 años), plantas, música suave instrumental.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
-
-### P16. ¿Tiempo de espera típico?
-
-> **PRE-RESPUESTA:** **0-15 min.** Si Gaby se atrasa, Kiki avisa por WA.
-> **Origen:** meta calidad
-> ✅ / ❌ / ✏️ ___
-
-### P17. ¿Música en el consultorio?
-
-> **PRE-RESPUESTA:** **SÍ, instrumental suave** (jazz, clásica). NO radio, NO pop.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 11.4 — DOCUMENTACIÓN CLÍNICA
-
-### P18. ¿Formato de historia clínica?
-
-> **PRE-RESPUESTA:** **Mixto:**
-> - Ficha de papel para examen físico inicial + plan
-> - Backup digital (foto de la ficha) en Google Drive cifrado
-> - Mes 12+: software de gestión dental (Dentisoft, CloudDent)
-> **Origen:** `sistema-documentacion-clinica.md`
-> ✅ / ❌ / ✏️ ___
-
-### P19. ¿Cuánto tiempo se guarda la ficha?
-
-> **PRE-RESPUESTA:** **10 años mínimo** (legal PY).
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
-
-### P20. ¿Quién accede a la ficha?
-
-> **PRE-RESPUESTA:** Solo Gaby + auxiliar (bajo supervisión) + colegas derivados (con consentimiento del paciente).
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
-
-### P21. ¿Hacemos backup de fichas?
-
-> **PRE-RESPUESTA:** **SÍ, mensual.** Backup digital cifrado. Mes 6+ automatizado.
-> **Origen:** legal + biosecurity
-> ✅ / ❌ / ✏️ ___
-
-### P22. ¿Qué pasa si falla la laptop / sistema?
-
-> **PRE-RESPUESTA:** Plan B: fichas en papel como respaldo. Backup en Google Drive accesible desde cualquier dispositivo.
-> **Origen:** contingencia
-> ✅ / ❌ / ✏️ ___
+### P17. ¿Música en consultorio?
+- **A.** Sí, instrumental suave (jazz/clásica)
+- **B.** No
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Pop
 
 ---
 
-## 11.5 — BIOSEGURIDAD Y MANTENIMIENTO
+## 11.4 — DOCUMENTACIÓN
 
-### P23. ¿Protocolo de bioseguridad?
+### P18. ¿Formato historia clínica?
+- **A.** Mixto: ficha papel + backup digital Google Drive cifrado
+- **B.** 100% digital
+- **C.** 100% papel
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **SÍ, completo.** `05_OPERATIONS/clinical-routines/biosecurity-checklist-mspbs.md`. Cubre: instrumental, superficies, EPP, residuos biopatogénicos.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+### P19. ¿Cuánto tiempo se guarda?
+- **A.** 10 años (legal PY)
+- **B.** Más
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Indefinido
 
-### P24. ¿Quién es responsable de bioseguridad?
+### P20. ¿Quién accede?
+- **A.** Solo Gaby + auxiliar (supervisión) + colegas derivados (consentimiento)
+- **B.** Cualquiera del equipo
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo Gaby
 
-> **PRE-RESPUESTA:** **Auxiliar + Gaby supervisa.**
-> **Origen:** estándar
-> ✅ / ❌ / ✏️ ___
+### P21. ¿Backup de fichas?
+- **A.** Sí, mensual cifrado
+- **B.** Más
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-### P25. ¿Con qué frecuencia se esteriliza instrumental?
-
-> **PRE-RESPUESTA:** **Después de cada paciente.** Autoclave clase B. Indicador biológico mensual.
-> **Origen:** MSPBS + protocolo
-> ✅ / ❌ / ✏️ ___
-
-### P26. ¿Cómo se gestionan residuos biopatogénicos?
-
-> **PRE-RESPUESTA:** **Empresa autorizada** (Recolec, Stericycle PY). Recolección mensual o cuando se llene contenedor.
-> **Origen:** regulación PY
-> ✅ / ❌ / ✏️ ___
-
-### P27. ¿Plan de mantenimiento equipo dental?
-
-> **PRE-RESPUESTA:** **Sí, trimestral.** Servicio técnico dental (Dental Service PY, etc.).
-> **Origen:** ANALISIS-COMPLETO-UPGRADES
-> ✅ / ❌ / ✏️ ___
-
-### P28. ¿Cuándo se reemplaza el instrumental?
-
-> **PRE-RESPUESTA:** **Cuando se desgasta.** Fresas, limas, etc. cada 6-12 meses según uso.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
-
-### P29. ¿Manejamos autoclave propio?
-
-> **PRE-RESPUESTA:** **SÍ** (obligatorio). Clase B. Costo USD 1.5-3K nuevo.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
-
-### P30. ¿Tenemos sistema de rayos X propio?
-
-> **PRE-RESPUESTA:** **SÍ** (digital periapical). Costo USD 3-8K. CBCT NO (derivamos a Centro de Imágenes).
-> **Origen:** equipamiento
-> ✅ / ❌ / ✏️ ___
+### P22. ¿Si falla laptop/sistema?
+- **A.** Plan B: fichas papel + backup Drive accesible
+- **B.** Cerrar temporalmente
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Sin plan
 
 ---
 
-## 11.6 — INVENTARIO Y STOCK
+## 11.5 — BIOSEGURIDAD
 
-### P31. ¿Cómo se gestiona el stock?
+### P23. ¿Protocolo bioseguridad?
+- **A.** Sí completo (biosecurity-checklist-mspbs.md)
+- **B.** Sí parcialmente
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **Google Sheet manual** mes 1-6. Software gestión mes 12+.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+### P24. ¿Responsable bioseguridad?
+- **A.** Auxiliar + Gaby supervisa
+- **B.** Solo Gaby
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Servicio externo
 
-### P32. ¿Quién hace los pedidos de material?
+### P25. ¿Frecuencia esterilización instrumental?
+- **A.** Después de cada paciente (autoclave clase B + indicador biológico mensual)
+- **B.** Diario
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Semanal
 
-> **PRE-RESPUESTA:** **Auxiliar con supervisión Gaby.** Pedidos mensuales al proveedor principal.
-> **Origen:** STAFFING
-> ✅ / ❌ / ✏️ ___
+### P26. ¿Gestión residuos biopatogénicos?
+- **A.** Empresa autorizada (Recolec, Stericycle PY)
+- **B.** Yo misma
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Basura común
+
+### P27. ¿Plan mantenimiento equipo?
+- **A.** Sí, trimestral
+- **B.** Anual
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
+
+### P28. ¿Cuándo reemplazar instrumental?
+- **A.** Cuando se desgasta (fresas/limas cada 6-12 meses)
+- **B.** Anual fijo
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo si falla
+
+### P29. ¿Autoclave propio?
+- **A.** Sí clase B obligatorio (USD 1.5-3K)
+- **B.** Compartido
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
+
+### P30. ¿Rayos X propio?
+- **A.** Sí digital periapical. CBCT derivamos
+- **B.** Sí también CBCT
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
+
+---
+
+## 11.6 — INVENTARIO
+
+### P31. ¿Cómo se gestiona stock?
+- **A.** Google Sheet manual mes 1-6. Software mes 12+
+- **B.** Siempre software
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** A ojo
+
+### P32. ¿Quién hace pedidos?
+- **A.** Auxiliar con supervisión Gaby. Pedidos mensuales
+- **B.** Solo Gaby
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Proveedor rellena
 
 ### P33. ¿Proveedores principales?
-
-> **PRE-RESPUESTA:** Dental Paraguay, Dental Express, Henry Schein PY. Comparar precios trimestralmente.
-> **Origen:** mercado PY
-> ✅ / ❌ / ✏️ ___
+- **A.** Dental Paraguay + Dental Express + Henry Schein. Comparar trimestral
+- **B.** Uno solo
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mercado informal
 
 ### P34. ¿Stock de seguridad?
-
-> **PRE-RESPUESTA:** **Sí, 30 días** de stock mínimo. No quedarse sin composite, anestesia, eyectores.
-> **Origen:** inventario
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 30 días mínimo
+- **B.** 7 días
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Cero stock
 
 ---
 
-## 11.7 — EMERGENCIAS Y CONTINGENCIA
+## 11.7 — EMERGENCIAS
 
-### P35. ¿Protocolo si Gaby se enferma?
+### P35. ¿Si Gaby se enferma?
+- **A.** Kiki reagenda + colega confianza cubre urgencias
+- **B.** Cerrar temporal
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Atender igual
 
-> **PRE-RESPUESTA:** **Plan B:**
-> 1. Kiki avisa por WA a pacientes agendados
-> 2. Reagendar con colega de confianza (lista)
-> 3. Si emergencia: auxiliar llama al paciente y le da opción reagendar o derivar
-> **Origen:** `plan-contingencia-operativa.md`
-> ✅ / ❌ / ✏️ ___
+### P36. ¿Emergencia médica paciente?
+- **A.** Plan: 911 + estabilizar + familiares + documentar + Círculo si requiere
+- **B.** Solo llamar ambulancia
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No hay plan
 
-### P36. ¿Protocolo si paciente tiene emergencia médica?
+### P37. ¿Si falla equipo dental?
+- **A.** Servicio técnico 24h. Si >24h, reagendar
+- **B.** Cerrar
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **Plan en `emergency-procedures-protocol.md`:**
-> 1. Mantener al paciente estable
-> 2. Llamar 911 (911 en PY) si es grave
-> 3. Notificar a familiares
-> 4. Documentar incidente
-> 5. Reportar al Círculo Odontológico si corresponde
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
-
-### P37. ¿Protocolo si falla el equipo dental?
-
-> **PRE-RESPUESTA:** **Servicio técnico dental 24h.** Si no se puede arreglar en 24h, reagendar.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
-
-### P38. ¿Protocolo si hay corte de luz?
-
-> **PRE-RESPUESTA:** **UPS** para equipo crítico + luz natural + reagendar si dura >4h.
-> **Origen:** contingencia
-> ✅ / ❌ / ✏️ ___
+### P38. ¿Corte de luz?
+- **A.** UPS para equipo crítico + luz natural + reagendar si >4h
+- **B.** Cerrar
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Continuar
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas |
 |---|---|---|
-| Horarios | 6 | 0 |
-| Gestión agenda | 6 | 0 |
-| Recepción | 5 | 0 |
-| Documentación | 5 | 0 |
-| Bioseguridad | 8 | 0 |
-| Inventario | 4 | 0 |
-| Emergencias | 4 | 0 |
-| **TOTAL** | **38** | **0** |
-
-**No hay bloqueantes.** Todo documentado en repo.
+| Horarios | 6 | P1 |
+| Agenda | 6 | P7 |
+| Recepción | 5 | P14 |
+| Documentación | 5 | P18 |
+| Bioseguridad | 8 | P23 |
+| Inventario | 4 | P31 |
+| Emergencias | 4 | P35 |
+| **TOTAL** | **38** | **5** |
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 1: confirmo Lun-Vie 14:30-19:00
-Pregunta 9: 4 pacientes por día
-Pregunta 18: mixto, papel + backup digital
-Pregunta 24: ✅ con auxiliar
-Pregunta 28: ✅ cada 6 meses
+11.P1: A (Lun-Vie 14:30-19:00)
+11.P4: A (slot urgencias)
+11.P7: A (WA principal)
+11.P9: A (4-5 pac/día)
+11.P18: A (mixto)
+11.P23: A (protocolo completo)
+11.P35: A (Kiki reagenda)
 ```
 
 ---

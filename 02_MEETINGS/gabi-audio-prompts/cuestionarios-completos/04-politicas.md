@@ -1,309 +1,332 @@
 # ⚖️ CUESTIONARIO 4: POLÍTICAS DEL CONSULTORIO
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 38 preguntas, 5 opciones (A/B/C/D/E) cada una
 
-**Para:** Gaby · **Cuándo:** Mes 1 post-apertura (agosto 2026)
-**Modo de respuesta:** Audio a Kiki
+**Para:** Gaby · **Cuándo:** Mes 1 post-apertura
+**Modo:** Audio a Kiki — `04.P{n}: {letra}`
 
 ---
 
-## 4.1 — POLÍTICAS DE PRECIOS
+## 4.1 — PRECIOS
 
-### P1. ¿Lista de precios pública en el sitio?
-
-> **PRE-RESPUESTA:** SÍ, en `/es/precios` y `/en/pricing`. 14 categorías con precios referencia en Gs. "Precios a confirmar en evaluación".
-> **Origen:** `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` + sitio live
-> ✅ / ❌ / ✏️ ___
+### P1. ¿Lista de precios pública en sitio?
+- **A.** Sí, con rangos ("Gs 300-500k según complejidad")
+- **B.** Sí, precios fijos en servicios estándar
+- **C.** No público, solo en consulta
+- **D.** Parcial (solo algunos servicios)
+- **E.** Otro (especificar)
 
 ### P2. ¿Precios fijos o rangos?
+- **A.** Rangos para complejos, fijos para estándar
+- **B.** Solo precios fijos
+- **C.** Solo rangos
+- **D.** Personalizado por caso
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Rangos** ("Gs 300k-500k según complejidad") para casos complejos. Precio fijo para servicios estándar (limpieza Gs 280k, consulta Gs 300k).
-> **Origen:** canonical-pricing
-> ✅ / ❌ / ✏️ ___
+### P3. ¿Cuándo se comunica el precio final?
+- **A.** Después del examen, en plan escrito
+- **B.** Antes del examen (estimación)
+- **C.** Mixto
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P3. ¿Cuándo se comunica el precio final al paciente?
+### P4. ¿Planes de pago?
+- **A.** Sí, 2-3 cuotas sin interés
+- **B.** Sí, 6 cuotas sin interés
+- **C.** No, pago upfront
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Después del examen clínico, en el plan de tratamiento escrito. NUNCA antes de ver al paciente.
-> **Origen:** `objection-library.md`
-> ✅ / ❌ / ✏️ ___
+### P5. ¿Aceptamos tarjeta?
+- **A.** Mes 1-3 efectivo + transferencia. Mes 6+ Bancard
+- **B.** Mes 1+ Bancard desde día 1
+- **C.** Solo efectivo siempre
+- **D.** Tigo Money + Bancard
+- **E.** Otro (especificar)
 
-### P4. ¿Aceptamos planes de pago?
+### P6. ¿Aceptamos seguros médicos?
+- **A.** No, 100% privado
+- **B.** Sí, prepagas selectas
+- **C.** Sí, solo particular
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** SÍ, 2-3 cuotas sin interés para tratamientos >Gs 1M. Pago total upfront = 5% descuento opcional (NO publicitado).
-> **Origen:** `guia-cobranza-preventiva.md`
-> ✅ / ❌ / ✏️ ___
+### P7. ¿Descuento a jubilados?
+- **A.** No sistemático
+- **B.** Sí, 10% con documento
+- **C.** Sí, 20%
+- **D.** Caso por caso
+- **E.** Otro (especificar)
 
-### P5. ¿Aceptamos tarjeta (Bancard, Tigo Money, etc)?
-
-> **PRE-RESPUESTA:** Mes 1-3 solo efectivo + transferencia bancaria. Mes 6+ Bancard (maquinita + Tigo Money + Wally).
-> **Origen:** `research-pagos-digitales-py-2026.md` + plan
-> ✅ / ❌ / ✏️ ___
-
-### P6. ¿Aceptamos seguros médicos (prepagas, IPS, seguros privados)?
-
-> **PRE-RESPUESTA:** **NO.** Práctica 100% privada. Gaby NO quiere manejar seguros (decisión explícita).
-> **Origen:** `00_STRATEGIC/strategic-context/client-profile-deep-dive.md` + ADN
-> ✅ / ❌ / ✏️ ___
-
-### P7. ¿Hacemos descuento a jubilados?
-
-> **PRE-RESPUESTA:** **NO** sistemático. Caso por caso si el paciente tiene vínculo personal con Gaby o situación especial documentada.
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md` (no descuentos agresivos)
-> ✅ / ❌ / ✏️ ___
-
-### P8. ¿Emitimos factura con timbrado?
-
-> **PRE-RESPUESTA:** **SÍ obligatorio** (PY requiere). Gaby ya tiene timbrado (confirmado 28 jun).
-> **Origen:** `client-personal-data-checklist.md`
-> ✅ / ❌ / ✏️ ___
+### P8. ¿Factura con timbrado?
+- **A.** Sí obligatorio
+- **B.** Solo si paciente pide
+- **C.** Diferido
+- **D.** No
+- **E.** Otro (especificar)
 
 ---
 
-## 4.2 — POLÍTICAS DE AGENDA Y CANCELACIÓN
+## 4.2 — AGENDA Y CANCELACIÓN
 
-### P9. ¿Cuál es la política de cancelación?
-
-> **PRE-RESPUESTA:** Cancelación gratuita con 24h de anticipación. Cancelación <24h = Gs 100k de seña (se descuenta del próximo tratamiento).
-> **Origen:** `intelligence-kpis-y-señales-exito-mes-1.md` (no-show meta <10%)
-> ✅ / ❌ / ✏️ ___
+### P9. ¿Política de cancelación?
+- **A.** Gratis 24h antes. <24h = seña Gs 100k
+- **B.** Gratis 48h antes. <48h = seña Gs 150k
+- **C.** Siempre cobro cancelación
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P10. ¿Cobramos no-show?
+- **A.** Sí, 1°=advertencia, 2°=Gs 200k, 3°=lista negra
+- **B.** Siempre desde el primero
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** SÍ. Primer no-show = advertencia. Segundo no-show = cobro Gs 200k. Tercer no-show = no se reagenda (lista negra).
-> **Origen:** estándar práctica privada PY
-> ✅ / ❌ / ✏️ ___
+### P11. ¿Aceptamos walk-ins?
+- **A.** No, solo con cita
+- **B.** Sí, si hay slot
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo urgencias
 
-### P11. ¿Aceptamos walk-ins (sin cita)?
+### P12. ¿Duración cita estándar?
+- **A.** 45-60 min consulta, 30-45 min restauración
+- **B.** 60 min todo
+- **C.** 30 min todo
+- **D.** Personalizado
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **NO.** Solo con cita previa. Walk-in = se agenda para próximo slot disponible.
-> **Origen:** modelo boutique
-> ✅ / ❌ / ✏️ ___
-
-### P12. ¿Cuánto dura una cita estándar?
-
-> **PRE-RESPUESTA:**
-> - Primera consulta: 45-60 min
-> - Consulta de segunda opinión: 45-60 min
-> - Profilaxis: 40-50 min
-> - Restauración simple: 30-45 min
-> - Restauración compleja: 60-90 min
-> - Plan de tratamiento + presupuesto: 30 min adicional
-> **Origen:** `01_RESEARCH/content/sitemap-profilaxis-v1.md`
-> ✅ / ❌ / ✏️ ___
-
-### P13. ¿Manejamos lista de espera?
-
-> **PRE-RESPUESTA:** SÍ, manual (spreadsheet). Cuando un slot se libera por cancelación, llamar al primero de la lista.
-> **Origen:** estándar
-> ✅ / ❌ / ✏️ ___
+### P13. ¿Lista de espera?
+- **A.** Sí, manual spreadsheet
+- **B.** Sí, con software
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 4.3 — POLÍTICAS DE TRATAMIENTO
+## 4.3 — TRATAMIENTO
 
-### P14. ¿Tratamos pacientes con ansiedad severa?
-
-> **PRE-RESPUESTA:** SÍ, es uno de los diferenciadores. Pero con protocolos: consulta más larga (60-90 min), explicación paso a paso, ambiente calmado.
-> **Origen:** `anti-anxiety-dentist-research-gaby-2026.md`
-> ✅ / ❌ / ✏️ ___
+### P14. ¿Pacientes con ansiedad severa?
+- **A.** Sí, diferenciador clave
+- **B.** Solo leves
+- **C.** No, derivo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P15. ¿Tratamos niños?
+- **A.** Solo >10 años (derivar <10)
+- **B.** Solo >12 años
+- **C.** Todos
+- **D.** No, derivo todos
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Gaby ha dicho que NO es foco principal. Política sugerida: atender niños >10 años (sentados, cooperativos). <10 años → derivar a odontopediatra de la red.
-> **Origen:** implícito + `SPECIALIST-REFERRAL-LIST.md`
-> ✅ / ❌ / ✏️ ___
+### P16. ¿Adultos mayores?
+- **A.** Sí con precaución, sesiones cortas
+- **B.** Solo casos simples
+- **C.** No, derivo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P16. ¿Tratamos adultos mayores con condiciones especiales?
+### P17. ¿Pacientes con VIH, hepatitis, etc?
+- **A.** Sí, sin discriminación
+- **B.** Solo con protocolos especiales
+- **C.** No, derivo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** SÍ, con precaución adicional: revisión de medicación, coordinación con médico de cabecera si anticoagulantes, sesiones más cortas.
-> **Origen:** estándar ético
-> ✅ / ❌ / ✏️ ___
+### P18. ¿Tratamientos experimentales?
+- **A.** No, solo con evidencia sólida
+- **B.** Sí, selectivamente
+- **C.** Sí, todos los nuevos
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P17. ¿Tratamos pacientes con VIH, hepatitis, otras condiciones?
-
-> **PRE-RESPUESTA:** **SÍ, sin discriminación.** Protocolo de bioseguridad universal (ya existe `biosecurity-checklist-mspbs.md`). Confidencialidad estricta.
-> **Origen:** ética profesional
-> ✅ / ❌ / ✏️ ___
-
-### P18. ¿Hacemos tratamientos experimentales o "de moda"?
-
-> **PRE-RESPUESTA:** **NO.** Solo tratamientos con evidencia clínica sólida + experiência de Gaby + materiales certificados.
-> **Origen:** ADN conservador
-> ✅ / ❌ / ✏️ ___
-
-### P19. ¿Recetamos medicamentos (antibióticos, analgésicos)?
-
-> **PRE-RESPUESTA:** SÍ, con sello profesional + receta membretada. Antibióticos solo cuando hay indicación clínica clara (no profiláctico por default).
-> **Origen:** `letterhead-stationery-design-spec.md` + buena práctica
-> ✅ / ❌ / ✏️ ___
+### P19. ¿Recetamos medicamentos?
+- **A.** Sí con sello + receta membretada
+- **B.** Solo antibióticos necesarios
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 4.4 — POLÍTICAS DE DATOS Y PRIVACIDAD
+## 4.4 — DATOS Y PRIVACIDAD
 
-### P20. ¿Cumplimos Ley 1682/01 (Protección de Datos Personales PY)?
+### P20. ¿Ley 1682/01 (Protección de Datos)?
+- **A.** Sí, todo documentado
+- **B.** Sí parcialmente
+- **C.** Diferido, leer ley primero
+- **D.** No
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **SÍ.** Privacy policy ya en sitio (`/es/privacidad`). Consentimiento informado para datos sensibles.
-> **Origen:** `05_OPERATIONS/legal-compliance/patient-legal/privacy-policy.md`
-> ✅ / ❌ / ✏️ ___
+### P21. ¿Consentimiento para fotos en redes?
+- **A.** Sí obligatorio, formulario escrito
+- **B.** Solo verbal
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P21. ¿Pedimos consentimiento para usar fotos en redes?
-
-> **PRE-RESPUESTA:** **SÍ obligatorio.** Formulario escrito firmado. Modelo de `patient-informed-consent-form.md`.
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
-
-### P22. ¿Cuánto tiempo guardamos las fichas clínicas?
-
-> **PRE-RESPUESTA:** **10 años mínimo** (legal PY). Backup digital cifrado (Google Drive cifrado, mes 6+).
-> **Origen:** legal PY + biosecurity
-> ✅ / ❌ / ✏️ ___
+### P22. ¿Cuánto guardamos fichas clínicas?
+- **A.** 10 años (legal PY)
+- **B.** 15 años
+- **C.** Indefinido
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P23. ¿Compartimos datos del paciente con terceros?
+- **A.** Solo con especialista derivado (con consentimiento)
+- **B.** Sí con consentimiento específico
+- **C.** No, nunca
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Solo con el especialista derivado (con consentimiento). NUNCA con fines comerciales. NUNCA a redes sociales.
-> **Origen:** legal + ético
-> ✅ / ❌ / ✏️ ___
-
-### P24. ¿Qué hacemos si hay breach de datos?
-
-> **PRE-RESPUESTA:** Plan en `guia-crisis-reputacional.md`. Notificar al paciente en 72h (Ley 1682/01). Documentar incidente. Comunicar a Abogado.
-> **Origen:** crisis
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 4.5 — POLÍTICAS DE EMERGENCIAS Y URGENCIAS
-
-### P25. ¿Atendemos urgencias fuera de horario?
-
-> **PRE-RESPUESTA:** **Solo WhatsApp triage.** Evaluar caso por caso. No atendemos físicamente fuera de horario.
-> **Origen:** cuestionario B P8
-> ✅ / ❌ / ✏️ ___
-
-### P26. ¿Tenemos slot reservado para urgencias?
-
-> **PRE-RESPUESTA:** SÍ, 14:30-15:00 todos los días. Si no se usa, queda libre.
-> **Origen:** plan operativo
-> ✅ / ❌ / ✏️ ___
-
-### P27. ¿Qué pasa si Gaby se enferma o tiene emergencia personal?
-
-> **PRE-RESPUESTA:** Plan B: colega de confianza cubre agenda. Pacientes reagendados. Kiki avisa por WA masivo.
-> **Origen:** plan contingencia operativa
-> ✅ / ❌ / ✏️ ___
-
-### P28. ¿Qué pasa si hay emergencia médica en el consultorio?
-
-> **PRE-RESPUESTA:** Protocolo en `emergency-procedures-protocol.md`. Llamar 911 (911 en PY). Mantener al paciente estable. Notificar familiares.
-> **Origen:** biosecurity + emergencia
-> ✅ / ❌ / ✏️ ___
+### P24. ¿Protocolo breach de datos?
+- **A.** Sí, notificar 72h (Ley 1682/01)
+- **B.** No, hay que crear
+- **C.** Diferido
+- **D.** No me preocupa
+- **E.** Otro (especificar)
 
 ---
 
-## 4.6 — POLÍTICAS DE QUEJAS Y DISPUTAS
+## 4.5 — EMERGENCIAS
 
-### P29. ¿Cómo manejamos una queja?
+### P25. ¿Urgencias fuera de horario?
+- **A.** Solo WhatsApp triage, no atendemos físico
+- **B.** Atendemos caso por caso
+- **C.** No, derivamos a clínica 24h
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> 1. Escuchar sin interrumpir (en persona o por WA)
-> 2. Disculparse sin asumir culpa legal
-> 3. Ofrecer solución razonable (reembolso parcial, retratamiento, derivación)
-> 4. Documentar incidente
-> 5. Si escala: derivar a Abogado + activar `guia-crisis-reputacional.md`
-> **Origen:** `guia-crisis-reputacional.md`
-> ✅ / ❌ / ✏️ ___
+### P26. ¿Slot reservado urgencias?
+- **A.** Sí, 14:30-15:00 todos los días
+- **B.** Solo cuando se necesita
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P30. ¿Tenemos proceso formal de mediación?
+### P27. ¿Si Gaby se enferma?
+- **A.** Plan B: colega de confianza + reagendar
+- **B.** Cerrar temporalmente
+- **C.** No hay plan
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **NO formal.** Acuerdos verbales o escritos simples. Si escalada legal, Abogado.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
-
-### P31. ¿Tenemos seguro RC profesional?
-
-> **PRE-RESPUESTA:** **BLOQUEANTE.** No abrir sin RC. Mapfre / Sancor / La Consolidada. Cobertura mínima Gs 500M.
-> **Origen:** `seguro-responsabilidad-civil-odontologica-guia.md` + bloqueante apertura
-> ✅ / ❌ / ✏️ ___
-
-### P32. ¿Hacemos mediación preventiva con Círculo Odontológico PY?
-
-> **PRE-RESPUESTA:** **Sí recomendable.** El Círculo puede mediar disputas entre colegas. Nos asociamos mes 6+.
-> **Origen:** mercado
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 4.7 — POLÍTICAS DE CONFLICTO DE INTERÉS
-
-### P33. ¿Aceptamos regalos de proveedores (lab dental, etc)?
-
-> **PRE-RESPUESTA:** **Solo regalos simbólicos** (ej: café, copa corporativa navidad). NO dinero, NO viajes, NO comisiones. Política ética estricta.
-> **Origen:** ética profesional
-> ✅ / ❌ / ✏️ ___
-
-### P34. ¿Aceptamos comisiones por derivación?
-
-> **PRE-RESPUESTA:** **NO.** Programa de derivación ético sin comisiones (ya documentado).
-> **Origen:** `referral-program-plan.md`
-> ✅ / ❌ / ✏️ ___
-
-### P35. ¿Tenemos conflicto si derivado es pareja comercial?
-
-> **PRE-RESPUESTA:** Si familiar directo es proveedor/derivado, declarar explícitamente al paciente. Política de transparencia.
-> **Origen:** ética
-> ✅ / ❌ / ✏️ ___
+### P28. ¿Emergencia médica en consultorio?
+- **A.** Protocolo: 911 + estabilizar + familiares
+- **B.** No hay protocolo
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo llamar a救护车
 
 ---
 
-## 4.8 — POLÍTICAS DE RELACIÓN CON COMPETENCIA
+## 4.6 — QUEJAS Y DISPUTAS
+
+### P29. ¿Cómo manejamos queja?
+- **A.** Escuchar, disculparse, ofrecer solución, documentar
+- **B.** Solo documentar
+- **C.** Solo disculparse
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P30. ¿Proceso formal de mediación?
+- **A.** No formal, acuerdos verbales o escritos simples
+- **B.** Sí formal con abogado
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo si escala
+
+### P31. ¿Seguro RC profesional?
+- **A.** Sí obligatorio (bloqueante apertura)
+- **B.** No por ahora
+- **C.** Diferido
+- **D.** No me interesa
+- **E.** Otro (especificar)
+
+### P32. ¿Mediación con Círculo Odontológico?
+- **A.** Sí recomendada mes 6+
+- **B.** Sí desde mes 1
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+---
+
+## 4.7 — CONFLICTO DE INTERÉS
+
+### P33. ¿Regalos de proveedores?
+- **A.** Solo simbólicos (café, copa)
+- **B.** Todo permitido
+- **C.** Política estricta sin regalos
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P34. ¿Comisiones por derivación?
+- **A.** No, política ética
+- **B.** Sí, 5% simbólico
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Otro sistema
+
+### P35. ¿Conflicto con pareja comercial?
+- **A.** Declarar al paciente explícitamente
+- **B.** No aceptar
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No aplica
 
 ### P36. ¿Hablamos mal de otros dentistas?
-
-> **PRE-RESPUESTA:** **NUNCA.** Ni de O3, ni de Roque, ni de nadie. Si paciente pregunta: "no tengo opinión sobre otros profesionales".
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Nunca
+- **B.** Solo si pregunta directa
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** A veces
 
 ### P37. ¿Captamos pacientes de colegas?
+- **A.** No activo, outreach a ex-pacientes O3 sí
+- **B.** Sí activo
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-> **PRE-RESPUESTA:** **NO activo.** Outreach a ex-pacientes O3 sí, pero sin campaña agresiva. Marketing para captar nuevos, no "robar" de otros.
-> **Origen:** ética + ADN
-> ✅ / ❌ / ✏️ ___
-
-### P38. ¿Hacemos "comparaciones" en marketing ("mejor que X")?
-
-> **PRE-RESPUESTA:** **NO.** Posicionamiento por valores propios, no por ataque a otros.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
+### P38. ¿Comparaciones en marketing?
+- **A.** No, posicionamiento por valores propios
+- **B.** Sí, comparaciones sutiles
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Nunca
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes | Decisiones críticas |
-|---|---|---|---|
-| Precios | 8 | 0 | P4 planes pago, P5 medios pago |
-| Agenda/cancelación | 5 | 0 | P9 política cancelación |
-| Tratamiento | 6 | 0 | P15 niños |
-| Datos/privacidad | 5 | 0 | P22 retención |
-| Emergencias | 4 | 0 | P27 plan B Gaby enferma |
-| Quejas | 4 | 1 (RC) | 0 |
-| Conflicto interés | 3 | 0 | 0 |
-| Competencia | 3 | 0 | 0 |
-| **TOTAL** | **38** | **1** | **2** |
-
-**Único bloqueante:** P31 (RC profesional) — ya es bloqueante de apertura, no específico de este cuestionario.
+| Bloque | # preguntas | Decisiones críticas |
+|---|---|---|
+| Precios | 8 | P4 |
+| Agenda | 5 | P9, P10 |
+| Tratamiento | 6 | P14, P15 |
+| Datos | 5 | P20 |
+| Emergencias | 4 | P25, P27 |
+| Quejas | 4 | P31 (RC) |
+| Conflicto | 6 | P33, P36 |
+| **TOTAL** | **38** | **5** |
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 4: ✏️ prefiero 3-6 cuotas sin interés
-Pregunta 10: ✏️ más estricto, cobro desde el primer no-show
-Pregunta 15: atiendo niños solo >12 años
+04.P4: B (3-6 cuotas sin interés)
+04.P9: A (gratis 24h)
+04.P10: A (1° adv, 2° Gs 200k, 3° blacklist)
+04.P15: A (solo >10 años)
+04.P25: A (solo WA triage)
+04.P31: A (RC obligatorio)
+04.P36: A (nunca)
 ```
 
 ---
 
-*Próximo cuestionario:* `05-imagen-personal.md`
+*Próximo cuestionario:* `06-negocio.md`

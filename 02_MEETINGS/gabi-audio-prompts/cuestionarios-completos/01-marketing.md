@@ -1,291 +1,231 @@
 # 📢 CUESTIONARIO 1: MARKETING Y CONTENIDO
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 25 preguntas, 5 opciones (A/B/C/D/E) cada una — sin pre-respuesta fija
 
 **Para:** Gaby · **Cuándo:** Esta semana (12-19 jul)
-**Modo de respuesta:** Audio a Kiki. Para cada pregunta: ✅ confirmo / ❌ no, así no / ✏️ cambio a (texto)
-**Si no respondés nada:** se usa la pre-respuesta marcada como **PRE-DEFAULT**
-
-> **Todas las pre-respuestas vienen de los docs del repo (`06_MARKETING/`, `03_LAUNCH/`, `02_MEETINGS/`, decisiones del 22 jun al 12 jul). Si Gaby no contesta, se usan tal cual.**
+**Modo:** Audio a Kiki — formato `01.P{n}: {letra}` o narrativa
 
 ---
 
 ## 1.1 — POSICIONAMIENTO Y ADN
 
-### P1. ¿Cuál es la frase guía de Ometz Dental?
+### P1. ¿Frase guía de Ometz Dental?
+- **A.** "Te escucho."
+- **B.** "Antes de mirar tu boca, miro tu historia."
+- **C.** "אומץ — coraje para tu boca."
+- **D.** "Criterio clínico, sin prisa."
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** "Te escucho."
-> **Origen:** Confirmado por Gaby 28 jun. Usado en todo el repo.
-> ✅ / ❌ / ✏️ ___
+### P2. ¿Qué significa "Ometz" y por qué lo elegiste?
+- **A.** אומץ = "coraje" en hebreo. Coraje de pensar antes de tocar
+- **B.** אומץ = "fuerza" en hebreo. Fuerza de decir no al overtreatment
+- **C.** "Ometz" sin significado específico, suena bien
+- **D.** Combinación "OM" (odontología) + "etz" (árbol)
+- **E.** Otro (especificar)
 
-### P2. ¿Qué significa "Ometz" y por qué lo elegiste como marca?
+### P3. ¿Posicionamiento principal frente a la competencia?
+- **A.** Odontología con criterio, conservadora, planificada
+- **B.** Segunda opinión formal por escrito
+- **C.** Casos complejos / rehabilitación oral
+- **D.** Todas las anteriores (boutique completo)
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** אומץ (Ometz) = "coraje" en hebreo. El coraje de pensar antes de tocar, escuchar antes de planificar, explicar antes de cualquier tratamiento.
-> **Origen:** `07_DESIGN/brand-assets/ADN-README.md`
-> ✅ / ❌ / ✏️ ___
+### P4. ¿Público objetivo principal?
+- **A.** Clase media-alta Asunción, 30-65 años
+- **B.** Expatriados en PY (bilingüe ES/EN)
+- **C.** Derivaciones de colegas
+- **D.** Mix: A + B + C
+- **E.** Otro (especificar)
 
-### P3. ¿Cuál es tu posicionamiento principal frente a la competencia?
+### P5. ¿Público que NO querés atender?
+- **A.** Pacientes que buscan "lo más barato"
+- **B.** Pacientes conflictivos recurrentes
+- **C.** No discriminar, atender todos
+- **D.** Solo casos pediátricos (<12 años) — derivar
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Odontología con criterio, conservadora, planificada, sin overtreatment. Segunda opinión formal. Casos complejos.
-> **Origen:** `00_STRATEGIC/strategic-context/brand-positioning-premium.md` + `00_STRATEGIC/strategic-context/client-profile-deep-dive.md`
-> ✅ / ❌ / ✏️ ___
-
-### P4. ¿Cuál es tu público objetivo principal?
-
-> **PRE-RESPUESTA:**
-> - Primario: clase media-alta Asunción, 30-65 años, valoración calidad sobre precio
-> - Secundario: expatriados en PY (hablan inglés)
-> - Terciario: derivaciones de colegas (casos complejos)
-> **Origen:** `01_RESEARCH/persona-insights/anti-anxiety-dentist-research-gaby-2026.md` + perfil de cliente
-> ✅ / ❌ / ✏️ ___
-
-### P5. ¿Hay algún público que NO querés atender?
-
-> **PRE-RESPUESTA:** No explícito en repo. Sugerencia: pacientes que buscan "lo más barato" sin interés en plan completo, pacientes conflictivos recurrentes (ya hay protocolo de crisis reputacional).
-> **Origen:** Inverso del perfil cliente + `guia-crisis-reputacional.md`
-> ✅ / ❌ / ✏️ ___
-
-### P6. ¿Qué NO hacés? (servicios que derivás)
-
-> **PRE-RESPUESTA:** Ortodoncia, endodoncia, cirugía maxilofacial, periodoncia avanzada, ortopedia, sedación. Derivamos a colegas de la red de referidos.
-> **Origen:** `05_OPERATIONS/guia-derivacion-efectiva.md` + sitio web
-> ✅ / ❌ / ✏️ ___
+### P6. ¿Servicios que derivás (no ofrecés)?
+- **A.** Ortodoncia, endodoncia, cirugía maxilofacial, periodoncia avanzada
+- **B.** Solo los altamente complejos (cirugía, ortopedia)
+- **C.** Casi nada, hacemos de todo
+- **D.** Lo que no tenga experiência personal
+- **E.** Otro (especificar)
 
 ---
 
 ## 1.2 — CANALES Y PLATAFORMAS
 
-### P7. ¿En qué canales querés tener presencia activa?
+### P7. ¿Canales con presencia activa?
+- **A.** Facebook + Google Business Profile
+- **B.** FB + GBP + Instagram
+- **C.** FB + GBP + IG + TikTok
+- **D.** Solo FB (mínimo)
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - ✅ Facebook (prioridad #1)
-> - ✅ Google Business Profile (prioridad #1, requerido)
-> - 🟡 Instagram (mes 3-6, evaluar si Kiki tiene bandwidth)
-> - ❌ TikTok (no prioritario)
-> - ❌ YouTube (diferido)
-> - ❌ LinkedIn (no aplica B2C)
-> **Origen:** `06_MARKETING/calendar/calendario-marketing-2026-completo.md`
-> ✅ / ❌ / ✏️ ___
+### P8. ¿Quién maneja las redes?
+- **A.** Kiki (CM operativa) + Hermes Agent (DMs)
+- **B.** Gaby + Kiki
+- **C.** 100% Kiki externa
+- **D.** Yo misma (Gaby) con ayuda IA
+- **E.** Otro (especificar)
 
-### P8. ¿Manejamos vos misma las redes o es 100% Kiki/Hermes?
+### P9. ¿Frecuencia de posteo?
+- **A.** FB 1/día hábil + GBP 1/semana
+- **B.** FB 2/semana + GBP 1/mes
+- **C.** FB 1/semana + GBP 1/semana
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Kiki: community manager operativo (8-12h/sem mes 1, 20h/sem mes 4+)
-> - Hermes Agent (este bot): responde DMs IG/FB 24/7 con quick replies v2, modera, programa posts, reporta KPIs
-> - Gaby: aprueba la línea editorial mensual + comparte casos clínicos resueltos (input para posts)
-> - Sobrina: CM Jr part-time mes 4-6+
-> **Origen:** `STAFFING-Y-ORGANIZACION/02-roles-12-perfiles-costos.md`
-> ✅ / ❌ / ✏️ ___
+### P10. ¿Presupuesto mensual de marketing?
+- **A.** Mes 1-3: Gs 0 (orgánico). Mes 4+: Gs 1-2M
+- **B.** Mes 1-3: Gs 500k. Mes 4+: Gs 2-3M
+- **C.** Mes 1+: Gs 2-3M constante
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P9. ¿Con qué frecuencia posteás?
+### P11. ¿Distribución del contenido?
+- **A.** 60% educativo, 30% branding, 10% soft sell
+- **B.** 50% educativo, 25% branding, 25% soft sell
+- **C.** 70% educativo, 20% branding, 10% sell
+- **D.** 80% educativo, 10% branding, 10% sell
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - FB: 1 post/día hábil (lun-vie)
-> - GBP: 1 post/semana (miércoles 18:30)
-> - IG (cuando se active): 3-5 stories/semana + 1-2 posts/semana
-> - Total: ~25-30 piezas/mes
-> **Origen:** `06_MARKETING/cronograma-semanal-meses-7-9.md`
-> ✅ / ❌ / ✏️ ___
-
-### P10. ¿Cuál es el presupuesto mensual de marketing?
-
-> **PRE-RESPUESTA:**
-> - Mes 1-3: Gs 0 (orgánico puro)
-> - Mes 4-6: Gs 500k-1M (empezar Meta Ads conservador)
-> - Mes 7-12: Gs 1-2M (escalar Ads + email + contenido)
-> - Mes 12+: Gs 2-3M (mes 12 plan año 1)
-> **Origen:** `docs/PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md` + `06_MARKETING/meta-ads-playbook.md`
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 1.3 — TIPOS DE CONTENIDO
-
-### P11. ¿Qué tipo de contenido publicás?
-
-> **PRE-RESPUESTA (distribución 60/30/10):**
-> - 60% educativo (tips salud bucal, criterios clínicos, segundas opiniones)
-> - 30% branding (sobre vos, filosofía, אומץ, casos anonimizados)
-> - 10% soft sell (servicios, precios, agenda)
-> **Origen:** `06_MARKETING/facebook/52-posts-pre-armados-anuales.md`
-> ✅ / ❌ / ✏️ ___
-
-### P12. ¿Mostrás fotos tuyas en redes?
-
-> **PRE-RESPUESTA:** Sí, en ~30% de posts (hero, sobre vos, casos). Resto: consultorio, instrumental, antes/después con consentimiento.
-> **Origen:** Decisión implícita + `07_DESIGN/brand-assets/direccion-fotografia.md`
-> ✅ / ❌ / ✏️ ___
+### P12. ¿Mostramos fotos tuyas en redes?
+- **A.** Sí, en ~30% de posts
+- **B.** Sí, en 50% de posts
+- **C.** No, anonimidad total
+- **D.** Solo en hero + sobre mí
+- **E.** Otro (especificar)
 
 ### P13. ¿Compartimos casos clínicos reales (antes/después)?
+- **A.** Sí, mes 2+ con consentimiento escrito
+- **B.** Sí, desde mes 1 con consentimiento
+- **C.** No, nunca
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Sí, pero solo con consentimiento escrito firmado. Ya existe `patient-informed-consent-form.md` en repo. Empezamos mes 2 con 1 caso/mes.
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md` + formulario legal
-> ✅ / ❌ / ✏️ ___
-
-### P14. ¿Hacemos videos (Reels, YouTube, TikTok)?
-
-> **PRE-RESPUESTA:**
-> - Reels IG/FB: 2-4/mes cuando IG activo
-> - YouTube: NO (diferido)
-> - TikTok: NO
-> - Video intro Gaby en hero del sitio: SÍ, mes 1-2 (3 min)
-> **Origen:** `06_MARKETING/reels-scripts/30-reels-scripts.md` + repo
-> ✅ / ❌ / ✏️ ___
+### P14. ¿Hacemos videos (Reels, YouTube)?
+- **A.** Reels IG/FB 2-4/mes. YouTube diferido
+- **B.** Solo video intro hero mes 1-2
+- **C.** Reels + YouTube mes 6+
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P15. ¿Publicamos precios específicos en redes?
-
-> **PRE-RESPUESTA:** NO. Siempre derivar a consulta presencial. Hay razón legal y de posicionamiento (odontología con criterio no es commodity).
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md` (lo que NO se hace)
-> ✅ / ❌ / ✏️ ___
+- **A.** No, siempre derivar a consulta presencial
+- **B.** Solo algunos (limpieza, blanqueamiento)
+- **C.** Sí, todos los precios
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P16. ¿Hacemos descuentos agresivos en redes?
-
-> **PRE-RESPUESTA:** NO. Una excepción válida: Día del Amigo (20 jul) sí o sí, 3 amigos juntos a profilaxis cada uno paga Gs 200k. Ya está en `gbp-posts/26-gbp-posts-6-meses.md`.
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** No rutinariamente. Solo Día del Amigo (20 jul) excepción
+- **B.** Sí, 1 promo/mes
+- **C.** Sí, 2-3 promos/mes
+- **D.** No, nunca
+- **E.** Otro (especificar)
 
 ### P17. ¿Tenemos blog activo?
-
-> **PRE-RESPUESTA:** Sí, 1 post cada 2 semanas, foco SEO local Asunción. Ya hay 7 posts escritos en `06_MARKETING/blog-posts-seo/`.
-> **Origen:** `06_MARKETING/blog-posts-seo/`
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 1.4 — MENSAJES Y COMUNICACIÓN
-
-### P18. ¿Cuál es el tono de comunicación?
-
-> **PRE-RESPUESTA:** Cálido, honesto, criterioso, bilingüe natural. NO exagerado, NO alarmista, NO pretencioso. "Te escucho" como frase guía.
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md`
-> ✅ / ❌ / ✏️ ___
-
-### P19. ¿Cómo manejamos las objeciones típicas (precio, miedo, tiempo)?
-
-> **PRE-RESPUESTA:** Existe `06_MARKETING/objection-library.md` con 10 objeciones + respuestas pre-armadas. Usar tal cual.
-> **Origen:** `objection-library.md`
-> ✅ / ❌ / ✏️ ___
-
-### P20. ¿Cuánto tarda la respuesta a un DM de Instagram/Facebook?
-
-> **PRE-RESPUESTA:**
-> - <2h en horario consultorio (lun-vie 14:30-19:00)
-> - <8h fuera de horario (Hermes Agent + Kiki responde al día siguiente)
-> - Escalado a Gaby si: consulta clínica, queja, conversación >3 mensajes
-> **Origen:** `STAFFING-Y-ORGANIZACION/03-organigrama-funcional-roles.md` + quick replies v2
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 1/2 semanas SEO local
+- **B.** Sí, 1/semana
+- **C.** No por ahora
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 1.5 — REFERIDOS Y PROGRAMAS
+## 1.3 — MENSAJES Y COMUNICACIÓN
 
-### P21. ¿Tenemos programa de referidos entre pacientes?
+### P18. ¿Tono de comunicación?
+- **A.** Cálido, honesto, criterioso, bilingüe natural
+- **B.** Profesional, formal, técnico
+- **C.** Amigable, accesible, cercano
+- **D.** Autoritario, experto
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** Sí, simple. Paciente que refiere → "gracias" simbólico (no comisión, no descuento público). Implementar mes 3.
-> **Origen:** `03_LAUNCH/referral-program/referral-program-plan.md`
-> ✅ / ❌ / ✏️ ___
+### P19. ¿Cómo manejamos objeciones (precio, miedo, tiempo)?
+- **A.** Usar `objection-library.md` tal cual (10 objeciones pre-armadas)
+- **B.** Adaptar a cada caso individualmente
+- **C.** Diferido, ver demanda
+- **D.** Otro sistema (especificar)
+- **E.** Ignorar objeciones
 
-### P22. ¿Tenemos programa de referidos entre colegas?
-
-> **PRE-RESPUESTA:** Sí, sin comisión. Acuerdo ético formal. Lista de 30 colegas ya en `SPECIALIST-REFERRAL-LIST.md`.
-> **Origen:** `03_LAUNCH/referral-program/` + `referral-agreement-legal.md`
-> ✅ / ❌ / ✏️ ___
-
-### P23. ¿Hacemos campañas B2B (corporativas, empresas)?
-
-> **PRE-RESPUESTA:** Reducido a 1 corporate PY por año (no masivo). Math no cierra para múltiples.
-> **Origen:** `docs/REPO-ROAST-PART-2.md` crítica #3 y #5
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 1.6 — MÉTRICAS DE MARKETING
-
-### P24. ¿Qué KPIs miramos semanalmente?
-
-> **PRE-RESPUESTA (12 KPIs del `intelligence-kpis-y-señales-exito-mes-1.md`):**
-> 1. Vistas GBP (200-500 mes 1)
-> 2. Visitas sitio web (100-300 mes 1)
-> 3. Followers FB (50-150 mes 1)
-> 4. Llamadas/WhatsApp desde GBP (20-50 mes 1)
-> 5. Mensajes WA recibidos (50-100 mes 1)
-> 6. Conversión WA→cita (25-40%)
-> 7. Tiempo respuesta WA (<30 min)
-> 8. Pacientes únicos nuevos/mes (5-10 mes 1)
-> 9. Tasa no-show (<10%)
-> 10. Ticket promedio (Gs 300-400k)
-> 11. Aceptación plan (50-70%)
-> 12. Reseñas Google (3-5 mes 1)
-> ✅ / ❌ / ✏️ ___
-
-### P25. ¿Cuándo hacemos revisión mensual de marketing?
-
-> **PRE-RESPUESTA:** Viernes de revisión mensual (Kiki + Iván + Gaby, 30 min). Reporte semanal los domingos (Kiki 15 min).
-> **Origen:** `intelligence-kpis-y-señales-exito-mes-1.md`
-> ✅ / ❌ / ✏️ ___
+### P20. ¿Tiempo de respuesta a DMs?
+- **A.** <2h horario / <8h fuera (Hermes Agent + Kiki)
+- **B.** <24h siempre
+- **C.** <1h horario (asistente humano)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 🎯 Resumen ejecutivo del cuestionario marketing
+## 1.4 — REFERIDOS Y PROGRAMAS
 
-| Bloque | # preguntas | Bloqueantes | Nice-to-have |
-|---|---|---|---|
-| Posicionamiento y ADN | 6 | 0 (todo en repo) | 0 |
-| Canales y plataformas | 4 | 0 | 1 (presupuesto) |
-| Tipos de contenido | 7 | 0 | 2 (video, descuentos) |
-| Mensajes y comunicación | 3 | 0 | 0 |
-| Referidos y programas | 3 | 0 | 1 (corporate) |
-| Métricas | 2 | 0 | 0 |
-| **TOTAL** | **25** | **0** | **4** |
+### P21. ¿Programa de referidos entre pacientes?
+- **A.** Sí, simple sin comisión. Mes 3+
+- **B.** Sí, con descuento 10% al referidor. Mes 1+
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-**Bloqueante:** ❌ ninguno. Todo el marketing está pre-definido en repo.
-**Si Gaby contesta 25/25:** marketing queda 100% claro.
-**Si Gaby no contesta:** se usan los defaults. Marketing arranca con cronograma ya armado.
+### P22. ¿Programa de referidos entre colegas?
+- **A.** Sí, sin comisión, acuerdo ético formal
+- **B.** Sí, con comisión 5%
+- **C.** No, solo derivación informal
+- **D.** Diferido
+- **E.** Otro (especificar)
 
----
-
-## ⏭️ Qué hago yo con tus respuestas
-
-1. Actualizo `06_MARKETING/cronograma-semanal-meses-7-9.md` con tus decisiones
-2. Patches al sitio si hay cambios en canales o tono
-3. Kiki recibe guía operativa con tu confirmación
-4. Doc de respuestas en `RESPUESTAS-MARKETING-2026-07-XX.md`
+### P23. ¿Campañas B2B (corporativas)?
+- **A.** 1 corporate PY/año (reducido)
+- **B.** 3-5 corporates/año
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 🎙️ Formato audio sugerido
+## 1.5 — MÉTRICAS DE MARKETING
 
-Grabá 15-20 min así:
+### P24. ¿Qué KPIs miramos?
+- **A.** Los 12 del repo
+- **B.** Solo revenue + nuevos pacientes
+- **C.** Más completos (NPS + ticket + recurrencia)
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P25. ¿Cuándo revisión mensual marketing?
+- **A.** Viernes (Kiki + Iván + Gaby, 30 min)
+- **B.** Lunes (Gaby + Kiki)
+- **C.** Trimestral
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+---
+
+## 🎯 Resumen ejecutivo
+
+| Bloque | # preguntas | Decisiones críticas |
+|---|---|---|
+| Posicionamiento | 6 | P1, P4 |
+| Canales | 11 | P7, P10 |
+| Mensajes | 3 | P18 |
+| Referidos | 3 | P22 |
+| Métricas | 2 | — |
+| **TOTAL** | **25** | **4** |
+
+---
+
+## 🎙️ Audio sugerido
 
 ```
-Pregunta 1: ✅
-Pregunta 2: ✅
-Pregunta 3: ❌, prefiero decir X
-Pregunta 4: ✅
-Pregunta 5: ✏️ agregar "no atiendo niños menores de 5"
-Pregunta 6: ✅
-Pregunta 7: ✅
-Pregunta 8: ✅
-Pregunta 9: ✅
-Pregunta 10: ✅
-Pregunta 11: ✅
-Pregunta 12: ✅
-Pregunta 13: ✅
-Pregunta 14: ✅ pero quiero empezar YouTube el mes 6
-Pregunta 15: ✅
-Pregunta 16: ✅
-Pregunta 17: ✅
-Pregunta 18: ✅
-Pregunta 19: ✅
-Pregunta 20: ✅
-Pregunta 21: ✅
-Pregunta 22: ✅
-Pregunta 23: ✅
-Pregunta 24: ✅
-Pregunta 25: ✅
+01.P1: A (Te escucho)
+01.P4: D (mix A+B+C)
+01.P7: A (FB+GBP)
+01.P10: A (Gs 0 mes 1-3)
+01.P18: A (cálido, honesto)
+01.P21: A (sin comisión)
+01.P22: A (sin comisión, ético)
 ```
-
-O más natural: "Confirmo todo menos la 14 que quiero YouTube mes 6, y la 23 que prefiero no corporate".
 
 ---
 
-*Próximo cuestionario:* `02-branding.md`
+*Próximo cuestionario:* `03-anuncios.md`

@@ -1,292 +1,315 @@
 # 💰 CUESTIONARIO 10: FINANZAS Y CONTABILIDAD
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 35 preguntas, 5 opciones (A/B/C/D/E) cada una
 
-**Para:** Gaby · **Cuándo:** Esta semana (12-19 jul)
-**Modo de respuesta:** Audio a Kiki
+**Para:** Gaby · **Cuándo:** Esta semana
+**Modo:** `10.P{n}: {letra}`
 
 ---
 
 ## 10.1 — CONTADOR
 
 ### P1. ¿Tenemos contador?
+- **A.** Sí (confirmado)
+- **B.** No, buscar esta semana
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Yo misma
 
-> **PRE-RESPUESTA:** **SÍ** (confirmado 28 jun). Falta nombre + WhatsApp.
-> ✅ / ❌ / ✏️ ___
-
-### P2. ¿Honorarios del contador?
-
-> **PRE-RESPUESTA:** **Gs 800k-1.5M/mes** (honorarios, no雇佣).
-> **Origen:** estándar mercado PY
-> ✅ / ❌ / ✏️ ___
+### P2. ¿Honorarios contador?
+- **A.** Gs 800k-1.5M/mes
+- **B.** Más alto (Gs 2M+)
+- **C.** Más bajo (Gs 500k)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P3. ¿Servicios del contador?
+- **A.** Facturación + IPS + IRP/IRAGRO + rendiciones + SET + asesoramiento
+- **B.** Solo facturación
+- **C.** Mixto
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Facturación con timbrado
-> - Declaración IPS mensual
-> - IRP / IRAGRO
-> - Rendiciones mensuales
-> - Representación ante SET
-> - Asesoramiento general tributario
-> **Origen:** `05_OPERATIONS/legal-compliance/practice-legal/`
-> ✅ / ❌ / ✏️ ___
-
-### P4. ¿Tenemos contrato con el contador?
-
-> **PRE-RESPUESTA:** **Pendiente formalizar.** Honorarios profesionales firmados.
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
+### P4. ¿Contrato formal?
+- **A.** Sí, esta semana
+- **B.** Verbal basta
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
-## 10.2 — FACTURACIÓN Y COBRO
+## 10.2 — FACTURACIÓN
 
 ### P5. ¿Cuándo se cobra al paciente?
-
-> **PRE-RESPUESTA:** **Después de la atención.** Consulta se cobra al inicio del tratamiento. Tratamientos largos se facturan al final de cada fase.
-> **Origen:** `guia-cobranza-preventiva.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Después de atención
+- **B.** Antes de atención
+- **C.** Mixto (50% upfront + 50% final)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P6. ¿Aceptamos pago adelantado (seña)?
+- **A.** Sí para >Gs 1M (30-50% seña + 5% descuento opcional)
+- **B.** No
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Sí siempre
 
-> **PRE-RESPUESTA:** **SÍ** para tratamientos >Gs 1M. Seña = 30-50%. Descuento opcional 5% si pago total upfront (NO publicitado).
-> **Origen:** guía cobranza
-> ✅ / ❌ / ✏️ ___
+### P7. ¿Medios de pago?
+- **A.** Mes 1-3: efectivo + transferencia. Mes 6+: Bancard + Tigo Money + Wally
+- **B.** Todos desde día 1
+- **C.** Solo efectivo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P7. ¿Medios de pago aceptados?
+### P8. ¿Factura siempre?
+- **A.** Sí obligatorio
+- **B.** Solo si pide
+- **C.** Diferido
+- **D.** No
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Mes 1-3: efectivo + transferencia bancaria
-> - Mes 6+: agregar Bancard (maquinita POS), Tigo Money, Wally, Zimple
-> **Origen:** `research-pagos-digitales-py-2026.md`
-> ✅ / ❌ / ✏️ ___
-
-### P8. ¿Emitimos factura con timbrado siempre?
-
-> **PRE-RESPUESTA:** **SÍ obligatorio** (PY requiere). Si paciente pide, se entrega.
-> ✅ / ❌ / ✏️ ___
-
-### P9. ¿Cuánto tarda el contador en emitir factura?
-
-> **PRE-RESPUESTA:** **Inmediato.** Gaby entrega datos al contador al final del día, factura sale al día siguiente.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+### P9. ¿Tiempo de emisión factura?
+- **A.** 1 día después
+- **B.** Mismo día
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mes después
 
 ---
 
 ## 10.3 — PLANES DE PAGO
 
-### P10. ¿Aceptamos cuotas sin interés?
+### P10. ¿Cuotas sin interés?
+- **A.** Sí, 2-3 cuotas
+- **B.** Sí, hasta 6 cuotas
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **SÍ, 2-3 cuotas sin interés** para tratamientos >Gs 1M.
-> **Origen:** guía cobranza
-> ✅ / ❌ / ✏️ ___
+### P11. ¿Cuotas con interés?
+- **A.** No sistemáticamente
+- **B.** Sí, caso por caso
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-### P11. ¿Aceptamos cuotas con interés?
+### P12. ¿Máximo de cuotas?
+- **A.** 6 para tratamientos premium (>Gs 3M)
+- **B.** 12
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Sin límite
 
-> **PRE-RESPUESTA:** **NO** sistemáticamente. Solo caso por caso, decisión Gaby.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
-
-### P12. ¿Cuántas cuotas máximo?
-
-> **PRE-RESPUESTA:** **6 cuotas** como máximo para tratamientos premium (>Gs 3M).
-> **Origen:** guía cobranza
-> ✅ / ❌ / ✏️ ___
-
-### P13. ¿Qué pasa si paciente no paga?
-
-> **PRE-RESPUESTA:**
-> 1. Recordatorio amable (WA) tras 7 días
-> 2. Segundo recordatorio tras 14 días (formal)
-> 3. Llamada tras 21 días (Kiki o Gaby)
-> 4. Carta documento tras 30 días (abogado)
-> 5. Si >60 días, se evalúa acción legal (costo vs beneficio)
-> **Origen:** `guia-cobranza-preventiva.md`
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 10.4 — PRESUPUESTOS Y PLANES DE TRATAMIENTO
-
-### P14. ¿Formato del presupuesto al paciente?
-
-> **PRE-RESPUESTA:** **Escrito en PDF** (no solo verbal). Logo Ometz + membretada. Tabla con: procedimiento, cantidad, precio unitario, total. Fecha de validez (30 días).
-> **Origen:** `letterhead-stationery-design-spec.md`
-> ✅ / ❌ / ✏️ ___
-
-### P15. ¿Cuánto es válido el presupuesto?
-
-> **PRE-RESPUESTA:** **30 días.** Después puede haber cambios menores por inflación de materiales.
-> ✅ / ❌ / ✏️ ___
-
-### P16. ¿Hay descuento por pago al contado?
-
-> **PRE-RESPUESTA:** **5% opcional** (NO publicitado, solo si paciente lo pide).
-> ✅ / ❌ / ✏️ ___
-
-### P17. ¿Mostramos opciones de tratamiento (económico, medio, premium)?
-
-> **PRE-RESPUESTA:** **SÍ.** Esto es clave de Ometz. Siempre dar 3 opciones con explicación clara de pros/cons.
-> **Origen:** `objection-library.md`
-> ✅ / ❌ / ✏️ ___
-
-### P18. ¿Tenemos plantillas visuales de planes?
-
-> **PRE-RESPUESTA:** **Pendiente.** Kiki crea 5 plantillas Canva mes 1 post-apertura.
-> **Origen:** ANALISIS-COMPLETO-UPGRADES
-> ✅ / ❌ / ✏️ ___
+### P13. ¿Qué pasa si no paga?
+- **A.** Recordatorio 7d → 14d → 21d → 30d carta doc → 60d legal
+- **B.** Reagendar únicamente
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Reclamar inmediatamente
 
 ---
 
-## 10.5 — COSTOS FIJOS Y VARIABLES
+## 10.4 — PRESUPUESTOS
 
-### P19. ¿Cuánto es el alquiler mensual?
+### P14. ¿Formato presupuesto?
+- **A.** PDF escrito con logo, fecha validez 30d, 3 opciones
+- **B.** Solo verbal
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Mixto
 
-> **PRE-RESPUESTA:** **A confirmar** (Auditores 617, Mburucuyá). Estimado Gs 3-5M/mes si alquila equipado. Gs 1.5-2.5M si local propio.
-> **Origen:** `asuncion-central-rental-market-report.md`
-> ✅ / ❌ / ✏️ ___
+### P15. ¿Validez presupuesto?
+- **A.** 30 días
+- **B.** 60 días
+- **C.** 90 días
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P20. ¿Cuánto paga Gaby de sueldo (a sí misma)?
+### P16. ¿Descuento pago al contado?
+- **A.** 5% opcional (NO publicitado)
+- **B.** 10%
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Gs 40-80M/mes** objetivo a partir de mes 6. Mes 1-3 puede ser menos.
-> **Origen:** `PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md`
-> ✅ / ❌ / ✏️ ___
+### P17. ¿Mostramos opciones (económico, medio, premium)?
+- **A.** Sí siempre, clave de Ometz
+- **B.** Solo a pacientes premium
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-### P21. ¿Cuánto es el costo de materiales mensual?
-
-> **PRE-RESPUESTA:** **~10-15% del revenue** (estándar dental). Stock inicial Gs 1.5M.
-> **Origen:** `dental-equipment-costs-suppliers.md`
-> ✅ / ❌ / ✏️ ___
-
-### P22. ¿Cuánto es el costo de servicios públicos?
-
-> **PRE-RESPUESTA:** **Gs 500k-1M/mes** (ANDE, ESSAP, internet, etc.).
-> **Origen:** estándar PY
-> ✅ / ❌ / ✏️ ___
-
-### P23. ¿Cuánto es el costo de marketing mes 4+?
-
-> **PRE-RESPUESTA:** **Gs 500k-2M/mes** (Meta Ads + herramientas).
-> **Origen:** plan marketing
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 10.6 — INVERSIONES INICIALES
-
-### P24. ¿Cuánto invierte Gaby en equipamiento inicial?
-
-> **PRE-RESPUESTA:** **Gs 200-400M** (sillón, autoclave, rayos, instrumental, mobiliario). Si alquila equipado, baja a Gs 50-100M.
-> **Origen:** `dental-equipment-costs-suppliers.md`
-> ✅ / ❌ / ✏️ ___
-
-### P25. ¿Cuánto invierte en habilitación?
-
-> **PRE-RESPUESTA:** **Gs 30-80M** (pintura, plomería, electricidad, señalética, bioseguridad).
-> **Origen:** estándar
-> ✅ / ❌ / ✏️ ___
-
-### P26. ¿Tiene línea de crédito pre-aprobada?
-
-> **PRE-RESPUESTA:** **No confirmado.** Evaluar con banco (ITAU, Atlas, Continental) si necesita.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
-
-### P27. ¿Tiene ahorros para runway 6 meses?
-
-> **PRE-RESPUESTA:** **Decisión personal.** Plan año 1 asume break-even mes 6 con 20-30 pac/mes.
-> **Origen:** plan
-> ✅ / ❌ / ✏️ ___
-
-### P28. ¿Tiene fuentes de ingreso pasivo o dependencia financiera?
-
-> **PRE-RESPUESTA:** **Decisión personal.** Si tiene, runway es mayor.
-> ✅ / ❌ / ✏️ ___
+### P18. ¿Plantillas visuales?
+- **A.** Pendiente, Kiki crea 5 Canva mes 1
+- **B.** Ya hechas
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
-## 10.7 — SEÑALES DE ALERTA FINANCIERA
+## 10.5 — COSTOS
 
-### P29. ¿Cuál es el revenue mínimo mensual para sobrevivir?
+### P19. ¿Alquiler mensual?
+- **A.** Por confirmar (Auditores 617). Estimado Gs 3-5M o Gs 1.5-2.5M propio
+- **B.** Bajo (Gs 1M)
+- **C.** Alto (Gs 5M+)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Gs 8-13M/mes** (costos fijos). Equivale a 20-30 pacientes/mes.
-> **Origen:** PROCUREMENT-MASTER-GUIDE + DENTAL-RENT-AND-SHARE-MAP
-> ✅ / ❌ / ✏️ ___
+### P20. ¿Sueldo de Gaby?
+- **A.** Gs 40-80M/mes objetivo mes 6+
+- **B.** Bajo (Gs 20-30M)
+- **C.** Alto (Gs 80M+)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P30. ¿Cuántos meses de runway antes de cerrar?
+### P21. ¿Materiales?
+- **A.** 10-15% del revenue. Stock inicial Gs 1.5M
+- **B.** Más
+- **C.** Menos
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Si 3 meses seguidos <Gs 5M/mes** → evaluar cierre o venta. Trigger explícito.
-> **Origen:** `STAFFING-Y-ORGANIZACION/06-20-criticas-modelo-staffing.md` crítica #20
-> ✅ / ❌ / ✏️ ___
+### P22. ¿Servicios públicos?
+- **A.** Gs 500k-1M/mes (ANDE+ESSAP+internet)
+- **B.** Más
+- **C.** Menos
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P23. ¿Marketing mes 4+?
+- **A.** Gs 500k-2M/mes
+- **B.** Más
+- **C.** Menos
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+---
+
+## 10.6 — INVERSIÓN INICIAL
+
+### P24. ¿Equipamiento inicial?
+- **A.** Gs 200-400M (sillón+autoclave+rayos+instrumental)
+- **B.** Bajo (Gs 100M)
+- **C.** Alto (Gs 500M+)
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P25. ¿Habilitación?
+- **A.** Gs 30-80M (pintura+plomería+electricidad+señalética+bioseguridad)
+- **B.** Más
+- **C.** Menos
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P26. ¿Línea de crédito pre-aprobada?
+- **A.** No (evaluar si necesario)
+- **B.** Sí
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No aplica
+
+### P27. ¿Ahorros runway 6 meses?
+- **A.** Sí (decisión personal)
+- **B.** No
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No aplica
+
+### P28. ¿Ingresos pasivos?
+- **A.** Sí (decisión personal)
+- **B.** No
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No aplica
+
+---
+
+## 10.7 — ALERTAS
+
+### P29. ¿Revenue mínimo sobrevivir?
+- **A.** Gs 8-13M/mes (costos fijos)
+- **B.** Más bajo
+- **C.** Más alto
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P30. ¿Cuántos meses runway antes de cerrar?
+- **A.** Si 3 meses <Gs 5M/mes → evaluar cierre
+- **B.** 6 meses
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No cerrar nunca
 
 ### P31. ¿Reservas de emergencia?
-
-> **PRE-RESPUESTA:** **3 meses de costos fijos como mínimo** siempre.
-> **Origen:** estándar financiero
-> ✅ / ❌ / ✏️ ___
+- **A.** 3 meses costos fijos siempre
+- **B.** Más
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Depende
 
 ### P32. ¿Diversificación de ingresos?
-
-> **PRE-RESPUESTA:** Sí a largo plazo (coaching + cursos + productos digitales). No mes 1-6.
-> **Origen:** plan
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí a LP (coaching+cursos+productos digitales). No mes 1-6
+- **B.** Sí agresivo desde mes 6
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
 ---
 
-## 10.8 — REPORTES FINANCIEROS
+## 10.8 — REPORTES
 
-### P33. ¿Con qué frecuencia se revisan las finanzas?
+### P33. ¿Frecuencia revisión finanzas?
+- **A.** Diario cierre caja Kiki + Semanal rev + Mensual cierre + Trimestral estrateg
+- **B.** Solo mensual
+- **C.** Más frecuente
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Diario: cierre de caja (Kiki)
-> - Semanal: revisión rápida de revenue y gastos (Kiki)
-> - Mensual: cierre contable + rendición (Gaby + Contador)
-> - Trimestral: revisión estratégica + ajuste de plan
-> **Origen:** `monthly-financial-tracker.md`
-> ✅ / ❌ / ✏️ ___
+### P34. ¿Dashboard financiero?
+- **A.** Pendiente Google Sheet, Iván crea
+- **B.** Ya hecho
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No
 
-### P34. ¿Tenemos dashboard financiero?
-
-> **PRE-RESPUESTA:** **Pendiente.** Google Sheet mensual. Iván crea plantilla.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
-
-### P35. ¿Compartimos info financiera con Kiki?
-
-> **PRE-RESPUESTA:** **Sí parcialmente** (revenue, gastos de marketing, # pacientes). NO detalles bancarios.
-> **Origen:** STAFFING-Y-ORGANIZACION
-> ✅ / ❌ / ✏️ ___
+### P35. ¿Compartimos info con Kiki?
+- **A.** Sí parcialmente (revenue+marketing+#pac). NO bancarios
+- **B.** Todo
+- **C.** Nada
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas |
 |---|---|---|
-| Contador | 4 | 0 |
-| Facturación | 5 | 0 |
-| Planes pago | 4 | 0 |
-| Presupuestos | 5 | 0 |
-| Costos | 5 | 0 |
-| Inversión inicial | 5 | 0 |
-| Alertas | 4 | 0 |
-| Reportes | 3 | 0 |
-| **TOTAL** | **35** | **0** |
-
-**No hay bloqueantes** (contador existe, sistema documentado).
+| Contador | 4 | P2 |
+| Facturación | 5 | P7 |
+| Planes pago | 4 | P10, P13 |
+| Presupuestos | 5 | P14, P17 |
+| Costos | 5 | P19 |
+| Inversión | 5 | P24 |
+| Alertas | 4 | P29 |
+| Reportes | 3 | P33 |
+| **TOTAL** | **35** | **4** |
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Pregunta 1: ✅, contador es Lic. Pérez, WhatsApp +595 9XX XXX XXX
-Pregunta 7: ✅ con efectivo y transferencia primero
-Pregunta 10: ✅ 3 cuotas sin interés
-Pregunta 17: ✅ 3 opciones siempre
-Pregunta 19: ✅ Gs 3.5M con local propio
-Pregunta 27: tengo 8 meses de runway
+10.P2: A (Gs 800k-1.5M)
+10.P5: A (después de atención)
+10.P7: A
+10.P10: A (2-3 cuotas)
+10.P13: A (5 pasos cobranza)
+10.P17: A (3 opciones siempre)
+10.P19: A (Gs 3-5M o propio)
+10.P33: A
 ```
 
 ---

@@ -1,315 +1,293 @@
 # 🏢 CUESTIONARIO 6: MODELO DE NEGOCIO Y ADN
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 33 preguntas, 5 opciones (A/B/C/D/E) cada una
 
-**Para:** Gaby · **Cuándo:** Esta semana (12-19 jul)
-**Modo de respuesta:** Audio a Kiki
+**Para:** Gaby · **Cuándo:** Esta semana
+**Modo:** `06.P{n}: {letra}`
 
 ---
 
 ## 6.1 — MISIÓN, VISIÓN, ADN
 
-### P1. ¿Cuál es la misión de Ometz Dental?
+### P1. ¿Misión de Ometz Dental?
+- **A.** "Brindar atención odontológica con criterio clínico, conservadora y planificada, en un ambiente donde el paciente se siente escuchado"
+- **B.** "Ser el consultorio más ético y criterioso de Asunción"
+- **C.** "Hacer sonreír a Asunción con criterio"
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** "Brindar atención odontológica con criterio clínico, conservadora y planificada, en un ambiente donde el paciente se siente escuchado y comprendido."
-> **Origen:** `00_STRATEGIC/strategic-context/client-profile-deep-dive.md`
-> ✅ / ❌ / ✏️ ___
+### P2. ¿Visión a 3 años?
+- **A.** Consultorio boutique de referencia en Asunción para rehabilitación oral y segunda opinión
+- **B.** Expandir a 2-3 sedes
+- **C.** Ser el más conocido del barrio
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P2. ¿Cuál es la visión a 3 años?
+### P3. ¿Valores centrales?
+- **A.** Criterio + Honestidad + Conservación + Planificación + Empatía
+- **B.** Excelencia + Innovación + Cercanía + Ética + Pasión
+- **C.** Confianza + Profesionalismo + Cercanía
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** "Ser el consultorio boutique de referencia en Asunción para rehabilitación oral y segunda opinión, conocido por el criterio y la planificación."
-> **Origen:** `three-strategic-options-analysis.md`
-> ✅ / ❌ / ✏️ ___
+### P4. ¿Qué es אומץ (Ometz)?
+- **A.** Coraje en hebreo. Coraje de pensar antes de tocar
+- **B.** Fuerza. Fuerza de decir no al overtreatment
+- **C.** Sin significado específico
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-### P3. ¿Cuáles son los valores centrales?
+### P5. ¿Anti-yo (lo que NO somos)?
+- **A.** No clínica más grande + No más baratos + No franquicia + No seguros + No rápidos
+- **B.** Solo declarar lo que SÍ somos
+- **C.** Mixto
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA (5 valores):**
-> 1. **Criterio** — pensar antes de tocar
-> 2. **Honestidad** — decir lo que hay, no lo que conviene
-> 3. **Conservación** — preservar antes que reemplazar
-> 4. **Planificación** — pensar todo el caso antes de empezar
-> 5. **Empatía** — entender al paciente antes de tratarlo
-> **Origen:** ADN
-> ✅ / ❌ / ✏️ ___
+### P6. ¿Propuesta de valor única?
+- **A.** Odontología con criterio, conservadora, planificada, sin overtreatment. אומץ. Te escucho.
+- **B.** Segunda opinión formal por escrito
+- **C.** Rehabilitación sobre implantes
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-### P4. ¿Qué es אומץ (Ometz) y por qué?
-
-> **PRE-RESPUESTA:** "Coraje" en hebreo. El coraje de:
-> - Pensar antes de tocar
-> - Conservar antes de reemplazar
-> - Decir "no necesitás este tratamiento" cuando es verdad
-> - Derivar a un colega cuando corresponde
-> - Tomarse 60 minutos para la primera consulta
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
-
-### P5. ¿Cuál es el "anti-yo"? (lo que NO somos)
-
-> **PRE-RESPUESTA:**
-> - ❌ No somos "la clínica más grande de Asunción"
-> - ❌ No somos "los más baratos"
-> - ❌ No somos una franquicia dental
-> - ❌ No somos clínica de volumen / prepagas
-> - ❌ No somos "rápidos" (preferimos planificar bien)
-> - ❌ No somos tienda de estética dental
-> **Origen:** implícito + ADN
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 6.2 — PROPUESTA DE VALOR
-
-### P6. ¿Cuál es nuestra propuesta de valor única?
-
-> **PRE-RESPUESTA:** "Odontología con criterio, conservadora, planificada, sin overtreatment. Segunda opinión formal. אומץ — coraje para tu boca. Te escucho."
-> **Origen:** posicionamiento premium
-> ✅ / ❌ / ✏️ ___
-
-### P7. ¿Cuáles son los 3 diferenciadores #1?
-
-> **PRE-RESPUESTA:**
-> 1. **Criterio clínico de 20+ años** — no improvisamos
-> 2. **Segunda opinión formal por escrito** — no muchos lo hacen
-> 3. **Atención bilingüe español-inglés** — para expats
-> **Origen:** repositorio + market gap analysis
-> ✅ / ❌ / ✏️ ___
-
-### P8. ¿Cuál es la franja de precio?
-
-> **PRE-RESPUESTA:**
-> - Consulta: Gs 300-400k (premium, no el más caro)
-> - Segunda opinión: Gs 450-600k
-> - Restauración simple: Gs 350-450k
-> - Restauración compleja: Gs 450-650k
-> - Carilla: Gs 3.5M por unidad
-> - Corona: Gs 1.5-2.5M
-> - Rehabilitación integral: Gs 8-15M (caso completo)
-> **Origen:** canonical-pricing v2
-> ✅ / ❌ / ✏️ ___
-
-### P9. ¿Cuál es el ticket promedio esperado?
-
-> **PRE-RESPUESTA:**
-> - Mes 1-3: Gs 350-450k
-> - Mes 4-6: Gs 400-550k
-> - Mes 7-12: Gs 450-650k (con más rehab y segunda opinión)
-> **Origen:** `PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md`
-> ✅ / ❌ / ✏️ ___
+### P7. ¿3 diferenciadores #1?
+- **A.** Criterio clínico 20+ años + Segunda opinión formal + Bilingüe
+- **B.** Criterio + Precio bajo + Rapidez
+- **C.** Mixto
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 6.3 — MODELO OPERATIVO
+## 6.2 — PRECIOS Y REVENUE
 
-### P10. ¿Cuál es el modelo de negocio?
+### P8. ¿Franja de precios?
+- **A.** Consulta 300-400k, segunda opinión 450-600k, rehab 8-15M
+- **B.** Premium alto (Gs 500k+ consulta)
+- **C.** Promedio (Gs 200k consulta)
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Consultorio boutique privado.** 100% privado, sin seguros. 1 dentista dueña (Gaby), 1-2 staff. Servicio premium con criterio.
-> **Origen:** `three-strategic-options-analysis.md`
-> ✅ / ❌ / ✏️ ___
+### P9. ¿Ticket promedio esperado?
+- **A.** Mes 1-3: Gs 350-450k. Mes 7-12: Gs 450-650k
+- **B.** Bajo (Gs 200-300k)
+- **C.** Alto (Gs 600-800k)
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-### P11. ¿Cuántos pacientes objetivo por mes?
+### P10. ¿Modelo de negocio?
+- **A.** Consultorio boutique privado 100%. 1 dueña (Gaby)
+- **B.** Boutique + franquicia blanca
+- **C.** Boutique + franquicia
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Mes 1-3: 5-18 pacientes únicos
-> - Mes 4-6: 15-22
-> - Mes 7-12: 22-30
-> - Mes 12+: 28-36
-> **Origen:** `PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md`
-> ✅ / ❌ / ✏️ ___
+### P11. ¿Pacientes objetivo/mes?
+- **A.** Mes 1-3: 5-18. Mes 12+: 28-36
+- **B.** Alto (mes 12+: 50+)
+- **C.** Bajo (mes 12+: 15-20)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P12. ¿Cuántos días por semana?
+---
 
-> **PRE-RESPUESTA:** **Lunes a viernes, 14:30-19:00.** Gaby dijo "no quiero estar todo el día colgada" — 4.5h/día es suficiente para boutique.
-> **Origen:** confirmado 28 jun
-> ✅ / ❌ / ✏️ ___
+## 6.3 — OPERATIVO
 
-### P13. ¿Abrimos sábados?
+### P12. ¿Días por semana?
+- **A.** Lun-Vie 14:30-19:00 (4.5h/día)
+- **B.** Lun-Sáb 9-18 (full time)
+- **C.** Solo L-X-V
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **NO rutinariamente.** Mes 6+ evaluar si hay demanda. Por ahora no.
-> **Origen:** cuestionario C pregunta 7
-> ✅ / ❌ / ✏️ ___
+### P13. ¿Sábados?
+- **A.** No rutinariamente. Mes 6+ evaluar
+- **B.** Sí, mañana 9-13
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Otro
 
 ### P14. ¿Atención a domicilio?
+- **A.** No, solo consultorio
+- **B.** Sí, casos especiales
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo urgencias
 
-> **PRE-RESPUESTA:** **NO.** Solo en consultorio. (Pacientes postrados/crónicos se derivan al sistema público o colega específico.)
-> **Origen:** cuestionario
-> ✅ / ❌ / ✏️ ___
-
-### P15. ¿Servicio express / urgencias nocturnas?
-
-> **PRE-RESPUESTA:** **NO.** Cerrado a las 19:00. Urgencias referidas a Clínica X (lista de clínicas 24h en Asunción).
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+### P15. ¿Servicio express nocturno?
+- **A.** No, cerrado a las 19:00
+- **B.** Sí, caso por caso
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Otro
 
 ---
 
-## 6.4 — SERVICIOS PRINCIPALES
+## 6.4 — SERVICIOS
 
-### P16. ¿Cuáles son los 3 servicios principales?
+### P16. ¿3 servicios principales?
+- **A.** Rehabilitación oral + Segunda opinión + Profilaxis premium
+- **B.** Estética dental + Blanqueamiento + Carillas
+- **C.** Operatoria general + Profilaxis + Urgencias
+- **D.** Mixto
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> 1. **Rehabilitación oral integral** (servicio estrella)
-> 2. **Segunda opinión formal por escrito**
-> 3. **Profilaxis premium**
-> **Origen:** `sitemap-profilaxis-v1.md` + sitio
-> ✅ / ❌ / ✏️ ___
-
-### P17. ¿Qué servicios secundarios?
-
-> **PRE-RESPUESTA:**
-> 4. Operatoria dental (restauraciones)
-> 5. Estética dental (carillas, blanqueamiento)
-> 6. Pernos de fibra de vidrio
-> **Origen:** sitio + canonical pricing
-> ✅ / ❌ / ✏️ ___
+### P17. ¿Servicios secundarios?
+- **A.** Operatoria + Estética + Pernos de fibra
+- **B.** Solo los 3 principales
+- **C.** Amplio (muchos servicios)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P18. ¿Servicios que NO ofrecemos pero podríamos?
+- **A.** Sedación consciente (mes 6+) + Odontología sueño (mes 6+) + Blanqueamiento premium
+- **B.** Ninguno
+- **C.** Amplio (todos los posibles)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA (de las 60+ ideas del repo):**
-> - Sedación consciente (mes 6+ si decidís)
-> - Odontología del sueño (mes 6+)
-> - Blanqueamiento premium adicional
-> **Origen:** `32-IDEAS-MONETIZACION-PARA-GABY.md`
-> ✅ / ❌ / ✏️ ___
+### P19. ¿Servicios NUNCA ofreceremos?
+- **A.** Ortodoncia + Endodoncia compleja + Cirugía maxilofacial + Implantología quirúrgica
+- **B.** Solo los muy complejos
+- **C.** Todo se puede ofrecer
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P19. ¿Servicios que NUNCA ofreceremos?
+### P20. ¿Cuándo coaching odontológico?
+- **A.** Mes 9+ (post apertura consolidada)
+- **B.** Mes 6+
+- **C.** Mes 1+ desde día 1
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:**
-> - Ortodoncia (derivar)
-> - Endodoncia compleja (derivar)
-> - Cirugía maxilofacial (derivar)
-> - Implantología quirúrgica (derivar, sí rehabilitamos sobre implantes)
-> - Periodoncia avanzada (derivar)
-> - Sedación profunda (derivar a colega con equipamiento)
-> **Origen:** `guia-derivacion-efectiva.md`
-> ✅ / ❌ / ✏️ ___
+### P21. ¿Programa referidos formal entre colegas?
+- **A.** Mes 1, sin comisión
+- **B.** Mes 3+
+- **C.** Mes 6+
+- **D.** Diferido
+- **E.** Otro (especificar)
 
----
+### P22. ¿Programa pacientes referidores?
+- **A.** Mes 3, sin comisión
+- **B.** Mes 1+
+- **C.** Mes 6+
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-## 6.5 — SERVICIOS ANEXOS / SEGUNDA LÍNEA
-
-### P20. ¿Cuándo arrancamos el programa de coaching a colegas?
-
-> **PRE-RESPUESTA:** **Mes 9+** (no antes, no solapar con apertura consultorio). Cohorte piloto 0 (gratis) con 2-3 mentees.
-> **Origen:** `STAFFING-Y-ORGANIZACION/06-20-criticas-modelo-staffing.md` crítica #9
-> ✅ / ❌ / ✏️ ___
-
-### P21. ¿Cuándo arrancamos el programa de referidos formal entre colegas?
-
-> **PRE-RESPUESTA:** **Mes 1.** Ya está documentado. Falta firmar acuerdos con 8-10 colegas de la lista.
-> **Origen:** `SPECIALIST-REFERRAL-LIST.md`
-> ✅ / ❌ / ✏️ ___
-
-### P22. ¿Cuándo arrancamos el programa de pacientes referidores?
-
-> **PRE-RESPUESTA:** **Mes 3.** Programa simple sin comisión.
-> **Origen:** `referral-program-plan.md`
-> ✅ / ❌ / ✏️ ___
-
-### P23. ¿Cuándo arrancamos charlas en universidades?
-
-> **PRE-RESPUESTA:** **Mes 4-6.** 1-2 charlas por cuatrimestre. UNA, UAP, UAA, UP.
-> **Origen:** `mercado-recién-recibidos-y-vacío-mentoría-2026.md`
-> ✅ / ❌ / ✏️ ___
+### P23. ¿Charlas en universidades?
+- **A.** Mes 4-6, 1-2 por cuatrimestre
+- **B.** Mes 1+
+- **C.** Mes 12+
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
-## 6.6 — CRECIMIENTO Y EXPANSIÓN
+## 6.5 — EXPANSIÓN
 
-### P24. ¿Visión de crecimiento a 12 meses?
+### P24. ¿Visión 12 meses?
+- **A.** Boutique consolidado 30 pac/mes + coaching lanzándose + red 15-18 colegas
+- **B.** Expandir mucho más rápido
+- **C.** Crecimiento lento
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Boutique consolidado**, 30 pacientes/mes, 1-2 staff, programa coaching lanzándose, red 15-18 colegas.
-> **Origen:** `PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md`
-> ✅ / ❌ / ✏️ ___
+### P25. ¿Visión 24 meses?
+- **A.** Decisión estratégica (mantener/expandir/servicio nuevo/junior)
+- **B.** Expandir a sede 2 seguro
+- **C.** Solo consolidar
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P25. ¿Visión a 24 meses?
+### P26. ¿Visión 5 años?
+- **A.** Boutique maduro + coaching + posible sede 2
+- **B.** Cadena de consultorios
+- **C.** Cierre tranquilo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Decisión estratégica:**
-> - (a) Mantener boutique, subir honorarios
-> - (b) Expandir a Luque o San Lorenzo (sede 2)
-> - (c) Sumar servicio nuevo (ortodoncia invisible, sedación)
-> - (d) Sumar dentista junior + empezar a delegar
-> **Origen:** plan año 1 OKRs
-> ✅ / ❌ / ✏️ ___
+### P27. ¿Franquicia?
+- **A.** No
+- **B.** Sí, formato boutique
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** No me interesa
 
-### P26. ¿Visión a 5 años?
+### P28. ¿Sede 2 (Luque, San Lorenzo, CDE)?
+- **A.** Decisión mes 18+
+- **B.** Mes 6+
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** **Modelo boutique maduro + programa coaching establecido + posible sede 2.** No franquicia.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
-
-### P27. ¿Queremos franquicia?
-
-> **PRE-RESPUESTA:** **NO.** El modelo boutique no franquicia bien. La marca depende del criterio de Gaby.
-> **Origen:** `STAFFING-Y-ORGANIZACION/02-roles-12-perfiles-costos.md` (idea 24 descartada)
-> ✅ / ❌ / ✏️ ___
-
-### P28. ¿Queremos abrir sede 2 (Luque, San Lorenzo, CDE)?
-
-> **PRE-RESPUESTA:** **Decisión mes 18+** (post consolidación). Si sí,合伙人 que viva en la zona.
-> **Origen:** `multi-location-scenario.md`
-> ✅ / ❌ / ✏️ ___
-
-### P29. ¿Venta de la práctica en 10 años?
-
-> **PRE-RESPUESTA:** **No plan.** El modelo es de servicio personal, no equity. Si Gaby se retira, cierra o traspasa informalmente.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+### P29. ¿Venta de la práctica 10 años?
+- **A.** No plan
+- **B.** Sí, con合伙人
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Cierre tranquilo
 
 ---
 
-## 6.7 — SOSTENIBILIDAD Y RENTABILIDAD
+## 6.6 — RENTABILIDAD
 
-### P30. ¿Cuál es el margen objetivo año 1?
+### P30. ¿Margen objetivo año 1?
+- **A.** 25-40% neto. Break-even mes 6
+- **B.** Más conservador
+- **C.** Más agresivo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-> **PRE-RESPUESTA:** 25-40% neto. Mes 6 = break-even. Mes 12 = 30%+ margen.
-> **Origen:** `PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md`
-> ✅ / ❌ / ✏️ ___
+### P31. ¿Revenue objetivo año 1?
+- **A.** Gs 200-300M realista (Gs 250-400M aspiracional)
+- **B.** Más conservador
+- **C.** Más agresivo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P31. ¿Cuál es el revenue objetivo año 1?
-
-> **PRE-RESPUESTA:** Gs 250-400M (USD 32-51K). Plan realista = Gs 200-300M.
-> **Origen:** plan año 1
-> ✅ / ❌ / ✏️ ___
-
-### P32. ¿Cuánto se reinvierte en el negocio?
-
-> **PRE-RESPUESTA:** Mes 6-12 = 30-40% de ganancia neta. Mes 12+ = 20-30%.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+### P32. ¿Reinversión en negocio?
+- **A.** Mes 6-12: 30-40% ganancia. Mes 12+: 20-30%
+- **B.** Más agresivo
+- **C.** Menos
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ### P33. ¿Reservas de emergencia?
-
-> **PRE-RESPUESTA:** 3 meses de costos fijos como mínimo. Siempre.
-> **Origen:** estándar financiero
-> ✅ / ❌ / ✏️ ___
+- **A.** 3 meses costos fijos siempre
+- **B.** 6 meses
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Depende
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas |
 |---|---|---|
-| Misión/visión/ADN | 5 | 0 |
-| Propuesta de valor | 4 | 0 |
-| Modelo operativo | 6 | 0 |
-| Servicios | 4 | 0 |
-| Segunda línea | 4 | 0 |
-| Crecimiento | 6 | 0 |
-| Rentabilidad | 4 | 0 |
-| **TOTAL** | **33** | **0** |
-
-**No hay bloqueantes.** Todo está pre-definido en repo. Es un cuestionario de **confirmación**.
+| ADN | 7 | P1, P4 |
+| Precios | 4 | P8 |
+| Operativo | 5 | P12 |
+| Servicios | 8 | P16 |
+| Expansión | 6 | P27, P28 |
+| Rentabilidad | 4 | P30 |
+| **TOTAL** | **33** | **5** |
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 5: agregar "no somos los más rápidos"
-Pregunta 25: prefiero opción (d) sumar dentista junior + delegar
-Pregunta 28: NO sede 2 por ahora
+06.P1: A
+06.P4: A
+06.P8: A
+06.P12: A (Lun-Vie 14:30-19:00)
+06.P16: A
+06.P25: A (decisión 24m)
+06.P27: A (no franquicia)
+06.P30: A
 ```
 
 ---
 
-*Próximo cuestionario:* `07-profesionales-red.md`
+*Próximo cuestionario:* `08-staff.md`
