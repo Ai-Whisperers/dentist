@@ -1,50 +1,54 @@
 # 👥 CUESTIONARIO 7: PROFESIONALES Y RED DE REFERIDOS
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 30 preguntas, 5 opciones (A/B/C/D/E) cada una — sin pre-respuesta fija
 
 **Para:** Gaby · **Cuándo:** Esta semana (12-19 jul)
 **Modo de respuesta:** Audio a Kiki
+
+> **Formato nuevo:** cada pregunta tiene **5 opciones** (A/B/C/D/E). Gaby **elige una** o propone una sexta (F).
 
 ---
 
 ## 7.1 — RED DE REFERIDOS (COLEGAS)
 
-### P1. ¿Cuántos colegas en la red de referidos?
+### P1. ¿Cuántos colegas en la red de referidos mes 0?
 
-> **PRE-RESPUESTA:** 4-5 mes 0, 8-10 mes 3, 12-15 mes 6, 15-18 mes 12, 22-25 mes 24.
-> **Origen:** `STAFFING-Y-ORGANIZACION/01-organigrama-y-secuencia.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** 4-5 colegas (mínimo viable)
+- **B.** 6-8 colegas
+- **C.** 10-12 colegas (red amplia)
+- **D.** 15+ (red muy amplia)
+- **E.** Otro (especificar)
 
-### P2. ¿Qué tipo de especialistas necesitamos?
+### P2. ¿Qué tipo de especialistas son los más críticos?
 
-> **PRE-RESPUESTA (perfiles mínimos):**
-> - 2 endodoncistas
-> - 2 ortodoncistas
-> - 1-2 implantólogos
-> - 1 periodoncista
-> - 1 cirujano maxilofacial
-> - 2-3 generalistas Mburucuyá (red local)
-> - 2-3 bilingües (mercado expat)
-> - 1-2 prostodoncistas (rehabilitación compleja)
-> **Origen:** `SPECIALIST-REFERRAL-LIST.md` + `guia-derivacion-efectiva.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Endodoncistas (1-2) — derivación más común
+- **B.** Ortodoncistas (1-2)
+- **C.** Implantólogos (1-2)
+- **D.** Generalistas Mburucuyá (1-2) — red local
+- **E.** Otro (especificar)
 
-### P3. ¿Tenemos lista actual?
+### P3. ¿Tenemos lista actual de colegas?
 
-> **PRE-RESPUESTA:** **SÍ**, en `01_RESEARCH/procurement/SPECIALIST-REFERRAL-LIST.md` con 30 perfiles.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, en `SPECIALIST-REFERRAL-LIST.md` con 30 perfiles
+- **B.** Sí pero incompleta, faltan 5-10 perfiles
+- **C.** No, hay que armar lista desde cero
+- **D.** Sí pero desactualizada
+- **E.** Otro (especificar)
 
 ### P4. ¿Firmamos acuerdo formal de derivación con cada uno?
 
-> **PRE-RESPUESTA:** **SÍ.** Plantilla en `05_OPERATIONS/legal-compliance/practice-legal/referral-agreement-legal.md`. 1 página firmada por ambos.
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 1 página firmada por ambos
+- **B.** Sí, pero solo con los 5-10 más críticos
+- **C.** No, acuerdo verbal es suficiente
+- **D.** Diferido (mes 3+ cuando tengamos casos)
+- **E.** Otro (especificar)
 
 ### P5. ¿Cuándo firmamos los primeros acuerdos?
 
-> **PRE-RESPUESTA:** **Esta semana.** 1 endodoncista + 1 ortodoncista. Los más críticos.
-> **Origen:** `STAFFING-Y-ORGANIZACION/09-checklist-pre-apertura.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Esta semana (12-19 jul)
+- **B.** Próxima semana (19-26 jul)
+- **C.** Mes 1 post-apertura
+- **D.** Mes 3+ con casos reales
+- **E.** Otro (especificar)
 
 ---
 
@@ -52,33 +56,43 @@
 
 ### P6. ¿Cobramos comisión por derivar?
 
-> **PRE-RESPUESTA:** **NO.** Política ética estricta: sin comisiones, sin pagos cruzados. Solo derivación con seguimiento del caso.
-> **Origen:** `04-referral-program-faq.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** No, política ética estricta
+- **B.** Sí, 5% simbólico solo para casos de alto valor
+- **C.** Sí, 10% con colega
+- **D.** Diferido, decidir caso por caso
+- **E.** Otro (especificar)
 
 ### P7. ¿Qué pasa si derivado devuelve el paciente?
 
-> **PRE-RESPUESTA:** **Se acepta sin problema.** Sin conflicto. Costo de reconsulta = Gs 0 (ya conocido).
-> **Origen:** ético
-> ✅ / ❌ / ✏️ ___
+- **A.** Sin conflicto, reagendamos
+- **B.** Conversación 1:1 con colega
+- **C.** Sacamos al colega de la red
+- **D.** Política clara desde el inicio (en contrato)
+- **E.** Otro (especificar)
 
 ### P8. ¿Cómo seguimos el caso del derivado?
 
-> **PRE-RESPUESTA:** WA al especialista tras 1 semana. Plan escrito compartido con paciente. Reunión trimestral informal con colega de confianza.
-> **Origen:** `guia-derivacion-efectiva.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** WhatsApp al especialista tras 1 semana
+- **B.** Plan escrito compartido con paciente
+- **C.** Reunión trimestral informal con colega
+- **D.** Mixto: WA + plan + reunión
+- **E.** Otro (especificar)
 
 ### P9. ¿Cuántas derivaciones por mes esperamos?
 
-> **PRE-RESPUESTA:** Mes 1-3 = 2-5 derivaciones/mes. Mes 6+ = 5-10/mes.
-> **Origen:** `STAFFING-Y-ORGANIZACION/02-roles-12-perfiles-costos.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** 2-5 derivaciones/mes (mes 1-3)
+- **B.** 5-10 derivaciones/mes (mes 6+)
+- **C.** 10-15 derivaciones/mes (mes 12+)
+- **D.** Diferido, ver demanda real
+- **E.** Otro (especificar)
 
-### P10. ¿Manejamos derivaciones complejas vs simples diferente?
+### P10. ¿Manejamos derivaciones complejas diferente?
 
-> **PRE-RESPUESTA:** **SÍ.** Simple = 1 sola derivación, plan escrito. Compleja = equipo multi-especialista (3+), Gaby coordina como "case manager".
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, Gaby coordina como "case manager" para 3+ especialistas
+- **B.** No, todas las derivaciones siguen el mismo flujo
+- **C.** Diferido, evaluar cuando aparezcan casos complejos
+- **D.** Sí, con plan escrito + reunión con todos los especialistas
+- **E.** Otro (especificar)
 
 ---
 
@@ -86,176 +100,210 @@
 
 ### P11. ¿Cómo elegimos a quién derivar?
 
-> **PRE-RESPUESTA (criterios):**
-> 1. Capacidad técnica comprobada
-> 2. Trato al paciente similar al nuestro
-> 3. Comunicación fluida (responde WA, comparte plan)
-> 4. Confianza personal (lo conocemos o alguien de confianza lo recomienda)
-> 5. Disponibilidad razonable
-> 6. Idioma (bilingüe si paciente expat)
-> 7. Cercanía geográfica
-> 8. Costo accesible (no asegurarnos que sea barato, sí que sea razonable)
-> **Origen:** implícito + `guia-derivacion-efectiva.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Solo por capacidad técnica comprobada
+- **B.** Capacidad + trato al paciente + comunicación
+- **C.** Capacidad + trato + confianza personal
+- **D.** Lista cerrada con criterios objetivos
+- **E.** Otro (especificar)
 
 ### P12. ¿Qué pasa si derivado trata mal al paciente?
 
-> **PRE-RESPUESTA:** **Conversación directa 1:1.** Si reincide, se saca de la red. Documentar incidente.
-> **Origen:** ético
-> ✅ / ❌ / ✏️ ___
+- **A.** Conversación directa 1:1
+- **B.** Sacar de la red inmediatamente
+- **C.** Conversación + advertencia + segunda oportunidad
+- **D.** Documentar + escalar a Círculo Odontológico
+- **E.** Otro (especificar)
 
-### P13. ¿Compartimos información clínica del paciente con colegas?
+### P13. ¿Compartimos información clínica del paciente?
 
-> **PRE-RESPUESTA:** **SÍ pero con consentimiento escrito del paciente.** Plan + radiografías + fotos. Confidencialidad estricta.
-> **Origen:** legal + ético
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, con consentimiento escrito del paciente
+- **B.** Sí, consentimiento verbal
+- **C.** Solo lo mínimo necesario
+- **D.** Solo a especialistas, no a colegas generales
+- **E.** Otro (especificar)
 
 ### P14. ¿Tenemos acuerdo de no-promoción mutua?
 
-> **PRE-RESPUESTA:** **Sí implícito.** No me promocionan a mí ni yo a ellos. La promoción viene del paciente satisfecho.
-> **Origen:** ética profesional
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, implícito. Sin comisiones, sin marketing cruzado
+- **B.** Sí, formal en el acuerdo
+- **C.** No, cada quien promueve como quiere
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P15. ¿Cuántas referencias máximo por colega al mes?
+
+- **A.** Sin límite, depende de demanda
+- **B.** 5-10/mes por colega
+- **C.** 1-2/mes por colega
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 7.4 — RELACIÓN CON CÍRCULO ODONTOLÓGICO PY
 
-### P15. ¿Estamos asociadas al Círculo Odontológico PY?
+### P16. ¿Estamos asociadas al Círculo Odontológico PY?
 
-> **PRE-RESPUESTA:** **Sí recomendable.** Gs 400k/año. Acceso a padrón de socios, eventos, mediación.
-> **Origen:** `DENTAL-RENT-AND-SHARE-MAP.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, ya asociada
+- **B.** No, asociarme esta semana
+- **C.** No, no me interesa
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P16. ¿Asistimos a eventos del Círculo?
+### P17. ¿Asistimos a eventos del Círculo?
 
-> **PRE-RESPUESTA:** **SÍ selectivamente.** Congreso anual sí. Otros eventos sociales no prioritarios.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, selectivamente (congreso anual sí, sociales no)
+- **B.** No por ahora
+- **C.** Sí, todos
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P17. ¿Publicamos en la revista del Círculo?
+### P18. ¿Publicamos en la revista del Círculo?
 
-> **PRE-RESPUESTA:** **No por ahora.** Evaluar mes 12+ si hay algo interesante que aportar.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+- **A.** No por ahora, evaluar mes 12+
+- **B.** Sí, artículo técnico este año
+- **C.** No, no me interesa escribir
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P18. ¿Somos parte de Sociedad Paraguaya de Odontología?
+### P19. ¿Somos parte de Sociedad Paraguaya de Odontología?
 
-> **PRE-RESPUESTA:** **Sí opcional.** Complementa al Círculo. Costo Gs 200-400k/año.
-> **Origen:** `mercado-recién-recibidos-y-vacío-mentoría-2026.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, complementaria al Círculo
+- **B.** No, solo Círculo
+- **C.** Diferido
+- **D.** No, no me interesa
+- **E.** Otro (especificar)
+
+### P20. ¿Participamos en mediaciones del Círculo?
+
+- **A.** Sí, si me toca
+- **B.** No, prefiero evitar
+- **C.** Solo si es colega que conozco
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 7.5 — RELACIÓN CON FACULTADES
 
-### P19. ¿Tenemos acuerdo con UNA, UAP, UAA, UP?
+### P21. ¿Tenemos acuerdo con UNA, UAP, UAA, UP?
 
-> **PRE-RESPUESTA:** **Mes 6+.** Empezar con UNA (Facultad de Odontología). 1 charla por cuatrimestre.
-> **Origen:** plan coaching + mercado
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 6+ (empezar con UNA)
+- **B.** Mes 12+
+- **C.** Ya tenemos contacto
+- **D.** No, no me interesa
+- **E.** Otro (especificar)
 
-### P20. ¿Aceptamos residentes en práctica?
+### P22. ¿Damos charlas en facultades?
 
-> **PRE-RESPUESTA:** **SÍ, mes 12+** (cuando tengamos flujo). Convenio con facultad, sin雇佣, sin pago.
-> **Origen:** `STAFFING-Y-ORGANIZACION/05-30-ideas-staffing-scaling.md` idea 14
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 1-2 por cuatrimestre (UNA, UAP, UAA, UP)
+- **B.** Sí, solo UNA al inicio
+- **C.** No, no tengo tiempo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P21. ¿Reclutamos auxiliares entre recién recibidos?
+### P23. ¿Aceptamos residentes en práctica?
 
-> **PRE-RESPUESTA:** **SÍ mes 3+** (cuando雇佣 auxiliar). Estudiantes UAP, recién recibidos con práctica profesional.
-> **Origen:** `STAFFING-Y-ORGANIZACION/02-roles-12-perfiles-costos.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, mes 12+ (cuando tengamos flujo)
+- **B.** Sí, ya
+- **C.** No, no me interesa
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P22. ¿Damos becas o赞助 a estudiantes?
+### P24. ¿Reclutamos auxiliares entre recién recibidos?
 
-> **PRE-RESPUESTA:** **NO rutinariamente.** Solo si Gaby quiere, sin compromiso institucional.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, mes 3+
+- **B.** Sí, ya
+- **C.** No, mejor con experiencia
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P25. ¿Damos becas o赞助 a estudiantes?
+
+- **A.** No rutinariamente, solo si quiero
+- **B.** Sí, 1 beca anual
+- **C.** No, no me interesa
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 7.6 — FORMACIÓN CONTINUA DE GABY
 
-### P23. ¿Asistimos a congresos odontológicos?
+### P26. ¿Asistimos a congresos odontológicos?
 
-> **PRE-RESPUESTA:** **SÍ, 1-2 por año.** Congreso Círculo Odontológico, Congreso Paraguayo de Odontología, congresos LATAM.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 1-2 por año
+- **B.** Sí, 3-4 por año
+- **C.** No por ahora
+- **D.** Solo cuando hay tema específico que me interesa
+- **E.** Otro (especificar)
 
-### P24. ¿Tomamos cursos online?
+### P27. ¿Tomamos cursos online?
 
-> **PRE-RESPUESTA:** **Sí selectivos.** Solo cursos con aplicación directa (rehab, estética, oclusión).
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, selectivos (solo aplicación directa)
+- **B.** Sí, 2-3 por año
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P25. ¿Tenemos mentor personal para Gaby?
+### P28. ¿Tenemos mentor personal para Gaby?
 
-> **PRE-RESPUESTA:** **Opcional mes 12+.** Si hay colega senior de confianza, 1 sesión/mes informal.
-> **Origen:** `STAFFING-Y-ORGANIZACION/05-30-ideas-staffing-scaling.md` idea 5
-> ✅ / ❌ / ✏️ ___
+- **A.** Opcional mes 12+, colega senior de confianza
+- **B.** Sí, ya tengo uno
+- **C.** No, no necesito
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P26. ¿Invertimos en cursos avanzados (rehab, implant, sedación)?
+### P29. ¿Hablamos en congresos como speakers?
 
-> **PRE-RESPUESTA:** **Sí, según necesidad.** Pero sin FOMO. Solo si hay demanda real de pacientes.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 18+, sí
+- **B.** Sí, ya
+- **C.** No por ahora
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P27. ¿Hablamos en congresos?
+### P30. ¿Invertimos en cursos avanzados?
 
-> **PRE-RESPUESTA:** **Mes 18+** (cuando tengamos experiencia + casos para mostrar). Sí recomendable para marca.
-> **Origen:** crecimiento
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 7.7 — POLÍTICA DE COMPETENCIA
-
-### P28. ¿Tenemos territorio protegido (zona Mburucuyá exclusivo)?
-
-> **PRE-RESPUESTA:** **NO.** Asunción entera es mercado. No excluimos zonas. Competimos por calidad.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
-
-### P29. ¿Hablamos bien de otros dentistas en redes?
-
-> **PRE-RESPUESTA:** **SÍ, cuando es genuino.** Si conozco trabajo de un colega, lo menciono en buen término.
-> **Origen:** ético
-> ✅ / ❌ / ✏️ ___
-
-### P30. ¿Tenemos acuerdo de "no robar pacientes" entre colegas?
-
-> **PRE-RESPUESTA:** **SÍ implícito + ético.** El Círculo Odontológico PY lo regula. Si hay denuncia formal,后果 graves.
-> **Origen:** regulación PY
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, según necesidad real
+- **B.** Sí, 1-2 por año
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas |
 |---|---|---|
-| Red de referidos | 5 | 1 (firmar 2 acuerdos esta semana) |
-| Política de derivación | 5 | 0 |
-| Calidad y selección | 4 | 0 |
-| Círculo Odontológico | 4 | 0 |
-| Facultades | 4 | 0 |
-| Formación continua | 5 | 0 |
-| Competencia | 3 | 0 |
-| **TOTAL** | **30** | **1** |
+| Red referidos | 5 | P1, P4, P5 |
+| Política derivación | 5 | P6, P7 |
+| Calidad | 5 | P11, P12 |
+| Círculo | 5 | P16, P17 |
+| Facultades | 5 | P21, P22 |
+| Formación | 5 | P26 |
+| **TOTAL** | **30** | **8** |
 
-**Bloqueante:** P5 (firmar primeros 2 acuerdos esta semana).
+**Decisiones críticas bloqueantes:**
+- P1 (cuántos colegas mes 0)
+- P4 (acuerdo formal sí/no)
+- P5 (cuándo firmar)
+- P6 (comisión sí/no)
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Pregunta 1: ✅
-Pregunta 5: ✅, hoy mismo llamo a Dr. Roque para endodoncista
-Pregunta 6: ✅ sin comisiones
-Pregunta 15: ✅, ya estoy asociada al Círculo
+Pregunta 1: A (4-5 mes 0)
+Pregunta 4: A (acuerdo formal)
+Pregunta 5: A (esta semana)
+Pregunta 6: A (sin comisiones)
+Pregunta 11: C (capacidad + trato + confianza)
+Pregunta 16: A (ya asociada)
+Pregunta 22: A (charlas UNA, UAP, UAA)
 ```
 
 ---
 
-*Próximo cuestionario:* `08-staff.md`
+*Próximo cuestionario:* `09-legal.md`

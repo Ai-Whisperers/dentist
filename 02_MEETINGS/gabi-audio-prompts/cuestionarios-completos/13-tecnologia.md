@@ -1,351 +1,429 @@
 # 💻 CUESTIONARIO 13: TECNOLOGÍA Y HERRAMIENTAS
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 44 preguntas, 5 opciones (A/B/C/D/E) cada una — sin pre-respuesta fija
 
-**Para:** Gaby · **Cuándo:** Mes 1-3 post-apertura
+**Para:** Gaby · **Cuándo:** Mes 1-3 post-apertura (algunos bloqueantes esta semana)
 **Modo de respuesta:** Audio a Kiki
+
+> **Formato nuevo:** cada pregunta tiene **5 opciones** (A/B/C/D/E). Gaby **elige una** o propone una sexta (F).
 
 ---
 
 ## 13.1 — SITIO WEB
 
-### P1. ¿El sitio actual se queda o se rehace?
+### P1. ¿El sitio actual se queda como está?
 
-> **PRE-RESPUESTA:** **Se queda.** ometzdental.com funciona. Round 4 fixes aplicados. Score 97/100.
-> **Origen:** `ROAST-FINAL-POST-DEPLOY.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, ometzdental.com se queda, score 97/100 OK
+- **B.** Sí, pero con pequeños ajustes de paleta (teal)
+- **C.** No, rehacer desde cero
+- **D.** Diferido, decidir después
+- **E.** Otro (especificar)
 
-### P2. ¿Tenemos dominio propio?
+### P2. ¿Dominio principal?
 
-> **PRE-RESPUESTA:** **SÍ.** ometzdental.com (registrado 28 jun via Hostinger).
-> **Origen:** confirmado
-> ✅ / ❌ / ✏️ ___
+- **A.** ometzdental.com
+- **B.** ometzdental.com.py
+- **C.** dragabriela.com.py
+- **D.** dra-gabriela.com
+- **E.** Otro (especificar)
 
 ### P3. ¿SSL (HTTPS)?
 
-> **PRE-RESPUESTA:** **SÍ.** Let's Encrypt via Traefik. Activo.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, Let's Encrypt activo
+- **B.** No, configurar
+- **C.** Diferido
+- **D.** No estoy segura
+- **E.** Otro (especificar)
 
 ### P4. ¿Quién mantiene el sitio?
 
-> **PRE-RESPUESTA:** **Iván** (Ai-Whisperers). Deploy via Docker Swarm. Traefik routing.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Iván (Ai-Whisperers)
+- **B.** Diseñador externo
+- **C.** Yo (Gaby) con plantilla
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P5. ¿Cuánto cuesta mantener el sitio al año?
+### P5. ¿Costo anual del sitio?
 
-> **PRE-RESPUESTA:** **~USD 100-150/año** (dominio + servidor).
-> **Origen:** VPS Ai-Whisperers
-> ✅ / ❌ / ✏️ ___
+- **A.** USD 100-150/año (Iván, VPS Ai-Whisperers)
+- **B.** USD 500-1000/año (diseñador externo)
+- **C.** USD 1500+/año (agencia)
+- **D.** No estoy segura
+- **E.** Otro (especificar)
 
-### P6. ¿Tenemos blog activo en el sitio?
+### P6. ¿Blog activo?
 
-> **PRE-RESPUESTA:** **Mes 1+, 1 post cada 2 semanas** SEO local.
-> **Origen:** plan marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 1 post/2 semanas SEO local (mes 1+)
+- **B.** Sí, 1 post/semana
+- **C.** Sí, 2-3 posts/semana
+- **D.** No por ahora
+- **E.** Otro (especificar)
 
 ### P7. ¿Calendly u otro agendamiento online?
 
-> **PRE-RESPUESTA:** **Pendiente.** Mes 3+ si hay bandwidth. WA Business sigue siendo principal.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 3+ Calendly
+- **B.** Mes 6+ Calendly
+- **C.** No, WA Business sigue siendo principal
+- **D.** Otro sistema (especificar)
+- **E.** Diferido
+
+### P8. ¿Sitio en inglés también?
+
+- **A.** Sí, `/en/*` (mercado expat)
+- **B.** Sí, pero solo sección principal
+- **C.** No, solo español
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P9. ¿Sección blog en inglés?
+
+- **A.** Sí, algunas entradas traducidas
+- **B.** No, solo español
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Solo si hay demanda expat
 
 ---
 
 ## 13.2 — ANALYTICS Y MÉTRICAS
 
-### P8. ¿Google Analytics (GA4) configurado?
+### P10. ¿Google Analytics (GA4) configurado?
 
-> **PRE-RESPUESTA:** **Pendiente.** Iván configura esta semana.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, pendiente verificación
+- **B.** No, Iván configura esta semana (bloqueante)
+- **C.** Sí, completo
+- **D.** No me interesa
+- **E.** Otro (especificar)
 
-### P9. ¿Google Search Console?
+### P11. ¿Google Search Console?
 
-> **PRE-RESPUESTA:** **SÍ** (básico, pendiente verificar).
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, básico
+- **B.** No, configurar
+- **C.** Sí, completo
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P10. ¿Pixel Meta instalado?
+### P12. ¿Pixel Meta instalado?
 
-> **PRE-RESPUESTA:** **Pendiente.** Iván configura esta semana.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Pendiente Iván esta semana (bloqueante)
+- **B.** Sí, ya instalado
+- **C.** No, no me interesa
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P11. ¿UTM tracking en todos los links?
+### P13. ¿UTM tracking en todos los links?
 
-> **PRE-RESPUESTA:** **Pendiente.** Configurar con próxima campaña Meta Ads.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí obligatorio
+- **B.** Solo en links de Ads
+- **C.** Diferido
+- **D.** No
+- **E.** Otro (especificar)
 
-### P12. ¿Qué métricas miramos?
+### P14. ¿Qué métricas miramos?
 
-> **PRE-RESPUESTA (12 KPIs en `intelligence-kpis-y-señales-exito-mes-1.md`):**
-> 1. Vistas GBP
-> 2. Visitas sitio web
-> 3. Followers FB
-> 4. Llamadas/WhatsApp desde GBP
-> 5. Mensajes WA recibidos
-> 6. Conversión WA→cita
-> 7. Tiempo respuesta WA
-> 8. Pacientes únicos nuevos/mes
-> 9. Tasa no-show
-> 10. Ticket promedio
-> 11. Aceptación plan
-> 12. Reseñas Google
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Las 12 del repo (`intelligence-kpis-y-señales-exito-mes-1.md`)
+- **B.** Menos (solo revenue + nuevos pacientes)
+- **C.** Más (incluir NPS, ticket, recurrencia)
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P15. ¿Con qué frecuencia revisamos KPIs?
+
+- **A.** Diario Kiki, semanal Gaby
+- **B.** Solo semanal
+- **C.** Solo mensual
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 13.3 — SOFTWARE DE GESTIÓN DENTAL
 
-### P13. ¿Qué software de gestión?
+### P16. ¿Software de gestión dental decisión?
 
-> **PRE-RESPUESTA:**
-> - Mes 1-6: Google Sheet manual
-> - Mes 6+: evaluar Dentisoft PY vs CloudDent
-> - Mes 12+: decisión formal
-> **Origen:** `dental-software-landscape-paraguay-2026.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 6+ evaluar Dentisoft PY vs CloudDent
+- **B.** Mes 12+ decisión formal
+- **C.** Ya decidido (especificar)
+- **D.** Sin software, Google Sheet manual
+- **E.** Otro (especificar)
 
-### P14. ¿Cuánto cuesta el software de gestión?
+### P17. ¿Costo del software de gestión?
 
-> **PRE-RESPUESTA:** **Gs 200-500k/mes** según opciones.
-> **Origen:** mercado
-> ✅ / ❌ / ✏️ ___
+- **A.** Gs 200-500k/mes
+- **B.** Gs 500k-1M/mes
+- **C.** Gratis (versión free de algún software)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P15. ¿Necesitamos digital imaging (radio digital)?
+### P18. ¿Digital imaging (rayos digital)?
 
-> **PRE-RESPUESTA:** **SÍ** periapical digital (ya en equipamiento). CBCT derivamos.
-> **Origen:** práctica
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, periapical digital (ya en equipamiento)
+- **B.** Sí, también CBCT
+- **C.** No, rayos convencional
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P16. ¿Integración cámara intraoral?
+### P19. ¿Cámara intraoral?
 
-> **PRE-RESPUESTA:** **Opcional mes 12+.** Útil para mostrar al paciente + casos en redes.
-> **Origen:** equipamiento
-> ✅ / ❌ / ✏️ ___
+- **A.** Opcional mes 12+
+- **B.** Sí, ya tengo
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P20. ¿Escáner intraoral (digital impressions)?
+
+- **A.** Mes 12+ si hay demanda
+- **B.** Sí, ya tengo
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 13.4 — COMUNICACIONES Y AGENDA
 
-### P17. ¿WhatsApp Business instalado?
+### P21. ¿WhatsApp Business instalado?
 
-> **PRE-RESPUESTA:** **Pendiente.** Chip dedicado se compra esta semana. 24h después de activar el chip, se instala WA Business.
-> **Origen:** sesión 12-jul
-> ✅ / ❌ / ✏️ ___
+- **A.** Pendiente — chip dedicado se compra esta semana (bloqueante)
+- **B.** Sí, ya instalado
+- **C.** No, no usamos WA Business
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P18. ¿Quién tiene acceso al WA Business?
+### P22. ¿Quién tiene acceso al WA Business?
 
-> **PRE-RESPUESTA:** **Gaby + Kiki + auxiliar (cuando esté).** Multi-device.
-> **Origen:** STAFFING
-> ✅ / ❌ / ✏️ ___
+- **A.** Gaby + Kiki + auxiliar (cuando esté)
+- **B.** Solo Gaby
+- **C.** Gaby + Kiki
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P19. ¿Quick replies cargadas?
+### P23. ¿Quick replies cargadas?
 
-> **PRE-RESPUESTA:** **SÍ, 8 quick replies listas** en `08_WHATSAPP/templates/final/quick-replies-v2-final.md`. Cargar al instalar WA Business.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 8 quick replies v2 listas
+- **B.** No, hay que cargar
+- **C.** Diferido
+- **D.** No me interesa
+- **E.** Otro (especificar)
 
-### P20. ¿Email profesional?
+### P24. ¿Email profesional?
 
-> **PRE-RESPUESTA:** **SÍ.** doctora.gabi@ometsdental.com.py. Configurar en Gmail + Outlook.
-> **Origen:** confirmado
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, doctora.gabi@ometsdental.com.py
+- **B.** Sí pero con otro dominio
+- **C.** Pendiente configurar
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P21. ¿Google Workspace (Gmail + Drive + Meet)?
+### P25. ¿Google Workspace (Gmail + Drive + Meet)?
 
-> **PRE-RESPUESTA:** **Pendiente.** Plan Business Starter USD 6.17/mes. Configurar con dominio propio.
-> **Origen:** productividad
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, arranco lunes (USD 6.17/mes)
+- **B.** No, Gmail gratis basta
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Tengo Outlook ya
 
-### P22. ¿Slack o similar para comunicación interna?
+### P26. ¿Slack o similar?
 
-> **PRE-RESPUESTA:** **NO.** WhatsApp Business + Gmail es suficiente para el equipo boutique.
-> **Origen:** overkill
-> ✅ / ❌ / ✏️ ___
+- **A.** No, WA + Gmail suficiente
+- **B.** Sí, Slack
+- **C.** Sí, Microsoft Teams
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P23. ¿Videollamadas para consultas a distancia?
+### P27. ¿Videollamadas para consultas a distancia?
 
-> **PRE-RESPUESTA:** **Opcional.** Para segunda opinión rápida. Google Meet.
-> **Origen:** `telehealth-telecheck-framework.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Opcional, Google Meet para segunda opinión rápida
+- **B.** Sí, plataforma específica (Doxy.me)
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P28. ¿Chatbot IA para DMs?
+
+- **A.** Sí, Hermes Agent (este bot) con quick replies v2
+- **B.** No, solo humanos
+- **C.** Sí, ManyChat
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P29. ¿Multi-device WA Business?
+
+- **A.** Sí, 3 dispositivos
+- **B.** Sí, solo 2
+- **C.** Solo 1
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 13.5 — HERRAMIENTAS DE MARKETING
 
-### P24. ¿Meta Business Suite?
+### P30. ¿Meta Business Suite?
 
-> **PRE-RESPUESTA:** **SÍ** (gratis). Iván/Kiki configuran. Maneja FB + IG + Ads + Insights.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, Iván/Kiki configuran
+- **B.** Ya configurado
+- **C.** No, no me interesa
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P25. ¿Canva Pro?
+### P31. ¿Canva Pro?
 
-> **PRE-RESPUESTA:** **SÍ.** USD 13/mes. Para crear creatividades Ads, posts IG, brochures.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, USD 13/mes
+- **B.** No, versión gratis
+- **C.** Diferido
+- **D.** Otro (especificar)
+- **E.** Diferido
 
-### P26. ¿Buffer / Later / Hootsuite (programación posts)?
+### P32. ¿Buffer / Later / Hootsuite (programación)?
 
-> **PRE-RESPUESTA:** **Mes 6+.** Buffer USD 15/mes o Later USD 25/mes. Programar 1 mes de posts.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 6+, Buffer USD 15/mes
+- **B.** Mes 6+, Later USD 25/mes
+- **C.** No, programación manual
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P27. ¿Brevo (newsletter)?
+### P33. ¿Brevo (newsletter)?
 
-> **PRE-RESPUESTA:** **Mes 6+, gratis hasta 300 emails/día.** Suficiente.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 6+, gratis hasta 300 emails/día
+- **B.** Mes 12+
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P28. ¿Mailchimp?
+### P34. ¿Mailchimp en vez de Brevo?
 
-> **PRE-RESPUESTA:** **NO.** Brevo es más barato y suficiente.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** No, Brevo es más barato
+- **B.** Sí, ya tengo Mailchimp
+- **C.** Diferido
+- **D.** No
+- **E.** Otro (especificar)
 
-### P29. ¿CapCut / InShot (edición video)?
+### P35. ¿CapCut / InShot (edición video)?
 
-> **PRE-RESPUESTA:** **SÍ gratis.** Para Reels. Subtítulos automáticos.
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, gratis
+- **B.** Sí, CapCut Pro
+- **C.** No, edición externa
+- **D.** Diferido
+- **E.** Otro (especificar)
+
+### P36. ¿Google Ads?
+
+- **A.** Mes 12+ solo si SEO no basta
+- **B.** Mes 6+
+- **C.** Mes 1+ agresivo
+- **D.** No
+- **E.** Otro (especificar)
 
 ---
 
 ## 13.6 — PRODUCTIVIDAD INTERNA
 
-### P30. ¿Google Calendar para agenda?
+### P37. ¿Google Calendar para agenda?
 
-> **PRE-RESPUESTA:** **SÍ.** Compartido con auxiliar (cuando esté) + Kiki.
-> **Origen:** operativo
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, compartido con auxiliar
+- **B.** Sí, solo yo
+- **C.** Otro (Outlook, Apple Calendar)
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P31. ¿Notion / Google Docs para documentación interna?
+### P38. ¿Notion / Google Docs para docs internos?
 
-> **PRE-RESPUESTA:** **SÍ.** Google Docs (con Workspace) + Notion si hay bandwidth.
-> **Origen:** productividad
-> ✅ / ❌ / ✏️ ___
+- **A.** Google Docs (con Workspace)
+- **B.** Notion (alternativa)
+- **C.** Mixto
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P32. ¿Sistema de tickets / CRM?
+### P39. ¿Sistema de tickets / CRM?
 
-> **PRE-RESPUESTA:** **Mes 6+: Pipedrive o similar.** Mes 1-6: Google Sheet.
-> **Origen:** STAFFING
-> ✅ / ❌ / ✏️ ___
+- **A.** Mes 6+ Pipedrive o similar
+- **B.** Google Sheet manual
+- **C.** Hubspot Free
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P33. ¿Sistema de backups?
+### P40. ¿Sistema de backups?
 
-> **PRE-RESPUESTA:** **SÍ.** Google Drive cifrado + backup mensual disco externo. Iván configura.
-> **Origen:** operacional
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, Google Drive cifrado + disco externo mensual
+- **B.** Solo Google Drive
+- **C.** Diferido
+- **D.** No
+- **E.** Otro (especificar)
 
 ---
 
 ## 13.7 — SEGURIDAD
 
-### P34. ¿Antivirus en laptop?
+### P41. ¿Antivirus en laptop?
 
-> **PRE-RESPUESTA:** **SÍ** (Windows Defender nativo o Bitdefender).
-> **Origen:** seguridad
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, Windows Defender nativo
+- **B.** Sí, Bitdefender
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P35. ¿Cifrado de disco?
+### P42. ¿Cifrado de disco?
 
-> **PRE-RESPUESTA:** **SÍ** (BitLocker Windows o FileVault Mac).
-> **Origen:** legal + datos
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, BitLocker (Windows) o FileVault (Mac)
+- **B.** No
+- **C.** Diferido
+- **D.** Tengo pero no sé
+- **E.** Otro (especificar)
 
-### P36. ¿2FA en cuentas críticas?
+### P43. ¿2FA en cuentas críticas?
 
-> **PRE-RESPUESTA:** **SÍ** en: email, WA Business, banco, Meta Business, Google Workspace.
-> **Origen:** seguridad
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, todas (email, WA, banco, Meta, Google Workspace)
+- **B.** Solo email y banco
+- **C.** Diferido
+- **D.** No
+- **E.** Otro (especificar)
 
-### P37. ¿Password manager?
+### P44. ¿Password manager?
 
-> **PRE-RESPUESTA:** **SÍ** (Bitwarden gratis o 1Password USD 3/mes).
-> **Origen:** seguridad
-> ✅ / ❌ / ✏️ ___
-
-### P38. ¿Política de breach de datos?
-
-> **PRE-RESPUESTA:** **Sí documentar.** Notificar paciente en 72h (Ley 1682/01).
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 13.8 — IA Y AUTOMATIZACIÓN
-
-### P39. ¿Usamos IA (este bot) para DMs?
-
-> **PRE-RESPUESTA:** **SÍ** (Hermes Agent). Configurar quick replies + escalado a humano.
-> **Origen:** STAFFING
-> ✅ / ❌ / ✏️ ___
-
-### P40. ¿Usamos IA para agendar?
-
-> **PRE-RESPUESTA:** **NO mes 1.** Evaluación mes 6+ (Calendly con IA sería overkill para boutique).
-> **Origen:** overkill
-> ✅ / ❌ / ✏️ ___
-
-### P41. ¿Usamos IA para recordatorios?
-
-> **PRE-RESPUESTA:** **NO mes 1.** WA Business programado es suficiente.
-> ✅ / ❌ / ✏️ ___
-
-### P42. ¿Usamos IA para marketing?
-
-> **PRE-RESPUESTA:** **SÍ** (FAL FLUX para imágenes). No para texto (mejor Gaby/Kiki).
-> **Origen:** marketing
-> ✅ / ❌ / ✏️ ___
-
-### P43. ¿Usamos IA para facturación?
-
-> **PRE-RESPUESTA:** **NO.** El contador maneja.
-> ✅ / ❌ / ✏️ ___
-
-### P44. ¿Usamos IA para historias clínicas?
-
-> **PRE-RESPUESTA:** **NO mes 1-12.** Software específico mes 12+ si lo incluye.
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, Bitwarden (gratis)
+- **B.** Sí, 1Password (USD 3/mes)
+- **C.** No
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas BLOQUEANTES |
 |---|---|---|
-| Sitio web | 7 | 0 |
-| Analytics | 5 | 2 (GA4 + Pixel Meta esta semana) |
-| Software gestión | 4 | 0 |
-| Comunicaciones | 7 | 1 (WA Business) |
-| Marketing tools | 6 | 0 |
+| Sitio web | 9 | P2 (dominio) |
+| Analytics | 6 | 2 (P10 GA4, P12 Pixel) |
+| Software gestión | 5 | 0 |
+| Comunicaciones | 9 | 1 (P21 WA Business) |
+| Marketing | 7 | 0 |
 | Productividad | 4 | 0 |
-| Seguridad | 5 | 0 |
-| IA | 6 | 0 |
-| **TOTAL** | **44** | **3** |
+| Seguridad | 4 | 0 |
+| **TOTAL** | **44** | **3 esta semana** |
 
-**3 bloqueantes:**
-1. GA4 configurado (P8)
-2. Pixel Meta (P10)
-3. WA Business instalado (P17)
+**BLOQUEANTES esta semana:**
+- **P10** GA4 (Iván configura)
+- **P12** Pixel Meta (Iván configura)
+- **P21** WA Business (chip dedicado)
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 7: no Calendly por ahora
-Pregunta 13: ✅ Google Sheet mes 1-6
-Pregunta 19: ✅ las 8 quick replies
-Pregunta 21: Google Workspace sí, arranco lunes
-Pregunta 32: ✅ Pipedrive mes 6+
+Pregunta 1: A (se queda)
+Pregunta 2: A (ometzdental.com)
+Pregunta 10: B (Iván configura esta semana)
+Pregunta 12: A (pendiente esta semana)
+Pregunta 21: A (pendiente esta semana)
+Pregunta 23: A (8 quick replies)
+Pregunta 25: A (Workspace lunes)
+Pregunta 28: A (Hermes Agent)
+Pregunta 30: A (Iván/Kiki)
+Pregunta 37: A (Google Calendar)
+Pregunta 43: A (2FA todas)
 ```
 
 ---
 
-*Próximo cuestionario:* `14-expansion.md`
+*Próximo cuestionario:* `00-INDEX.md` (actualizado)

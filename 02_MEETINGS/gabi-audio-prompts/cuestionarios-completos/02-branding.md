@@ -1,8 +1,12 @@
 # 🎨 CUESTIONARIO 2: BRANDING E IDENTIDAD VISUAL
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 30 preguntas, 5 opciones (A/B/C/D/E) cada una — sin pre-respuesta fija
 
 **Para:** Gaby · **Cuándo:** Esta semana (12-19 jul) — bloqueante para fotos y logo
 **Modo de respuesta:** Audio a Kiki
+
+> **Formato nuevo:** cada pregunta tiene **5 opciones** (A/B/C/D/E). Gaby **elige una** o propone una sexta (F). NO hay default — cada decisión es tuya.
+>
+> **Si no sabés:** decí "no sé, pero me inclino por X" y Kiki anota.
 
 ---
 
@@ -10,256 +14,297 @@
 
 ### P1. ¿Cuál es el nombre comercial principal?
 
-> **PRE-RESPUESTA:** **Ometz Dental**
-> **Origen:** Confirmado por Gaby 28 jun. Usado en todo el repo.
-> ✅ / ❌ / ✏️ ___
+- **A.** Ometz Dental
+- **B.** Dra. Gabriella González Pane · Odontóloga
+- **C.** Clínica González Pane
+- **D.** Ometz · אומץ (sin "Dental" en el nombre)
+- **E.** Otro (especificar)
 
 ### P2. ¿Usamos el nombre hebreo אומץ en el branding?
 
-> **PRE-RESPUESTA:** Sí, prominente. Hero del sitio, logo, redes, papelería. Es el diferenciador único.
-> **Origen:** Decisión 28 jun + `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, prominente en todo (hero, logo, redes, papelería)
+- **B.** Sí, solo en logo y hero, no en papelería diaria
+- **C.** Sí, pero solo en versión "premium" (coaching, eventos)
+- **D.** No, solo "Ometz" sin hebreo
+- **E.** Otro (especificar)
 
 ### P3. ¿El tagline principal?
 
-> **PRE-RESPUESTA:** **"Te escucho."**
-> **Origen:** Confirmado 28 jun. Usado en 22 jun en cuestionario 06 también.
-> ✅ / ❌ / ✏️ ___
+- **A.** "Te escucho."
+- **B.** "Antes de mirar tu boca, miro tu historia."
+- **C.** "אומץ — coraje para tu boca."
+- **D.** "Criterio clínico, sin prisa."
+- **E.** Otro (especificar)
 
-### P4. ¿Tagline extendido?
+### P4. ¿Tagline extendido (subtítulo del tagline principal)?
 
-> **PRE-RESPUESTA:** "Antes de mirar tu boca, miro tu historia."
-> **Origen:** `06_MARKETING/facebook/06-posts-pre-armados-mes-1.md` Post 2
-> ✅ / ❌ / ✏️ ___
+- **A.** "Antes de mirar tu boca, miro tu historia."
+- **B.** "Odontología con criterio, conservadora, planificada."
+- **C.** "Para bocas que vienen con muchos tratamientos acumulados."
+- **D.** No usar tagline extendido
+- **E.** Otro (especificar)
 
 ### P5. ¿Bio corta para "Sobre Mí" del sitio?
 
-> **PRE-RESPUESTA:** Borrador en `03_LAUNCH/website-content/propuesta-bio-corta-gaby.md`. Sugerencia final (3 frases):
-> "Soy la Dra. Gabriella González Pane. Más de 20 años atendiendo bocas en Asunción, con criterio conservador y planificación seria. Tres especialidades: rehabilitación oral, estética y operatoria dental. אומץ — coraje para tu boca. Te escucho."
-> **Origen:** Audio 28 jun + draft en repo
-> ✅ / ❌ / ✏️ ___
+- **A.** "Soy la Dra. Gabriella González Pane. Más de 20 años atendiendo bocas en Asunción. אומץ — coraje para tu boca. Te escucho."
+- **B.** "Rehabilitación oral, estética y operatoria dental. Con criterio conservador y planificación seria."
+- **C.** "Antes de mirar tu boca, miro tu historia."
+- **D.** Una sola frase: "Te escucho. אומץ."
+- **E.** Otro (especificar)
 
 ### P6. ¿Bio larga para /sobre-mi?
 
-> **PRE-RESPUESTA:** Existe `about.json` con bio larga. Gaby dijo que tiene mucho para contar (años, flujo alto, cero problemas técnicos). La edición final queda en mes 1 post-apertura.
-> ✅ / ❌ / ✏️ ___
+- **A.** Escribir una vez al inicio del proyecto, mantener fija
+- **B.** Actualizar cada 6 meses con casos nuevos
+- **C.** Versión corta + versión larga en formato "timeline" (20 años resumidos)
+- **D.** Solo versión corta, sin sección /sobre-mi
+- **E.** Otro (especificar)
 
-### P7. ¿Cuál es la voz de marca (5 rasgos)?
+### P7. ¿Voz de marca (3 rasgos principales)?
 
-> **PRE-RESPUESTA:** Cálida, honesta, modesta, criteriosa, bilingüe natural.
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Cálida + honesta + criteriosa
+- **B.** Profesional + empática + bilingüe natural
+- **C.** Modesta + conservadora + planificada
+- **D.** Cálida + directa + accesible
+- **E.** Otro (especificar)
 
 ---
 
 ## 2.2 — IDENTIDAD VISUAL — PALETA
 
-### P8. ¿Paleta de colores definitiva?
+### P8. ¿Paleta principal?
 
-> **PRE-RESPUESTA (migrar del ocean blue actual a brand book):**
-> - **Teal profundo** #1A5F5A — headers, CTAs principales
-> - **Teal claro** #7FBFB8 — acentos suaves
-> - **Crema cálido** #F5EFE6 — fondo principal
-> - **Terracota** #C26B4F — acentos de warmth
-> - **Arena** #D9C9B0 — fondo secundario
-> - **Carbón** #2D2D2D — texto principal
-> - **Verde salvia** #9CAF88 — acento wellness/calma
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md` (migración recomendada desde ocean blues del sitio actual)
-> ✅ / ❌ / ✏️ ___
+- **A.** Teal profundo (#1A5F5A) + crema (#F5EFE6) + terracota (#C26B4F)
+- **B.** Mantener ocean blue actual (#03045E + #ADE8F4)
+- **C.** Verde salvia + crema + dorado mate
+- **D.** Negro + dorado + blanco (premium clásico)
+- **E.** Otro (especificar)
 
-### P9. ¿Mantenemos la paleta ocean blue actual (#03045E) o migramos a teal+crema+terracota?
+### P9. ¿Migramos de ocean blue a teal+crema+terracota? (decisión clave)
 
-> **PRE-RESPUESTA:** **Migrar a teal+crema+terracota.** Brand book y mercado lo requieren. El sitio actual está en ocean blue (legacy).
-> **Decisión:** Requiere refactor CSS (~2h Iván).
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, refactor CSS esta semana (Iván 2-3h)
+- **B.** No, mantener blue. Decisión definitiva.
+- **C.** Migración gradual: mes 1 mitad blue, mitad teal. Mes 6 todo teal.
+- **D.** Migrar solo landing pages nuevas (blog, coaching)
+- **E.** Otro (especificar)
 
-### P10. ¿Colores que NO usamos?
+### P10. ¿Acento secundario (badges, llamadas a la acción emocionales)?
 
-> **PRE-RESPUESTA:**
-> - ❌ Rojo brillante (urgencia médica agresivo)
-> - ❌ Negro puro (#000000) — usar carbón
-> - ❌ Azul brillante (#0000FF) — genérico
-> - ❌ Gradientes llamativos (casino/banco)
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Terracota (#C26B4F)
+- **B.** Dorado mate (#C9A961)
+- **C.** Verde salvia (#9CAF88)
+- **D.** Teal claro (#7FBFB8)
+- **E.** Otro (especificar)
+
+### P11. ¿Color de fondo principal del sitio?
+
+- **A.** Crema cálido (#F5EFE6) — NO blanco puro
+- **B.** Blanco roto (#FAF8F5)
+- **C.** Mantener blanco actual
+- **D.** Gris muy claro (#F5F5F5)
+- **E.** Otro (especificar)
+
+### P12. ¿Color de texto principal?
+
+- **A.** Carbón (#2D2D2D) — NO negro puro
+- **B.** Negro (#000000)
+- **C.** Gris oscuro (#333333)
+- **D.** Navy oscuro (#03045E)
+- **E.** Otro (especificar)
 
 ---
 
-## 2.3 — IDENTIDAD VISUAL — TIPOGRAFÍA
+## 2.3 — TIPOGRAFÍA
 
-### P11. ¿Tipografías web?
+### P13. ¿Tipografía headings (web + print)?
 
-> **PRE-RESPUESTA:**
-> - **Headings:** Montserrat Bold (sans-serif geométrica)
-> - **Body:** Inter Regular (sans-serif neutral)
-> - **Hebreo:** Frank Ruhl Libre (cuando אומץ destaque)
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Montserrat Bold
+- **B.** Inter Bold
+- **C.** Poppins Bold
+- **D.** Frank Ruhl Libre (matching con hebreo)
+- **E.** Otro (especificar)
 
-### P12. ¿Tipografías print (tarjetas, recetarios, folleto)?
+### P14. ¿Tipografía body (web + print)?
 
-> **PRE-RESPUESTA:**
-> - Headings: Montserrat Bold
-> - Body: Lato Regular
-> - Hebreo: Frank Ruhl Libre
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Inter Regular
+- **B.** Lato Regular
+- **C.** Montserrat Regular
+- **D.** Source Sans Pro
+- **E.** Otro (especificar)
 
-### P13. ¿Mínimo tamaño body?
+### P15. ¿Tipografía hebreo (para אומץ en destacados)?
 
-> **PRE-RESPUESTA:** 16px web, 11pt print.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
+- **A.** Frank Ruhl Libre
+- **B.** Heebo
+- **C.** Assistant
+- **D.** No usar hebreo destacado, solo אומץ integrado en logo
+- **E.** Otro (especificar)
+
+### P16. ¿Tamaño mínimo del body en web?
+
+- **A.** 16px
+- **B.** 18px (más accesible)
+- **C.** 15px (más denso, más info por pantalla)
+- **D.** 17px
+- **E.** Otro (especificar)
 
 ---
 
 ## 2.4 — LOGO
 
-### P14. ¿Cómo es el logo final?
+### P17. ¿Cómo es el logo principal?
 
-> **PRE-RESPUESTA:** Logo con אומץ + "Ometz Dental" en palabra, אומץ prominente.
-> **Origen:** Decisión implícita + sitio live (logo actual = אומץ + Ometz Dental en palabra)
-> ✅ / ❌ / ✏️ ___
+- **A.** אומץ estilizado + "Ometz Dental" en palabra
+- **B.** Solo "Ometz Dental" tipográfico, sin hebreo
+- **C.** Solo אומץ estilizado, sin palabra
+- **D.** Escudo o monograma con iniciales "OGP" + "Ometz Dental"
+- **E.** Otro (especificar)
 
-### P15. ¿Necesitamos logo secundario (solo אומץ sin palabras)?
+### P18. ¿Necesitamos logo secundario (favicon, stickers, íconos)?
 
-> **PRE-RESPUESTA:** Sí, para favicon, íconos pequeños, stickers. Ya existe wordmark אומץ en repo.
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, solo אומץ estilizado
+- **B.** Sí, monograma OGP
+- **C.** Sí, "OD" entrelazado
+- **D.** No, usamos solo el principal
+- **E.** Otro (especificar)
 
-### P16. ¿Trademark "Ometz Dental" en DINAPI?
+### P19. ¿Diseño del logo final — quién lo hace?
 
-> **PRE-RESPUESTA:** Iniciar mes 6+ (no prioritario). Costo Gs 200-400k + honorarios abogado.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
+- **A.** Diseñador externo (USD 300-700, 2-3 semanas)
+- **B.** Iván/Kiki lo ajustan del actual en Canva/IA
+- **C.** Diseñador gratuito conocido (estudiante avanzado UCA)
+- **D.** Yo (Gaby) lo diseño con herramientas IA (FAL, Midjourney)
+- **E.** Otro (especificar)
+
+### P20. ¿Trademark "Ometz Dental" en DINAPI?
+
+- **A.** Sí, este año. Costo Gs 200-400k + honorarios abogado.
+- **B.** Mes 12+ evaluar
+- **C.** Mes 24+ solo si abrimos sede 2
+- **D.** No, no trademark
+- **E.** Otro (especificar)
 
 ---
 
-## 2.5 — FOTOGRAFÍA Y ESTILO VISUAL
+## 2.5 — FOTOGRAFÍA
 
-### P17. ¿Estilo de fotos de Gaby?
+### P21. ¿Quién toma las fotos profesionales?
 
-> **PRE-RESPUESTA:** Scrubs de color (no blanco puro), luz cálida natural, fondo consultorio limpio, sin mueble de marca visible, expresión cálida-criteriosa (no sonrisa forzada).
-> **Origen:** `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md` + `07_DESIGN/brand-assets/direccion-fotografia.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Iván con celular (gratis, esta semana)
+- **B.** Fotógrafo externo (USD 100-300, sesión 2h)
+- **C.** Estudiante avanzado de fotografía UCA
+- **D.** Gaby con amigo/familiar que sepa
+- **E.** Otro (especificar)
 
-### P18. ¿Estilo de fotos del consultorio?
+### P22. ¿Cuándo es la sesión de fotos?
 
-> **PRE-RESPUESTA:**
-> - Sala de espera: con plantas o libros, sin revistas, luz cálida 2700K
-> - Sillón dental: limpio, instrumental visible pero ordenado
-> - Exterior: fachada con señalética אומץ
-> - Detalles: instrumental, mano, luz
-> **Origen:** `07_DESIGN/brand-assets/direccion-fotografia.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Esta semana (lun-vie 12-19 jul)
+- **B.** Próxima semana (19-26 jul)
+- **C.** Mes 1 post-apertura
+- **D.** Cuando llegue el consultorio listo
+- **E.** Otro (especificar)
 
-### P19. ¿Usamos fotos de stock cuando falta foto real?
+### P23. ¿Estilo de las fotos de Gaby?
 
-> **PRE-RESPUESTA:** NO fotos de stock de "mujer dentista sonriendo" (irreconocible vs Gaby). Plan B: 4 imágenes IA con FAL FLUX usando `07_DESIGN/brand-assets/ai-photo-prompts.md`.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
+- **A.** Scrubs color (teal o terracota), luz cálida, fondo consultorio, expresión cálida-criteriosa
+- **B.** Ropa formal (no scrubs), look más "doctora ejecutiva", fondo neutro
+- **C.** Mixto: 50% scrubs, 50% ropa formal
+- **D.** Solo scrubs (todos los ángulos)
+- **E.** Otro (especificar)
 
-### P20. ¿Mostramos fotos de pacientes?
+### P24. ¿Mostramos la cara?
 
-> **PRE-RESPUESTA:** SÍ pero SOLO con consentimiento escrito firmado. Cara afuera o blur si no se puede. Antes/después solo con consentimiento + firma de modelo.
-> **Origen:** brand book + `05_OPERATIONS/legal-compliance/patient-legal/patient-informed-consent-form.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, en casi todos los contextos
+- **B.** Sí, pero usamos algunas con cara afuera / cuadro
+- **C.** Solo en hero, resto sin cara
+- **D.** No, anonimato total
+- **E.** Otro (especificar)
 
-### P21. ¿Mostramos sangre, instrumental punzante, agujas en primer plano?
+### P25. ¿Estilo del consultorio en fotos?
 
-> **PRE-RESPUESTA:** **NO.** Esto da miedo al paciente.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
+- **A.** Limpio, plantas/libros, luz cálida 2700K, sin revistas viejas
+- **B.** Mostramos también zonas con revistas profesionales (revistas de odontología actualizadas)
+- **C.** Estilo más clínico (acero, limpio, moderno)
+- **D.** Estilo más hogareño (maderas, plantas, luces cálidas)
+- **E.** Otro (especificar)
+
+### P26. ¿Mostramos fotos de pacientes (antes/después)?
+
+- **A.** Sí, con consentimiento escrito. Cara afuera o blur si no se puede.
+- **B.** Sí, solo de dientes (no caras), siempre con consentimiento
+- **C.** No, por privacidad nunca
+- **D.** Solo casos donde paciente se ofreció voluntario y acepta foto
+- **E.** Otro (especificar)
+
+### P27. ¿Plan B (fotos IA mientras no hay fotos reales)?
+
+- **A.** Sí, 4 imágenes IA con FAL FLUX usando brand book
+- **B.** Solo placeholders SVG actuales
+- **C.** Comprar stock específico (un día, ~USD 50)
+- **D.** No publicar contenido visual hasta tener fotos reales
+- **E.** Otro (especificar)
 
 ---
 
 ## 2.6 — APLICACIONES DE MARCA
 
-### P22. ¿Tenemos business cards?
+### P28. ¿Business cards (tarjetas de presentación)?
 
-> **PRE-RESPUESTA:** Sí, mes 1-2 post-apertura. Diseño en `07_DESIGN/brand-assets/business-card-design-spec.md`. Imprentas PY: Gráfica Arami, Litografía Mercurio.
-> **Origen:** `business-card-design-spec.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, mes 1-2. Imprentas PY: Gráfica Arami, Litografía Mercurio. ~Gs 50-80k.
+- **B.** Sí, pero con diseño minimalista (solo nombre + contacto)
+- **C.** No, no usamos business cards en este consultorio
+- **D.** Sí, con código QR que apunte a ometzdental.com
+- **E.** Otro (especificar)
 
-### P23. ¿Tenemos hoja membretada (recetas, constancias, presupuestos)?
+### P29. ¿Hoja membretada (recetas, constancias, presupuestos)?
 
-> **PRE-RESPUESTA:** Sí, día 1. Necesario para recetas.
-> **Origen:** `07_DESIGN/brand-assets/letterhead-stationery-design-spec.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, día 1. Necesario para recetas. Membrete con logo.
+- **B.** Sí, pero versión digital primero (PDF)
+- **C.** No, receta manual simple
+- **D.** Sí, con datos completos (dirección, WA, email, MSPBS, RUC)
+- **E.** Otro (especificar)
 
-### P24. ¿Tenemos sello profesional?
+### P30. ¿Señalética exterior del consultorio?
 
-> **PRE-RESPUESTA:** Pendiente decisión día 1 (necesario para recetas válidas).
-> ✅ / ❌ / ✏️ ___
-
-### P25. ¿Tenemos señalética exterior del consultorio?
-
-> **PRE-RESPUESTA:** Sí, día 1 de apertura. Cartel visible desde la calle con אומץ + dirección.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
-
-### P26. ¿Uniformes scrubs?
-
-> **PRE-RESPUESTA:** Scrubs color teal #1A5F5A o terracota #C26B4F (a coordinar con paleta). NO blanco puro.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
-
-### P27. ¿Welcome packet impreso para pacientes nuevos?
-
-> **PRE-RESPUESTA:** SÍ, mes 2+ (después del soft launch). Incluye: bienvenida, qué esperar, política de cancelación, FAQ breve, datos de contacto.
-> **Origen:** `05_OPERATIONS/patient-communications/patient-welcome-packet.md`
-> ✅ / ❌ / ✏️ ___
-
-### P28. ¿Brochure / tríptico de servicios?
-
-> **PRE-RESPUESTA:** No prioritario mes 1. Evaluar mes 6+.
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 2.7 — BRAND BOOK
-
-### P29. ¿Existe brand book formal?
-
-> **PRE-RESPUESTA:** SÍ, en `STAFFING-Y-ORGANIZACION/08-brand-book-operativo.md` (~85 KB). Editado 12 jul.
-> ✅ / ❌ / ✏️ ___
-
-### P30. ¿Distribuimos brand book a proveedores?
-
-> **PRE-RESPUESTA:** No por ahora (no hay雇佣 todavía). Solo distribución interna.
-> **Origen:** cuestionario D pregunta 7
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, día 1. Cartel con אומץ + dirección, visible desde la calle.
+- **B.** Sí, cartel más sobrio (solo "Ometz Dental" en tipografía)
+- **C.** Sí, con luz LED (se ve de noche)
+- **D.** No, solo chapa pequeña
+- **E.** Otro (especificar)
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes | Decisiones pendientes |
-|---|---|---|---|
-| Marca verbal | 7 | 0 | 0 |
-| Paleta colores | 3 | 1 (migrar teal vs mantener blue) |
-| Tipografía | 3 | 0 | 0 |
-| Logo | 3 | 0 | 0 |
-| Fotografía | 5 | 0 | 0 |
-| Aplicaciones | 7 | 0 | 0 |
-| Brand book | 2 | 0 | 0 |
-| **TOTAL** | **30** | **1** | **0** |
+| Bloque | # preguntas | Decisiones críticas |
+|---|---|---|
+| Marca verbal | 7 | P1, P3 |
+| Paleta | 5 | P9 (migración) |
+| Tipografía | 4 | P13, P14 |
+| Logo | 4 | P17 |
+| Fotografía | 7 | P21, P23, P26 |
+| Aplicaciones | 3 | P28, P30 |
+| **TOTAL** | **30** | **5** |
 
-**Único bloqueante:** P9 (migrar paleta o no). Si dice ✅ → Iván refactor CSS. Si dice ❌ → mantener blue y archivar migración.
-
-**Si Gaby contesta 30/30:** branding 100% claro.
-**Si no contesta:** defaults del brand book aplican.
+**Decisiones críticas:** P1 (nombre), P3 (tagline), P9 (paleta), P17 (logo), P23 (estilo fotos).
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 9: ❌, no quiero refactor CSS ahora. Mantener blue actual.
-Pregunta 14: ✏️ prefiero logo solo tipográfico "Ometz Dental" sin אומץ en palabra
-Pregunta 24: ✅, sello redondo de 4cm color teal
+Pregunta 1: A (Ometz Dental)
+Pregunta 2: A (hebreo prominente)
+Pregunta 3: A (Te escucho)
+Pregunta 8: A (teal+crema+terracota)
+Pregunta 9: A (migramos ya)
+Pregunta 17: A (אומץ + Ometz Dental)
+Pregunta 21: A (Iván con celular)
+Pregunta 22: B (próxima semana porque esta estoy ocupada)
+Pregunta 23: A (scrubs color)
+Pregunta 26: A (con consentimiento + cara afuera o blur)
 ```
 
 ---
 
-*Próximo cuestionario:* `03-anuncios.md`
+*Próximo cuestionario:* `05-imagen-personal.md`

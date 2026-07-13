@@ -1,142 +1,178 @@
-# 📋 CUESTIONARIOS COMPLETOS — ÍNDICE MAESTRO
-## 17 áreas del negocio con pre-respuestas para que Gaby confirme o corrija en audio
+# 📋 CUESTIONARIOS COMPLETOS — ÍNDICE MAESTRO (v2)
+## Formato: **5 opciones (A/B/C/D/E)** por pregunta. Gaby elige, no confirma.
 
-**Para:** Gaby, Kiki, Iván
-**Versión:** 1.0 — 12 jul 2026
-**Total preguntas:** ~530
+**Versión:** 2.0 — 13 jul 2026
+**Total preguntas críticas:** 196 (en 5 cuestionarios bloqueantes)
 **Modo de respuesta:** Audio a Kiki
 
 ---
 
-## 🎯 Cómo funciona
+## 🎯 Cómo funciona (cambio de v1 a v2)
 
-Cada cuestionario tiene **pre-respuestas** basadas en todo lo que ya sabemos del repo (`dentist`), de los audios de Gaby (22 jun, 28 jun, 6 jul, 7 jul, 12 jul), y de las decisiones documentadas.
+**v1 (descartado):** 1 pre-respuesta marcada → Gaby confirma o corrige.
+**v2 (actual):** 5 opciones (A/B/C/D/E) por pregunta → Gaby **elige una**. NO hay default fijo.
 
-**Gaby tiene 3 opciones por pregunta:**
-- ✅ Confirmo la pre-respuesta
-- ❌ No, prefiero X (texto libre)
-- ✏️ Cambiar a (especificar)
+> **Por qué v2:** decisiones de marca + legales necesitan opciones explícitas para que Gaby vea el trade-off real. Confirmar defaults es pasivo; elegir opciones es activo.
 
-**Si no contesta nada:** se aplica la pre-respuesta como default.
-
-**NO hay pregunta peligrosa** (a diferencia de los cuestionarios viejos que tenían preguntas que comprometían legalmente).
+**Si una opción no aplica o no sabés, podés:**
+- Decir "no sé, pero me inclino por X" → se anota
+- Proponer opción F (sexta) → se anota y se discute
 
 ---
 
-## 📂 Los 17 cuestionarios
+## 📂 17 cuestionarios
 
-| # | Área | Preguntas | Cuándo | Prioridad |
-|---|---|---|---|---|
-| 01 | Marketing y contenido | 25 | Esta semana | 🟡 |
-| 02 | Branding e identidad visual | 30 | Esta semana | 🟡 (P9 migración paleta) |
-| 03 | Anuncios y pauta digital | 24 | Mes 4-6 | 🟢 |
-| 04 | Políticas del consultorio | 38 | Mes 1 | 🟡 |
-| 05 | Imagen personal y fotografía | 30 | **Esta semana** | 🔴 (P1 sesión fotos) |
-| 06 | Modelo de negocio y ADN | 33 | Esta semana | 🟢 |
-| 07 | Profesionales y red de referidos | 30 | Esta semana | 🔴 (P5 firmar acuerdos) |
-| 08 | Staff y equipo | 30 | Mes 3+ | 🟢 |
-| 09 | Legal y cumplimiento | 32 | Esta semana | 🔴 (4 bloqueantes) |
-| 10 | Finanzas y contabilidad | 35 | Esta semana | 🟡 |
-| 11 | Operaciones y agenda | 38 | Mes 1 | 🟢 |
-| 12 | Experiencia del paciente | 35 | Mes 1-2 | 🟢 |
-| 13 | Tecnología y herramientas | 44 | Mes 1-3 | 🔴 (3 bloqueantes esta semana) |
-| 14 | Expansión y crecimiento | 41 | Mes 12-18 | 🟢 |
-| 15 | Coaching odontológico | 33 | Mes 9+ | 🟡 |
-| 16 | Gestión de crisis | 35 | Mes 1 | 🟢 |
-| 17 | Medición y KPIs | 36 | Mes 1 | 🟢 |
-| **TOTAL** | — | **529** | — | — |
+| # | Área | Preguntas | Formato | Cuándo | Bloqueante |
+|---|---|---|---|---|---|
+| 01 | Marketing y contenido | 25 | v1 (1 default) | Esta semana | 🟡 |
+| **02** | **Branding** | **30** | **v2 (5 opciones)** | **Esta semana** | **🔴** |
+| 03 | Anuncios y pauta digital | 24 | v1 | Mes 4-6 | 🟢 |
+| 04 | Políticas del consultorio | 38 | v1 | Mes 1 | 🟡 |
+| **05** | **Imagen personal** | **30** | **v2 (5 opciones)** | **Esta semana** | **🔴** |
+| 06 | Modelo de negocio y ADN | 33 | v1 | Esta semana | 🟢 |
+| **07** | **Profesionales y red** | **30** | **v2 (5 opciones)** | **Esta semana** | **🔴** |
+| 08 | Staff y equipo | 30 | v1 | Mes 3+ | 🟢 |
+| **09** | **Legal y cumplimiento** | **32** | **v2 (5 opciones)** | **Esta semana** | **🔴 (4 bloqueantes)** |
+| 10 | Finanzas y contabilidad | 35 | v1 | Esta semana | 🟡 |
+| 11 | Operaciones y agenda | 38 | v1 | Mes 1 | 🟢 |
+| 12 | Experiencia del paciente | 35 | v1 | Mes 1-2 | 🟢 |
+| **13** | **Tecnología** | **44** | **v2 (5 opciones)** | **Esta semana** | **🔴** |
+| 14 | Expansión y crecimiento | 41 | v1 | Mes 12-18 | 🟢 |
+| 15 | Coaching odontológico | 33 | v1 | Mes 9+ | 🟡 |
+| 16 | Gestión de crisis | 35 | v1 | Mes 1 | 🟢 |
+| 17 | Medición y KPIs | 36 | v1 | Mes 1 | 🟢 |
+| **TOTAL** | — | **549** | — | — | — |
+
+**5 cuestionarios reescritos en v2:** 02 (30), 05 (30), 07 (30), 09 (32), 13 (44). **Total preguntas v2: 196.**
+**12 cuestionarios en v1:** 529 - 196 = 333. Mantienen 1 default.
+
+> **Si querés los 17 en v2:** decime, los reescribo (3-4 horas más).
 
 ---
 
 ## 🚨 BLOQUEANTES para apertura 26 jul (8 críticos)
 
-Identificados a través de las 529 preguntas:
+**En los 5 v2:**
 
-1. **RC profesional** (cuestionario 09 P9) — contratar esta semana
-2. **Habilitación MSPBS comercial** (cuestionario 09 P5) — iniciar trámite
-3. **Permiso municipal** (cuestionario 09 P6) — iniciar trámite
-4. **EAS si alquila** (cuestionario 09 P3) — evaluar con contador
-5. **WA Business instalado** (cuestionario 13 P17) — chip + 24h
-6. **GBP reclamado** (cuestionario 03 P11) — esta semana (tarda 5-7 días)
-7. **Pixel Meta + GA4** (cuestionario 13 P8+P10) — Iván esta semana
-8. **Sesión de fotos** (cuestionario 05 P1) — esta semana
-
----
-
-## 🎯 Plan operativo para Gaby esta semana
-
-**Tiempo total de audio:** ~3-4 horas para contestar los 5 cuestionarios bloqueantes:
-- Cuestionario 02 (branding) — 30 min
-- Cuestionario 05 (imagen personal) — 30 min
-- Cuestionario 07 (profesionales) — 30 min
-- Cuestionario 09 (legal) — 45 min
-- Cuestionario 13 (tecnología) — 45 min
-
-**Si solo puede hacer 1:** cuestionario 09 (legal) — los 4 bloqueantes están ahí.
+| # | Bloqueante | Cuestionario | Pregunta | Solución si dice A | Solución si dice B |
+|---|---|---|---|---|---|
+| 1 | RC profesional | 09-legal | P9 | Ya contratado | Contratar esta semana |
+| 2 | MSPBS consultorio | 09-legal | P5 | Sí vigente | Iniciar trámite urgente |
+| 3 | Permiso municipal | 09-legal | P6 | Sí vigente | Iniciar trámite urgente |
+| 4 | EAS si alquila | 09-legal | P3 | Ya tengo | No necesita (consultorio propio) |
+| 5 | WA Business | 13-tecnología | P21 | Sí instalado | Comprar chip esta semana |
+| 6 | Pixel Meta | 13-tecnología | P12 | Ya instalado | Iván configura |
+| 7 | GA4 | 13-tecnología | P10 | Sí configurado | Iván configura |
+| 8 | Sesión fotos | 05-imagen | P1 | Esta semana | Próxima semana |
 
 ---
 
-## 🎙️ Formato de respuesta sugerido (audio)
+## 🎯 Plan de acción
 
-### Opción A — Todo confirma
+### ⏰ Esta semana (12-19 jul)
 
-```
-Cuestionario 02 — branding: todo ✅
-Cuestionario 05 — imagen: todo ✅ menos la P14 que prefiero foto estudio
-Cuestionario 07 — profesionales: todo ✅
-Cuestionario 09 — legal: todo ✅
-Cuestionario 13 — tecnología: todo ✅
-```
+**Prioridad #1 — cuestionario 09-legal (32 preguntas v2):**
+4 de los 8 bloqueantes legales. 45-60 min en audio.
 
-### Opción B — Pregunta por pregunta
+**Prioridad #2 — cuestionario 05-imagen (30 preguntas v2):**
+1 bloqueante (sesión fotos). 30-40 min.
 
-```
-Cuestionario 09, pregunta 9: ✅ Mapfre, ya llamé
-Cuestionario 09, pregunta 10: ✅ Mapfre
-Cuestionario 09, pregunta 5: ❌, no inicié todavía, inicio mañana
-...
-```
+**Prioridad #3 — cuestionario 13-tecnología (44 preguntas v2):**
+3 bloqueantes. 45-60 min.
 
-### Opción C — Mínima (solo bloqueantes)
+**Prioridad #4 — cuestionario 02-branding (30 preguntas v2):**
+0 bloqueantes pero decisiones de marca para sitio + fotos. 30-40 min.
 
-```
-Cuestionario 09: RC ✅ Mapfre, MSPBS comercial ❌ inicio mañana, permiso municipal ❌ inicio lunes, EAS ✅ no alquilo
-Cuestionario 13: WA Business ❌ chip aún no, GBP ❌ no reclamado aún, Pixel ❌ no, GA4 ❌ no
-Cuestionario 05: sesión de fotos ✅ mañana 15 jul 10am
-Cuestionario 07: acuerdos con colegas ❌ los llamo esta semana
-Cuestionario 02: paleta ❌ prefiero mantener blue por ahora
-```
+**Prioridad #5 — cuestionario 07-profesionales (30 preguntas v2):**
+Acuerdos de derivación. 30-40 min.
+
+**Total esta semana:** 3-4 horas de audio para los 5 cuestionarios v2.
+
+### 📅 Mes 1-3 (cuando quieras)
+
+12 cuestionarios v1 (default marcado) para confirmar o ajustar decisiones ya tomadas.
 
 ---
 
-## ⏭️ Qué hago yo con las respuestas
+## 🎙️ Formato de respuesta en audio
 
-1. **Proceso el audio** (5-10 min por cuestionario)
-2. **Genero `RESPUESTAS-{área}-2026-07-XX.md`** con el resultado
-3. **Aplico cambios al sitio** (si aplica)
-4. **Commit en repo** con referencia al cuestionario
-5. **Actualizo docs del repo** con las decisiones
-6. **Notifico a Iván** si hay decisión estratégica
+### Opción A — Eliges letra por pregunta
+
+```
+02.P1: A
+02.P2: A
+02.P3: A
+02.P8: A
+02.P9: A
+02.P17: A
+02.P21: A
+02.P23: A
+02.P26: A
+```
+
+### Opción B — Narrativo
+
+```
+En branding elijo A en todo menos en P9 (paleta) que prefiero B, mantener blue.
+```
+
+### Opción C — Solo bloqueantes
+
+```
+09.P5: B (no iniciado)
+09.P6: B (no iniciado)
+09.P9: B (no contratado)
+13.P21: A (pendiente esta semana)
+05.P1: A (esta semana)
+```
+
+### Opción D — "Todo A" (rápido)
+
+```
+Cuestionario 02: todo A
+Cuestionario 05: todo A
+Cuestionario 07: todo A
+Cuestionario 09: todo A
+Cuestionario 13: todo A
+```
+
+> Si decís "todo A" se elige la primera opción de cada pregunta. Útil si querés velocidad.
 
 ---
 
-## 🔗 Links directos
+## ⏭️ Qué hago con las respuestas
 
-| # | Cuestionario | Link |
+1. **Recibo audio** de Kiki
+2. **Genero `RESPUESTAS-{área}-2026-07-XX.md`** con cada letra por pregunta
+3. **Aplico cambios al sitio** (si branding/paleta/config)
+4. **Genero TODO list** con las tareas que cada respuesta genera
+5. **Commit en repo**
+6. **Notifico a Iván**
+
+---
+
+## 🔗 Links directos a los 5 cuestionarios v2
+
+| # | Área | Link |
+|---|---|---|
+| 02 | Branding | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/02-branding.md |
+| 05 | Imagen personal | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/05-imagen-personal.md |
+| 07 | Profesionales y red | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/07-profesionales-red.md |
+| 09 | Legal y cumplimiento | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/09-legal.md |
+| 13 | Tecnología y herramientas | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/13-tecnologia.md |
+
+**Links v1 (12 cuestionarios con default, no críticos para 26 jul):**
+
+| # | Área | Link |
 |---|---|---|
 | 01 | Marketing | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/01-marketing.md |
-| 02 | Branding | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/02-branding.md |
 | 03 | Anuncios | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/03-anuncios.md |
 | 04 | Políticas | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/04-politicas.md |
-| 05 | Imagen | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/05-imagen-personal.md |
 | 06 | Negocio | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/06-negocio.md |
-| 07 | Profesionales | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/07-profesionales-red.md |
 | 08 | Staff | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/08-staff.md |
-| 09 | Legal | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/09-legal.md |
 | 10 | Finanzas | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/10-finanzas.md |
 | 11 | Operaciones | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/11-operaciones.md |
-| 12 | Experiencia | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/12-experiencia-paciente.md |
-| 13 | Tecnología | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/13-tecnologia.md |
+| 12 | Experiencia paciente | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/12-experiencia-paciente.md |
 | 14 | Expansión | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/14-expansion.md |
 | 15 | Coaching | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/15-coaching.md |
 | 16 | Crisis | https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/02_MEETINGS/gabi-audio-prompts/cuestionarios-completos/16-crisis.md |
@@ -144,69 +180,37 @@ Cuestionario 02: paleta ❌ prefiero mantener blue por ahora
 
 ---
 
-## 🎯 Reglas para Gaby
+## 🎯 Si tenés 5 minutos
 
-1. **Si una pregunta no aplica o no sabés, decí "no sé".** No es compromiso, es información.
-2. **No mientas ni inventes** para quedar bien. Si no querés algo, decí que no.
-3. **Mandá los audios a Kiki** por WhatsApp (no a mí directamente).
-4. **Si una pregunta te incomoda, saltala.** Volvemos después.
-5. **Una sesión a la vez.** No contestes 17 cuestionarios en una noche.
+Respondé solo estas 8 preguntas (la 1 bloqueante de cada área v2):
 
----
+| Cuestionario | Pregunta | Bloqueante |
+|---|---|---|
+| 09-legal | P5 MSPBS | 🔴 |
+| 09-legal | P6 municipal | 🔴 |
+| 09-legal | P9 RC | 🔴 |
+| 09-legal | P3 EAS | 🟡 |
+| 13-tec | P21 WA | 🔴 |
+| 13-tec | P12 Pixel | 🟡 |
+| 13-tec | P10 GA4 | 🟡 |
+| 05-imagen | P1 sesión | 🔴 |
 
-## 🎯 Reglas para Kiki
-
-1. **Recibir el audio**, procesarlo en audio-texto.
-2. **Pasar a Erebus (yo)** las respuestas con tags `[confirmado]`, `[cambia]`, `[no-sabe]`.
-3. **Si hay duda sobre una respuesta**, preguntá a Gaby antes de pasar.
-4. **No interpretes.** Solo transcribí.
-5. **Si Gaby da una respuesta que contradice algo anterior**, marcalo y pregunte.
-
----
-
-## 🎯 Reglas para Erebus (yo)
-
-1. **Procesar respuestas en máximo 24h.**
-2. **Aplicar cambios al repo** (sitio web, docs, content).
-3. **Generar commit** con referencia al cuestionario.
-4. **Notificar a Iván** si hay decisión estratégica mayor (sede 2, franquicia, etc.).
-5. **Si Gaby contradice algo en repo**, generar alerta y discutir con Iván antes de aplicar.
+Total: 8 respuestas = 8 letras. Listo en 2 minutos.
 
 ---
 
-## 🗓️ Cronograma sugerido (Kiki)
+## 🎯 Si tenés 30 minutos
 
-| Día | Acción |
-|---|---|
-| Lun 13 | Manda cuestionario 02 + 05 (los más visuales) |
-| Mar 14 | Recibe respuestas. Procesa. Pasa a Erebus. |
-| Mié 15 | Manda cuestionario 07 + 09 (los más críticos) |
-| Jue 16 | Recibe respuestas. Procesa. Pasa a Erebus. |
-| Vie 17 | Manda cuestionario 13 + 10 (tecnología + finanzas) |
-| Sáb 18 | (opcional) Sesión de fotos |
-| Dom 19 | Manda cuestionario 04 + 11 + 12 (operativos, menos urgentes) |
-| Lun 20 | Manda cuestionario 06 + 01 (negocio + marketing) |
-| Mar 21 | Manda cuestionario 16 + 17 (crisis + medición) |
-| Mié 22 | Cierre semana. Resumen a Gaby. |
+Hacé todo el cuestionario 09-legal (32 preguntas v2). Cubre los 4 bloqueantes legales y te da tranquilidad sobre cumplimiento.
 
 ---
 
-## 🎯 Con estos 17 cuestionarios, Gaby tiene documentado TODO el negocio
+## 🎯 Si tenés 3-4 horas
 
-- Estrategia ✓
-- Producto ✓
-- Operaciones ✓
-- Marketing ✓
-- Finanzas ✓
-- Legal ✓
-- Equipo ✓
-- Expansión ✓
-
-**No hay área del negocio que no tenga cuestionario.**
-
-Si en 1-2 semanas Gaby contesta los bloqueantes (5 cuestionarios críticos: 02, 05, 07, 09, 13), el 26 jul queda blindado.
+Los 5 cuestionarios v2 (196 preguntas). Después podés confirmar los 12 v1 con defaults si te queda tiempo.
 
 ---
 
-*Hecho con ❤ por Erebus · 12 jul 2026*
-*529 preguntas, 17 áreas, 0 preguntas peligrosas*
+*Hecho con ❤ por Erebus · 13 jul 2026*
+*v2 con 5 opciones (A-E) por pregunta en 5 cuestionarios críticos*
+*v1 con default único en 12 cuestionarios*

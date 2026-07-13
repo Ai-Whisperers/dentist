@@ -1,8 +1,10 @@
 # 📸 CUESTIONARIO 5: IMAGEN PERSONAL Y FOTOGRAFÍA
-## Pre-respuestas basadas en el repo · Gaby confirma o corrige
+## 30 preguntas, 5 opciones (A/B/C/D/E) cada una — sin pre-respuesta fija
 
 **Para:** Gaby · **Cuándo:** Esta semana (12-19 jul) — bloqueante para sesión de fotos
 **Modo de respuesta:** Audio a Kiki
+
+> **Formato nuevo:** cada pregunta tiene **5 opciones** (A/B/C/D/E). Gaby **elige una** o propone una sexta (F). NO hay default.
 
 ---
 
@@ -10,256 +12,297 @@
 
 ### P1. ¿Hacemos sesión de fotos profesional esta semana?
 
-> **PRE-RESPUESTA:** **SÍ esta semana.** Iván + celular moderno + 1 hora + consultorio + luz natural.
-> **Origen:** `STAFFING-Y-ORGANIZACION/09-checklist-pre-apertura.md` + plan día 1
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, esta semana (lun-vie 12-19 jul), bloqueante
+- **B.** Sí, próxima semana (19-26 jul)
+- **C.** Sí, mes 1 post-apertura
+- **D.** No por ahora, esperar a tener consultorio listo
+- **E.** Otro (especificar)
 
 ### P2. ¿Quién toma las fotos?
 
-> **PRE-RESPUESTA:** **Iván con celular.** No雇佣 fotógrafo profesional (Gs 500k-1M extra). Iván tiene ojo y luz correcta.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+- **A.** Iván con celular moderno (gratis, Iván tiene ojo + luz correcta)
+- **B.** Fotógrafo externo profesional (USD 100-300, sesión 2h)
+- **C.** Estudiante avanzado de fotografía UCA (gratis o bajo costo)
+- **D.** Gaby con selfie/timer + trípode (sin fotógrafo)
+- **E.** Otro (especificar)
 
 ### P3. ¿Cuántas fotos necesitamos?
 
-> **PRE-RESPUESTA:** **Mínimo 30-50 fotos** con varianza:
-> - 5-10 portraits (cara)
-> - 5-10半身 (con consultorio de fondo)
-> - 5-10 con instrumental en mano
-> - 5 con paciente ficticio o maniquí (con consentimiento simulado)
-> - 5-10 detalles (manos, scrubs, sonrisa)
-> **Origen:** `direccion-fotografia.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** 30-50 fotos con varianza (retratos,半身, instrumental, detalles)
+- **B.** 10-20 fotos, lo mínimo necesario
+- **C.** 50-100 fotos, archivo grande para múltiples usos
+- **D.** 5-10 fotos, muy selectivas
+- **E.** Otro (especificar)
 
-### P4. ¿Qué estilo de fotos de Gaby?
+### P4. ¿Qué contexto de las fotos?
 
-> **PRE-RESPUESTA:**
-> - Scrubs color teal o terracota (no blanco)
-> - Luz cálida natural (ventana, 2700K)
-> - Expresión cálida-criteriosa (no sonrisa forzada)
-> - Fondo consultorio limpio, sin mueble de marca visible
-> - Sin anteojos oscuros / lentes de sol
-> - Sin maquillaje excesivo
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
+- **A.** Solo en consultorio (Mburucuyá)
+- **B.** Consultorio + exteriores (calle, fachada, cartel)
+- **C.** Consultorio + estudio neutro (fondo blanco/gris)
+- **D.** Múltiples contextos (urbano, naturaleza, oficina)
+- **E.** Otro (especificar)
 
-### P5. ¿Mostramos la cara o evitamos?
+### P5. ¿Estilo de vestimenta en las fotos?
 
-> **PRE-RESPUESTA:** **Cara visible.** Es la marca personal. Sin cara = anonimato = menos confianza.
-> **Origen:** `client-profile-deep-dive.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Scrubs color teal o terracota (NO blanco)
+- **B.** Ropa formal (blazer, blusa ejecutiva)
+- **C.** Mixto: 50% scrubs, 50% ropa formal
+- **D.** Solo scrubs en todos los ángulos
+- **E.** Otro (especificar)
 
-### P6. ¿Mostramos el cabello con color/teñido?
+### P6. ¿Estilo de luz?
 
-> **PRE-RESPUESTA:** Sí, en estado natural. NO teñimos para fotos. Coherencia con la realidad.
-> **Origen:** brand book (honestidad)
-> ✅ / ❌ / ✏️ ___
+- **A.** Luz cálida natural (ventana, 2700K)
+- **B.** Luz de estudio (fría, 5000K)
+- **C.** Mixto: mitad natural, mitad estudio
+- **D.** Luz dramática (sombras marcadas)
+- **E.** Otro (especificar)
 
-### P7. ¿Usamos fotos con familia/pareja?
+### P7. ¿Estilo de expresión facial?
 
-> **PRE-RESPUESTA:** **NO** en branding del consultorio. Solo fotos profesionales + consultorio.
-> **Origen:** profesionalismo
-> ✅ / ❌ / ✏️ ___
+- **A.** Cálida-criteriosa (sonrisa leve, mirada directa)
+- **B.** Profesional neutra (sin sonrisa, formal)
+- **C.** Sonrisa amplia (amigable, accesible)
+- **D.** Seria-pensadora (mirada lejana, contemplativa)
+- **E.** Otro (especificar)
 
-### P8. ¿Mostramos tatuajes / piercings si los hay?
+### P8. ¿Cuántos looks hacemos?
 
-> **PRE-RESPUESTA:** **Sí, en su estado natural.** Sin cubrir. Coherencia > estética perfecta.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
+- **A.** 2 looks: scrubs + ropa formal
+- **B.** 3 looks: scrubs + formal + consultorio trabajando
+- **C.** 1 look principal (scrubs)
+- **D.** 4-5 looks para tener archivo completo
+- **E.** Otro (especificar)
+
+### P9. ¿Mostramos la cara en todas las fotos?
+
+- **A.** Sí, en casi todas
+- **B.** Sí, pero algunas con cara afuera/cuadro (variedad)
+- **C.** Solo en el hero principal, resto sin cara
+- **D.** No, anonimato (cara afuera o blur)
+- **E.** Otro (especificar)
+
+### P10. ¿Hacemos backup de las fotos?
+
+- **A.** Sí, Google Drive cifrado + disco externo
+- **B.** Solo Google Drive
+- **C.** Solo disco externo
+- **D.** Sin backup (riesgoso)
+- **E.** Otro (especificar)
 
 ---
 
 ## 5.2 — FOTOS DEL CONSULTORIO
 
-### P9. ¿Qué fotos del consultorio?
+### P11. ¿Qué fotos del consultorio?
 
-> **PRE-RESPUESTA (10-15 fotos):**
-> - Exterior (cartel אומץ + fachada)
-> - Sala de espera (con plantas/libros, sin revistas viejas)
-> - Sillón dental (limpio, instrumental ordenado)
-> - Baño (limpio)
-> - Detalles: instrumental, autoclave, rayos
-> - Vista de la calle / cómo llegar
-> - Recepción / mostrador
-> **Origen:** `direccion-fotografia.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** 10-15 fotos: exterior, sala espera, sillón, baño, detalles, instrumental, recepción
+- **B.** 5-7 fotos, lo mínimo
+- **C.** 20-30 fotos, archivo completo
+- **D.** Solo exterior + interior principal
+- **E.** Otro (especificar)
 
-### P10. ¿Mostramos a otros profesionales en las fotos?
+### P12. ¿Mostramos zonas "imperfectas" (baño, sala de espera)?
 
-> **PRE-RESPUESTA:** **NO** hasta que haya auxiliar con consentimiento. Solo Gaby.
-> **Origen:** legal
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, en su estado real (con consentimiento de que se vea "limpio no lujoso")
+- **B.** Sí, pero solo las zonas más cuidadas
+- **C.** No, solo zona principal del sillón
+- **D.** Sí, intencionalmente imperfecto (coherencia > estética)
+- **E.** Otro (especificar)
+
+### P13. ¿Mostramos a otros profesionales en fotos?
+
+- **A.** No, solo Gaby (sin雇佣 todavía)
+- **B.** Sí, si la auxiliar da consentimiento
+- **C.** Sí, pero con blur de cara
+- **D.** Sí, futuros dentistas también
+- **E.** Otro (especificar)
+
+### P14. ¿Mostramos el sillón con instrumental desplegado?
+
+- **A.** Sí, ordenado, luz cálida
+- **B.** Sí, en uso (con maniquí o paciente ficticio)
+- **C.** No, instrumental guardado
+- **D.** Mixto: ordenadas + en uso
+- **E.** Otro (especificar)
+
+### P15. ¿Tomamos foto de "cómo llegar" / Google Maps?
+
+- **A.** Sí, con señalética visible + link directo a Maps
+- **B.** Solo link a Maps, sin foto específica
+- **C.** Foto de fachada + interiores
+- **D.** Foto + texto descriptivo (3 líneas)
+- **E.** Otro (especificar)
 
 ---
 
-## 5.3 — FOTOS DE PACIENTES (CASOS CLÍNICOS)
+## 5.3 — FOTOS DE PACIENTES
 
-### P11. ¿Publicamos antes/después de pacientes?
+### P16. ¿Publicamos antes/después de pacientes?
 
-> **PRE-RESPUESTA:** **SÍ pero SOLO con consentimiento escrito firmado.** Modelo `patient-informed-consent-form.md`.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, solo con consentimiento escrito firmado
+- **B.** Sí, con consentimiento + cara afuera o blur
+- **C.** No, por privacidad nunca
+- **D.** Solo casos donde paciente se ofreció voluntario y autoriza cara incluida
+- **E.** Otro (especificar)
 
-### P12. ¿Mostramos la cara del paciente?
+### P17. ¿Mostramos dientes solos o cara completa?
 
-> **PRE-RESPUESTA:** **NO** sin permiso explícito escrito. Solo boca/dientes, o cara afuera (cuadro), o blur.
-> **Origen:** legal + ético
-> ✅ / ❌ / ✏️ ___
+- **A.** Solo dientes (boca), nunca cara
+- **B.** Cara afuera/cuadro (retrato clásico)
+- **C.** Cara completa con consentimiento explícito
+- **D.** Mixto según caso
+- **E.** Otro (especificar)
 
-### P13. ¿Cuántos casos publicamos por mes?
+### P18. ¿Cuántos casos publicamos por mes?
 
-> **PRE-RESPUESTA:** 1 caso/mes mes 2+. Total 3-4 casos año 1. Calidad > cantidad.
-> **Origen:** `06_MARKETING/cronograma-semanal-meses-7-9.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** 1 caso/mes mes 2+
+- **B.** 2-3 casos/mes
+- **C.** Solo cuando hay caso especialmente bueno (criterio)
+- **D.** 1 caso por trimestre (calidad > cantidad)
+- **E.** Otro (especificar)
 
-### P14. ¿Pedimos testimonio escrito al paciente?
+### P19. ¿Pedimos testimonio escrito?
 
-> **PRE-RESPUESTA:** **SÍ, opcional.** Quien quiera dejar testimonio escrito se publica con seudónimo + consentimiento.
-> **Origen:** `patient-welcome-packet.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, opcional. Quien quiera deja testimonio con seudónimo
+- **B.** Sí, a todos los pacientes al final del tratamiento
+- **C.** No, solo reseñas Google
+- **D.** Sí, anónimo siempre
+- **E.** Otro (especificar)
 
-### P15. ¿Pedimos testimonio en video al paciente?
+### P20. ¿Pedimos testimonio en video?
 
-> **PRE-RESPUESTA:** **Opcional mes 6+.** Más impacto pero más difícil de conseguir. Caso por caso.
-> **Origen:** estándar
-> ✅ / ❌ / ✏️ ___
+- **A.** Opcional mes 6+, caso por caso
+- **B.** Sí, a pacientes satisfechos
+- **C.** No por ahora
+- **D.** Sí, formato corto (15-30s) para IG/FB
+- **E.** Otro (especificar)
+
+### P21. ¿Mostramos dientes "no perfectos" (casos difíciles)?
+
+- **A.** Sí, con honestidad. "Este era el caso, este fue el resultado."
+- **B.** Sí, pero solo casos con buen resultado
+- **C.** No, solo resultados perfectos
+- **D.** Mixto: honestidad + buen resultado
+- **E.** Otro (especificar)
 
 ---
 
 ## 5.4 — VIDEO
 
-### P16. ¿Grabamos video intro de Gaby para el sitio (hero)?
+### P22. ¿Grabamos video intro Gaby para hero del sitio?
 
-> **PRE-RESPUESTA:** **SÍ mes 1-2** (3 min, hablando a cámara sobre Ometz + te escucho + אומץ). Iván filma con celular.
-> **Origen:** `ANALISIS-COMPLETO-UPGRADES.md` (mejoras priorizadas mes 1-2)
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 3 min, hablando a cámara sobre Ometz + te escucho + אומץ
+- **B.** Sí, 60-90s, más conciso
+- **C.** Sí, 5 min, más profundo
+- **D.** No, solo foto
+- **E.** Otro (especificar)
 
-### P17. ¿Grabamos Reels para IG/FB?
+### P23. ¿Cuándo grabamos el video intro?
 
-> **PRE-RESPUESTA:** **SÍ cuando IG activo (mes 4-6).** 2-4 Reels/mes. Guiones en `06_MARKETING/reels-scripts/30-reels-scripts.md`.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** Misma sesión de fotos (martes 15 jul)
+- **B.** Sesión separada
+- **C.** Mes 1 post-apertura
+- **D.** Mes 3+
+- **E.** Otro (especificar)
 
-### P18. ¿Hablamos a cámara o solo fotos?
+### P24. ¿Grabamos Reels para IG/FB?
 
-> **PRE-RESPUESTA:** **Sí a cámara** cuando sea necesario. Edición en CapCut con subtítulos (80% mira sin sonido).
-> **Origen:** `30-reels-scripts.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, 2-4/mes cuando IG activo (mes 4-6)
+- **B.** Sí, 8-12/mes (semanal)
+- **C.** No, solo posts estáticos
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P19. ¿Subtítulos en todos los videos?
+### P25. ¿Hablamos a cámara en los Reels?
 
-> **PRE-RESPUESTA:** **SÍ obligatorio.** Sin subtítulos = 80% del alcance perdido.
-> **Origen:** `30-reels-scripts.md`
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí, en todos (con subtítulos)
+- **B.** Sí, 50% a cámara + 50% texto overlay
+- **C.** Solo texto overlay (sin voz)
+- **D.** Solo voz en off (sin cara)
+- **E.** Otro (especificar)
 
-### P20. ¿Música de fondo?
+### P26. ¿Subtítulos en todos los videos?
 
-> **PRE-RESPUESTA:** **SÍ**, libre de copyright (CapCut tiene librería). Instrumental, no vocal. Calmada.
-> **Origen:** implícito
-> ✅ / ❌ / ✏️ ___
+- **A.** Sí obligatorio, sin subtítulos = 80% alcance perdido
+- **B.** Sí, automáticos (YouTube auto-caption + edición)
+- **C.** Solo en los primeros 30s
+- **D.** No, solo cuando sea crítico
+- **E.** Otro (especificar)
+
+### P27. ¿Música de fondo en videos?
+
+- **A.** Sí, instrumental libre (CapCut, biblioteca royalty-free)
+- **B.** Sin música
+- **C.** Solo audio ambiente del consultorio
+- **D.** Diferido
+- **E.** Otro (especificar)
 
 ---
 
 ## 5.5 — MARCA PERSONAL EN REDES
 
-### P21. ¿Mezclamos perfil personal y profesional en IG?
+### P28. ¿Mezclamos perfil personal y profesional en IG?
 
-> **PRE-RESPUESTA:** **NO mezclar.** Cuenta profesional `@ometsdental` separada. Cuenta personal queda privada.
-> **Origen:** decisiones del repo
-> ✅ / ❌ / ✏️ ___
+- **A.** No, cuenta profesional separada (`@ometsdental`)
+- **B.** Sí, una sola cuenta personal-profesional
+- **C.** Dos cuentas pero misma persona maneja
+- **D.** Diferido
+- **E.** Otro (especificar)
 
-### P22. ¿Mostramos vida personal de Gaby en redes?
+### P29. ¿Mostramos vida personal de Gaby en redes?
 
-> **PRE-RESPUESTA:** **NO rutinariamente.** Solo si suma a la marca (ej: correr una carrera, conferencia odontológica). Máximo 5-10% del contenido.
-> **Origen:** ADN
-> ✅ / ❌ / ✏️ ___
+- **A.** No rutinariamente, solo cuando suma a la marca (max 5-10%)
+- **B.** Sí, 30% vida personal, 70% profesional
+- **C.** Solo vida profesional estricta
+- **D.** Sí, mayormente vida personal con algo profesional
+- **E.** Otro (especificar)
 
-### P23. ¿Tenemos LinkedIn personal de Gaby?
+### P30. ¿Creamos LinkedIn personal/profesional?
 
-> **PRE-RESPUESTA:** **NO prioritario.** Mes 6+ si hay programa de coaching. Diferido.
-> **Origen:** cuestionario D
-> ✅ / ❌ / ✏️ ___
-
-### P24. ¿Tenemos LinkedIn Ometz Dental (empresa)?
-
-> **PRE-RESPUESTA:** **NO.** No aplica para B2C local.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
-
-### P25. ¿Política de LinkedIn si llega caso?
-
-> **PRE-RESPUESTA:** Crear solo cuando sumemos dentista junior (mes 12+) o lancemos coaching formal.
-> ✅ / ❌ / ✏️ ___
-
----
-
-## 5.6 — IDENTIDAD DIGITAL
-
-### P26. ¿Username consistente en todas las redes?
-
-> **PRE-RESPUESTA:** **SÍ: @ometsdental** en IG, FB, TikTok (si se activa), YouTube (si se activa).
-> **Origen:** cuestionario B P9
-> ✅ / ❌ / ✏️ ___
-
-### P27. ¿Foto de perfil consistente?
-
-> **PRE-RESPUESTA:** **SÍ:** אומץ sobre fondo teal o blanco. Mismo crop en todas las redes.
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
-
-### P28. ¿Foto de portada personalizada por red?
-
-> **PRE-RESPUESTA:** **SÍ:**
-> - FB: hero del sitio (Gaby + consultorio)
-> - IG: hero o אומץ estilizado
-> - GBP: exterior del consultorio
-> - LinkedIn: NO aplica
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
-
-### P29. ¿Bio consistente?
-
-> **PRE-RESPUESTA:** Misma en todas:
-> "Ometz Dental · Dra. Gabriella González Pane · אומץ"
-> "Rehabilitación oral · Segunda opinión · Criterio clínico"
-> "📍 Mburucuyá, Asunción"
-> "📱 WhatsApp +595 9XX XXX XXX"
-> **Origen:** brand book
-> ✅ / ❌ / ✏️ ___
-
-### P30. ¿Link en bio?
-
-> **PRE-RESPUESTA:** **SÍ** en IG/FB. Apunta a ometzdental.com o a link directo de WhatsApp.
-> **Origen:** repo
-> ✅ / ❌ / ✏️ ___
+- **A.** No, no prioritario mes 1-12
+- **B.** Sí, personal de Gaby
+- **C.** Sí, Ometz Dental como empresa
+- **D.** Diferido a mes 6+ (cuando haya coaching o dentista jr)
+- **E.** Otro (especificar)
 
 ---
 
 ## 🎯 Resumen ejecutivo
 
-| Bloque | # preguntas | Bloqueantes |
+| Bloque | # preguntas | Decisiones críticas |
 |---|---|---|
-| Foto Gaby | 8 | 1 (sesión esta semana) |
-| Consultorio | 2 | 0 |
-| Pacientes | 5 | 0 |
-| Video | 5 | 0 |
-| Marca personal | 5 | 0 |
-| Identidad digital | 5 | 0 |
-| **TOTAL** | **30** | **1** |
+| Foto Gaby | 10 | P1, P2, P5, P7, P9 |
+| Consultorio | 5 | P11, P14 |
+| Pacientes | 6 | P16, P17, P18 |
+| Video | 6 | P22, P24 |
+| Marca personal | 3 | P28, P29 |
+| **TOTAL** | **30** | **8** |
 
-**Bloqueante:** P1 (sesión de fotos esta semana). Sin foto, branding incompleto.
+**Decisiones críticas bloqueantes:**
+- P1 (cuándo sesión)
+- P2 (quién toma)
+- P5 (vestimenta)
+- P9 (cara sí/no)
+- P16 (consentimiento pacientes)
 
 ---
 
 ## 🎙️ Audio sugerido
 
 ```
-Todo ✅
-Pregunta 1: ✅, mañana martes 15 jul a las 10 am
-Pregunta 3: prefiero 20-30 fotos, no tantas
-Pregunta 11: solo con consentimiento firmado
+Pregunta 1: A (esta semana)
+Pregunta 2: A (Iván con celular)
+Pregunta 3: A (30-50 fotos)
+Pregunta 5: A (scrubs color)
+Pregunta 7: A (cálida-criteriosa)
+Pregunta 9: A (cara en casi todas)
+Pregunta 16: A (consentimiento + cara afuera)
+Pregunta 22: A (3 min)
+Pregunta 26: A (subtítulos sí)
+Pregunta 28: A (cuenta separada)
 ```
 
 ---
 
-*Próximo cuestionario:* `06-negocio.md`
+*Próximo cuestionario:* `07-profesionales-red.md`
