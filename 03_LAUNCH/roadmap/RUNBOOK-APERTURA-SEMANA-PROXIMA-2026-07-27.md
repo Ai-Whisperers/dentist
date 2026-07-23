@@ -4,18 +4,20 @@
 **Target apertura:** semana del 27 jul – 1 ago 2026 (soft launch)
 **Owner:** Iván coordina + Kiki operativa + Gaby ejecuta
 
+**Status actual (22 jul 22:00):**
+- ✅ RC profesional contratado
+- ✅ Habilitación MSPBS tramitada
+- 🟡 WhatsApp Business pendiente (sin chip)
+- ❌ Dirección exacta pendiente (falta confirmar piso + cartel)
+- ❌ Redes sociales pendientes
+- ❌ EAS + permiso municipal pendientes
+
 ---
 
 ## 🔥 TOP 7 — BLOQUEANTES CRÍTICOS (sin estos NO abrir)
 
-### 1. 🚨 RC profesional (Seguro Responsabilidad Civil)
-**Por qué bloquea:** si Gaby hace una endodoncia mal el día 1 sin seguro, se funde.
-**Owner:** Gaby
-**Acción inmediata esta semana:**
-- Cotizar Mapfre / Sancor / La Consolidada / Werthein
-- Contratar mínimo Gs 3M/año (cobertura básica)
-- Tiempo: 1-3 días hábiles
-**Status:** ❌ NO TIENE (no sabe qué es)
+### 1. ✅ ~~RC profesional (Seguro Responsabilidad Civil)~~ → **CONFIRMADO 22 jul**
+Gaby ya tiene seguro. ✅ DESTRABADO.
 
 ---
 
@@ -27,7 +29,7 @@
 - Poner cartel "Ometz Dental" en la puerta ANTES de abrir
 - Actualizar `content/es/site.json` con dirección final
 - Sacar foto de la fachada para Google Business
-**Status:** 🟡 Falta piso + foto de fachada + cartel
+**Status:** ❌ Falta piso + foto de fachada + cartel
 
 ---
 
@@ -43,14 +45,8 @@
 
 ---
 
-### 4. 🚨 Habilitación MSPBS del consultorio comercial
-**Por qué bloquea:** atender formalmente sin esto = ilegal
-**Owner:** Gaby
-**Acción esta semana:**
-- Ir a MSPBS con: título, cédula, RUC, plano del consultorio, contrato/alquiler, certificado de antecedentes
-- Trámite tarda 7-15 días hábiles — hay que URGENTE
-- Si no llega a tiempo: soft launch limitado + aviso a pacientes de que "habilitación en trámite"
-**Status:** ❌ NO TRAMITADA
+### 4. ✅ ~~Habilitación MSPBS del consultorio comercial~~ → **CONFIRMADO 22 jul**
+Gaby ya tiene habilitación. ✅ DESTRABADO.
 
 ---
 
@@ -278,8 +274,8 @@
 
 ## ✅ CHECKLIST PRE-APERTURA (el día antes de abrir)
 
-- [ ] RC profesional contratado (comprobante físico)
-- [ ] MSPBS habilitación (o al menos constancia de trámite)
+- [x] RC profesional contratado ✅ (confirmado 22 jul)
+- [x] MSPBS habilitación ✅ (confirmado 22 jul)
 - [ ] Dirección con cartel visible desde la calle
 - [ ] WhatsApp Business activo + quick replies cargadas
 - [ ] Sitio live actualizado con dirección real
@@ -293,6 +289,29 @@
 - [ ] Plan emergencias clínicas impreso en consultorio
 - [ ] Soft launch calendar confirmado (2-3 pacientes/semana)
 - [ ] Plan de contingencia si Gaby se enferma documentado
+
+---
+
+## 🎯 MI RECOMENDACIÓN ACTUALIZADA (22 jul 22:00)
+
+**2 de 7 bloqueantes críticos destrabados ✅ (RC + MSPBS). Quedan 5.**
+
+Si tuviera que elegir 3 acciones para hoy/mañana:
+
+1. **Gaby: confirmar dirección exacta + ir a comprar el chip WA Business mañana a primera hora** — el chip se compra en cualquier kiosco Tigo/Personal y se activa en 1-3 horas. Inmediato después: instalar WA Business + cargar las 12 quick replies.
+2. **Kiki: crear Instagram + Facebook + reclamar GBP** (en paralelo, 2 horas)
+3. **Gaby: ir a Municipalidad de Asunción a pedir habilitación comercial del local + confirmar con contador si necesita EAS** (medio día)
+
+Si esas 3 se hacen esta semana, se destraban los 5 bloqueantes que faltan.
+
+---
+
+**⚠️ NOTA SOBRE TIMELINE:**
+
+Con RC + MSPBS confirmados, el path crítico es más corto. La fecha objetivo del **1-ago para soft launch** sigue siendo realista si:
+- Dirección confirmada antes del miércoles 29 jul
+- WA Business activo antes del jueves 30 jul
+- Redes + GBP reclamados antes del viernes 31 jul
 
 ---
 
