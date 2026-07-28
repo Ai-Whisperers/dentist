@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100mm" height="100mm" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100" height="100" fill="#FAFAF8" stroke="#1A5F5A" stroke-width="0.5"/>
+
+  <!-- Top brand: אומץ + Ometz Dental -->
+  <text x="50" y="10" font-family="Frank Ruhl Libre, serif" font-size="4" text-anchor="middle" fill="#1A5F5A" font-weight="bold">אומץ</text>
+  <text x="50" y="14" font-family="Montserrat, sans-serif" font-size="1.5" text-anchor="middle" fill="#2D2D2D" font-weight="600">Ometz Dental</text>
+
+  <!-- Title -->
+  <text x="50" y="22" font-family="Montserrat, sans-serif" font-size="2.5" text-anchor="middle" fill="#2D2D2D" font-weight="700">Escaneá para escribirnos</text>
+
+  <!-- QR code placeholder (real one in separate file) -->
+  <g transform="translate(25, 26)">
+    <rect width="50" height="50" fill="white" stroke="#1A5F5A" stroke-width="0.3"/>
+    <!-- QR rectangles -->
+    <rect x="5" y="5" width="10" height="10" fill="#1A5F5A"/>
+    <rect x="35" y="5" width="10" height="10" fill="#1A5F5A"/>
+    <rect x="5" y="35" width="10" height="10" fill="#1A5F5A"/>
+    <rect x="7" y="7" width="6" height="6" fill="white"/>
+    <rect x="37" y="7" width="6" height="6" fill="white"/>
+    <rect x="7" y="37" width="6" height="6" fill="white"/>
+    <!-- Center logo overlay -->
+    <rect x="20" y="20" width="10" height="10" fill="#FAFAF8"/>
+    <text x="25" y="27.5" font-family="Frank Ruhl Libre, serif" font-size="7" text-anchor="middle" fill="#1A5F5A" font-weight="bold">א</text>
+  </g>
+
+  <!-- WhatsApp number -->
+  <text x="50" y="83" font-family="Montserrat, sans-serif" font-size="3" text-anchor="middle" fill="#1A5F5A" font-weight="bold">+595 987 126 790</text>
+
+  <!-- Footer -->
+  <text x="50" y="89" font-family="Montserrat, sans-serif" font-size="1.5" text-anchor="middle" fill="#2D2D2D">Respuesta en menos de 24h hábiles</text>
+  <text x="50" y="93" font-family="Montserrat, sans-serif" font-size="1.5" text-anchor="middle" fill="#2D2D2D">Auditores de la Guerra del Chaco 617 · Mburucuyá</text>
+  <text x="50" y="97" font-family="Montserrat, sans-serif" font-size="1.5" text-anchor="middle" fill="#B8860B" font-weight="700">Lun a Vie 14:30-19:00</text>
+</svg>
