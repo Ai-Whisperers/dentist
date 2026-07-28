@@ -547,6 +547,25 @@
 
 ---
 
+
+
+### 🟢 EVOLUTION API — Hermes maneja WA Business (27 jul 2026)
+
+**Status:** Config completo listo en el repo. Listo para deploy.
+
+**Archivos:**
+- `08_WHATSAPP/evolution-api/evolution-api-config.json` — config completa
+- `08_WHATSAPP/evolution-api/evolution-api-deployment.md` — paso a paso
+- `08_WHATSAPP/evolution-api/webhook-handler/` — FastAPI processor
+- `08_WHATSAPP/evolution-api/SUPABASE-SCHEMA.sql` — schema CRM
+- `08_WHATSAPP/evolution-api/hermes_mcp_integration.py` — MCP wrapper
+- `08_WHATSAPP/evolution-api/templates/responses/` — 12 quick replies
+- `scripts/deploy-evolution-api.sh` — deploy script
+
+**Deploy:** `bash scripts/deploy-evolution-api.sh` (Fase 1)
+**Cost:** $0/mes (self-hosted)
+**Tiempo deploy:** 30 min
+
 ## 🔗 CROSS-REFERENCES — TODOS LOS ARCHIVOS RELEVANTES
 
 ### 📊 Strategy & Strategic
