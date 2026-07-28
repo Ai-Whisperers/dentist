@@ -66,7 +66,7 @@ Y lo mejor: **es gratis**.
 | Sábado | Cerrado |
 | Domingo | Cerrado |
 
-**Teléfono:** +595 9XX XXXXXX (tu WhatsApp Business cuando lo tengas)
+**Teléfono:** +595 987 126 790 (tu WhatsApp Business cuando lo tengas)
 
 **Sitio web:** https://ometzdental.com.py (cuando lo registres)
 
@@ -164,7 +164,7 @@ Google Business te permite recibir mensajes directos. Configurá:
 ¡Hola! Gracias por escribir a Ometz Dental.
 Te respondo en breve (lunes a viernes 14:30-19:00).
 
-Si tu mensaje es urgente, llamá al +595 9XX XXXXXX
+Si tu mensaje es urgente, llamá al +595 987 126 790
 o escribime "URGENCIA" y te priorizo.
 
 — Equipo Ometz Dental
@@ -183,7 +183,7 @@ Hoy abrimos las puertas de Ometz Dental.
 
 📍 Barrio Mburucuyá, Asunción
 🕐 Lunes a viernes, 14:30 a 19:00
-📱 WhatsApp: +595 9XX XXXXXX
+📱 WhatsApp: +595 987 126 790
 
 "Te escucho." Eso es lo que me propuse cuando decidí
 abrir mi propio consultorio. Antes de tocar, antes de

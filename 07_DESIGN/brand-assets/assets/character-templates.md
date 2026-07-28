@@ -427,7 +427,7 @@ OPCIÓN B (con logo):
 │  "Escribime al      │
 │   WhatsApp"         │
 │                     │
-│  📱 +595 9XX XXX    │
+│  📱 +595 987 126 790    │
 │                     │
 │  [Logo inferior]    │
 │                     │

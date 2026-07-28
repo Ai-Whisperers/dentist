@@ -128,7 +128,7 @@ Leave blank for simplicity, OR:
 Add QR code linking to WhatsApp:
 
 ```
-https://wa.me/595981146759?text=Hola%20Dra.%20GP
+https://wa.me/595987126790?text=Hola%20Dra.%20GP
 ```
 
 This lets people scan and message directly.

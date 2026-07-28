@@ -12,9 +12,9 @@
         {
           "type": "WhatsApp",
           "label": "WhatsApp",
-          "value": "+595 981 146 759 — respondemos en <24h hábiles",
+          "value": "+595 987 126 790 — respondemos en <24h hábiles",
           "primary": true,
-          "link": "https://wa.me/595981146759"
+          "link": "https://wa.me/595987126790"
         },
         {
           "type": "Email",
@@ -63,7 +63,7 @@
   },
   "cta": {
     "primary": "Pedir plan sin compromiso",
-    "primaryLink": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta.",
+    "primaryLink": "https://wa.me/595987126790?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta.",
     "secondary": "Solicitar segunda opinión",
     "secondaryLink": "/es/segunda-opinion"
   }

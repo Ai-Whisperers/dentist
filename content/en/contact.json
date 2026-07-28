@@ -12,9 +12,9 @@
         {
           "type": "WhatsApp",
           "label": "WhatsApp",
-          "value": "+595 981 146 759 — reply within <24 business hours",
+          "value": "+595 987 126 790 — reply within <24 business hours",
           "primary": true,
-          "link": "https://wa.me/595981146759"
+          "link": "https://wa.me/595987126790"
         },
         {
           "type": "Email",
@@ -63,7 +63,7 @@
   },
   "cta": {
     "primary": "Request no-obligation plan",
-    "primaryLink": "https://wa.me/595981146759?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation.",
+    "primaryLink": "https://wa.me/595987126790?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation.",
     "secondary": "Request second opinion",
     "secondaryLink": "/en/second-opinion"
   }

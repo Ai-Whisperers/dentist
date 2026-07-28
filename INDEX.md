@@ -163,9 +163,10 @@
 
 - **Total archivos .md:** ~360
 - **Carpetas top-level:** 14
-- **Imágenes SVG:** 20+ (logos, posts, catálogos, prints)
+- **Imágenes SVG:** 23+ (logos, posts, catálogos, prints, QR codes)
 - **HTML templates:** 3 email templates production-ready
-- **Archivos con placeholder `9XX`:** 14 MD (los SVGs y HTML usan el mismo placeholder)
+- **Archivos con placeholder `9XX`:** 0 ✅ (todos actualizados a `+595 987 126 790`)
+- **WhatsApp Business activo:** ✅ Sí — `+595 987 126 790` (Tigo, 27 jul 2026)
 - **Archivos legacy "Dra. Gabriela":** 28 (a reconciliar — ver `docs/BRANDING-RECONCILIATION-PLAN.md`)
 
 ---

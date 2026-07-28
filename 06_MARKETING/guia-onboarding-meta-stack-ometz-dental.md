@@ -461,7 +461,7 @@ Subí en Drive/Dropbox (idealmente Drive porque después Kiki usa eso):
 
 ## Soporte
 
-📞 **WhatsApp Erebus:** +595 9XX XXX XXX  
+📞 **WhatsApp Erebus:** +595 987 126 790  
 📧 **Email:** onboarding@ai-whisperers.com  
 ⏰ **Lunes a viernes, 9am-6pm PYT**
 

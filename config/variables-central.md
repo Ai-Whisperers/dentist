@@ -1,8 +1,8 @@
 # VARIABLES CENTRALES — OMETZ DENTAL
 ## Single source of truth para datos que se repiten en TODOS los archivos
-**Versión:** 1.0 — 8 de julio 2026
+**Versión:** 2.0 — 27 jul 2026 (chip Tigo Business activado)
 
-> ⚠️ **ESTOS VALORES SON PLACEHOLDER.** Se actualizarán cuando Gaby confirme los datos reales. Pero TODOS los demás archivos deben referenciar estos valores en vez de hardcodearlos.
+> ✅ **DATOS REALES CONFIRMADOS.** Gaby compró el chip Tigo y el número `+595 987 126 790` ya está activo como WhatsApp Business. Todos los demás archivos deben referenciar estos valores en vez de hardcodearlos.
 
 ---
 
@@ -27,15 +27,18 @@ location:
   google_maps_embed: "https://www.google.com/maps/embed?..."  # placeholder
 
 contact:
-  # WhatsApp personal Gaby confirmado 6 jul 2026 — usar HASTA que compre Business
-  whatsapp_personal: "+595981146759"   # ← CONFIRMADO 6 jul 2026 (TRANSITORIO)
-  whatsapp_personal_formatted: "+595 981 146 759"
-  whatsapp_personal_link: "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesa%20agendar%20una%20consulta"
-  # WhatsApp Business (chip nuevo) — pendiente compra
-  whatsapp_raw: "+595981146759"   # ← REEMPLAZAR CUANDO GABY CONFIRME (semana 7 jul)
-  whatsapp_formatted: "+595 981 146 759"   # ← display
-  whatsapp_link: "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesa%20agendar%20una%20consulta"
-  phone_alt: "+595981146759"   # mientras tanto, mismo que personal
+  # WhatsApp Business — chip Tigo activado 27 jul 2026 (PRINCIPAL)
+  whatsapp_business: "+595 987 126 790"   # ← CONFIRMADO 27 jul 2026 (Tigo Business)
+  whatsapp_business_raw: "595987126790"
+  whatsapp_business_formatted: "+595 987 126 790"
+  whatsapp_business_link: "https://wa.me/595987126790"
+  whatsapp_business_prefilled_es: "https://wa.me/595987126790?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
+  whatsapp_business_prefilled_en: "https://wa.me/595987126790?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
+  # Aliases (legacy nombres — apuntan al Business)
+  whatsapp_raw: "595987126790"
+  whatsapp_formatted: "+595 987 126 790"
+  whatsapp_link: "https://wa.me/595987126790"
+  phone_alt: "+595 987 126 790"
   email_professional: "doctora.gabi@ometsdental.com.py"   # ← CONFIRMADO 28 jun 2026
   email_alternate: "dra.gp.odontologia@gmail.com"   # legacy personal
   website_es: "https://ometzdental.com"
@@ -144,24 +147,31 @@ competitor_benchmarks:
 ### Para SVGs y HTML
 Reemplazar hardcoded values con referencias:
 
-ANTES (hardcoded):
 ```html
-<a href="https://wa.me/595981146759">📱 +595 981 146 759</a>
+<!-- ✅ CORRECTO — referencia variables -->
+<a href="$WHATSAPP_LINK$">📱 $WHATSAPP_FORMATTED$</a>
+
+<!-- ❌ OBSOLETO — hardcoded -->
+<a href="https://wa.me/595987126790">📱 +595 987 126 790</a>
 ```
 
-DESPUÉS (referencia):
-```markdown
-VER `config/variables-central.md` → contact.whatsapp_link + contact.whatsapp_formatted
-```
-
-### Para replacements automatizados
-Si Gaby confirma el número real (ej. `+595 981 555 444`):
-
+### Para replacements automatizados (cuando vuelva a cambiar)
 ```bash
-cd /tmp/dentist-repo
-sed -i 's/+595 981 146 759/+595 981 555 444/g' $(grep -rl "9XX" --include="*.md" --include="*.svg" --include="*.html" .)
-sed -i 's/595981146759/595981555444/g' $(grep -rl "595981146759" --include="*.md" --include="*.svg" --include="*.html" .)
-sed -i 's/wa.me\/595981146759/wa.me\/595981555444/g' $(grep -rl "wa.me/595981146759" --include="*.md" --include="*.svg" --include="*.html" .)
+cd /root/dentist
+# Ejemplo: si en el futuro Gaby cambia el número
+NEW_NUMBER="+595 987 126 790"
+OLD_NUMBER="+595 981 146 759"
+sed -i "s|$OLD_NUMBER|$NEW_NUMBER|g" \
+  $(grep -rl "$OLD_NUMBER" --include="*.md" --include="*.json" --include="*.svg" --include="*.html" --include="*.ts" --include="*.tsx" .)
+```
+
+### Verificación post-cambio
+```bash
+# Debe dar 0 matches
+grep -r "595981146759" /root/dentist --include="*.md" --include="*.json" --include="*.svg" --include="*.html"
+
+# Debe dar el nuevo número
+grep -r "595987126790" /root/dentist --include="*.md" --include="*.json" --include="*.svg" --include="*.html" | wc -l
 ```
 
 ---
@@ -172,7 +182,8 @@ sed -i 's/wa.me\/595981146759/wa.me\/595981555444/g' $(grep -rl "wa.me/595981146
 2. Iván/Kiki actualiza ESTE archivo con el dato nuevo
 3. Ejecutar el script de find-replace arriba
 4. Commit con mensaje: `chore(config): update {campo} → {nuevo_valor}`
-5. Verificar con grep
+5. Verificar con grep (debe dar 0 matches al número viejo)
+6. Verificar live site subiendo JSONs nuevos
 
 ---
 
@@ -180,7 +191,9 @@ sed -i 's/wa.me\/595981146759/wa.me\/595981555444/g' $(grep -rl "wa.me/595981146
 
 - `MERGE-TODO-PENDING.md` — tarea de actualización
 - `docs/ROAST-AUDIT-OMETZ-DENTAL.md` — hallazgo #4 que genera este archivo
+- `docs/LAUNCH-TODO-COMPLETO-PARA-ABRIR.md` — plan completo para abrir (27 jul 2026)
+- `scripts/update-contact-info.sh` — script de find-replace
 
 ---
 
-**STATUS:** v1.0 — placeholder creado. Datos reales cuando Gaby responda.
+**STATUS:** v2.0 — WhatsApp Business `+595 987 126 790` confirmado y activo. Todas las referencias en el repo apuntan al Business.

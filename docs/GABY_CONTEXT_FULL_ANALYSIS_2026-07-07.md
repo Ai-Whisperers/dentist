@@ -88,7 +88,7 @@ El repo está 95% listo. El sitio está **live en producción** (ometzdental.com
 | **Apertura target** | **antes del 26 jul 2026** (~20 días) | Cuestionario A |
 | **Tipo de lanzamiento** | **soft launch** | confirmado |
 | **Línea WA Business** | ❌ NO la tiene, compra la semana del 7-13 jul | Cuestionario A |
-| **WA actual (temporal)** | `+595 981 146 759` (línea personal hasta comprar Business) | live site |
+| **WA actual (temporal)** | `+595 987 126 790` (línea personal hasta comprar Business) | live site |
 | **Seguro RC profesional** | ❌ **NO lo tiene, no sabe qué es** | Cuestionario A |
 
 ### Canales confirmados
@@ -121,7 +121,7 @@ El repo está 95% listo. El sitio está **live en producción** (ometzdental.com
 - **9 paletas disponibles** en `/en/themes` (discreet, friend, minimal-white, pin, random-shades, serio-elegante, shades, warm-classic, warm-colorful) — todas funcionales tras fix de cascade
 
 ### Contenido desplegado (`content/{en,es}/site.json`)
-- **Datos de contacto:** WA `595981146759`, email `doctora.gabi@ometzdental.com.py`, address completo con geo + Google Maps embed
+- **Datos de contacto:** WA `595987126790`, email `doctora.gabi@ometzdental.com.py`, address completo con geo + Google Maps embed
 - **Horarios:** lun-vie 14:30-19:00 (en/es)
 - **Brand name:** "Ometz Dental" + "Dra. Gabriella" como profesional
 - **Description:** "Anti-anxiety dentistry in Asunción. Oral rehabilitation, aesthetics, and operative care based on clinical judgment." (EN) / "Odontología anti-ansiedad..." (ES)

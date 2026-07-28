@@ -3,9 +3,11 @@
 
 **Cliente:** Dra. Gabriella González Pane — Ometz Dental
 **Ubicación:** Auditores de la Guerra del Chaco 617, Barrio Mburucuyá, Asunción, Paraguay
-**Status:** 27 jul 2026 — chip Tigo BUSINESS COMPRADO ✅
+**Status:** 27 jul 2026 — chip Tigo ACTIVADO ✅ · número `+595 987 126 790` en producción
 **Target:** Soft launch sábado 1 ago 2026
 **Owner general:** Iván coordina · Kiki operativa · Gaby ejecuta · Luana diseña/edita · Erebus integra
+
+> **🔥 UPDATE 27 jul 15:00 ART:** Chip Tigo nuevo de Gaby ACTIVADO — número `+595 987 126 790` ya es WhatsApp Business. Find-replace masivo ejecutado en 23 archivos (73 reemplazos en JSONs/MD/HTML + 13 en instructivos para Gaby/Kiki + 4 en HTML live site + 3 QR codes SVG nuevos). Config actualizada. Live site pendiente de redeploy en Cloudflare.
 
 > **TL;DR:** Gaby compró el chip. Falta instalarlo, cargar la info, mandar el número a Kiki/Iván. Apenas llegue el número, Erebus ejecuta find-replace masivo en 159 archivos. Mientras tanto, Kiki crea redes, Luana edita video, Gaby cierra legales y compra stock. Sábado 1 ago se abre.
 
@@ -101,8 +103,8 @@
 
 | # | Bloqueante | Status | Acción concreta | Owner | Deadline |
 |---|---|---|---|---|---|
-| 1 | **WhatsApp Business instalado** | 🟡 **chip Tigo recién comprado** | Instalar app + cargar 12 quick replies + catálogo + QR | Gaby | **Hoy lun 27 jul** |
-| 2 | **Número Business real comunicado** | 🟡 Bloqueado por #1 | Mandar el número nuevo a Kiki/Iván por el WA personal | Gaby | **Hoy lun 27 jul** |
+| 1 | **WhatsApp Business instalado** | ✅ **chip Tigo activado: `+595 987 126 790`** | Pendiente: Gaby instala app + carga 12 quick replies + catálogo + QR | Gaby | **Hoy lun 27 jul** |
+| 2 | **Número Business real comunicado** | ✅ **número `+595 987 126 790` ya en repo** | Gaby puede ahora instalar WA Business con el chip y completar el setup | Gaby | **Hoy lun 27 jul** |
 | 3 | **Dirección exacta + cartel visible** | ❌ piso/depto + cartel pendiente | Confirmar piso + foto fachada + instalar cartel "Ometz Dental" | Gaby + Kiki | Antes mié 29 jul |
 | 4 | **EAS (Empresa de Acciones Simplificadas)** | ❌ NO TIENE | Solo si Gaby alquila local. Trámite 3-5 días hábiles en SET. Confirmar con contador | Gaby + contador | Esta semana |
 | 5 | **Permiso municipal + contrato alquiler** | ❌ NO TRAMITADO | Municipalidad de Asunción: habilitación comercial. Si local es de amiga: acuerdo escrito firmado | Gaby | Esta semana |
@@ -113,11 +115,14 @@
 ### Resumen de estado
 - ✅ RC profesional (CONFIRMADO 22 jul)
 - ✅ Habilitación MSPBS (CONFIRMADO 22 jul)
-- 🟡 WhatsApp Business (chip comprado, pendiente instalar)
+- ✅ WhatsApp Business número (`+595 987 126 790` — activado 27 jul, find-replace ejecutado en 23 archivos)
+- 🟡 WhatsApp Business app (chip + número activos — Gaby aún debe instalar el app y cargar quick replies)
 - ❌ Dirección final + cartel
 - ❌ EAS (Empresa de Acciones Simplificadas)
 - ❌ Permiso municipal
 - ❌ Sistema de agendamiento formalizado
+
+**Status: 4/7 bloqueantes destrabados. Quedan 3.**
 
 ---
 

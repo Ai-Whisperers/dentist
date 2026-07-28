@@ -48,8 +48,8 @@
 ```html
 <a href="https://wa.me/595981000000?text=Hola%20Dra.%20GP...">
 ```
-**Número real:** `+595 981 146 759` (ya confirmado en cuestionario 6 jul)
-**Fix:** Reemplazar TODO `595981000000` con `595981146759` en `content/`, también el text del mensaje.
+**Número real:** `+595 987 126 790` (ya confirmado en cuestionario 6 jul)
+**Fix:** Reemplazar TODO `595981000000` con `595987126790` en `content/`, también el text del mensaje.
 
 ### 3. ❌ CANONICAL + URL del sitio apunta a slug LEGACY
 **Severidad:** 10/10
@@ -66,7 +66,7 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 **Severidad:** 9/10
 **Realidad:** JSON-LD structured data tiene `"telephone":"+595****6759"` (con asteriscos = censurado).
 **Costo SEO:** Google puede no confiar el listado local business porque el teléfono no es válido. Clientes que llaman desde Google Maps al número listado NO llegan a Gaby.
-**Fix:** Reemplazar con `"+595981146759"`.
+**Fix:** Reemplazar con `"+595987126790"`.
 
 ### 5. ❌ STATS INVENTADOS EN HERO ("130 pacientes al mes")
 **Severidad:** 9/10
@@ -120,7 +120,7 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 ### 13. ⚠️ JSON-LD TELEPHONE CON ASTERISCOS
 **Severidad:** 9/10 (cubierto arriba pero crítico)
 **Realidad:** `"telephone":"+595****6759"` (censurado) — Google no lo puede usar para linkar.
-**Fix:** Reemplazar con `+595981146759`.
+**Fix:** Reemplazar con `+595987126790`.
 
 ### 14. ⚠️ SOLO 1 ALT TEXT para 2 imágenes
 **Severidad:** 6/10 (a11y)
@@ -259,7 +259,7 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 
 | # | Issue | Severidad | Esfuerzo | Impacto |
 |---|-------|-----------|----------|---------|
-| 1 | Fix WhatsApp link 595981000000 → 595981146759 | 10/10 | 15 min | CRÍTICO |
+| 1 | Fix WhatsApp link 595981000000 → 595987126790 | 10/10 | 15 min | CRÍTICO |
 | 2 | Fix canonical + og:url → ometzdental.com | 10/10 | 30 min | Crítico SEO |
 | 3 | Fix JSON-LD telephone +595****6759 | 9/10 | 5 min | Crítico |
 | 4 | Fix `<html lang="en">` en página ES | 10/10 | 30 min | Crítico SEO |
@@ -363,7 +363,7 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 
 Voy a corregir los **placeholders falsos** en el JSON que ya tengo acceso (`content/es/site.json` + `content/en/site.json`). Lo que ya hice:
 
-1. ✅ Fix WhatsApp → +595 981 146 759
+1. ✅ Fix WhatsApp → +595 987 126 790
 2. ✅ Fix email → doctora.gabi@ometzdental.com.py
 3. ✅ Fix address → Auditores de la Guerra del Chaco 617, Mburucuyá
 4. ✅ Fix RUC + MSPBS

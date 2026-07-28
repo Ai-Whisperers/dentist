@@ -3,10 +3,10 @@
   "subtitle": "Second opinions, treatment planning, and transparent pricing — before any procedure.",
   "cta_primary": "Plan sin compromiso",
   "cta_secondary": "Segunda opinión escrita",
-  "contact_phone": "+595 981 146 759",
+  "contact_phone": "+595 987 126 790",
   "office_hours_short": "Mon-Fri 2:30pm-7:00pm",
   "top_bar": {
-    "phone": "+595 981 146 759",
+    "phone": "+595 987 126 790",
     "hours": "Mon-Fri 2:30pm-7:00pm"
   },
   "slides": [
@@ -18,7 +18,7 @@
       "cta": "Plan sin compromiso",
       "badge": "Spanish · English",
       "trust_line": "20+ years · conservative-first",
-      "cta_link": "https://wa.me/595981146759?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
+      "cta_link": "https://wa.me/595987126790?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
     },
     {
       "id": "2",
@@ -27,7 +27,7 @@
       "image": "/images/hero/dra-gp-hero-2.jpg",
       "cta": "View services",
       "badge": "Written treatment plan",
-      "cta_link": "https://wa.me/595981146759?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
+      "cta_link": "https://wa.me/595987126790?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
     },
     {
       "id": "3",
@@ -36,7 +36,7 @@
       "image": "/images/hero/dra-gp-hero-3.jpg",
       "cta": "Request second opinion",
       "badge": "No-obligation written plan",
-      "cta_link": "https://wa.me/595981146759?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
+      "cta_link": "https://wa.me/595987126790?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
     }
   ]
 }

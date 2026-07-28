@@ -11,8 +11,8 @@
     "description": "Rehabilitación oral, segunda opinión y planificación en Asunción. 20 años de experiencia. English spoken. אומץ — coraje para tu boca.",
     "url": "https://ometzdental.com",
     "email": "doctora.gabi@ometzdental.com.py",
-    "phone": "[PLACEHOLDER: +595 XXX XXX XXX]",
-    "whatsapp": "[PLACEHOLDER: línea WhatsApp Business — Gaby compra semana del 7 jul]",
+    "phone": "+595 987 126 790",
+    "whatsapp": "+595 987 126 790",
     "whatsapp_prefilled": "Hola Dra. Gaby, me gustaría agendar una consulta en Ometz Dental.",
     "address": {
       "street": "Auditores de la Guerra del Chaco 617",
@@ -98,7 +98,7 @@
       }
     ],
     "contact": {
-      "phone": "[PLACEHOLDER: +595 XXX XXX XXX]",
+      "phone": "+595 987 126 790",
       "email": "doctora.gabi@ometzdental.com.py",
       "address": "Auditores de la Guerra del Chaco 617, Barrio Mburucuyá, Asunción, Paraguay",
       "ruc": "1375421-1",
@@ -106,7 +106,7 @@
       "hours": "Lun–Vie 14:30–19:00, agendado"
     },
     "social": {
-      "whatsapp": "[PLACEHOLDER: wa.me link]"
+      "whatsapp": "https://wa.me/595987126790"
     },
     "copyright": "© 2026 Dra. Gabriella González Pane. Todos los derechos reservados."
   },

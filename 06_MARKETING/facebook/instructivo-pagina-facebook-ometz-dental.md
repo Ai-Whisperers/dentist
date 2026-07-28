@@ -64,7 +64,7 @@ Lunes a viernes: 14:30 - 19:00
 Sábado y domingo: cerrado
 Atendemos con cita previa
 ```
-**Teléfono:** +595 9XX XXXXXX (tu WhatsApp Business)
+**Teléfono:** +595 987 126 790 (tu WhatsApp Business)
 **Email:** doctora.gabi@ometsdental.com.py
 **Sitio web:** ometzdental.com.py (cuando lo registres)
 **Precio:** $$
@@ -133,7 +133,7 @@ Hoy abrimos las puertas de Ometz Dental.
 
 📍 Barrio Mburucuyá, Asunción
 🕐 Lunes a viernes, 14:30 a 19:00
-📱 WhatsApp: +595 9XX XXXXXX
+📱 WhatsApp: +595 987 126 790
 
 "Te escucho." Eso es lo que me propuse cuando
 decidí abrir mi propio consultorio. Antes de tocar,
@@ -178,7 +178,7 @@ Estamos fuera de horario de atención.
 Te respondo en horario de consulta (lun-vie 14:30-19:00).
 
 Si es una urgencia dental (dolor fuerte, fractura,
-hinchazón), llamá al +595 9XX XXXXXX o escribime
+hinchazón), llamá al +595 987 126 790 o escribime
 "URGENCIA" y te priorizo.
 
 — Equipo Ometz Dental

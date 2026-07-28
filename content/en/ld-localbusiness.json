@@ -1,19 +1,66 @@
 {
-  "_comment": "JSON-LD LocalBusiness payload. Build should inject this into <head> when site.json.schema.localBusiness is true.",
+  "_comment": "JSON-LD LocalBusiness payload. Build should inject this into <head> when site.json.schema.localBusiness is true. Updated 27 jul 2026 with Gaby's confirmed data including WhatsApp Business chip.",
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Dra. Gabriella González Pane",
-  "telephone": "PENDING",
-  "email": "hola@dra-gp.com.py",
+  "@type": "Dentist",
+  "name": "Ometz Dental — Dra. Gabriella González Pane",
+  "alternateName": "Ometz Dental",
+  "description": "Odontología conservadora · Rehabilitación oral · Segunda opinión escrita · אומץ 'Te escucho'",
+  "telephone": "+595 987 126 790",
+  "email": "doctora.gabi@ometsdental.com.py",
+  "url": "https://ometzdental.com",
   "address": {
     "@type": "PostalAddress",
+    "streetAddress": "Auditores de la Guerra del Chaco 617",
     "addressLocality": "Asunción",
+    "addressRegion": "Mburucuyá",
     "addressCountry": "PY",
-    "streetAddress": "Odontología 3, Asunción (pending final location)"
+    "postalCode": "0000"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -25.2836,
+    "longitude": -57.4831
   },
   "openingHoursSpecification": [
-    { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"], "opens": "09:00", "closes": "18:00" },
-    { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "08:00", "closes": "12:00" }
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "14:30",
+      "closes": "19:00"
+    }
   ],
-  "sameAs": []
+  "priceRange": "Gs 130,000 - Gs 600,000",
+  "paymentAccepted": ["Cash", "Bank Transfer", "Bancard", "Pagopar"],
+  "currenciesAccepted": "PYG",
+  "image": "https://ometzdental.com/og-image.jpg",
+  "logo": "https://ometzdental.com/logo.svg",
+  "sameAs": [
+    "https://wa.me/595987126790"
+  ],
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "RUC",
+      "value": "1375421-1"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "MSPBS",
+      "value": "3618"
+    }
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Dra. Gabriella González Pane",
+    "jobTitle": "Odontóloga · Rehabilitación Oral",
+    "alumniOf": "Universidad Autónoma de Paraguay (UAP) 2005",
+    "knowsLanguage": ["es", "en"]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+595 987 126 790",
+    "contactType": "customer service",
+    "availableLanguage": ["Spanish", "English"],
+    "hoursAvailable": "Mo-Fr 14:30-19:00"
+  }
 }

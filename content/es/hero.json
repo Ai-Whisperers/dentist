@@ -3,10 +3,10 @@
   "subtitle": "Segunda opinión escrita, plan de tratamiento transparente y atención personalizada.",
   "cta_primary": "Pedir plan sin compromiso",
   "cta_secondary": "Solicitar segunda opinión",
-  "contact_phone": "+595 981 146 759",
+  "contact_phone": "+595 987 126 790",
   "office_hours_short": "Lun a Vie 14:30-19:00",
   "top_bar": {
-    "phone": "+595 981 146 759",
+    "phone": "+595 987 126 790",
     "hours": "Lun a Vie 14:30-19:00"
   },
   "slides": [
@@ -18,7 +18,7 @@
       "cta": "Pedir plan sin compromiso",
       "badge": "Español · English",
       "trust_line": "20+ años · enfoque conservador",
-      "cta_link": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
+      "cta_link": "https://wa.me/595987126790?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
     },
     {
       "id": "2",
@@ -27,7 +27,7 @@
       "image": "/images/hero/dra-gp-hero-2.jpg",
       "cta": "Ver servicios",
       "badge": "Plan de tratamiento escrito",
-      "cta_link": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
+      "cta_link": "https://wa.me/595987126790?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
     },
     {
       "id": "3",
@@ -36,7 +36,7 @@
       "image": "/images/hero/dra-gp-hero-3.jpg",
       "cta": "Solicitar segunda opinión",
       "badge": "Plan escrito sin compromiso",
-      "cta_link": "https://wa.me/595981146759?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
+      "cta_link": "https://wa.me/595987126790?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
     }
   ]
 }

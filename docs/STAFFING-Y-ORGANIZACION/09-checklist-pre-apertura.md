@@ -54,7 +54,7 @@
 - ✅ **Brand book consolidado** = este doc lo escribe (lo que estás leyendo)
 - ✅ **Hero con אומץ prominente** = deployed Round 4
 - ✅ **JSON-LD válido** = 2 scripts deployed
-- ✅ **WhatsApp en CTAs** = 595981146759 en JSON, pero verificar render
+- ✅ **WhatsApp en CTAs** = 595987126790 en JSON, pero verificar render
 - ⚠️ **Canonical/hrefLang fix** = `/es` apunta a `/en` (bug SEO, fix en proceso)
 
 ---

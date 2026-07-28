@@ -19,7 +19,7 @@
 
 **Business fields**
 - `business.phone`: +595 XXX XXX XXX
-- `business.whatsapp`: 595981146759
+- `business.whatsapp`: 595987126790
 - `business.whatsappMessage`: Hola Dra. GP, me gustaría agendar una consulta.
 - `business.email`: email@dra-gabriela.com.py
 - `business.address`: Luque, Paraguay — dirección exacta al confirmar

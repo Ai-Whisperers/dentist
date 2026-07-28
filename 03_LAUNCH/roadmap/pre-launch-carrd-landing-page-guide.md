@@ -63,7 +63,7 @@ Second opinions, treatment planning, and honest dental care in Asunción.
 [BUTTON — full width]:
 Escribinos por WhatsApp
 ↓
-wa.me/595981146759?text=Hola%20Dra.%20GP
+wa.me/595987126790?text=Hola%20Dra.%20GP
 
 TAGLINE (below button):
 "No hacemos procedimientos que no necesitás."
@@ -168,7 +168,7 @@ Use Carrd's drag-and-drop editor:
 ## WHATSAPP LINK SETUP
 
 ```
-URL format: https://wa.me/595981146759?text=Hola%20Dra.%20GP
+URL format: https://wa.me/595987126790?text=Hola%20Dra.%20GP
 
 Replace XXXXXXXXX with full number (without spaces or dashes)
 Example: https://wa.me/595981234567?text=Hola%20Dra.%20GP

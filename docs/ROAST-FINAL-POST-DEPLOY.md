@@ -22,7 +22,7 @@
 
 | Item | Status |
 |------|--------|
-| WhatsApp real | ✅ `595981146759` en todos los links |
+| WhatsApp real | ✅ `595987126790` en todos los links |
 | Brand Ometz Dental | ✅ Title + apple + og |
 | Canonical/og:url | ✅ `ometzdental.com` |
 | Hebrew אומץ | ✅ 8 ocurrencias, prominente en hero |
@@ -37,7 +37,7 @@
 | "Cómo llegar" section | ✅ Con directions link |
 | Breadcrumb JSON-LD | ⚠️ Visible en pages específicos |
 | Address real | ✅ Auditores 617, Mburucuyá |
-| Phone real | ✅ +595 981 146 759 |
+| Phone real | ✅ +595 987 126 790 |
 | Email real | ✅ doctora.gabi@ometsdental.com.py |
 | Horarios | ✅ 14:30-19:00 |
 
