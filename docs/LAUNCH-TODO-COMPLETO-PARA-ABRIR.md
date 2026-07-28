@@ -549,22 +549,44 @@
 
 
 
-### 🟢 EVOLUTION API — Hermes maneja WA Business (27 jul 2026)
+### ✅ EVOLUTION API + BOT v4 — LIVE (28 jul 2026)
 
-**Status:** Config completo listo en el repo. Listo para deploy.
+**Status:** 100% operativo. Bot conectado a WA Business. Dashboard live. Cron corriendo.
 
-**Archivos:**
-- `08_WHATSAPP/evolution-api/evolution-api-config.json` — config completa
-- `08_WHATSAPP/evolution-api/evolution-api-deployment.md` — paso a paso
-- `08_WHATSAPP/evolution-api/webhook-handler/` — FastAPI processor
-- `08_WHATSAPP/evolution-api/SUPABASE-SCHEMA.sql` — schema CRM
-- `08_WHATSAPP/evolution-api/hermes_mcp_integration.py` — MCP wrapper
-- `08_WHATSAPP/evolution-api/templates/responses/` — 12 quick replies
-- `scripts/deploy-evolution-api.sh` — deploy script
+**Production stack:**
+- **Bot v4**: `tmux ometsdental-bot` en VPS
+- **Backend**: Docker service `ometsdental-backend` → `https://admin.sunstein.cloud`
+- **Evolution API**: `https://evolution.sunstein.cloud` (v2.3.7 Baileys)
+- **WA Business**: `+595 987 126 790` (chip Tigo)
+- **Postgres**: `ometsdental` DB (7 tablas)
+- **Supabase**: mirror en vivo
+- **Cron**: reminders cada hora, escalations cada 5 min
 
-**Deploy:** `bash scripts/deploy-evolution-api.sh` (Fase 1)
+**Features:**
+- ✅ 11 quick replies + 8 keyword categories
+- ✅ `/cita` con slot picker (1-5)
+- ✅ `/otro` para ver siguiente día
+- ✅ `/cancelar` para cancelar cita
+- ✅ `/direccion` con imagen del consultorio
+- ✅ Detección de media (audio, image, document, video)
+- ✅ Schedule aware (away message fuera de horario)
+- ✅ Rate limiting (10 msgs/hora)
+- ✅ No double booking (verifica cita previa)
+- ✅ Escalation tracking (wa_escalations table)
+- ✅ Recordatorio 24h antes
+- ✅ Review request 24h post-asistencia
+- ✅ Outreach script con CSV
+
+**Archivos del repo:**
+- `08_WHATSAPP/evolution-api/bot/main.py` — bot
+- `08_WHATSAPP/evolution-api/bot/backend.py` — admin API
+- `08_WHATSAPP/evolution-api/bot/reminder_cron.py` — recordatorios
+- `08_WHATSAPP/evolution-api/bot/escalate.py` — escalaciones
+- `08_WHATSAPP/evolution-api/bot/outreach.py` — outreach
+- `08_WHATSAPP/evolution-api/bot/dashboard.html` — admin UI
+- `08_WHATSAPP/evolution-api/bot/placard.png` — imagen
+
 **Cost:** $0/mes (self-hosted)
-**Tiempo deploy:** 30 min
 
 ## 🔗 CROSS-REFERENCES — TODOS LOS ARCHIVOS RELEVANTES
 
