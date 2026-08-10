@@ -14,8 +14,8 @@ The strategic research is done. 31 documents, 700+ lines of synthesis. What rema
 ### 🚨 Gap 1: Mburucuya colleague — ZERO details
 **What we know:** Mburucuya is a real barrio in Luque. Recent F&B expansion (Burger King, Popeyes Dec 2025) signals growing commercial zone. Zero dental competition identified in the barrio itself.
 **What's missing:** Everything. Address, price, equipment, habilitación status.
-**Who fills it:** Dra. GP — needs to WhatsApp Ivan the details.
-**Action:** See WhatsApp message in 09_TEMPLATES/follow-up-mburucuya.md
+**Who fills it:** Dra. GP — needs to Messaging Ivan the details.
+**Action:** See Messaging message in 09_TEMPLATES/follow-up-mburucuya.md
 
 ### 🚨 Gap 2: Lab pricing — Quote-only model, no real calls
 **What we know:** All Paraguayan labs use credit-account/quote-only. Gs 400-700k crown lab fee estimates are reasonable (validated against international benchmarks).
@@ -96,14 +96,14 @@ Automated tools blocked by JS paywalls. Manual research possible.
 
 1. [x] Compile research ✅
 2. [x] Identify all gaps ✅
-3. [ ] Write WhatsApp message to collect Mburucuya details
+3. [ ] Write Messaging message to collect Mburucuya details
 4. [ ] Update SPECIALIST-REFERRAL-LIST.md with verified contacts
 5. [ ] Call REMAX re: San Lorenzo availability
 6. [ ] Visit Laurelty space (can physically go)
 
 ## WHAT DRA. GP MUST DO (Action Required)
 
-1. [ ] WhatsApp Ivan: Mburucuya colleague details
+1. [ ] Messaging Ivan: Mburucuya colleague details
 2. [ ] Call Alta Gama for lab price list
 3. [ ] Call 3-5 specialists to fill referral network
 4. [ ] Submit EAS application online
@@ -120,7 +120,7 @@ Automated tools blocked by JS paywalls. Manual research possible.
 
 Repo has: 31 research documents, complete market validation, financial model, legal framework, pricing strategy, and supplier contacts.
 
-Missing: 6 phone calls, 1 WhatsApp message, 1 online form submission, 2-3 physical visits.
+Missing: 6 phone calls, 1 Messaging message, 1 online form submission, 2-3 physical visits.
 
 **Next milestone: Dra. GP makes the first call this week.**
 

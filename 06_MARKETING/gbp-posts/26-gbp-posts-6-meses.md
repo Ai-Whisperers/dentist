@@ -51,7 +51,7 @@ paso, y armamos juntos un plan que tenga sentido.
 
 📍 Auditores de la Guerra del Chaco 617, Mburucuyá
 🕐 Lunes a viernes, 14:30 a 19:00 — con cita previa
-📱 WhatsApp: +595 981 146 759
+📱 Messaging: +595 981 146 759
 
 אומץ (Ometz) significa "coraje" en hebreo. El coraje de pensar
 antes de tocar, conservar antes de reemplazar, y explicar antes
@@ -86,7 +86,7 @@ de cualquier tratamiento.
 Derivamos a especialistas de confianza para endodoncia, cirugía,
 ortodoncia e implantes.
 
-📱 +595 981 146 759 (WhatsApp)
+📱 +595 981 146 759 (Messaging)
 ```
 
 ### POST 3 — Perfil Dra. Gaby
@@ -105,7 +105,7 @@ Habla español e inglés. Atiende expats y pacientes internacionales.
 
 "En Ometz Dental, no vendo tratamientos. Vendo criterio."
 
-📱 +595 981 146 759 (WhatsApp)
+📱 +595 981 146 759 (Messaging)
 📍 Mburucuyá, Asunción
 ```
 
@@ -149,7 +149,7 @@ plan original y plan alternativo por escrito.
 
 Costo: Gs 450.000 a 600.000 según complejidad.
 
-📱 +595 981 146 759 (WhatsApp)
+📱 +595 981 146 759 (Messaging)
 ```
 
 ### POST 6 — Día del Amigo (20 julio)
@@ -163,7 +163,7 @@ Gs 200.000 (regular Gs 300.000).
 Válido del 13 al 31 de julio de 2026.
 
 Coordinamos los turnos en bloque para que vengan juntos.
-WhatsApp: +595 981 146 759.
+Messaging: +595 981 146 759.
 
 — Dra. Gabriella González Pane · Ometz Dental
 ```
@@ -184,7 +184,7 @@ procedimiento clínico con objetivos específicos:
 
 En Ometz Dental la profilaxis dura entre 40 y 50 minutos, no 15.
 
-📱 +595 981 146 759 (WhatsApp)
+📱 +595 981 146 759 (Messaging)
 📍 Mburucuyá, Asunción
 ```
 
@@ -202,7 +202,7 @@ En Ometz Dental la profilaxis dura entre 40 y 50 minutos, no 15.
 
 No vendemos tratamientos. Vendemos criterio.
 
-📱 +595 981 146 759 (WhatsApp)
+📱 +595 981 146 759 (Messaging)
 ```
 
 ### POST 9 — Dientes sensibles
@@ -351,7 +351,7 @@ Gift cards digitales de Ometz Dental:
 🎁 Consulta diagnóstica: Gs 300.000
 🎁 Monto libre: lo que querás
 
-Se envían por WhatsApp al destinatario. Válidas por 6 meses.
+Se envían por Messaging al destinatario. Válidas por 6 meses.
 
 📱 Comprá tu gift card: +595 981 146 759
 ```
@@ -610,7 +610,7 @@ Gracias a cada paciente, colega, familia y amigo.
 - 26 posts pre-armados para 6 meses
 - 1 descripción de negocio (750 caracteres)
 - Cobertura de fechas especiales + pilares P1-P5
-- CTA claro en cada uno (WhatsApp +595 981 146 759)
+- CTA claro en cada uno (Messaging +595 981 146 759)
 
 ---
 

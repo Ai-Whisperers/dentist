@@ -87,7 +87,7 @@ ROQUE RESULT:
 - [ ] Create Google Business listing with:
   - Business name: "Dra. Gabriella González Pane — Odontología con Criterio"
   - Category: Dentist
-  - Phone: business WhatsApp number
+  - Phone: business Messaging number
   - Address: "Luque, Asunción (address pending confirmation)"
   - Mark as "By appointment only"
   - Description: from design/social-media-profile-specs.md
@@ -99,10 +99,10 @@ ROQUE RESULT:
 - [ ] Set headline: "Odontología con Criterio | Second Opinions | Asunción, Paraguay"
 - [ ] DO NOT add clinic address yet
 
-### WhatsApp Business
-- [ ] Install WhatsApp Business app on dedicated phone number
+### Messaging Business
+- [ ] Install Messaging Business app on dedicated phone number
 - [ ] Create Business Profile with: name, bio, address, phone, hours
-- [ ] Set up quick replies (5 shortcuts from whatsapp/04-whatsapp-setup-guide.md)
+- [ ] Set up quick replies (5 shortcuts from messaging/04-messaging-setup-guide.md)
 - [ ] Set welcome message
 - [ ] Set away message for outside hours: "I respond within 24h weekdays"
 - [ ] Test auto-reply flow
@@ -124,9 +124,9 @@ ROQUE RESULT:
 - [ ] Page content (3 sections):
   1. Hero: "Odontología con Criterio. No con prisa."
   2. Brief philosophy (3 sentences)
-  3. WhatsApp CTA: "Agendar consulta" + brief message
+  3. Messaging CTA: "Agendar consulta" + brief message
 - [ ] Set up domain forwarding from registered domain to Carrd page
-- [ ] Share Carrd link to Dra. GP's personal Facebook + WhatsApp status
+- [ ] Share Carrd link to Dra. GP's personal Facebook + Messaging status
 - [ ] DO NOT share publicly yet — just to close contacts
 
 ### Payment Infrastructure
@@ -167,7 +167,7 @@ Build website with: Home, Philosophy, Services, Pricing, Contact
   - Home (prioritize hero + problem + philosophy + CTA)
   - Services (with pricing — use master-pricing-sheet.md)
   - Philosophy (5 principles)
-  - Contact (WhatsApp prominent)
+  - Contact (Messaging prominent)
   - Pricing (full table from master-pricing-sheet.md)
 - [ ] Add Google Analytics 4 (free, simple install)
 - [ ] Test on mobile (this is critical — Paraguay is mobile-first)
@@ -184,7 +184,7 @@ Build website with: Home, Philosophy, Services, Pricing, Contact
 ## WEEK 7-8 (Days 43-56)
 
 ### Referral Program Launch
-- [ ] Pre-write referral WhatsApp message (from plans/referral-program-plan.md)
+- [ ] Pre-write referral Messaging message (from plans/referral-program-plan.md)
 - [ ] Send to first 10-15 trusted existing patients (those most likely to refer)
 - [ ] Log every referral in CRM immediately
 - [ ] Track first referral result within 30 days
@@ -200,7 +200,7 @@ Build website with: Home, Philosophy, Services, Pricing, Contact
 
 ### Specialist Outreach
 - [ ] Identify 2-3 specialists per plans/outreach-strategy.md
-- [ ] Send first warm outreach (LinkedIn or WhatsApp)
+- [ ] Send first warm outreach (LinkedIn or Messaging)
 - [ ] Request 1 coffee meeting (not phone — in person is better)
 - [ ] Prepare one-pager (1 page PDF with: name, philosophy, contact, services)
 
@@ -229,7 +229,7 @@ Build website with: Home, Philosophy, Services, Pricing, Contact
 - [ ] If no response in 2 weeks: follow up once
 
 ### Patient Survey (if not done)
-- [ ] Send patient WhatsApp survey (from meeting/patient-survey-instrument.md)
+- [ ] Send patient Messaging survey (from meeting/patient-survey-instrument.md)
 - [ ] Send to 20-30 known patients
 - [ ] Analyze responses within 14 days
 
@@ -267,8 +267,8 @@ After validating the model:
 - [ ] About page (with verified credentials from Dra. GP)
 - [ ] Blog (optional — only if content can be sustained)
 
-### WhatsApp Automation Upgrade
-- [ ] If >20 patients/month: apply for WhatsApp Business API
+### Messaging Automation Upgrade
+- [ ] If >20 patients/month: apply for Messaging Business API
 - [ ] Set up broadcast messaging for referral program
 - [ ] Consider scheduling tool (Calendly or similar)
 
@@ -291,7 +291,7 @@ These must be answered by Dra. GP before Week 1:
 
 | Decision | Options | Impact |
 |----------|---------|--------|
-| Business phone number | New eSIM or existing? | Unblocks WhatsApp, Google, domain |
+| Business phone number | New eSIM or existing? | Unblocks Messaging, Google, domain |
 | Business email | Create new (gmail) or use existing? | Unblocks EAS, domain |
 | InterNations discount | Offer Gs 50k off to members? YES/NO | Unblocks outreach emails |
 
@@ -312,7 +312,7 @@ After validating individual patient model, begin B2B corporate sales:
 - [ ] Run discovery calls with 3-5 interested companies
 - [ ] Send proposals within 48 hours of each call
 - [ ] Sign first 2 corporate contracts
-- [ ] Onboard first corporate clients (WhatsApp group per employee)
+- [ ] Onboard first corporate clients (Messaging group per employee)
 
 ### Corporate Scale (Month 5-6)
 - [ ] 3 corporate clients = Gs 10-20M/month recurring revenue
@@ -334,7 +334,7 @@ After validating individual patient model, begin B2B corporate sales:
 |------|---------|---------|-------|-------|---------|-----------|
 | 0 | Personal data collection | Domain + FB groups | — | Visit options | — | — |
 | 1-2 | CI + RUC ready | Google Business + LinkedIn | EAS application | Evaluate 2 options | — | — |
-| 3-4 | Email + phone confirmed | WhatsApp Business set up | EAS in process | Sign lease | — | — |
+| 3-4 | Email + phone confirmed | Messaging Business set up | EAS in process | Sign lease | — | — |
 | 5-6 | — | Carrd.co landing page | Timbrado | Move in | CRM + referral soft launch | Identify targets |
 | 7-8 | — | Website 5 pages live | — | Space ready | Specialist outreach | First outreach |
 | 9-10 | — | Google Business verified | — | — | InterNations event | Discovery calls |
@@ -347,7 +347,7 @@ After validating individual patient model, begin B2B corporate sales:
 
 Individual track:
 ```
-[Business phone] → [WhatsApp Business] → [Google Business] → [Referral Program]
+[Business phone] → [Messaging Business] → [Google Business] → [Referral Program]
 [Business email] → [EAS application] → [RUC + Timbrado]
 [Domain] → [Carrd landing page] → [Full website]
 [Luque space signed] → [Address confirmed] → [Website address updated] → [Google Business verified]

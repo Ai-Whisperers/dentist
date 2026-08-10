@@ -12,7 +12,7 @@
 2. **Edita en CapCut o InShot** (gratis, mobile)
 3. **Subtítulos SIEMPRE** (80% mira sin sonido)
 4. **Hook en los primeros 2 segundos** (si no, scroll)
-5. **CTA al final**: "escribime al WhatsApp +595 981 146 759"
+5. **CTA al final**: "escribime al Messaging +595 981 146 759"
 6. **Hashtags**: `#OmetzDental #TeEscucho #Asunción` + 3-5 específicos
 
 > **Frecuencia sugerida:** 1 Reel/semana cuando tengamos capacidad. Empezar con 2/mes para no quemar a Gaby.
@@ -46,7 +46,7 @@ plan escrito. Sin compromiso."
 [CTA - 20-30s]
 Gaby sonríe:
 "En Ometz Dental, te escucho.
-Escribime al WhatsApp."
+Escribime al Messaging."
 [Texto en pantalla: +595 981 146 759]
 
 CAPTION:
@@ -96,7 +96,7 @@ haber Gs 1.500.000 de diferencia."
 Gaby: "No es desconfianza. Es sentido común."
 
 [CTA - 42-45s]
-"¿Querés saber más? Escribime al WhatsApp."
+"¿Querés saber más? Escribime al Messaging."
 [Texto: +595 981 146 759]
 
 CAPTION:
@@ -420,7 +420,7 @@ Profilaxis 25% off
 Cupos limitados. Se pagan por adelantado."
 
 [CTA - 22-25s]
-"Reservá con 'BLACK' al WhatsApp."
+"Reservá con 'BLACK' al Messaging."
 [Texto: +595 981 146 759]
 ```
 
@@ -602,7 +602,7 @@ Located in Mburucuyá, Asunción.
 With appointment."
 
 [CTA - 25-30s]
-"Message me on WhatsApp."
+"Message me on Messaging."
 [Texto: +595 981 146 759]
 
 CAPTION:
@@ -638,7 +638,7 @@ consultation with a written plan, no
 obligation. From Gs 450,000."
 
 [CTA - 37-40s]
-"Book on WhatsApp."
+"Book on Messaging."
 [Texto: +595 981 146 759]
 ```
 
@@ -687,7 +687,7 @@ Gaby:
 Válido del 1 al 28 de febrero."
 
 [CTA - 17-20s]
-"Reservá con 'FAMILIA' al WhatsApp."
+"Reservá con 'FAMILIA' al Messaging."
 [Texto: +595 981 146 759]
 ```
 
@@ -712,7 +712,7 @@ Válido del 21 sept al 21 oct.
 Cupos: 12 por mes."
 
 [CTA - 22-25s]
-"Reservá con 'PRIMAVERA' al WhatsApp."
+"Reservá con 'PRIMAVERA' al Messaging."
 [Texto: +595 981 146 759]
 ```
 
@@ -832,7 +832,7 @@ Gaby:
 recibir este mes..."
 
 [CONTENIDO - 3-27s]
-Mostrar captura de WhatsApp (con
+Mostrar captura de Messaging (con
 permiso, anonimizado):
 
 'Llevo 4 años evitando ir al dentista.
@@ -968,7 +968,7 @@ Gaby mira a cámara:
 Te escucho. Escribime."
 
 [50-60s]
-Logo Ometz + WhatsApp
+Logo Ometz + Messaging
 [Texto: +595 981 146 759]
 ```
 
@@ -980,7 +980,7 @@ Logo Ometz + WhatsApp
 |---------|-------------------|----------------|
 | Views | 500 | 5,000 |
 | Engagement rate | >3% | >6% |
-| Clics WhatsApp | 5 | 30 |
+| Clics Messaging | 5 | 30 |
 | Consultas atribuidas | 1 | 5 |
 | Costo por vista | <USD 0.01 | <USD 0.005 |
 

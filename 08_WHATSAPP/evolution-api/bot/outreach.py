@@ -1,7 +1,7 @@
 """
 Ometz Dental — Outreach Tool
 =============================
-Send personalized WhatsApp messages to a list of patients.
+Send personalized Messaging messages to a list of patients.
 
 Usage:
 1. Create a CSV file with columns: phone,name,last_visit

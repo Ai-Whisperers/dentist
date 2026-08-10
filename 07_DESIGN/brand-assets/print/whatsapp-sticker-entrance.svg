@@ -25,7 +25,7 @@
     <text x="25" y="27.5" font-family="Frank Ruhl Libre, serif" font-size="7" text-anchor="middle" fill="#1A5F5A" font-weight="bold">א</text>
   </g>
 
-  <!-- WhatsApp number -->
+  <!-- Messaging number -->
   <text x="50" y="83" font-family="Montserrat, sans-serif" font-size="3" text-anchor="middle" fill="#1A5F5A" font-weight="bold">+595 987 126 790</text>
 
   <!-- Footer -->

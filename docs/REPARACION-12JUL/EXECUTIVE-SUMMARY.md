@@ -20,7 +20,7 @@
 1. ❌ **Contratar seguro RC** — bloqueante
 2. ❌ **Habilitación MSPBS del consultorio** — bloqueante
 3. ❌ **Confirmar dirección final + piso + propio/alquiler** — bloqueante
-4. ❌ **Comprar/instalar WhatsApp Business** con chip dedicado
+4. ❌ **Comprar/instalar Messaging Business** con chip dedicado
 5. ❌ **Reclamar Google Business Profile** (tarda 5-7 días)
 6. ❌ **Crear Instagram @ometsdental + FB Page**
 7. ❌ **Sesión de fotos real** de Gaby + consultorio
@@ -33,7 +33,7 @@
 ## 🆕 Cuestionario B (12 preguntas, 15 min, esta semana)
 
 **Para qué:** destrabar el 80% de lo que falta antes del 26 jul.
-**Quién lo manda:** Kiki por WhatsApp a Gaby.
+**Quién lo manda:** Kiki por Messaging a Gaby.
 **Quién procesa:** Erebus commitea respuesta + actualiza sitio.
 
 **Estructura:**

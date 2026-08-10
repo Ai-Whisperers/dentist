@@ -36,7 +36,7 @@
 |----|------|-------|-----------|
 | P1.1 | Auto-count script | `tools/repo-audit.py` with subcommand `counts` that prints per-folder .md counts and exact total. Output is deterministic. | Run: `python tools/repo-audit.py counts` |
 | P1.2 | Unify entry points | Make README the single hub. start-here.md becomes "executive summary of the kit" only. INDEX.md becomes machine-generated appendix from P1.1. docs/MASTER-TODO-RESTANTE.md stays as action tracker. | README references all other entry points |
-| P1.3 | Missing 00-index.md | Every folder that lacks `00-index.md` gets one: list contents + purpose + key docs to read first. Folders checked: 04_SALES, 05_OPERATIONS/clinical-routines, 05_OPERATIONS/patient-communications, 05_OPERATIONS/legal-compliance, 06_MARKETING, 07_DESIGN/brand-assets, 08_WHATSAPP/templates | No folder is missing its index |
+| P1.3 | Missing 00-index.md | Every folder that lacks `00-index.md` gets one: list contents + purpose + key docs to read first. Folders checked: 04_SALES, 05_OPERATIONS/clinical-routines, 05_OPERATIONS/patient-communications, 05_OPERATIONS/legal-compliance, 06_MARKETING, 07_DESIGN/brand-assets, 08_MESSAGING/templates | No folder is missing its index |
 | P1.4 | Dead-link sweep | Run P0.5 validator on full active tree. Fix every broken intra-repo link. Add to pre-commit hook (Phase 3) | 0 broken intra-repo links |
 | P1.5 | Folder naming audit | Confirm no spaces remain in folder names. Confirm `06_MARKETING/` only (no `06 MARKETING/`). Rename if found. | `find . -type d -name '* *'` returns 0 results in active tree |
 
@@ -53,7 +53,7 @@
 | P2.2 | Phase 0 checklist | `00_STRATEGIC/PHASE-0-CHECKLIST-JUNE-2026.md`: expand the 7 awaiting items into sub-items with owner, data source, deadline, and evidence needed. Wire to docs/MASTER-TODO-RESTANTE.md. | Checklist is actionable without new info |
 | P2.3 | Patient journey specs | Write 3 patient profiles (insurance, private premium, expat). Map each through: first-contact → scheduling → consultation → treatment plan → payment → recall. Link existing templates to each touchpoint. | 3 de-identified journeys, template cross-refs added |
 | P2.4 | Competitor battle cards | From `01_RESEARCH/market/mystery-shop-20-clinics-report.md`, extract top 3 competitors. One-pager each: positioning, price range, differentiators, weakness. Place in `01_RESEARCH/market/battle-cards/`. | 3 battle cards referencing only verified mystery-shop data |
-| P2.5 | Objection library | From `08_WHATSAPP/flows/` and meeting notes, extract 20 real objections. Template replies split by channel (WhatsApp, phone, in-person). Place in `08_WHATSAPP/templates/objection-library.md`. | 20 objections, reply templates |
+| P2.5 | Objection library | From `08_MESSAGING/flows/` and meeting notes, extract 20 real objections. Template replies split by channel (Messaging, phone, in-person). Place in `08_MESSAGING/templates/objection-library.md`. | 20 objections, reply templates |
 | P2.6 | Corporate sales tracker hygiene | `03_LAUNCH/corporate-sales/outreach/corporate-sales-tracker.xlsx`: audit columns, add status + last-contact + follow-up-date. Document the tracker structure in a companion `.md`. | Tracker is usable without explanation; doc covers schema |
 | P2.7 | 3-Option reconciliation | `00_STRATEGIC/strategic-context/three-strategic-options-analysis.md` vs `03_LAUNCH/roadmap/master-launch-roadmap.md`: unify Option A/B/C definitions, risk ratings, and required investment. One source, both reference it. | Both docs point to single options definition |
 

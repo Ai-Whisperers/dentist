@@ -1,13 +1,13 @@
-# 08_WHATSAPP — Index
+# 08_MESSAGING — Index
 
-WhatsApp Business automation, operation guides, and setup templates.
+Messaging Business automation, operation guides, and setup templates.
 
 ## automation/
-- [`WHATSAPP OPERATIONS — HERMES AGENT MANAGEMENT`](automation/whatsapp-operations-guide.md)
+- [`MESSAGING OPERATIONS — HERMES AGENT MANAGEMENT`](automation/messaging-operations-guide.md)
 
 ## templates/
-- [`WHATSAPP CHANNEL — MASTER INDEX`](templates/whatsapp-operations-index.md)
-- [`WHATSAPP BUSINESS SETUP GUIDE`](templates/whatsapp-setup-configuration-guide.md)
+- [`MESSAGING CHANNEL — MASTER INDEX`](templates/messaging-operations-index.md)
+- [`MESSAGING BUSINESS SETUP GUIDE`](templates/messaging-setup-configuration-guide.md)
 
 ---
 > **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.

@@ -9,7 +9,7 @@
 Mientras se construye el sitio principal, esta landing page:
 1. Captura interes de pacientes potenciales
 2. Comunica que la practica esta por abrir
-3. Recolecta emails/WhatsApp de personas interesadas
+3. Recolecta emails/Messaging de personas interesadas
 4. Proyecta profesionalismo
 
 ---
@@ -31,7 +31,7 @@ Apertura: [MES] 2026 en [BARRIO/LUQUE]. Segunda opinion, planificacion de tratam
 y atencion dental para personas que quieren entender sus opciones antes de decidir.
 
 **CTA:**
-Escribeme por WhatsApp para agendar
+Escribeme por Messaging para agendar
 
 [Boton: Agendar consulta → wa.me/...]
 
@@ -72,7 +72,7 @@ planificar antes de actuar, preservar lo que existe, y explicar todo antes de de
 
 **Seccion 5 — Contacto**
 
-WhatsApp: +595 XXX XXX XXX (escribeme)
+Messaging: +595 XXX XXX XXX (escribeme)
 Email: dra.gp.odontologia@gmail.com
 Ubicacion: [BARRIO], [CIUDAD], Paraguay
 Horario: Solo con cita previa
@@ -85,7 +85,7 @@ Horario: Solo con cita previa
 Tenes un caso que necesita segunda opinion?
 No esperes.
 
-[Boton: Escribime por WhatsApp]
+[Boton: Escribime por Messaging]
 
 ---
 
@@ -94,8 +94,8 @@ No esperes.
 1. Crear cuenta en carrd.co
 2. Elegir template Profile (1 pagina, scroll simple)
 3. Copiar contenido arriba
-4. Configurar WhatsApp button:
-   - Link: https://wa.me/595XXXXXXXX?text=Hola%20Dra.%20GP...
+4. Configurar Messaging button:
+   - Link: tel:+595XXXXXXXX?text=Hola%20Dra.%20GP...
 5. Custom domain (opcional): dra-gabriela-gonzalez.com.py
    - Costo dominio: Gs 100-200k/año (.com.py) o Gs 50k/año (.com)
    - Carrd Pro para custom domain: /año
@@ -110,7 +110,7 @@ No esperes.
 
 ---
 
-## MENSAJES DE WHATSAPP
+## MENSAJES DE MESSAGING
 
 ### Mensaje de Bienvenida (auto-respuesta)
 Hola! Soy la Dra. Gabriella. Gracias por escribir. En este momento estoy aceptando
@@ -126,7 +126,7 @@ especifico? Si tenes radiografias recientes o fotos, podes mandarlas por aca.
 ## ANALYTICS A CONFIGURAR
 
 - [ ] Google Analytics 4
-- [ ] WhatsApp click tracking
+- [ ] Messaging click tracking
 - [ ] Carrd analytics
 
 ---

@@ -33,7 +33,7 @@
 **3. 🔴 NINGÚN PLAN DE PAGOS EJECUTABLE**
 > El repo tiene 4 documentos sobre precios pero **NO tiene acción concreta** de setup de Bancard o Pagopar en el consultorio. Gaby atenderá y no sabrá cobrar con tarjeta. **Costo:** perder 30-40% de pacientes que pagan con tarjeta.
 
-**4. 🔴 WHATSAPP NUMBER = "9XX" PLACEHOLDER**
+**4. 🔴 MESSAGING NUMBER = "9XX" PLACEHOLDER**
 > En 159 archivos aparece `+595 981 146 759`. ES UN PLACEHOLDER. Todos los templates, los SVGs, los HTMLs, los posts GBP, los quick replies, las landing pages — TODO dice 9XX. **Costo de no arreglar:** el cliente no puede contactar, todos los CTAs son zombies. Ya hubo este error en `quick-replies-PERSONALIZADO-gaby.md` donde Gaby había confirmado el número y el resto de los archivos no se actualizó. Hay que hacer find-replace de TODOS los archivos al recibir el número real.
 
 **5. 🔴 ZERO FOTOS REALES DE GABY**
@@ -42,8 +42,8 @@
 **6. 🔴 LIVE SITE USANDO OLD BRAND (dra-gabriela)**
 > `https://ometzdental.com/en` carga, pero el slug interno es `dra-gabriela-en` y los JSON de copy hablan de "Dra. Gabriella". **Inconsistencia visible al cliente.** El repo lo tiene claro (`site-page-copy.md`) pero el deploy no se actualizó. **Costo:** primera impresión inconsistente → bounce rate alto.
 
-**7. 🔴 0 PRODUCTOS EN WHATSAPP CATÁLOGO**
-> Los SVGs del catálogo están listos pero no pueden subirse sin que WhatsApp Business esté configurado (que depende de Gaby). **Bloqueado pero documentado.**
+**7. 🔴 0 PRODUCTOS EN MESSAGING CATÁLOGO**
+> Los SVGs del catálogo están listos pero no pueden subirse sin que Messaging Business esté configurado (que depende de Gaby). **Bloqueado pero documentado.**
 
 **8. 🔴 LEGAL COMPLIANCE NO VERIFICABLE**
 > `01_RESEARCH/legal-compliance/` tiene 4 docs pero ninguno es una lista de checks verificables. No hay un checklist "tengo todos los papeles para abrir mañana" porque MSPBS no se puede abrir sin Gaby.
@@ -103,7 +103,7 @@
 **25. 🟡 SISTEMA DE MENCIONES EN PRENSA**
 > No hay estrategia de "free press" (notas en medios). No se contactó a ABC Color, Última Hora, etc.
 
-**26. 🟡 WHATSAPP API (1MSG) NO EVALUADO**
+**26. 🟡 MESSAGING API (1MSG) NO EVALUADO**
 > Para recordatorios automáticos 24h antes. Pendiente decisión.
 
 **27. 🟡 NO HAY TABLERO DE MÉTRICAS**
@@ -166,7 +166,7 @@ Contamos documentos creados vs ejecutados:
 
 ### 4️⃣ #4 — TELÉFONO/EMAIL PLACEHOLDER EN 159 ARCHIVOS
 
-Si Gaby diera mañana el WhatsApp real `+595 981 555 444`, hay que hacer:
+Si Gaby diera mañana el Messaging real `+595 981 555 444`, hay que hacer:
 ```
 sed -i 's/+595 981 146 759/+595 981 555 444/g' $(grep -rl "9XX" --include="*.md" .)
 ```
@@ -220,7 +220,7 @@ Todo es **PROYECCIÓN TEÓRICA**. El simulador del crecimiento es solo eso: un s
 - ✅ 26 posts GBP pre-armados
 - ✅ 52 posts FB pre-armados
 - ✅ 30 scripts Reels
-- ✅ 12 quick replies WhatsApp
+- ✅ 12 quick replies Messaging
 - ✅ 3 HTML email templates production-ready
 - ✅ 20 SVGs (logos, posts, catálogos, prints)
 - ✅ 8 docs de branding system completo

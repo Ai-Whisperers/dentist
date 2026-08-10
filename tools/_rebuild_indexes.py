@@ -6,7 +6,7 @@ from collections import defaultdict
 ROOT = pathlib.Path('.').resolve()
 FOLDERS = [
 '00_STRATEGIC', '01_RESEARCH', '02_MEETINGS', '03_LAUNCH', '04_SALES',
-'05_OPERATIONS', '06_MARKETING', '07_DESIGN', '08_WHATSAPP', '09_TEMPLATES',
+'05_OPERATIONS', '06_MARKETING', '07_DESIGN', '08_MESSAGING', '09_TEMPLATES',
 ]
 
 def title_of(path: pathlib.Path) -> str:
@@ -56,12 +56,12 @@ def build_index(folder: pathlib.Path):
         '00_STRATEGIC': 'Strategic layer: financials, pricing, options, rollout plan, and phase checklist.',
         '01_RESEARCH': 'Research reports across market, legal, payments, locations, procurement, and community.',
         '02_MEETINGS': 'Meeting materials split by audience: client prep and Kiki sessions.',
-        '03_LAUNCH': 'Execution plans: roadmap, corporate and institutional sales, CRM, website content, WhatsApp outreach.',
+        '03_LAUNCH': 'Execution plans: roadmap, corporate and institutional sales, CRM, website content, Messaging outreach.',
         '04_SALES': 'Corporate agreements and contracts ready for client execution.',
         '05_OPERATIONS': 'Day-to-day operations, clinical routines, patient communications, and legal docs.',
         '06_MARKETING': 'Digital presence: Carrd, Google Business, SEO blog posts, website spec.',
         '07_DESIGN': 'Brand assets and website page content (core + transactional + service pages).',
-        '08_WHATSAPP': 'WhatsApp Business automation, operation guides, and setup templates.',
+        '08_MESSAGING': 'Messaging Business automation, operation guides, and setup templates.',
         '09_TEMPLATES': 'Patient communication templates: appointment, recall, referral, email.',
     }
     lines.append(descriptions.get(fname, ''))

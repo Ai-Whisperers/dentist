@@ -23,8 +23,8 @@
 
 ### Day -10
 - [ ] If lawyer says ok → Submit E.A.S. registration (eas.suace.gov.py)
-- [ ] Start using WhatsApp Business App with business number
-- [ ] Set up Google Sheets "DraGP Pipeline" (template in whatsapp/00-index.md)
+- [ ] Start using Messaging Business App with business number
+- [ ] Set up Google Sheets "DraGP Pipeline" (template in messaging/00-index.md)
 
 ### Day -7
 - [ ] E.A.S. confirmed (should get RUC within 7-10 days)
@@ -38,8 +38,8 @@
 - [ ] Set up folders/system for physical patient files
 
 ### Day -1
-- [ ] Test WhatsApp with 3 friends (simulate: pricing, appointment, second opinion)
-- [ ] Review all WhatsApp flows with Hermes agent
+- [ ] Test Messaging with 3 friends (simulate: pricing, appointment, second opinion)
+- [ ] Review all Messaging flows with Hermes agent
 - [ ] Confirm all auto-replies working
 - [ ] Check emergency number accessible
 
@@ -52,10 +52,10 @@
 - Arrive at Luque space
 - Set up chair, materials, instrument sterilization
 - Put up "Consultorio Dra. GP — Con Cita Previa" sign
-- Test WhatsApp — send first message to yourself to confirm delivery
+- Test Messaging — send first message to yourself to confirm delivery
 
 **Afternoon:**
-- Send first WhatsApp to ONE person (trusted contact, good candidate)
+- Send first Messaging to ONE person (trusted contact, good candidate)
   → "Hola [NAME], te escribo para contarte algo. A partir de ahora tengo consultorio propio en Luque para casos de segunda opinión y tratamientos planificados. Si conocés a alguien que esté evaluando ir al dentista, pasale mi contacto. Abrazillo!"
 
 **Goal:** First contact, no pressure to book. Just plant the seed.
@@ -63,7 +63,7 @@
 ### Tuesday (Day 2)
 - Send to ONE more trusted contact
 - Set up Google Business Profile (while waiting for patient volume)
-- Respond to any incoming WhatsApp messages from yesterday
+- Respond to any incoming Messaging messages from yesterday
 
 ### Wednesday (Day 3)
 - Send to THIRD trusted contact
@@ -84,7 +84,7 @@
 **Week 1 Goals:**
 - 5 contacts messaged
 - 0-2 appointments booked (realistic)
-- WhatsApp running smoothly
+- Messaging running smoothly
 - CRM has first entries
 
 ---
@@ -107,7 +107,7 @@
 
 **Week 2 Goals:**
 - 1-3 patients seen
-- WhatsApp response time < 1 hour
+- Messaging response time < 1 hour
 - All interactions logged
 
 ---
@@ -117,7 +117,7 @@
 ### Based on Week 1-2 data:
 - If pricing questions → review if prices need adjustment or explanation
 - If people not booking → simplify the process, offer specific times
-- If WhatsApp overwhelming → set specific hours (e.g., 9am-6pm only)
+- If Messaging overwhelming → set specific hours (e.g., 9am-6pm only)
 - If nobody responding → try different message approach
 
 ### Actions:
@@ -136,10 +136,10 @@
 ## WEEK 4 — SYSTEMATIC
 
 ### Now the system is running:
-- WhatsApp responds within SLA
+- Messaging responds within SLA
 - CRM tracks everything
 - Patients coming from trusted network
-- WhatsApp Business running smoothly
+- Messaging Business running smoothly
 
 ### Launch referral program:
 - Send R1 (referral program intro) to all existing patients/contacts
@@ -173,7 +173,7 @@
 ## MONTH 3+ — SCALE
 
 Based on data from Month 1-2:
-- If sustainable → consider upgrading to WhatsApp Business API
+- If sustainable → consider upgrading to Messaging Business API
 - If referrals growing → formalize referral program
 - If specialist relationships forming → sign referral agreements
 - If expats responding → double down on English-language presence
@@ -195,9 +195,9 @@ Based on data from Month 1-2:
 
 If after 5 days nobody responded:
 1. Revise message — too formal? too long? wrong people?
-2. Call 3 people directly (phone, not WhatsApp)
+2. Call 3 people directly (phone, not Messaging)
 3. Ask for honest feedback: "Te mandé el mensaje, qué pensaste?"
-4. Check: Is WhatsApp actually working? Is phone number correct?
+4. Check: Is Messaging actually working? Is phone number correct?
 5. Consider: Is now the right time? Should we wait for Roque meeting?
 
 ---
@@ -208,7 +208,7 @@ Before doing any public-facing marketing (Google ads, Facebook ads, expat forum 
 - [ ] Have at least 3 patients completed and satisfied
 - [ ] Have Google Business Profile live
 - [ ] Have at least 5 real Google reviews
-- [ ] WhatsApp auto-responses tested
+- [ ] Messaging auto-responses tested
 - [ ] CRM fully operational
 
 ---

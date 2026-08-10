@@ -1,4 +1,4 @@
-# WHATSAPP BUSINESS AUTOMATION BLUEPRINT — DRA. GP DENTAL
+# MESSAGING BUSINESS AUTOMATION BLUEPRINT — DRA. GP DENTAL
 > AI research + Telegram voice input (Kiki transcription) | June 2026
 > Human creative review advised
 
@@ -8,8 +8,8 @@
 
 ## Executive Summary
 
-WhatsApp automation doesn't replace human touch — it scales it. For Dra. GP's
-clinic, WhatsApp is the operating system for patient relationship: all
+Messaging automation doesn't replace human touch — it scales it. For Dra. GP's
+clinic, Messaging is the operating system for patient relationship: all
 scheduling, reminders, reactivation, and support flows through it.
 
 This blueprint gives you production-ready message templates and sequence logic
@@ -18,7 +18,7 @@ refine into the actual bot.
 
 ---
 
-## 1. WHATSAPP CONTACT STRATEGY
+## 1. MESSAGING CONTACT STRATEGY
 
 ### Phone Number Structure
 - Use **new, clinic-branded number** — separate from Dra. GP's personal line
@@ -88,7 +88,7 @@ Elegí una opción:
 [HOUR-BEFORE-BOT] → "🦷 Recordatorio: Tenés tu cita mañana [day] a las [time].
                      Dirección: [address]
                      Traé: CI, turno o constancia de obra social (si aplica)
-                     WhatsApp: [clinic number]
+                     Messaging: [clinic number]
                      Llegada 10 min antes para formulario.
 
                      Confirmá asistencia respondiendo 1."
@@ -167,7 +167,7 @@ Never leave complaints in chat limbo. Humans own negative sentiment.
 
 ---
 
-## 3. BOT PERSONALITY (Telegram / WhatsApp voice input + AI)
+## 3. BOT PERSONALITY (Telegram / Messaging voice input + AI)
 
 ### Voice
 - Warm, professional, NOT medical-robot
@@ -230,7 +230,7 @@ wide. Reference USD-pricing guide when ready; human reviews specific quote.
 
 ## 5. LAUNCH CHECKLIST
 
-- [ ] WhatsApp Business API approved + number active
+- [ ] Messaging Business API approved + number active
 - [ ] Bot personality confirmed (Copy-Bot drafts)
 - [ ] Greeting menu + 5 intent categories
 - [ ] SMS backup for reminders (in case WA fails)
@@ -247,10 +247,10 @@ wide. Reference USD-pricing guide when ready; human reviews specific quote.
 | Approve greeting menu copy (preserves brand voice) | Brand voice |
 | Set penalty price incentives (review discount rate) | Financial policy |
 | Confirm emergency number escalation chain | Clinical safety |
-| Approve WhatsApp number + business registration | Legal/business registration |
+| Approve Messaging number + business registration | Legal/business registration |
 | Train assistant on bot handoff (when bot stops) | Training |
 
 ---
 
 *Sources: AI-transcribed voice input (Kiki 2026-06-05), competitive audit,
-standard WhatsApp Business healthcare best practices.*
+standard Messaging Business healthcare best practices.*

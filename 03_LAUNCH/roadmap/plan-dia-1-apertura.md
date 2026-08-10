@@ -10,9 +10,9 @@
 - [ ] Foto profesional lista (aunque sea con celular, bien iluminada)
 - [ ] Cartel de la puerta (aunque sea temporal, con el nombre Ometz Dental)
 - [ ] Tarjetas de presentación impresas (100 unidades mínimo)
-- [ ] QR de WhatsApp Business en un cartelito plástico en la entrada
+- [ ] QR de Messaging Business en un cartelito plástico en la entrada
 - [ ] Google Business Profile verificado
-- [ ] WhatsApp Business con quick replies cargados
+- [ ] Messaging Business con quick replies cargados
 - [ ] Sitio web publicado (mínimo: home + servicios + contacto)
 - [ ] Al menos 5 pacientes confirmados para la primera semana
 
@@ -29,7 +29,7 @@
 ### 8:30 - 9:00 — Publicación de apertura
 - [ ] Publicar en Facebook: "Hoy abrimos. Ometz Dental, Mburucuyá, Asunción. Te escucho."
 - [ ] Publicar en Google Business: update de apertura
-- [ ] Mandar mensaje de WhatsApp a los 5-10 pacientes top avisando
+- [ ] Mandar mensaje de Messaging a los 5-10 pacientes top avisando
 
 ### 9:00 - 12:00 — Primer paciente (si hay)
 - [ ] Atender al primer paciente con calma
@@ -43,7 +43,7 @@
 
 ### 18:00 - 18:30 — Cierre
 - [ ] Limpieza del consultorio
-- [ ] Revisar WhatsApp: responder mensajes del día
+- [ ] Revisar Messaging: responder mensajes del día
 - [ ] Anotar en la planilla: ¿cuántos pacientes? ¿de dónde vinieron? ¿cómo se sintieron?
 
 ---
@@ -55,7 +55,7 @@ Hoy abrimos las puertas de Ometz Dental.
 
 🪥 Barrio Mburucuyá, Asunción
 🕐 [Tu horario]
-📱 WhatsApp: [Tu número]
+📱 Messaging: [Tu número]
 
 "Te escucho." Eso es lo que me propuse cuando decidí abrir
 mi propio consultorio. Antes de tocar, antes de planificar,
@@ -70,7 +70,7 @@ escribime. Atiendo con cita previa.
 
 ---
 
-## 🗣️ Mensaje de apertura para WhatsApp (a los 5-10 pacientes top)
+## 🗣️ Mensaje de apertura para Messaging (a los 5-10 pacientes top)
 
 ```
 Hola [Nombre]! Soy Gaby.
@@ -97,7 +97,7 @@ Anotá esto al final del día:
 |-------|-----------|
 | Pacientes atendidos | ___ |
 | Pacientes que llamaron pero no pudieron venir | ___ |
-| Mensajes de WhatsApp recibidos | ___ |
+| Mensajes de Messaging recibidos | ___ |
 | Mensajes respondidos | ___ |
 | De dónde vinieron los pacientes | (Facebook, referido, Google, expat) |
 | Reseñas pedidas | ___ |
@@ -117,7 +117,7 @@ La primera semana vas a tener 2-3 pacientes, no más. Algunos días 0.
 
 Plan alternativo para días sin pacientes:
 - [ ] Sacar fotos del consultorio (para el sitio y para redes)
-- [ ] Responder mensajes de WhatsApp atrasados
+- [ ] Responder mensajes de Messaging atrasados
 - [ ] Escribir 1 post de Facebook
 - [ ] Leer un libro de odontología
 - [ ] Preparar el consultorio (orden, stock, etc.)
@@ -131,7 +131,7 @@ Plan alternativo para días sin pacientes:
 - ❌ No regales servicios para "llenar" la agenda
 - ❌ No trates de captar 10 pacientes el primer día
 - ❌ No te frustres si no vienen
-- ❌ No publiques en 5 redes (solo Facebook + Google + WhatsApp)
+- ❌ No publiques en 5 redes (solo Facebook + Google + Messaging)
 
 ---
 

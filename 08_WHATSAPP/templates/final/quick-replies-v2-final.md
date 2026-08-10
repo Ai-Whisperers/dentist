@@ -1,14 +1,14 @@
-# WHATSAPP BUSINESS — QUICK REPLIES FINALES + AUTO-RESPONSES
-## Plantillas listas para cargar en WhatsApp Business App
+# MESSAGING BUSINESS — QUICK REPLIES FINALES + AUTO-RESPONSES
+## Plantillas listas para cargar en Messaging Business App
 **Versión:** 2.0 — Julio 2026
 **Owner:** Gaby / community manager
-**Setup:** WhatsApp Business → Configuración → Herramientas para la empresa → Respuestas rápidas
+**Setup:** Messaging Business → Configuración → Herramientas para la empresa → Respuestas rápidas
 
 ---
 
 ## 🎯 QUICK REPLIES (atajos de teclado)
 
-Estos son los mensajes que se cargan con un atajo (ej. `/hola`). Cuando Gaby escribe el atajo, WhatsApp expande automáticamente el mensaje.
+Estos son los mensajes que se cargan con un atajo (ej. `/hola`). Cuando Gaby escribe el atajo, Messaging expande automáticamente el mensaje.
 
 ### `/hola` — Mensaje de bienvenida
 
@@ -224,7 +224,7 @@ honesta en Asunción.
 
 ---
 
-## 🤖 MENSAJES AUTOMÁTICOS (configurar en WhatsApp Business)
+## 🤖 MENSAJES AUTOMÁTICOS (configurar en Messaging Business)
 
 ### Mensaje de respuesta instantánea
 
@@ -293,21 +293,21 @@ Y notificar a Gaby internamente.
 
 ---
 
-## 📋 CATÁLOGO DE WHATSAPP BUSINESS
+## 📋 CATÁLOGO DE MESSAGING BUSINESS
 
 ### Servicio 1 — Consulta General
 
 **Nombre:** Consulta General + Evaluación
 **Precio:** Desde Gs 300.000
 **Descripción:** Evaluación clínica completa 45-60 min. Incluye examen periodontal, plan escrito y orientación.
-**Imagen:** `whatsapp-catalog-consulta.svg`
+**Imagen:** `messaging-catalog-consulta.svg`
 
 ### Servicio 2 — Segunda Opinión
 
 **Nombre:** Segunda Opinión Escrita
 **Precio:** Desde Gs 450.000
 **Descripción:** Consulta 45-60 min + plan escrito formal en 2-3 días. Para confirmar o ajustar un diagnóstico previo.
-**Imagen:** `whatsapp-catalog-segunda-opinion.svg`
+**Imagen:** `messaging-catalog-segunda-opinion.svg`
 
 ### Servicio 3 — Profilaxis
 
@@ -321,7 +321,7 @@ Y notificar a Gaby internamente.
 **Nombre:** Blanqueamiento Consultorio
 **Precio:** Consultar
 **Descripción:** 1 sesión de 60-90 min. Peróxido al 35%. Requiere evaluación previa.
-**Imagen:** `whatsapp-catalog-blanqueamiento.svg`
+**Imagen:** `messaging-catalog-blanqueamiento.svg`
 
 ### Servicio 5 — Restauración (resina)
 
@@ -334,7 +334,7 @@ Y notificar a Gaby internamente.
 
 ## 🔧 SETUP TÉCNICO
 
-### En WhatsApp Business App (móvil)
+### En Messaging Business App (móvil)
 
 1. **Configuración** → **Herramientas para la empresa** → **Respuestas rápidas**
 2. Tocar **+** para agregar
@@ -344,7 +344,7 @@ Y notificar a Gaby internamente.
 
 Para usar: en cualquier chat, escribir `/hola` y se expande automáticamente.
 
-### En WhatsApp Business API (cuando se use)
+### En Messaging Business API (cuando se use)
 
 Las mismas plantillas pero cargadas vía API con:
 - `category`: `utility` o `marketing`
@@ -355,7 +355,7 @@ Las mismas plantillas pero cargadas vía API con:
 
 ## ✅ CHECKLIST ANTES DE PUBLICAR
 
-- [ ] WhatsApp Business instalado y verificado
+- [ ] Messaging Business instalado y verificado
 - [ ] Foto de perfil: אומץ + "Ometz Dental" (usar `profile-picture.svg`)
 - [ ] Nombre del negocio: "Ometz Dental"
 - [ ] Categoría: "Clínica dental"
@@ -371,12 +371,12 @@ Las mismas plantillas pero cargadas vía API con:
 
 ## 🔗 CRUZAR CON OTROS DOCUMENTOS
 
-- `08_WHATSAPP/templates/quick-replies-v1-final.md` — versión previa
-- `08_WHATSAPP/templates/whatsapp-setup-configuration-guide.md` — setup completo
-- `08_WHATSAPP/templates/pedido-resenas-v1.md` — reseña
-- `08_WHATSAPP/templates/objection-library.md` — objeciones
-- `07_DESIGN/brand-assets/svg/whatsapp-catalog-*.svg` — imágenes catálogo
+- `08_MESSAGING/templates/quick-replies-v1-final.md` — versión previa
+- `08_MESSAGING/templates/messaging-setup-configuration-guide.md` — setup completo
+- `08_MESSAGING/templates/pedido-resenas-v1.md` — reseña
+- `08_MESSAGING/templates/objection-library.md` — objeciones
+- `07_DESIGN/brand-assets/svg/messaging-catalog-*.svg` — imágenes catálogo
 
 ---
 
-**STATUS:** v2.0 — listo para cargar en WhatsApp Business.
+**STATUS:** v2.0 — listo para cargar en Messaging Business.

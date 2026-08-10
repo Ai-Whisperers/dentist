@@ -20,7 +20,7 @@ building bilingual brand assets over time.
 |-----------|-------------|----------------|---------------|
 | Instagram (primary) | Visual case studies + authority | Asunción, Luque, expats | 4–6 posts/week |
 | Facebook | Community / offers / events | PY residents 25–55, corporate | 2–3 posts/week |
-| WhatsApp Business | Scheduling + reactivation | All patients | Always active |
+| Messaging Business | Scheduling + reactivation | All patients | Always active |
 | Google Business Profile | Local discoverability | "Dentista Luque", "Dentista Asunción" | 1 post/week |
 
 Threads and TikTok kept on hold pending content volume. No clinic in PY has
@@ -55,14 +55,14 @@ Format: Talking head Reel, quote card, clinic walkthrough
 Build the Dra. GP-personal brand: why she left private clinic, her "no-overtreatment" pledge, laboratorio-quality standard. This is the most defensible asset — no competitor has a true personal brand yet.
 
 ### Pillar 4: Social proof / reviews (10%)
-Format: Screenshot + graphic of Google/WhatsApp review
+Format: Screenshot + graphic of Google/Messaging review
 
-Example: "De Gs 500,000 a sonrisa completa en 2 semanas — revisa positivos en Google" or DM/WhatsApp thank you notes (patient initials/age). Value: low effort, high trust.
+Example: "De Gs 500,000 a sonrisa completa en 2 semanas — revisa positivos en Google" or DM/Messaging thank you notes (patient initials/age). Value: low effort, high trust.
 
 ### Pillar 5: Offers / urgency (5%)
 Format: Graphic + CTA
 
-Example: "Solo esta semana: segunda opinión + plan de tratamiento sin costo (normal Gs 450,000) — agenda por WhatsApp". Calendar-bound; 2–4x per quarter max. Performs well when rare.
+Example: "Solo esta semana: segunda opinión + plan de tratamiento sin costo (normal Gs 450,000) — agenda por Messaging". Calendar-bound; 2–4x per quarter max. Performs well when rare.
 
 ---
 
@@ -96,7 +96,7 @@ Priority shots:
 
 | Post type | Frequency | Format |
 |-----------|-----------|--------|
-| "What we treat" showcase | 1/week | Photo + caption + CTA button (book, call, WhatsApp) |
+| "What we treat" showcase | 1/week | Photo + caption + CTA button (book, call, Messaging) |
 | Limited offer | 2–4/quarter | Graphics + promo CTA |
 | Doctor insight / post | 1/month | Reel or photo + narrative |
 
@@ -107,7 +107,7 @@ Best-performing GBP post types (industry benchmark): limited-time offer → cons
 [Hook + offer]
 [What you get in this appointment]
 [Why it matters for you]
-[CTA: Call / WhatsApp / Book] 
+[CTA: Call / Messaging / Book] 
 ```
 Length: 150–300 words. Not longer.
 
@@ -132,9 +132,9 @@ Length: 150–300 words. Not longer.
 
 **Budget starting point**: USD 15–25/day (~Gs 120–200k/day)
 - Test 3 creatives at $15/d; scale what gets 1+ lead per 50 Gs
-- WhatsApp click CTAs confirmed high conversion in PY dental
+- Messaging click CTAs confirmed high conversion in PY dental
 
-**KPI**: Cost per WhatsApp conversation started (not cost per click).
+**KPI**: Cost per Messaging conversation started (not cost per click).
 
 ### Google Ads (later stage)
 - After GBP is fully optimized + has 15+ reviews
@@ -194,7 +194,7 @@ Audio del 22 jun, textual:
 - [ ] Website live — 5-page minimum (Services, Pricing, About, Contact, Reviews)
 - [ ] GBP claimed + every field filled + 25 photos uploaded
 - [ ] Instagram + Facebook created + 9-grid posted
-- [ ] WhatsApp Business with auto-reply + catalog + appointment buttons
+- [ ] Messaging Business with auto-reply + catalog + appointment buttons
 - [ ] Meta pixel installed
 - [ ] First 5 patients incentivized to leave reviews
 - [ ] Paid ads live (once Google Business photo library is full)

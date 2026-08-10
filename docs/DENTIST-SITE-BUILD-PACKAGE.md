@@ -80,8 +80,8 @@ You are maintaining the dentist site content package. Your goals:
 | 6 | Launch readiness checklist |
 
 **Competitive upgrade overlay (from 200-lesson research):**
-- Hero: benefit-first headline + 3-slide max + trust badge + WhatsApp from hero
-- Pricing: grouped tables + disclaimer + WhatsApp CTA + PDF quote offer
+- Hero: benefit-first headline + 3-slide max + trust badge + Messaging from hero
+- Pricing: grouped tables + disclaimer + Messaging CTA + PDF quote offer
 - Process: 4-step visual journey + written-plan guarantee + what-to-bring + cancellation
 - Testimonials: source + verified flags + social proof diversity (Luque, expats, referrals)
 - FAQ: sedation/anxiety group + expat group + insurance detail
@@ -118,7 +118,7 @@ To preview site:
 ---
 
 ## 5. Human Checklist
-- [ ] WhatsApp/tel exact number
+- [ ] Messaging/tel exact number
 - [ ] Real Luque address + Google Maps coords
 - [ ] 5–10 real testimonials
 - [ ] Before/after photos

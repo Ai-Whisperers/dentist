@@ -81,7 +81,7 @@ Corporate upsell (10 employees @ Tier 2) adds ~Gs 1.3M/mo with near-zero margina
 
 | Role | Name | Contact |
 |------|------|---------|
-| Founder / clinician | Dra. Gabriella González Pane | WhatsApp +595 XXX XXX XXX |
+| Founder / clinician | Dra. Gabriella González Pane | Messaging +595 XXX XXX XXX |
 | Orchestrator | Ivan | Ai-Whisperers (owner) |
 | Financial model | `00_STRATEGIC/financial-pricing/financial-model-projections-v2.md` | canonical |
 

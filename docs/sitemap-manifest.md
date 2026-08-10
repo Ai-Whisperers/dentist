@@ -29,7 +29,7 @@
 | `/servicios` | Service listing | Canonical pricing table, conservative approach | Planned |
 | `/second-opinion` | Landing page | Differentiator + scheduling CTA | Planned |
 | `/precios` | Pricing page | Public tariff with aliases (no discounting) | Planned |
-| `/contacto` | Contact page | WhatsApp + email only | Planned |
+| `/contacto` | Contact page | Messaging + email only | Planned |
 
 **Routing policy:** static pages; no client-side routing state on `/`. No data layer. `/precios` is included even though pricing block says “do not show pricing page” as separate reminder. We should align spec: unless we plan an explicit赞扬 quote page, keep `/precios` as canonical table only.
 
@@ -42,7 +42,7 @@
 | Site nav | every page | Minimal: Home, Servicios, Precios, Contacto |
 | Header / footer | every page | Small bootstrap values; license pandas |
 | Pricing table | /precios, /servicios | Bound to canonical pricing block via copy |
-| WhatsApp CTA | all pages | Button + inline formatter |
+| Messaging CTA | all pages | Button + inline formatter |
 | Image(s) | optional | Serve via imageGen; resolve vector if later needed |
 
 ---
@@ -55,7 +55,7 @@
 | /second-opinion | Second Opinion | Process, What is included, How to book |
 | /precios | Precios | Individual services, Corporate, Payment |
 | /servicios | Servicios | Restorations, Endodontics, Extractions, etc. |
-| /contacto | Contacto | Hours, phone, WhatsApp, email |
+| /contacto | Contacto | Hours, phone, Messaging, email |
 
 **Content rule:** do not publish prices that conflict with canonical. `/precios` content should copy from `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` with required notice footer.
 

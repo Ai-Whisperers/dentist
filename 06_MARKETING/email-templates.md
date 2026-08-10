@@ -1,7 +1,7 @@
 # EMAIL TEMPLATES — OMETZ DENTAL
 ## 3 plantillas para comunicación con pacientes
 
-> **Cross-ref:** `09_TEMPLATES/email-templates.md` (legacy) + `08_WHATSAPP/templates/` + `05_OPERATIONS/patient-communications/`
+> **Cross-ref:** `09_TEMPLATES/email-templates.md` (legacy) + `08_MESSAGING/templates/` + `05_OPERATIONS/patient-communications/`
 
 **Versión:** 1.0 — Julio 2026
 **Tono:** Cálido, profesional, ADN-aligned ("Te escucho.")
@@ -37,7 +37,7 @@ Como te comenté en la consulta, te resumo los próximos pasos:
 [Método de pago, si hay saldo pendiente, etc.]
 
 📞 **Cómo contactarme:**
-- WhatsApp: [número] (es el más rápido)
+- Messaging: [número] (es el más rápido)
 - Email: doctora.gabi@ometsdental.com.py
 - Teléfono: [número]
 
@@ -86,7 +86,7 @@ Si ninguno te sirve, decime tu horario preferido y协调amos.
 📍 **Ometz Dental** — Barrio Mburucuyá, Asunción
 💰 **Gs 280.000** profilaxis estándar
 
-Para reservar: respondé este email, mandame WhatsApp al [número], o llamanos.
+Para reservar: respondé este email, mandame Messaging al [número], o llamanos.
 
 ¡Te esperamos!
 
@@ -120,7 +120,7 @@ Como regalo, te ofrecemos:
 Válido durante todo el mes de tu cumple. Solo mencioná este email al agendar.
 
 📅 **¿Querés agendar?**
-- WhatsApp: [número]
+- Messaging: [número]
 - Tel: [número]
 - O respondé este email
 
@@ -181,7 +181,7 @@ Odontóloga · Rehabilitación Oral · Estética Dental
 
 Ometz Dental
 Barrio Mburucuyá, Asunción, Paraguay
-WhatsApp: +595 XXX XXX XXX
+Messaging: +595 XXX XXX XXX
 Email: doctora.gabi@ometsdental.com.py
 Web: ometzdental.com.py
 
@@ -204,4 +204,4 @@ Web: ometzdental.com.py
 
 *Versión 1.0 — 7 julio 2026.*
 *Erebus (Ai-Whisperers).*
-*Cross-ref: `09_TEMPLATES/email-templates.md` (legacy) + `08_WHATSAPP/templates/` + `05_OPERATIONS/recuperacion-pacientes-inactivos.md`.*
+*Cross-ref: `09_TEMPLATES/email-templates.md` (legacy) + `08_MESSAGING/templates/` + `05_OPERATIONS/recuperacion-pacientes-inactivos.md`.*

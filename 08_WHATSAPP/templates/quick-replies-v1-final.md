@@ -1,4 +1,4 @@
-# Quick Replies — WhatsApp Business — Ometz Dental
+# Quick Replies — Messaging Business — Ometz Dental
 
 **Última actualización:** 28 jun 2026
 **Marca comercial:** Ometz Dental (אומץ — "coraje" en hebreo)
@@ -10,9 +10,9 @@
 
 ---
 
-## Cómo cargar en WhatsApp Business
+## Cómo cargar en Messaging Business
 
-1. Abrir WhatsApp Business → Ajustes → Herramientas para la empresa → Respuestas rápidas
+1. Abrir Messaging Business → Ajustes → Herramientas para la empresa → Respuestas rápidas
 2. Crear 5 con los atajos: `/precios`, `/agenda`, `/segunda`, `/ubicacion`, `/horarios`
 3. El primer slash es el atajo. Lo que sigue es el mensaje.
 

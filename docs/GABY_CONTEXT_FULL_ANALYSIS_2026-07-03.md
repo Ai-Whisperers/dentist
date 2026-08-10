@@ -11,7 +11,7 @@ Gaby es la **Dra. Gabriella González Pane**, odontóloga paraguaya de 45 años 
 
 El problema central: en O3 cobra Gs 60k por restauración cuando el mercado paga Gs 400-550k. **El gap es 7-9x.** La apertura es para capturar ese valor.
 
-El repo está 95% listo: estrategia, research, legal, marca, WhatsApp, cuestionarios, sitemap. **Lo que falta son 6 decisiones de ella + 1 día de ejecución.**
+El repo está 95% listo: estrategia, research, legal, marca, Messaging, cuestionarios, sitemap. **Lo que falta son 6 decisiones de ella + 1 día de ejecución.**
 
 ---
 
@@ -80,7 +80,7 @@ El repo está 95% listo: estrategia, research, legal, marca, WhatsApp, cuestiona
 
 ### Canales (confirmados)
 - ✅ **Facebook** — público meta (paraguayos 30-60 + expats)
-- ✅ **WhatsApp Business** — crítico
+- ✅ **Messaging Business** — crítico
 - ✅ **Google Business Profile** — crítico
 - ❌ **Instagram** — público no está
 - ❌ **LinkedIn** — no prioridad local
@@ -138,7 +138,7 @@ dentist/
 │   ├── referral-program/
 │   ├── crm-systems/
 │   ├── website-content/             # sitemap, blog, expat
-│   └── whatsapp-outreach/
+│   └── messaging-outreach/
 │
 ├── 04_SALES/                        # Contratos corporativos
 ├── 05_OPERATIONS/                   # ~17 docs (rutinas clínicas, legal, comunicación)
@@ -146,7 +146,7 @@ dentist/
 ├── 07_DESIGN/                       # ~14 docs (brand + website)
 │   ├── brand-assets/                # Cards, signage
 │   └── website/                     # 22 páginas + validación mínima viable
-├── 08_WHATSAPP/                     # ~6 docs (automatización, templates)
+├── 08_MESSAGING/                     # ~6 docs (automatización, templates)
 ├── 09_TEMPLATES/                    # ~4 docs (appointment, recall, referral)
 ├── ARCHIVE/                         # Material histórico
 ├── docs/                            # Planning docs
@@ -160,17 +160,17 @@ dentist/
 - ✅ Brand positioning v3 (alineado al ADN)
 - ✅ 3 opciones estratégicas (Upsell / Parallel / Full Exit)
 - ✅ ADN Profesional PDF (33 páginas) — single source of truth de su voz
-- ✅ Quick replies WhatsApp (5 mensajes, con "Te escucho.")
+- ✅ Quick replies Messaging (5 mensajes, con "Te escucho.")
 - ✅ Sitemap del sitio
 - ✅ Mensajes de bienvenida actualizados
 - ✅ Pedido de reseñas
 - ✅ Lista de comunidades expat
 - ✅ Propuestas de nombres (histórico — Ometz ya adoptado)
 - ✅ Análisis crítico de cuestionarios
-- ✅ WhatsApp automation blueprint
-- ✅ WhatsApp operations guide
+- ✅ Messaging automation blueprint
+- ✅ Messaging operations guide
 - ✅ Objection library
-- ✅ WhatsApp setup configuration guide
+- ✅ Messaging setup configuration guide
 - ✅ Master launch roadmap
 - ✅ 6 prompts de audio para Gaby
 - ✅ Cuestionarios audio-friendly (Cuestionario A HOY ya existe como `validacion-minima-viable.md`)
@@ -180,7 +180,7 @@ dentist/
 ### Lo que está bloqueado 🔴 (decisiones de Gaby)
 1. **Calle exacta del consultorio en Mburucuyá** → sin esto no se puede armar Google Business ni la web
 2. **Cuándo abre formalmente** → necesario para countdown del día 1
-3. **Línea WhatsApp Business** → ¿ya la tiene o la compra esta semana?
+3. **Línea Messaging Business** → ¿ya la tiene o la compra esta semana?
 4. **EAS, RUC, Timbrado confirmados** → ¿todo en orden?
 5. **Seguro responsabilidad civil profesional** → crítico, no recomendado NO tenerlo
 6. **Community manager** → no quiere, pero ¿quién hace el contenido?
@@ -195,7 +195,7 @@ dentist/
 - [ ] Consolidar Cuestionario C (Fase 2, 30 min)
 - [ ] Eliminar preguntas peligrosas de cuestionarios históricos
 - [ ] Google Business Profile setup guide paso a paso
-- [ ] WhatsApp Business config paso a paso
+- [ ] Messaging Business config paso a paso
 - [ ] Plan día 1 apertura
 - [ ] Checklist pre-apertura
 - [ ] Plan primera semana
@@ -243,20 +243,20 @@ dentist/
 Marca "Ometz Dental", frase "Te escucho.", servicio estrella "Rehabilitación oral", decisión NO Instagram.
 
 ### FASE 2 — Cuestionarios 🟡 en curso
-- **A (5 min, HOY):** WhatsApp, dirección, calle, RUC, MSPBS, email → `validacion-minima-viable.md`
+- **A (5 min, HOY):** Messaging, dirección, calle, RUC, MSPBS, email → `validacion-minima-viable.md`
 - **B (15 min, post-reunión):** datos + contenido + operación
 - **C (30 min, Fase 2):** fotos, testimonios, integraciones
 
 ### FASE 3 — Operaciones (2 semanas antes de apertura)
 - Google Business setup
-- WhatsApp Business config
+- Messaging Business config
 - Mensajes a 5-10 pacientes top
 - Quick replies ✅
 - Sitemap ✅
 
 ### FASE 4 — Día 1 en Mburucuyá
 - Plan comunicación apertura
-- Scripts WhatsApp en vivo
+- Scripts Messaging en vivo
 - Checklist pre-apertura
 - Plan primera semana (4-5 pacientes)
 
@@ -278,17 +278,17 @@ Marca "Ometz Dental", frase "Te escucho.", servicio estrella "Rehabilitación or
 >
 > **Hoy (5 min):** Respondeme por audio las 6 preguntas del Cuestionario A (te las paso abajo). Con eso destrabo todo.
 >
-> **Esta semana (30 min/día):** Sacá la línea WhatsApp Business, armá Google Business Profile (te paso guía paso a paso), y mandame la calle exacta del consultorio.
+> **Esta semana (30 min/día):** Sacá la línea Messaging Business, armá Google Business Profile (te paso guía paso a paso), y mandame la calle exacta del consultorio.
 >
 > **2 semanas antes de abrir:** Cuestionario B (15 min en audio), plan del día 1, primeros 5-10 pacientes agendados.
 >
-> **Día 1:** Soft launch con 4-5 pacientes agendados. No más. WhatsApp Business con quick replies listos. Publicación Facebook. Respirar.
+> **Día 1:** Soft launch con 4-5 pacientes agendados. No más. Messaging Business con quick replies listos. Publicación Facebook. Respirar.
 >
 > La clave: **no se hace todo de una.** Se hace una cosa por día. El repo tiene todo lo que necesitás escrito — solo falta que me digas las 6 cosas que solo vos sabés.
 
 **Las 6 preguntas del Cuestionario A** (audio-friendly):
 1. ¿Cuál es la calle exacta y número del consultorio en Mburucuyá?
-2. ¿La línea de WhatsApp Business ya la tenés o la comprás esta semana?
+2. ¿La línea de Messaging Business ya la tenés o la comprás esta semana?
 3. ¿El RUC 1375421-1 está activo y al día?
 4. ¿El registro MSPBS 3618 está vigente?
 5. ¿Tenés seguro de responsabilidad civil profesional? (decí "no" si no tenés, no pasa nada)

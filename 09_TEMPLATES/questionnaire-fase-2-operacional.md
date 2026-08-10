@@ -150,7 +150,7 @@ Te recomiendo **4 audios cortos**, uno por bloque. Te dejo abajo qué decir en c
 
 ### C4.3 — ¿Querés agenda online (Calendly u otro)?
 
-> "Bloque C4, pregunta tres, agenda online. [Sí, lo voy a usar] / [No, prefiero coordinar por WhatsApp] / [No, no me interesa]."
+> "Bloque C4, pregunta tres, agenda online. [Sí, lo voy a usar] / [No, prefiero coordinar por Messaging] / [No, no me interesa]."
 
 ---
 
@@ -162,7 +162,7 @@ Te recomiendo **4 audios cortos**, uno por bloque. Te dejo abajo qué decir en c
 
 ### C4.5 — ¿Querés que el sitio web tenga formulario de contacto?
 
-> "Bloque C4, pregunta cinco, formulario. [Sí, además del WhatsApp] / [No, con el WhatsApp alcanza] / [Sí, pero que vaya a mi email]."
+> "Bloque C4, pregunta cinco, formulario. [Sí, además del Messaging] / [No, con el Messaging alcanza] / [Sí, pero que vaya a mi email]."
 
 ---
 
@@ -214,4 +214,4 @@ Una vez que tengas los 20 datos:
 
 ---
 
-*Mandame tus audios por WhatsApp a Kiki cuando estés lista. Si querés contestar solo 1 bloque hoy y los otros mañana, perfecto.*
+*Mandame tus audios por Messaging a Kiki cuando estés lista. Si querés contestar solo 1 bloque hoy y los otros mañana, perfecto.*

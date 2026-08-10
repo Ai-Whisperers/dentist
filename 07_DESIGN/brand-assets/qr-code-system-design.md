@@ -15,27 +15,27 @@
 
 ## PURPOSE
 
-QR codes that patients can scan to: message WhatsApp, leave Google review, save contact, or visit website. Place codes throughout the office and on materials.
+QR codes that patients can scan to: message Messaging, leave Google review, save contact, or visit website. Place codes throughout the office and on materials.
 
 ---
 
 ## QR CODES TO CREATE
 
-### QR 1: WhatsApp Direct Message
+### QR 1: Messaging Direct Message
 ```
-https://wa.me/595987126790?text=Hola%20Dra.%20GP
+tel:+595987126790?text=Hola%20Dra.%20GP
 ```
 **Where:** Business cards, counter, waiting area, website
-**What it does:** Opens WhatsApp with pre-filled message
+**What it does:** Opens Messaging with pre-filled message
 
 ---
 
-### QR 2: WhatsApp — Specific Message (Second Opinion)
+### QR 2: Messaging — Specific Message (Second Opinion)
 ```
-https://wa.me/595987126790?text=Hola!%20Me%20interesa%20una%20segunda%20opinión%20odontológica
+tel:+595987126790?text=Hola!%20Me%20interesa%20una%20segunda%20opinión%20odontológica
 ```
 **Where:** Expat forums, referral cards
-**What it does:** Opens WhatsApp with second opinion inquiry
+**What it does:** Opens Messaging with second opinion inquiry
 
 ---
 
@@ -43,7 +43,7 @@ https://wa.me/595987126790?text=Hola!%20Me%20interesa%20una%20segunda%20opinión
 ```
 https://g.page/[YOUR_PLACE_ID]/review
 ```
-**Where:** After-treatment instructions, counter, WhatsApp follow-up
+**Where:** After-treatment instructions, counter, Messaging follow-up
 **What it does:** Opens Google review form for your business
 
 ---
@@ -90,14 +90,14 @@ Use free tools:
 
 | Location | QR Code | Purpose |
 |----------|---------|---------|
-| Counter/reception | QR 1 (WhatsApp) | Contact easily |
-| Inside treatment room | QR 1 (WhatsApp) | Post-treatment follow-up |
-| On business card | QR 1 (WhatsApp) | Direct message |
+| Counter/reception | QR 1 (Messaging) | Contact easily |
+| Inside treatment room | QR 1 (Messaging) | Post-treatment follow-up |
+| On business card | QR 1 (Messaging) | Direct message |
 | On business card | QR 3 (Google Review) | Leave review |
-| On consent form | QR 1 (WhatsApp) | Questions after |
-| On post-treatment sheet | QR 1 (WhatsApp) | Post-treatment issues |
+| On consent form | QR 1 (Messaging) | Questions after |
+| On post-treatment sheet | QR 1 (Messaging) | Post-treatment issues |
 | On referral card | QR 2 (Second Opinion) | Drive second opinions |
-| On letterhead | QR 1 (WhatsApp) | Contact |
+| On letterhead | QR 1 (Messaging) | Contact |
 
 ---
 
@@ -116,7 +116,7 @@ Use free tools:
 
 Track which QR codes get scanned:
 - Use QR code generator with UTM parameters
-- Example: `https://wa.me/595XXX?utm_source=business-card&utm_medium=qr&utm_campaign=second-opinion`
+- Example: `tel:+595XXX?utm_source=business-card&utm_medium=qr&utm_campaign=second-opinion`
 
 But for now, simple counting is fine.
 
@@ -140,4 +140,4 @@ But for now, simple counting is fine.
 
 ---
 
-**STATUS:** Create these QR codes when business WhatsApp number is confirmed.
+**STATUS:** Create these QR codes when business Messaging number is confirmed.

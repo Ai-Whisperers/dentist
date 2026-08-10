@@ -10,7 +10,7 @@
 ### 1. Hero Slides (ES + EN)
 - Benefit-first headlines: "Plan written before we act", "Dentistry with judgment. Not with rush."
 - Trust badges: bilingual, 20+ years, free second opinion, no-obligation plan
-- WhatsApp CTA from hero ("Agendar consulta" / "Book consultation")
+- Messaging CTA from hero ("Agendar consulta" / "Book consultation")
 
 ### 2. Process Journey (ES + EN)
 - 4-step visual: Contact → Evaluation → Written plan → Treatment
@@ -20,7 +20,7 @@
 ### 3. Pricing Tables (ES + EN)
 - Grouped by category: general, cosmetic, rehab, second opinion
 - Each item has price + duration
-- Disclaimer + WhatsApp CTA per pricing section
+- Disclaimer + Messaging CTA per pricing section
 - Second opinion pricing: Gs 450,000 – 600,000
 - Consultation pricing: Gs 150,000+
 
@@ -100,12 +100,12 @@
 ### E) CONVERSION OPTIMIZATIONS
 
 1. **Fixed mobile bottom CTA** — "Agendar / Book" sticky bar
-2. **WhatsApp message templates** — pre-filled per service:
+2. **Messaging message templates** — pre-filled per service:
    - General: "Hola, quiero una consulta general"
    - Second opinion: "Hola, solicito segunda opinión"
    - Pricing: "Hola, quiero información de precios de [servicio]"
-3. **Abandoned form recovery** — capture email + WhatsApp on close
-4. **Post-visit review request** — SMS/WhatsApp template after 7 days
+3. **Abandoned form recovery** — capture email + Messaging on close
+4. **Post-visit review request** — SMS/Messaging template after 7 days
 5. **Referral capture** — "¿Cómo nos conociste?" in intake form
 
 ---

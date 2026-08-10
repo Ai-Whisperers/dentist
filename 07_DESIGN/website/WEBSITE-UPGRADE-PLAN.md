@@ -92,7 +92,7 @@ Crear `/casos` con 2-3 casos documentados (con consentimiento):
 |--------|-------|
 | "Agendar consulta" | "Agendar evaluación en 24hs" |
 | "Segunda opinión" | "Obtener segunda opinión independiente" |
-| "Escribime por WhatsApp" | "Escribime por WhatsApp — respondo en 24hs" |
+| "Escribime por Messaging" | "Escribime por Messaging — respondo en 24hs" |
 | "Conocer más" | "Ver casos y precios" |
 
 ### 3.2 Múltiples CTAs por Página
@@ -100,9 +100,9 @@ Crear `/casos` con 2-3 casos documentados (con consentimiento):
 - Hero: 1 CTA primario + 1 secundario
 - Mid-content: 1 CTA inline
 - Bottom: 1 CTA final con scarcity
-- Floating: WhatsApp button (ya está)
+- Floating: Messaging button (ya está)
 
-### 3.3 Mensaje WhatsApp Más Específico
+### 3.3 Mensaje Messaging Más Específico
 
 **Actual:** "Hola Dra. GP, me gustaría agendar una consulta."
 
@@ -254,7 +254,7 @@ Reemplazar TODOS los strings en código:
 ### 8.4 Conversión Optimization
 
 - Add heatmap tracking (Microsoft Clarity, free)
-- Add WhatsApp click tracking
+- Add Messaging click tracking
 - Add A/B test framework (optional)
 - Setup Google Tag Manager
 
@@ -310,12 +310,12 @@ Reemplazar TODOS los strings en código:
 ## MÉTRICAS DE ÉXITO
 
 ### Mes 1
-- 5+ leads de WhatsApp
+- 5+ leads de Messaging
 - 1+ conversión (consulta real)
 - Bounce rate < 60%
 
 ### Mes 3
-- 15+ leads de WhatsApp/mes
+- 15+ leads de Messaging/mes
 - 5+ conversiones/mes
 - 3+ testimonials collected
 - 100+ visitas orgánicas/mes

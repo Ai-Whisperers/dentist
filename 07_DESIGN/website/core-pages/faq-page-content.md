@@ -26,7 +26,7 @@
 Preguntas frecuentes
 
 **Subheadline:**
-Las respuestas a las preguntas que más me hacen. Si tenés otra pregunta, escribime por WhatsApp.
+Las respuestas a las preguntas que más me hacen. Si tenés otra pregunta, escribime por Messaging.
 
 ---
 
@@ -58,7 +58,7 @@ Las respuestas a las preguntas que más me hacen. Si tenés otra pregunta, escri
 
 ### Pregunta 6
 **Q:** ¿Cómo agendo una cita?
-**A:** Lo más fácil es por WhatsApp. Escribime al [NÚMERO] con tu nombre y qué te gustaría resolver. Te respondo dentro de 24 horas con horarios disponibles.
+**A:** Lo más fácil es por Messaging. Escribime al [NÚMERO] con tu nombre y qué te gustaría resolver. Te respondo dentro de 24 horas con horarios disponibles.
 
 ### Pregunta 7
 **Q:** ¿Cuánto dura la primera consulta?
@@ -132,10 +132,10 @@ Las respuestas a las preguntas que más me hacen. Si tenés otra pregunta, escri
 ¿Tenés otra pregunta?
 
 **Subheadline:**
-Escribime por WhatsApp. Respondo en menos de 24 horas.
+Escribime por Messaging. Respondo en menos de 24 horas.
 
 **CTA label:**
-Escribime por WhatsApp →
+Escribime por Messaging →
 
 ---
 

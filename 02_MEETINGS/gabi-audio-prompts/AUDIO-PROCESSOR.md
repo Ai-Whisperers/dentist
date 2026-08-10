@@ -12,7 +12,7 @@
 
 Si Gaby dice cualquiera de estas frases, sabés qué cuestionario es:
 
-- "Pregunta uno, WhatsApp..." → Cuestionario A (5 min, 6 datos)
+- "Pregunta uno, Messaging..." → Cuestionario A (5 min, 6 datos)
 - "Bloque B1, pregunta uno, EAS..." → Cuestionario B bloque B1
 - "Bloque B2, pregunta uno, bio corta..." → Cuestionario B bloque B2
 - "Bloque B3, pregunta uno, fecha de apertura..." → Cuestionario B bloque B3
@@ -33,7 +33,7 @@ Para cada cuestionario, buscá las keywords específicas. Ejemplos:
 
 | Pregunta | Keywords a buscar | Datos a extraer |
 |----------|------------------|-----------------|
-| 1 - WhatsApp | "número", "WhatsApp", "Tigo", "Personal", "chip" | Número o fecha tentativa |
+| 1 - Messaging | "número", "Messaging", "Tigo", "Personal", "chip" | Número o fecha tentativa |
 | 2 - Dirección | "calle", "dirección", "Mburucuyá", "Asunción", "entre" | Calle exacta o "pendiente" |
 | 3 - Email | "email", "correo", "gmail", "hotmail" | Email o "pendiente" |
 | 4 - RUC | "RUC", "ruc", "tributario" | Número de RUC o "no tengo" |
@@ -78,7 +78,7 @@ Después de procesar el audio, creá un archivo en `/tmp/gaby-respuestas-[fecha]
 
 | # | Pregunta | Respuesta | Status |
 |---|----------|-----------|--------|
-| 1 | WhatsApp | [dato] | ✅ / 🟡 / ❌ |
+| 1 | Messaging | [dato] | ✅ / 🟡 / ❌ |
 | 2 | Dirección | [dato] | ✅ / 🟡 / ❌ |
 | ... | ... | ... | ... |
 
@@ -117,7 +117,7 @@ NO asumas que lo que entendiste es lo que Gaby dijo. SIEMPRE confirmá.
 - No completar con valores por defecto ("si no dijo, asumo que la calle es Mburucuyá, Asunción")
 - No asumir intenciones ("seguro quiso decir que sí")
 - No saltar pasos de confirmación
-- No hacer 2 preguntas a la vez ("me dijo su WhatsApp y también su email? no, mejor pregunto")
+- No hacer 2 preguntas a la vez ("me dijo su Messaging y también su email? no, mejor pregunto")
 
 ### ✅ SÍ HACER:
 - Preguntar si no se entendió

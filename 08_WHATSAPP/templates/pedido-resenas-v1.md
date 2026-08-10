@@ -110,7 +110,7 @@ to get started:
 As a thank you, I'll give you 10% off your next cleaning.
 Valid for 30 days from when you post the review.
 
-Thanks so much. Reach me on WhatsApp anytime.
+Thanks so much. Reach me on Messaging anytime.
 Dr. Gabriella
 ```
 

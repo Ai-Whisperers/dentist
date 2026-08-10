@@ -22,7 +22,7 @@
 - **00_STRATEGIC/strategic-context/executive-summary-dra-gp.md** — v2 con Ara + combustible + pivote.
 - **01_RESEARCH/locations/luque-space-shortlist-v2.md** (NUEVO) — 6 opciones (era 4), incluye amiga Burucuyá + Luque lunes.
 - **00_STRATEGIC/strategic-context/burucuya-vs-mburucuya-clarity.md** (NUEVO) — Aclara confusión geográfica.
-- **09_TEMPLATES/follow-up-burucuya-amiga-luque.md** (NUEVO) — Mensaje de WhatsApp para la amiga.
+- **09_TEMPLATES/follow-up-burucuya-amiga-luque.md** (NUEVO) — Mensaje de Messaging para la amiga.
 - **09_TEMPLATES/follow-up-MBURUCUYA-mariana-asuncion.md** (NUEVO) — Mensaje para Mariana Brescia (renombrado).
 - **07_DESIGN/website/validacion-minima-viable.md** (NUEVO) — MVQ de 6 preguntas para destrabar el sitio.
 - **02_MEETINGS/gabi-audio-prompts/** (NUEVO directorio) — 6 audio scripts + README + análisis de cuestionarios.
@@ -71,7 +71,7 @@
 
 ## Next concrete block (esta semana)
 
-1. **Mandar mensajes de WhatsApp a la amiga de Burucuyá y a Mariana Brescia** (mensajes ya listos en `09_TEMPLATES/`)
+1. **Mandar mensajes de Messaging a la amiga de Burucuyá y a Mariana Brescia** (mensajes ya listos en `09_TEMPLATES/`)
 2. **Grabar audios #1, #2, #3 de Gaby** (scripts en `02_MEETINGS/gabi-audio-prompts/`)
 3. **Reunión con Roque** (fecha TBD) — usar `00-ONE-PAGE-CHEAT-SHEET.md`
 4. **Post-reunión**: activar Plan B completo (Burucuyá amiga viernes) si es necesario

@@ -10,7 +10,7 @@
 
 ## BIENVENIDA
 
-Sos parte de Ometz Dental. Este consultorio es especial porque la doctora trata a los pacientes como personas, no como dientes. Tu rol es hacer que esa filosofía se sienta desde el primer WhatsApp hasta la despedida.
+Sos parte de Ometz Dental. Este consultorio es especial porque la doctora trata a los pacientes como personas, no como dientes. Tu rol es hacer que esa filosofía se sienta desde el primer Messaging hasta la despedida.
 
 **Lo que se espera de vos:**
 - Cordialidad sin exageración (no gritar "¡BIENVENIDA!")
@@ -33,7 +33,7 @@ Sos parte de Ometz Dental. Este consultorio es especial porque la doctora trata 
 
 ### Si sos **recepcionista** (frente al consultorio o virtual)
 
-- Manejo de WhatsApp Business (responder consultas, agendar)
+- Manejo de Messaging Business (responder consultas, agendar)
 - Confirmación de citas (24h antes y 2h antes)
 - Cobro y facturación (apoyo al contador)
 - Atención al paciente en sala de espera
@@ -61,7 +61,7 @@ Sos parte de Ometz Dental. Este consultorio es especial porque la doctora trata 
 [ ] Verificar stock de EPP del día (guantes, mascarillas, gasas, algodón)
 [ ] Bandeja de instrumentos del primer paciente lista
 [ ] Computadora / sistema abierto y login
-[ ] Teléfono WhatsApp Business abierto
+[ ] Teléfono Messaging Business abierto
 ```
 
 ### Durante la jornada
@@ -85,7 +85,7 @@ Sos parte de Ometz Dental. Este consultorio es especial porque la doctora trata 
 3. Procesar el cobro (efectivo, transferencia, POS, Pagopar)
 4. Entregar tarjeta de recomendación (referral card) si el paciente está conforme
 5. Programar próxima cita (si aplica)
-6. **Iniciar protocolo de recall:** WhatsApp a las 48h preguntando cómo se siente
+6. **Iniciar protocolo de recall:** Messaging a las 48h preguntando cómo se siente
 7. Limpieza y preparación para el siguiente paciente (10-15 min)
 
 ### Cierre (30 minutos después del último paciente)
@@ -100,7 +100,7 @@ Sos parte de Ometz Dental. Este consultorio es especial porque la doctora trata 
 [ ] Bolsa roja de residuos: cerrar si está >75%
 [ ] Contar caja del día (efectivo + transacciones)
 [ ] Anotar en el libro de caja: ingresos del día
-[ ] Mensaje WhatsApp a la doctora con resumen del día
+[ ] Mensaje Messaging a la doctora con resumen del día
 [ ] Cerrar puertas y ventanas
 [ ] Activar alarma (si aplica)
 ```
@@ -109,7 +109,7 @@ Sos parte de Ometz Dental. Este consultorio es especial porque la doctora trata 
 
 ## COMUNICACIÓN CON PACIENTES
 
-### WhatsApp Business — Tono y tiempos
+### Messaging Business — Tono y tiempos
 
 - **Tiempo de respuesta:** <30 minutos en horario laboral, <2 horas en fin de semana.
 - **Tono:** cálido, profesional, breve. Sin abreviaciones, sin emojis excesivos.
@@ -118,7 +118,7 @@ Sos parte de Ometz Dental. Este consultorio es especial porque la doctora trata 
 
 ### Respuestas rápidas pre-armadas (quick replies)
 
-Las quick replies ya están configuradas en `08_WHATSAPP/templates/quick-replies-PERSONALIZADO-gaby.md`. Las principales:
+Las quick replies ya están configuradas en `08_MESSAGING/templates/quick-replies-PERSONALIZADO-gaby.md`. Las principales:
 
 | Quick reply | Cuándo usarla |
 |---|---|
@@ -252,7 +252,7 @@ Como asistente, sos responsable de:
 - **Tu rol:** cargar datos administrativos del paciente (nombre, CI, teléfono, obra social si tiene), NO diagnóstico
 - **Backup:** semanal, en disco duro externo o nube
 
-### WhatsApp Business
+### Messaging Business
 
 - **Tu rol:** responder consultas, agendar citas, confirmar turnos, enviar recordatorios
 - **NO:** dar información médica, discutir precios sin consultar, responder quejas complejas (escalar a la doctora)
@@ -261,7 +261,7 @@ Como asistente, sos responsable de:
 
 - **Efectivo:** guardar en caja fuerte, anotar en libro de caja
 - **POS Bancard:** pasar tarjeta, dar comprobante
-- **Pagopar:** enviar link de pago por WhatsApp
+- **Pagopar:** enviar link de pago por Messaging
 - **Transferencia:** confirmar recibido en el banco
 
 ### Inventario
@@ -279,7 +279,7 @@ Como asistente, sos responsable de:
 - [ ] Leer este manual completo
 - [ ] Leer el checklist de bioseguridad completo
 - [ ] Conocer el sistema de gestión de pacientes
-- [ ] Memorizar las quick replies de WhatsApp
+- [ ] Memorizar las quick replies de Messaging
 - [ ] Saber dónde está cada cosa en el consultorio
 - [ ] Hacer 1 prueba completa: abrir el consultorio, atender un paciente simulado, cerrarlo
 

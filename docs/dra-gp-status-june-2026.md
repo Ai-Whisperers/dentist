@@ -68,7 +68,7 @@
 | Phase 0 checklist | `00_STRATEGIC/PHASE-0-CHECKLIST-JUNE-2026.md` |
 | Corporate tracker | `03_LAUNCH/corporate-sales/outreach/corporate-sales-tracker.xlsx` |
 | Competitor intel | `01_RESEARCH/market/battle-cards/` |
-| Objections + replies | `08_WHATSAPP/templates/objection-library.md` |
+| Objections + replies | `08_MESSAGING/templates/objection-library.md` |
 
 ---
 

@@ -1,4 +1,4 @@
--- Ometz Dental WhatsApp CRM schema
+-- Ometz Dental Messaging CRM schema
 -- Created: 27 jul 2026
 -- Owner: Erebus (Hermes-AI)
 -- Schema: Supabase Postgres
@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS wa_contacts (
     is_existing_patient BOOLEAN DEFAULT FALSE,
     is_referral BOOLEAN DEFAULT FALSE,
     referred_by TEXT,
-    source TEXT DEFAULT 'whatsapp',
+    source TEXT DEFAULT 'messaging',
     first_message_at TIMESTAMPTZ,
     last_message_at TIMESTAMPTZ,
     total_messages INTEGER DEFAULT 0,
@@ -250,9 +250,9 @@ ON CONFLICT (phone) DO NOTHING;
 -- 13. Comments
 -- ============================================================
 COMMENT ON TABLE wa_contacts IS 'Master contact book for Ometz Dental WA Business';
-COMMENT ON TABLE wa_messages IS 'All WhatsApp messages (inbound + outbound)';
+COMMENT ON TABLE wa_messages IS 'All Messaging messages (inbound + outbound)';
 COMMENT ON TABLE wa_conversations IS 'Aggregated conversation view per phone';
-COMMENT ON TABLE wa_appointments IS 'Booked appointments via WhatsApp';
+COMMENT ON TABLE wa_appointments IS 'Booked appointments via Messaging';
 COMMENT ON TABLE wa_escalations IS 'Messages requiring human attention (URGENT, COMPLAINT, etc.)';
 COMMENT ON TABLE wa_events IS 'System events (connection state, errors)';
 COMMENT ON TABLE wa_metrics IS 'Daily aggregated metrics for dashboard';
