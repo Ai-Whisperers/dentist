@@ -9,6 +9,7 @@
 
 - **Sitio live (operativo):** https://ometzdental.com/es · https://ometzdental.com/en
 - **Este repo:** Source of truth estratégico + content. NO es runtime del sitio.
+- **Related:** [paragu-ai-clients](https://github.com/Ai-Whisperers/paragu-ai-clients) — site template monorepo
 
 ## 🎯 Qué hay aquí
 
