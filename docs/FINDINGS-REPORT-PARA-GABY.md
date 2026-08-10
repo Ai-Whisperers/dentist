@@ -27,8 +27,8 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 | Calle | Auditores de la Guerra del Chaco 617 | ✅ Cuestionario 6 jul 2026 |
 | Barrio | Mburucuyá | ✅ confirmado desde jun |
 | Ciudad | Asunción, Paraguay | ✅ |
-| WhatsApp personal (transitorio) | **+595 981 146 759** | ✅ Cuestionario 6 jul (NUEVO) |
-| WhatsApp Business (chip nuevo) | pendiente compra semana 7 jul | 🟡 en proceso |
+| Messaging personal (transitorio) | **+595 981 146 759** | ✅ Cuestionario 6 jul (NUEVO) |
+| Messaging Business (chip nuevo) | pendiente compra semana 7 jul | 🟡 en proceso |
 | Email profesional | **`doctora.gabi@ometsdental.com.py`** | ✅ Audio 28 jun |
 | Email legacy (personal) | `dra.gp.odontologia@gmail.com` | (referencia) |
 | Sitio web | `https://ometzdental.com/es` + `/en` | ✅ live |
@@ -55,7 +55,7 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 | Idiomas | Español (nativo) + Inglés (fluido) |
 | Qué atendía antes | Odontología 3 (clínica de Roque) — cierra relación jul 2026 |
 | Cómo atendía | Modelo relacionado con seguro / plan / producción |
-| Modelo nuevo | Privado, agendar por WhatsApp, sin producción forzada |
+| Modelo nuevo | Privado, agendar por Messaging, sin producción forzada |
 
 ### Datos del modelo de negocio
 | Campo | Valor |
@@ -66,7 +66,7 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 | Horas por día | ~4 horas tardes (14:30 a 19:00) |
 | Consultorio es de | Amiga muy amiga (en planta baja, Mburucuyá) |
 | Community manager | NO quiere hacerlo ella — prefiere delegar |
-| Atención | SOLO con cita previa (WhatsApp) |
+| Atención | SOLO con cita previa (Messaging) |
 | Pricing | Arancel del Círculo como base, ajustado al mercado |
 
 ---
@@ -78,7 +78,7 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 | Bloqueante | Esfuerzo de Gaby | Status |
 |------------|------------------|--------|
 | **Seguro RC profesional** | Kiki debe guiarla; ella contrata | ❌ no tiene, no sabe qué es |
-| **WhatsApp Business (chip nuevo)** | Compra + setup | 🟡 compra la semana 7 jul |
+| **Messaging Business (chip nuevo)** | Compra + setup | 🟡 compra la semana 7 jul |
 | **Habilitación MSPBS del consultorio** (DESATS) | Trámite presencial | 🟡 debe ir a Brasil casi Manuel Domínguez |
 | **EAS** (Establecimiento de Salud) | Trámite en MSPBS | 🟡 dijo no, pero sí lo necesita |
 | **Placa de inauguración / listo** | Compra + instalación | 🟡 |
@@ -93,7 +93,7 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 | Cartel exterior instalado | Imprenta local (Gs 150-300k) | Visibilidad |
 | Primeros 5-10 reseñas Google | Pacientes de O3 que migren | Trust signal |
 | Confirmar community manager (interno, externo, Kiki los 3 meses) | Iván aprueba | Velocidad de contenido |
-| Definir protocolo de urgencias | Gaby define qué es urgencia | WhatsApp auto-responses |
+| Definir protocolo de urgencias | Gaby define qué es urgencia | Messaging auto-responses |
 | Nombre del contador | Documentar | Compliance |
 | Confirmar dirección de cobro (aliases bancarios) | Bancarios | Pago |
 
@@ -148,7 +148,7 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 | Marketing | Anuncios agresivos / descuentos baratos / competencia por precio | Contenido educativo + casos reales |
 | Atención | Turnos maratonianos / "todo el día colgada" | Agenda corta pero de calidad (45-60 min primera consulta) |
 | Pricing | Cobrar el arancel Círculo "tal cual" (dice "es mucho") | Honorarios justos con valor diferenciado |
-| Comunicación | Que la molesten en WhatsApp personal sin pausa | WA Business con respuestas automáticas |
+| Comunicación | Que la molesten en Messaging personal sin pausa | WA Business con respuestas automáticas |
 | Comunidad manager | Hacerlo ella misma | Delegarlo a alguien que la represente (Kiki los primeros 3 meses) |
 | Su consultorio | Cumplir "metas de producción" (como Odontología 3) | Practicar al ritmo que ella decida |
 | Sus colegas | Competir por volumen | Red de derivación (endodoncistas, cirujanos, ortodoncistas, implantólogos) |
@@ -237,11 +237,11 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 
 ### 🔴 ESTA SEMANA (puede hacer ella misma)
 
-#### Acción 1 — Comprar chip WhatsApp Business HOY
+#### Acción 1 — Comprar chip Messaging Business HOY
 - **Qué:** ir a Tigo o Personal, comprar chip nuevo con número Business
 - **Por qué:** Bloqueante #1. Sin esto, no hay como captar clientes
 - **Costo:** Gs 50-150k (chip) + plan mensual (Gs 80-150k)
-- **Tiempo:** 30 min en tienda + 1 hora configurar WhatsApp Business
+- **Tiempo:** 30 min en tienda + 1 hora configurar Messaging Business
 - **Resultado:** número nuevo para activar todo
 
 #### Acción 2 — Pedir a Kiki que la guíe con el seguro RC
@@ -318,7 +318,7 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 > **Gaby es una dentista con 20 años de criterio, que se independiza para practicar la odontología que ella cree (conservadora + planificar + escuchar), con un consultorio boutique en Mburucuyá, Mburucuyá, Asunción. No compite por precio — compite por VALOR. Su diferenciador único es אומץ (hebreo: coraje) y "Te escucho" como claim.**
 
 ### ¿Qué necesita HOY?
-1. 🟢 Comprar WhatsApp Business (esta semana)
+1. 🟢 Comprar Messaging Business (esta semana)
 2. 🔴 Contratar seguro RC
 3. 🟡 Confirmar piso/depto + nombre del contador
 4. 🟡 Aprobar branding + presupuesto
@@ -335,7 +335,7 @@ Este documento centraliza **todo lo que sabemos**, **todo lo que hemos encontrad
 - **Mes 12:** 80-120 pacientes únicos, Gs 18-25M/mes revenue, margen 30%+, 2-3 clientes coaching
 
 ### ¿Qué NO debería hacer?
-- ❌ Lanzar antes del 26 jul sin WhatsApp Business
+- ❌ Lanzar antes del 26 jul sin Messaging Business
 - ❌ Atender sin seguro RC
 - ❌ Hacer community manager ella misma
 - ❌ Comprometer horarios que no va a cumplir

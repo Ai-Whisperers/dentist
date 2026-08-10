@@ -40,13 +40,13 @@
 ```
 **Fix:** El `<html lang>` debe ser `"es"` cuando esté en `/es`. Solo un script JS intenta corregirlo pero falla o es muy tarde para SEO crawlers.
 
-### 2. ❌ WHATSAPP LINK USA NÚMERO PLACEHOLDER 595981000000
+### 2. ❌ MESSAGING LINK USA NÚMERO PLACEHOLDER 595981000000
 **Severidad:** 10/10
-**Realidad:** Los CTAs principales (hero, contacto, footer) llevan a `https://wa.me/595981000000` — el cliente clickea y no llega a Gaby.
-**Costo:** **100% de los WhatsApp clickeados se pierden** — son a un número falso.
+**Realidad:** Los CTAs principales (hero, contacto, footer) llevan a `tel:+595981000000` — el cliente clickea y no llega a Gaby.
+**Costo:** **100% de los Messaging clickeados se pierden** — son a un número falso.
 **Evidencia:**
 ```html
-<a href="https://wa.me/595981000000?text=Hola%20Dra.%20GP...">
+<a href="tel:+595981000000?text=Hola%20Dra.%20GP...">
 ```
 **Número real:** `+595 987 126 790` (ya confirmado en cuestionario 6 jul)
 **Fix:** Reemplazar TODO `595981000000` con `595987126790` en `content/`, también el text del mensaje.
@@ -139,7 +139,7 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 
 ### 17. ⚠️ CERO AGENDAMIENTO ONLINE (Calendly)
 **Severidad:** 7/10 (conversión)
-**Realidad:** Solo CTA a WhatsApp, sin opción de agendar directo.
+**Realidad:** Solo CTA a Messaging, sin opción de agendar directo.
 **Fix:** Agregar link a Calendly (gratis) en página de contacto.
 
 ### 18. ⚠️ HREFLANG MEZCLADO
@@ -233,7 +233,7 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 - No hay lightbox de fotos del consultorio
 - No hay "antes/después" visual
 - Mapa de Google Maps no embebido (solo JSON-LD)
-- Sin chat en vivo (no necesario con WhatsApp)
+- Sin chat en vivo (no necesario con Messaging)
 - Sin tooltips en jerga médica
 - Sin indicadores de progreso en formularios
 - Sin exit-intent popup (puede ser agresivo, evaluar)
@@ -259,7 +259,7 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 
 | # | Issue | Severidad | Esfuerzo | Impacto |
 |---|-------|-----------|----------|---------|
-| 1 | Fix WhatsApp link 595981000000 → 595987126790 | 10/10 | 15 min | CRÍTICO |
+| 1 | Fix Messaging link 595981000000 → 595987126790 | 10/10 | 15 min | CRÍTICO |
 | 2 | Fix canonical + og:url → ometzdental.com | 10/10 | 30 min | Crítico SEO |
 | 3 | Fix JSON-LD telephone +595****6759 | 9/10 | 5 min | Crítico |
 | 4 | Fix `<html lang="en">` en página ES | 10/10 | 30 min | Crítico SEO |
@@ -322,10 +322,10 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 
 ### Sección "Proceso"
 19. **Iconos personalizados** (no genéricos)
-20. **Cada paso con CTA** (WhatsApp para agendar)
+20. **Cada paso con CTA** (Messaging para agendar)
 
 ### CTA / Conversión
-21. **Sticky WhatsApp button** (siempre visible)
+21. **Sticky Messaging button** (siempre visible)
 22. **Sticky phone clickeable** en mobile
 23. **Click-to-call en desktop**
 24. **Exit intent popup** con email capture
@@ -333,11 +333,11 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 ### Footer
 25. **Email newsletter form**
 26. **Redes sociales con iconos grandes**
-27. **WhatsApp directo**
+27. **Messaging directo**
 28. **Horarios actuales con estado abierto/cerrado**
 
 ### Mobile específico
-29. **Bottom nav fijo** (home / servicios / whatsapp / contacto)
+29. **Bottom nav fijo** (home / servicios / messaging / contacto)
 30. **Tap-to-call button sticky**
 
 ---
@@ -363,7 +363,7 @@ Google está indexando `dragabriela.paragu-ai.com` que es un subdominio no canó
 
 Voy a corregir los **placeholders falsos** en el JSON que ya tengo acceso (`content/es/site.json` + `content/en/site.json`). Lo que ya hice:
 
-1. ✅ Fix WhatsApp → +595 987 126 790
+1. ✅ Fix Messaging → +595 987 126 790
 2. ✅ Fix email → doctora.gabi@ometzdental.com.py
 3. ✅ Fix address → Auditores de la Guerra del Chaco 617, Mburucuyá
 4. ✅ Fix RUC + MSPBS
@@ -376,8 +376,8 @@ Falta en otros archivos del sitio (en producción, no en repo):
 - `content/es/testimonials.json` (validar testimonios)
 - `content/es/stats.json` (validar números)
 - `content/es/hero.json` (fix lang + CTA copy)
-- `content/es/cta.json` (fix WhatsApp)
-- `content/es/contacto.json` (fix WhatsApp + address)
+- `content/es/cta.json` (fix Messaging)
+- `content/es/contacto.json` (fix Messaging + address)
 - Next.js metadata (app/layout.tsx)
 
 ---
@@ -387,7 +387,7 @@ Falta en otros archivos del sitio (en producción, no en repo):
 **Score: 62/100.** Tiene buen contenido pero **bugs críticos** que cuestan clientes.
 
 **Cosas de 1 día que suben score a 80/100:**
-1. Fix WhatsApp real (15 min) — **+15 pts confianza**
+1. Fix Messaging real (15 min) — **+15 pts confianza**
 2. Fix canonical/og:url (30 min) — **+8 pts SEO**
 3. Fix JSON-LD telephone (5 min) — **+5 pts SEO**
 4. Fix lang attr + meta description (35 min) — **+5 pts SEO/i18n**
@@ -407,7 +407,7 @@ Falta en otros archivos del sitio (en producción, no en repo):
 - Google Maps embed
 - Search interno FAQs
 - אומץ visual prominente en hero
-- Sticky WhatsApp button
+- Sticky Messaging button
 
 **Cosas de 1 mes que suben a 95/100:**
 - Video hero

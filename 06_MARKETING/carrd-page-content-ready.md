@@ -30,7 +30,7 @@ Premium private dental practice in Asuncion. Planning-first approach. Bilingual 
 AGENDAR CONSULTA
 
 **Secondary link (under button):**
-WhatsApp: +595 XXX XXX XXX
+Messaging: +595 XXX XXX XXX
 
 ---
 
@@ -102,15 +102,15 @@ Hablamos ingles y espanol. Materiales alemanes y suizos. 20+ anos de experiencia
 
 ---
 
-## SECTION 5: CONTACT (CTA + WhatsApp)
+## SECTION 5: CONTACT (CTA + Messaging)
 
 **Heading:** Agenda tu consulta
 
 **Body:**
-Estamos en Luque, Asuncion. Atendemos por appointment only. WhatsApp es la forma mas rapida de contactarnos.
+Estamos en Luque, Asuncion. Atendemos por appointment only. Messaging es la forma mas rapida de contactarnos.
 
-**WhatsApp button (primary):**
-ESCRIBIR POR WHATSAPP
+**Messaging button (primary):**
+ESCRIBIR POR MESSAGING
 
 **Secondary:**
 O llama al +595 XXX XXX XXX
@@ -140,7 +140,7 @@ Dra. GP mantiene consultorio en Odontologia 3 ademas de practica privada. Citas 
 3. Add 5 containers (one per section)
 4. Copy-paste the content above into each container
 5. Pick a color scheme (suggest: deep navy + warm gold + cream)
-6. Add WhatsApp button: link to wa.me/595987126790
+6. Add Messaging button: link to wa.me/595987126790
 7. Register domain dra-gabriela.com.py (nic.py or Hostinger)
 8. Connect domain to Carrd (Pro feature)
 9. Add Google Analytics (optional)
@@ -164,7 +164,7 @@ Dra. GP mantiene consultorio en Odontologia 3 ademas de practica privada. Citas 
 
 After launch, track in DenPro or simple Google Sheet:
 - Date of visit
-- Source (WhatsApp direct, Google Business, Instagram, Referral)
+- Source (Messaging direct, Google Business, Instagram, Referral)
 - Service (consulta, restoration, etc.)
 - Patient country of origin (PY / expat)
 - Conversion (consulta -> treatment plan?)

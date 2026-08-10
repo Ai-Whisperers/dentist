@@ -42,7 +42,7 @@ Esto es lo que Gaby, Kiki e Iván deben hacer **el día de apertura**, durante l
 - [ ] Publicar PRIMER post Facebook (anuncio apertura)
 - [ ] Story FB/IG "¡Abrimos!"
 - [ ] SMS/mensaje a lista conocida: "Hoy abrimos Ometz Dental. +595 981 146 759"
-- [ ] Confirmar WhatsApp Business operativo con quick replies activas
+- [ ] Confirmar Messaging Business operativo con quick replies activas
 
 ### 14:30 PM — Primer paciente
 
@@ -50,7 +50,7 @@ Esto es lo que Gaby, Kiki e Iván deben hacer **el día de apertura**, durante l
 - [ ] Tomar historia clínica completa
 - [ ] Plan escrito de tratamiento con precios
 - [ ] Si acepta → agendar siguientes
-- [ ] Pedir reseña Google al final (en persona o por WhatsApp)
+- [ ] Pedir reseña Google al final (en persona o por Messaging)
 
 ### 19:00 PM — Cierre
 
@@ -68,10 +68,10 @@ Esto es lo que Gaby, Kiki e Iván deben hacer **el día de apertura**, durante l
 **8 AM - 9 AM** (preparación)
 - [ ] Preparar silla, instrumental
 - [ ] Revisar agenda del día
-- [ ] Confirmar pacientes confirmados vía WhatsApp
+- [ ] Confirmar pacientes confirmados vía Messaging
 
 **9 AM - 13:30 PM** (opcional: bloque admin)
-- [ ] Responder mensajes WhatsApp
+- [ ] Responder mensajes Messaging
 - [ ] Actualizar fichas
 - [ ] Coordinar agenda
 - [ ] Si hay post programado: preparar en Canva
@@ -97,7 +97,7 @@ Esto es lo que Gaby, Kiki e Iván deben hacer **el día de apertura**, durante l
 
 - [ ] **Total pacientes atendidos:** esperado 3-5
 - [ ] **Reseñas Google:** esperado 1-3
-- [ ] **Mensajes WhatsApp recibidos:** esperado 30-50
+- [ ] **Mensajes Messaging recibidos:** esperado 30-50
 - [ ] **Conversión WA→cita:** medir
 - [ ] **Tomar decisiones:**
   - ¿El horario 14:30-19:00 está bien?
@@ -115,7 +115,7 @@ Esto es lo que Gaby, Kiki e Iván deben hacer **el día de apertura**, durante l
 |---------|------|
 | Pacientes únicos nuevos | 8-12 |
 | Reseñas Google | 4-6 con 4.8★ |
-| Mensajes WhatsApp recibidos | 100-150 |
+| Mensajes Messaging recibidos | 100-150 |
 | Conversación iniciada por chat | 50+ |
 | Posts publicados | 14-16 FB + 4 GBP + 8 Stories |
 | Posts programados semana 2-4 | 8-10 |
@@ -201,7 +201,7 @@ Esto es lo que Gaby, Kiki e Iván deben hacer **el día de apertura**, durante l
 
 ### Diario
 
-- [ ] Responder mensajes WhatsApp en horario de consultorio (mínimo 2-3 horas/día)
+- [ ] Responder mensajes Messaging en horario de consultorio (mínimo 2-3 horas/día)
 - [ ] Coordinar agendas
 - [ ] Publicar posts del día
 - [ ] Cerrar citas confirmadas vs canceladas (estadística)
@@ -267,7 +267,7 @@ Esto es lo que Gaby, Kiki e Iván deben hacer **el día de apertura**, durante l
 - `05_OPERATIONS/sistema-documentacion-clinica.md` — historias clínicas
 - `05_OPERATIONS/staff-manual-asistente.md` — manual del auxiliar
 - `06_MARKETING/cronograma-semanal-meses-7-9.md` — cronograma marketing
-- `08_WHATSAPP/templates/final/quick-replies-v2-final.md` — quick replies
+- `08_MESSAGING/templates/final/quick-replies-v2-final.md` — quick replies
 - `docs/PLANES-CONTINGENCIA-RIESGOS.md` — riesgos
 - `docs/SIMULADOR-CRECIMIENTO-AUDIENCIA.md` — proyectar
 

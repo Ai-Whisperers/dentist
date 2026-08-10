@@ -9,7 +9,7 @@
 
 | Archivo | Campos pendientes |
 |---------|-------------------|
-| `04_SALES/corporate-service-agreement-full.md` | `[DATE]`, `[COMPANY NAME]`, `[RUC]` (empresa), `[NUM]` (MSPBS), `[NAME]` (representante), `[POSITION]`, `[TIER 1/2/3]`, `[HEADCOUNT]`, `[RATE]`, `[MONTHLY_TOTAL]`, `[FAMILY_RATE]`, `[N]` (consultas/limpiezas), `[DISCOUNTED_PRICE]`, `[CLEANING_PRICE]`, `[INCLUDED/LIMITED]`, `[START_DATE]`, `[HR_CONTACT_NAME]`, `[HR_WHATSAPP]`, `[HR_EMAIL]` |
+| `04_SALES/corporate-service-agreement-full.md` | `[DATE]`, `[COMPANY NAME]`, `[RUC]` (empresa), `[NUM]` (MSPBS), `[NAME]` (representante), `[POSITION]`, `[TIER 1/2/3]`, `[HEADCOUNT]`, `[RATE]`, `[MONTHLY_TOTAL]`, `[FAMILY_RATE]`, `[N]` (consultas/limpiezas), `[DISCOUNTED_PRICE]`, `[CLEANING_PRICE]`, `[INCLUDED/LIMITED]`, `[START_DATE]`, `[HR_CONTACT_NAME]`, `[HR_MESSAGING]`, `[HR_EMAIL]` |
 | `05_OPERATIONS/legal-compliance/practice-legal/corporate-service-agreement-micro-sme.md` | Campos de datos de empresa + firma |
 | `05_OPERATIONS/legal-compliance/practice-legal/referral-agreement-legal.md` | Campos de datos de contraparte + firma |
 
@@ -25,12 +25,12 @@
 |---------|-------------------|
 | `05_OPERATIONS/patient-communications/patient-scripts-in-person-phone.md` | `[NAME]`, `[TIMES]`, `[SPECIFIC POSITIVE OUTCOME]`, `[TIMEFRAME]`, `[NORMAL SYMPTOM]`, `[SPECIFIC CONCERN]`, `[AMOUNT]`, `[CUOTA]`, `[TIME]`, `[NUMBER]` |
 
-## WhatsApp / CRM
+## Messaging / CRM
 
 | Archivo | Campos pendientes |
 |---------|-------------------|
-| `08_WHATSAPP/automation/whatsapp-operations-guide.md` | `[NOMBRE]`, `[NÚMERO]`, `[EXCERPT]`, `[DATE]`, `[ALERT]` |
-| `03_LAUNCH/whatsapp-outreach/whatsapp-business-plan.md` | `[COMPANY]`, `[NAME]` |
+| `08_MESSAGING/automation/messaging-operations-guide.md` | `[NOMBRE]`, `[NÚMERO]`, `[EXCERPT]`, `[DATE]`, `[ALERT]` |
+| `03_LAUNCH/messaging-outreach/messaging-business-plan.md` | `[COMPANY]`, `[NAME]` |
 
 ## Programas B2B
 

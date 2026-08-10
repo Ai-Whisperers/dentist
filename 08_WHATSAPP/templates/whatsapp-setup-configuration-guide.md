@@ -1,9 +1,9 @@
 > **PRICING CROSS-REFERENCE:** All prices reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. When in doubt, the canonical doc wins.
 
-# WHATSAPP BUSINESS SETUP GUIDE
+# MESSAGING BUSINESS SETUP GUIDE
 ## Dra. Gabriella González Pane
 **Version:** 1.0 — June 2026
-**Purpose:** Step-by-step instructions to set up WhatsApp Business and connect to Hermes agent
+**Purpose:** Step-by-step instructions to set up Messaging Business and connect to Hermes agent
 
 ---
 
@@ -12,7 +12,7 @@
 You need:
 - [ ] New phone number (can be eSIM, dedicated for business) OR existing number you're willing to convert
 - [ ] Meta Business account (facebook.com/business)
-- [ ] Hermes agent configured with WhatsApp MCP or himalaya
+- [ ] Hermes agent configured with Messaging MCP or himalaya
 - [ ] Dra. GP's personal phone for monitoring
 
 **IMPORTANT:** If using your existing number, chat history will be preserved but the number becomes a Business Account. Back up your chat history first.
@@ -28,16 +28,16 @@ You need:
 3. Enter: Name (your name or business name), Email, Business Name: "Dra. GP Odontología"
 4. Follow prompts to verify email
 
-**Why:** Required to access WhatsApp Business API and manage the business profile.
+**Why:** Required to access Messaging Business API and manage the business profile.
 
 ---
 
-## STEP 2: SET UP WHATSAPP BUSINESS APP (Basic)
+## STEP 2: SET UP MESSAGING BUSINESS APP (Basic)
 
-For launch, you can start with WhatsApp Business App (free) and upgrade to API later.
+For launch, you can start with Messaging Business App (free) and upgrade to API later.
 
-### Download WhatsApp Business
-1. Download "WhatsApp Business" from App Store / Google Play (NOT regular WhatsApp)
+### Download Messaging Business
+1. Download "Messaging Business" from App Store / Google Play (NOT regular Messaging)
 2. Register with the **business phone number**
 3. Verify with SMS code
 
@@ -63,7 +63,7 @@ Categories: Dentist / Healthcare
 
 ## STEP 3: CONFIGURE QUICK REPLIES
 
-Quick replies are shortcuts for common responses. In WhatsApp Business App:
+Quick replies are shortcuts for common responses. In Messaging Business App:
 
 **Settings → Business tools → Quick replies**
 
@@ -83,7 +83,7 @@ Create these (you type the shortcut, app expands):
 
 Labels help you organize contacts by where they are in the pipeline.
 
-**In WhatsApp Business: Settings → Business tools → Labels**
+**In Messaging Business: Settings → Business tools → Labels**
 
 Create these labels:
 
@@ -106,7 +106,7 @@ Create these labels:
 
 ## STEP 5: SET UP CATALOG (Optional)
 
-WhatsApp Business has a catalog feature to show your services:
+Messaging Business has a catalog feature to show your services:
 
 **Settings → Business tools → Catalog**
 
@@ -124,28 +124,28 @@ Add services manually:
 
 ## STEP 6: CONNECT TO HERMES AGENT
 
-### Option A: WhatsApp Business API (Production)
+### Option A: Messaging Business API (Production)
 **Best for:** Full automation, broadcast messages, CRM integration
 
 Requires:
-- WhatsApp Business API via Meta Business Manager
-- Approved WhatsApp Business Account
-- Hermes MCP server with WhatsApp integration
+- Messaging Business API via Meta Business Manager
+- Approved Messaging Business Account
+- Hermes MCP server with Messaging integration
 
 **Setup:**
-1. In Meta Business Manager → Add WhatsApp → Get phone number
+1. In Meta Business Manager → Add Messaging → Get phone number
 2. Configure webhook to Hermes agent
 3. Test with 5 messages
 4. Go live
 
 **Cost:** Varies by country — Paraguay ~$0.05-0.10 per message
 
-### Option B: WhatsApp Web + Hermes (Launch)
+### Option B: Messaging Web + Hermes (Launch)
 **Best for:** Initial launch, simpler setup
 
 **Setup:**
-1. Open WhatsApp Web (web.whatsapp.com) on your business phone's WhatsApp Business
-2. Or use WhatsApp Business app on phone + Hermes polls for new messages
+1. Open Messaging Web (web.messaging.com) on your business phone's Messaging Business
+2. Or use Messaging Business app on phone + Hermes polls for new messages
 3. Agent reads incoming, drafts responses, you approve and send OR send directly via web
 
 **Limitation:** No automated responses, no broadcast messages
@@ -157,8 +157,8 @@ Requires:
 # Install himalaya
 curl -sSL https://himalaya.com/install | sh
 
-# Configure WhatsApp
-himalaya account add --name dentist-gp --type whatsapp
+# Configure Messaging
+himalaya account add --name dentist-gp --type messaging
 
 # Configure Hermes to use himalaya
 # (Agent uses himalaya as messaging backend)
@@ -168,7 +168,7 @@ himalaya account add --name dentist-gp --type whatsapp
 
 ## STEP 7: CONFIGURE AUTO-REPLIES (Without Agent)
 
-WhatsApp Business has built-in auto-replies:
+Messaging Business has built-in auto-replies:
 
 **Settings → Business tools → Away message**
 
@@ -226,7 +226,7 @@ Review all responses — if something doesn't match brand voice, fix before goin
 
 Before opening to real patients:
 
-- [ ] WhatsApp Business App installed and configured
+- [ ] Messaging Business App installed and configured
 - [ ] Business profile 100% complete
 - [ ] Quick replies set up and working
 - [ ] Labels created and functional
@@ -236,7 +236,7 @@ Before opening to real patients:
 - [ ] All test conversations reviewed and approved
 - [ ] Dra. GP phone set up with monitoring
 - [ ] Emergency number confirmed (if different from business)
-- [ ] First message sent to confirm WhatsApp working
+- [ ] First message sent to confirm Messaging working
 - [ ] All flows logging to CRM correctly
 
 ---
@@ -244,7 +244,7 @@ Before opening to real patients:
 ## POST-LAUNCH MONITORING
 
 ### Daily (Dra. GP or assistant)
-- Check new messages in WhatsApp Business
+- Check new messages in Messaging Business
 - Verify labels assigned correctly
 - Check CRM updated for all new contacts
 - Respond to any escalations
@@ -264,7 +264,7 @@ Before opening to real patients:
 
 ## COMMON ISSUES AND FIXES
 
-### "WhatsApp got banned"
+### "Messaging got banned"
 - Don't spam messages
 - Don't send bulk messages to people who didn't opt in
 - Use approved templates only
@@ -278,33 +278,33 @@ Before opening to real patients:
 ### "Messages not sending"
 - Check internet connection
 - Verify phone number is active
-- Restart WhatsApp Business app
+- Restart Messaging Business app
 - Check if blocked by recipient
 
 ### "Agent not responding"
 - Check Hermes agent is running
-- Verify WhatsApp API connection
+- Verify Messaging API connection
 - Check if phone has internet
 
 ---
 
 ## COMPATIBILITY
 
-| Tool | Works with WhatsApp Business? | Notes |
+| Tool | Works with Messaging Business? | Notes |
 |------|-------------------------------|-------|
-| WhatsApp Business App | ✅ Yes | Free, manual |
-| WhatsApp Business API | ✅ Yes | Paid, automated |
-| WhatsApp Web | ✅ Yes | Manual, browser |
+| Messaging Business App | ✅ Yes | Free, manual |
+| Messaging Business API | ✅ Yes | Paid, automated |
+| Messaging Web | ✅ Yes | Manual, browser |
 | Hermes Agent | ✅ Yes | Via API or screen scrape |
 | himalaya | ✅ Yes | Terminal-based |
-| ManyChat | ❌ No | Only with WhatsApp API |
-| Chatfuel | ❌ No | Only with WhatsApp API |
+| ManyChat | ❌ No | Only with Messaging API |
+| Chatfuel | ❌ No | Only with Messaging API |
 
 ---
 
-## WHATSAPP VS WHATSAPP BUSINESS API
+## MESSAGING VS MESSAGING BUSINESS API
 
-| Feature | WhatsApp Business App | WhatsApp Business API |
+| Feature | Messaging Business App | Messaging Business API |
 |---------|------------------------|----------------------|
 | Cost | Free | Per message |
 | Auto-responses | Basic | Advanced |
@@ -314,7 +314,7 @@ Before opening to real patients:
 | Session management | Phone-based | Cloud-based |
 |适合 | Day 1-30 | Day 30+ |
 
-**Recommendation:** Start with WhatsApp Business App. Upgrade to API when volume justifies it.
+**Recommendation:** Start with Messaging Business App. Upgrade to API when volume justifies it.
 
 ---
 

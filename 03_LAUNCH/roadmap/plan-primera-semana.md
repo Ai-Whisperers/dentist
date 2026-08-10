@@ -10,7 +10,7 @@
 | Métrica | Semana 1 | Semana 2-3 | Mes 1 |
 |---------|----------|-----------|-------|
 | Pacientes atendidos | 2-3 | 3-5 | 6-10 |
-| Mensajes WhatsApp recibidos | 10-15 | 15-25 | 30-50 |
+| Mensajes Messaging recibidos | 10-15 | 15-25 | 30-50 |
 | Consultas nuevas (que no conoces) | 0-1 | 1-3 | 3-5 |
 | Reseñas Google | 1-2 | 3-5 | 5-10 |
 | Ingresos | Gs 600k-1M | Gs 1M-2M | Gs 2M-4M |
@@ -22,7 +22,7 @@
 ## 📋 Lunes a Viernes — Tu semana
 
 ### Lunes (o tu primer día de la semana)
-- [ ] Revisar mensajes de WhatsApp del fin de semana
+- [ ] Revisar mensajes de Messaging del fin de semana
 - [ ] Responder todos (incluso "hola, vi tu número...")
 - [ ] Llamar a 1-2 pacientes top para recordarles que ya estás atendiendo
 - [ ] Sacar una foto del consultorio y publicarla en Google Business
@@ -30,7 +30,7 @@
 
 ### Martes / Miércoles / Jueves
 - [ ] Atender 1-2 pacientes por día (si los hay)
-- [ ] Revisar WhatsApp a media mañana y a media tarde
+- [ ] Revisar Messaging a media mañana y a media tarde
 - [ ] Planear el día siguiente antes de cerrar
 
 ### Viernes
@@ -41,7 +41,7 @@
 
 ### Sábado (si atendés)
 - [ ] Atender 1-2 pacientes
-- [ ] No publicar ni responder WhatsApp el domingo
+- [ ] No publicar ni responder Messaging el domingo
 
 ---
 
@@ -57,17 +57,17 @@
 - [ ] Revisar mensajes
 - [ ] Publicar foto del consultorio en Google Business
 - [ ] Atender 0-1 paciente
-- [ ] Responder WhatsApp
+- [ ] Responder Messaging
 
 ### 📅 Día 3
 - [ ] Publicar 1er post de Facebook ("Por qué abrí mi propio consultorio")
 - [ ] Atender 0-1 paciente
-- [ ] Responder WhatsApp
+- [ ] Responder Messaging
 
 ### 📅 Día 4
 - [ ] Pedir la primera reseña Google (a un paciente satisfecho)
 - [ ] Atender 1 paciente
-- [ ] Responder WhatsApp
+- [ ] Responder Messaging
 
 ### 📅 Día 5
 - [ ] Publicar 2do post de Facebook
@@ -77,7 +77,7 @@
 
 ### 📅 Día 6 y 7 (fin de semana)
 - [ ] Descansar
-- [ ] Responder WhatsApp solo si es urgente
+- [ ] Responder Messaging solo si es urgente
 - [ ] Preparar la semana 2
 
 ---
@@ -95,7 +95,7 @@ Anotá estos números en una planilla o en un Google Sheet:
 | De Google | ___ | ___ | ___ | ___ |
 | Expats | ___ | ___ | ___ | ___ |
 | Reseñas Google | ___ | ___ | ___ | ___ |
-| Mensajes WhatsApp | ___ | ___ | ___ | ___ |
+| Mensajes Messaging | ___ | ___ | ___ | ___ |
 | Ingresos (Gs) | ___ | ___ | ___ | ___ |
 | Horas trabajadas | ___ | ___ | ___ | ___ |
 
@@ -115,7 +115,7 @@ Causas probables:
 1. No te frustres
 2. Mandá 2-3 mensajes a pacientes top recordándoles que ya estás
 3. Publicá 2-3 posts de Facebook contando tu historia
-4. Respondé todos los mensajes de WhatsApp aunque sean pocos
+4. Respondé todos los mensajes de Messaging aunque sean pocos
 5. **Esperá 2-3 semanas.** El boca a boca tarda en arrancar.
 
 ---
@@ -146,7 +146,7 @@ Si en 4 semanas tenés menos de 6 pacientes atendidos:
 ## ✅ Lo que SÍ tenés que hacer
 
 - ✅ Atender con calma a los que vienen
-- ✅ Responder WhatsApp rápido (menos de 2 horas)
+- ✅ Responder Messaging rápido (menos de 2 horas)
 - ✅ Pedir reseñas a todos los pacientes satisfechos
 - ✅ Publicar 1-2 posts de Facebook por semana
 - ✅ Llamar a 1 paciente conocido por día (solo para saludar, no para vender)

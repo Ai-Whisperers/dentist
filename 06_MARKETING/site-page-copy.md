@@ -14,7 +14,7 @@
   "headline": "Te escucho.",
   "subheadline": "Antes de mirar tu boca, miro tu historia.",
   "paragraph": "Soy la Dra. Gabriella González Pane. 20 años de odontología conservadora en Asunción. Rehabilitación oral, segunda opinión y operatoria. La diferencia es el coraje de decirte lo que realmente necesitás.",
-  "cta_primary": "Agendar por WhatsApp",
+  "cta_primary": "Agendar por Messaging",
   "cta_secondary": "Pedir segunda opinión",
   "trust_signals": [
     "20+ años de experiencia",
@@ -32,7 +32,7 @@
   "headline": "I listen.",
   "subheadline": "Before I look at your mouth, I look at your story.",
   "paragraph": "I'm Dr. Gabriella González Pane. Twenty years of conservative dentistry in Asunción, Paraguay. Oral rehabilitation, second opinions, and treatment planning. The difference is the courage to tell you what you actually need.",
-  "cta_primary": "Book via WhatsApp",
+  "cta_primary": "Book via Messaging",
   "cta_secondary": "Request a second opinion",
   "trust_signals": [
     "20+ years experience",
@@ -295,7 +295,7 @@ Soy la Dra. Gabriella González Pane, 20 años de experiencia.
 No hablo mal de colegas: no conozco el contexto completo. Pero
 sí te puedo dar mi perspectiva profesional sobre tu caso.
 
-📱 Para coordinar: WhatsApp +595 981 146 759
+📱 Para coordinar: Messaging +595 981 146 759
 ```
 
 ---
@@ -320,7 +320,7 @@ language? Welcome.
 
 ## How it works
 
-1. Message us on WhatsApp
+1. Message us on Messaging
 2. We confirm a 45-60 minute consultation
 3. You get a written plan with options and prices
 4. You decide what to do next
@@ -343,11 +343,11 @@ Auditores de la Guerra del Chaco 617, Mburucuyá, Asunción.
 10 minutes from the city center by taxi/Uber.
 
 **Do you treat dental emergencies?**
-Yes, message "URGENCY" on WhatsApp and we prioritize you.
+Yes, message "URGENCY" on Messaging and we prioritize you.
 
 ## Contact
 
-📱 WhatsApp: +595 981 146 759
+📱 Messaging: +595 981 146 759
 📧 hello@ometsdental.com.py
 📍 Mburucuyá, Asunción, Paraguay
 ```
@@ -401,7 +401,7 @@ la evaluación clínica.
 5. **¿Atendés en inglés?** — Sí, fluido.
 6. **¿Hacés endodoncia?** — No. Derivo a un especialista de confianza.
 7. **¿Aceptás seguros?** — No facturamos directamente. Te damos recibo para reembolso.
-8. **¿Cómo agendo?** — WhatsApp +595 981 146 759 con la palabra "CITA".
+8. **¿Cómo agendo?** — Messaging +595 981 146 759 con la palabra "CITA".
 
 ---
 
@@ -413,7 +413,7 @@ la evaluación clínica.
 # Contacto
 
 ## Para agendar
-📱 WhatsApp: +595 981 146 759 (más rápido)
+📱 Messaging: +595 981 146 759 (más rápido)
 📞 Teléfono: +595 981 146 759
 📧 Email: hola@ometsdental.com.py
 
@@ -432,7 +432,7 @@ Atención con cita previa.
 ## Urgencias
 Si tenés una urgencia dental (dolor fuerte, fractura,
 hinchazón), llamame al +595 981 146 759 o escribime "URGENCIA"
-por WhatsApp.
+por Messaging.
 
 ## Idiomas
 - Español
@@ -453,12 +453,12 @@ Los archivos JSON están en `content/en/*.json` y `content/es/*.json`. Reemplaza
 2. Reemplazar JSONs con el copy de arriba
 3. Deploy vía paragu-ai-platform
 4. Verificar que ambos idiomas (`/en` y `/es`) rendericen correctamente
-5. Validar que WhatsApp buttons funcionen con números actualizados
+5. Validar que Messaging buttons funcionen con números actualizados
 
 ### Pendiente del cliente
 
 - [ ] Confirmar dirección exacta del consultorio
-- [ ] Confirmar número de WhatsApp Business
+- [ ] Confirmar número de Messaging Business
 - [ ] Confirmar email (doctora.gabi@ometsdental.com.py?)
 - [ ] Confirmar horarios finales
 - [ ] Confirmar coordenadas GPS para Google Maps
@@ -470,7 +470,7 @@ Los archivos JSON están en `content/en/*.json` y `content/es/*.json`. Reemplaza
 - `06_MARKETING/website-full-specification.md`
 - `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`
 - `06_MARKETING/email-templates/newsletter-bienvenida.html`
-- `08_WHATSAPP/templates/final/quick-replies-v2-final.md`
+- `08_MESSAGING/templates/final/quick-replies-v2-final.md`
 
 ---
 

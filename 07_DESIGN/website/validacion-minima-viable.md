@@ -9,7 +9,7 @@
 
 ## INSTRUCCIONES
 
-1. Copiá y pegá esto en un mensaje de WhatsApp
+1. Copiá y pegá esto en un mensaje de Messaging
 2. Contestá las 6 preguntas
 3. Mandá a Kiki
 4. En 24h hábiles actualizo el sitio y rebuild
@@ -20,15 +20,15 @@
 
 ## Las 6 preguntas (SOLO estas)
 
-### 1. WhatsApp
-> Número de WhatsApp con código de país:
+### 1. Messaging
+> Número de Messaging con código de país:
 >
 > (ej: +595 981 000 000)
 
 Si no tenés: "todavía no" y usamos solo email.
 
 ### 2. Teléfono
-> Mismo que WhatsApp, o número fijo distinto:
+> Mismo que Messaging, o número fijo distinto:
 >
 > (ej: +595 21 000 000 o "el mismo")
 
@@ -90,7 +90,7 @@ Esas cosas se hacen con el cuestionario completo, después.
 ```
 Hola Kiki! Te paso el cuestionario mínimo del sitio:
 
-1. WhatsApp: +595 981 123 456
+1. Messaging: +595 981 123 456
 2. Teléfono: el mismo
 3. Dirección: Avda. San Martín 456, Luque
 4. RUC: 1234567-8

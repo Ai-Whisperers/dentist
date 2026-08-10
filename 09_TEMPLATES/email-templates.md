@@ -6,7 +6,7 @@
 
 ## PURPOSE
 
-Approved email templates for formal communication with suppliers, specialists, institutions, and administrative contacts. For patient communication, use WhatsApp templates instead.
+Approved email templates for formal communication with suppliers, specialists, institutions, and administrative contacts. For patient communication, use Messaging templates instead.
 
 ---
 
@@ -46,7 +46,7 @@ Cordialmente,
 Dra. Gabriella González Pane
 Odontología con Criterio
 Tel: [TELÉFONO]
-WhatsApp: [WHATSAPP]
+Messaging: [MESSAGING]
 ```
 
 ### E2 — Specialist Follow-Up (After Initial)
@@ -90,7 +90,7 @@ Quedo atenta,
 
 Dra. Gabriella González Pane
 Tel: [TELÉFONO]
-WhatsApp: [WHATSAPP]
+Messaging: [MESSAGING]
 ```
 
 ### E4 — Order Request
@@ -202,7 +202,7 @@ Saludos,
 
 Dra. Gabriella González Pane
 Tel: [TELÉFONO]
-WhatsApp: [WHATSAPP]
+Messaging: [MESSAGING]
 ```
 
 ---
@@ -342,7 +342,7 @@ Odontología con Criterio
 
 📍 [DIRECCIÓN — cuando esté]
 📞 [TELÉFONO]
-💬 [WHATSAPP]
+💬 [MESSAGING]
 ✉️ [EMAIL]
 🌐 [SITIO WEB — cuando exista]
 

@@ -83,7 +83,7 @@ Frank Ruhl Libre:     Regular, Bold (para אומץ — o usar "SBL Hebrew" si es
 - Fondo Teal sólido
 - Heading blanco Montserrat Bold 64pt
 - CTA box dorado con texto blanco
-- WhatsApp number
+- Messaging number
 
 **Customización:** duplicar template, cambiar copy + número
 
@@ -99,7 +99,7 @@ Frank Ruhl Libre:     Regular, Bold (para אומץ — o usar "SBL Hebrew" si es
   - 2 cards oscuras (Teal) + 2 cards claras (Crema con borde Teal)
   - 1 card de acento (Terracota)
   - Cada card: emoji/initial + título Bold 32pt + descripción Regular 18pt
-- **Footer:** WhatsApp + dirección en Montserrat 20pt
+- **Footer:** Messaging + dirección en Montserrat 20pt
 
 **Customización:** solo cambiar títulos de cada servicio si cambia el catálogo
 
@@ -114,7 +114,7 @@ Frank Ruhl Libre:     Regular, Bold (para אומץ — o usar "SBL Hebrew" si es
 - Título grande
 - Bloque de precio (fondo claro)
 - Validity date
-- CTA box Terracota con WhatsApp
+- CTA box Terracota con Messaging
 
 **Compliance:**
 - NO usar "50% off" agresivo
@@ -129,9 +129,9 @@ Frank Ruhl Libre:     Regular, Bold (para אומץ — o usar "SBL Hebrew" si es
 **Tipo:** Post vertical (4:5)
 **Estructura:**
 - Header "Recibimos mensajes como este cada semana"
-- Bloque "WhatsApp captura" (rectángulo redondeado con texto del paciente, sin nombre)
+- Bloque "Messaging captura" (rectángulo redondeado con texto del paciente, sin nombre)
 - Texto explicativo
-- CTA WhatsApp
+- CTA Messaging
 
 **Compliance:** nunca compartir nombre del paciente, no mostrar cara
 
@@ -145,7 +145,7 @@ Frank Ruhl Libre:     Regular, Bold (para אומץ — o usar "SBL Hebrew" si es
 - Emoji/icon grande
 - Headline gigante
 - Bloque de precio o info
-- CTA WhatsApp
+- CTA Messaging
 - Footer "Válido solo hoy"
 
 **Variantes:**
@@ -187,7 +187,7 @@ Frank Ruhl Libre:     Regular, Bold (para אומץ — o usar "SBL Hebrew" si es
 - Emoji/icon representativo
 - Mensaje principal
 - Promo o mensaje
-- CTA WhatsApp
+- CTA Messaging
 
 ---
 
@@ -258,7 +258,7 @@ Frank Ruhl Libre:     Regular, Bold (para אומץ — o usar "SBL Hebrew" si es
 | Instagram/Facebook feed | PNG | 1080×1080 o 1080×1350 |
 | Story / Reel | PNG/MP4 | 1080×1920 |
 | Email header | PNG | 600×300 |
-| WhatsApp catalog | PNG | 500×500 (compress) |
+| Messaging catalog | PNG | 500×500 (compress) |
 | Impresos (después de aprobación) | PDF print-ready | CMYK 300 DPI |
 
 ### Canva → print

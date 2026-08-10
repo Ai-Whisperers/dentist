@@ -1,10 +1,10 @@
 # Evolution API — Ometz Dental
 
-Self-hosted WhatsApp Business API bridge para Ometz Dental.
+Self-hosted Messaging Business API bridge para Ometz Dental.
 
 ## ¿Qué es?
 
-Evolution API es un middleware que te da acceso programático a WhatsApp Business **sin pagar la API oficial de Meta**. Funciona escaneando el QR de WA Business desde el celular con el chip Tigo.
+Evolution API es un middleware que te da acceso programático a Messaging Business **sin pagar la API oficial de Meta**. Funciona escaneando el QR de WA Business desde el celular con el chip Tigo.
 
 ## Arquitectura
 
@@ -48,7 +48,7 @@ bash scripts/deploy-evolution-api.sh
 # Run
 
 # 3. Gaby escanea el QR
-# WA Business → Ajustes → Herramientas para la empresa → Más herramientas → WhatsApp Business API
+# WA Business → Ajustes → Herramientas para la empresa → Más herramientas → Messaging Business API
 # Escanear el QR de Evolution API
 
 # 4. Test
@@ -74,7 +74,7 @@ OPENAI_API_KEY=sk-...
 ## Cost
 
 - **Self-hosted Evolution API:** $0
-- **Meta WhatsApp Business API oficial:** ~$0.05/msj
+- **Meta Messaging Business API oficial:** ~$0.05/msj
 - **VPS:** $5-20/mes (si ya tenés uno, gratis)
 - **OpenAI API:** ~$0.001/mensaje (clasificación)
 - **Supabase (free tier):** $0

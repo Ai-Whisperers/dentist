@@ -2,7 +2,7 @@
 Hermes Agent — Evolution API MCP Integration
 =============================================
 Wrapper que permite a Hermes (el agente de escritorio) comunicarse
-con Ometz Dental WhatsApp Business via Evolution API.
+con Ometz Dental Messaging Business via Evolution API.
 
 Capacidades:
 - send_message(to, text) — enviar mensaje a un paciente
@@ -14,8 +14,8 @@ Capacidades:
 - search_contacts(query) — buscar en el CRM
 
 Uso:
-    from hermes_mcp_integration import WhatsAppClient
-    wa = WhatsAppClient()
+    from hermes_mcp_integration import MessagingClient
+    wa = MessagingClient()
     await wa.send_message("+595 987 126 790", "Hola Gaby")
 
 Owner: Erebus (Hermes-AI)
@@ -31,7 +31,7 @@ import httpx
 logger = logging.getLogger("hermes-wa-integration")
 
 
-class WhatsAppClient:
+class MessagingClient:
     """Cliente Evolution API para Hermes."""
 
     def __init__(
@@ -75,7 +75,7 @@ class WhatsAppClient:
         phone = to.replace("+", "").replace(" ", "")
         return await self._request(
             "POST",
-            f"/message/sendWhatsAppAudio/{self.instance}",
+            f"/message/sendMessagingAudio/{self.instance}",
             json={"number": phone, "audio": audio_url},
         )
 
@@ -89,7 +89,7 @@ class WhatsAppClient:
         return await self._request(
             "GET",
             f"/chat/findMessages/{self.instance}",
-            params={"where": {"key": {"remoteJid": f"{phone_clean}@s.whatsapp.net"}}, "limit": limit},
+            params={"where": {"key": {"remoteJid": f"{phone_clean}@s.messaging.net"}}, "limit": limit},
         )
 
     async def get_contacts(self) -> List[dict]:
@@ -182,20 +182,20 @@ class WhatsAppClient:
 
 async def send_to_gaby(message: str) -> dict:
     """Helper: enviar un mensaje a Gaby (cuenta Business)."""
-    client = WhatsAppClient()
+    client = MessagingClient()
     return await client.send_message("+595 987 126 790", message)
 
 
 async def send_to_patient(phone: str, message: str) -> dict:
     """Helper: enviar un mensaje a un paciente."""
-    client = WhatsAppClient()
+    client = MessagingClient()
     return await client.send_message(phone, message)
 
 
 async def broadcast_message(phones: List[str], message: str) -> List[dict]:
     """Enviar un mensaje a múltiples pacientes."""
     import asyncio
-    client = WhatsAppClient()
+    client = MessagingClient()
     tasks = [client.send_message(phone, message) for phone in phones]
     return await asyncio.gather(*tasks, return_exceptions=True)
 
@@ -208,7 +208,7 @@ if __name__ == "__main__":
 
     if len(sys.argv) < 2:
         print("""
-Ometz Dental WhatsApp Client
+Ometz Dental Messaging Client
 
 Usage:
   python hermes_mcp_integration.py status
@@ -220,7 +220,7 @@ Usage:
         sys.exit(1)
 
     async def main():
-        client = WhatsAppClient()
+        client = MessagingClient()
 
         cmd = sys.argv[1]
         if cmd == "status":

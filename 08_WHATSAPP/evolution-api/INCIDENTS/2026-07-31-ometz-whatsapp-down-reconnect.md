@@ -1,8 +1,8 @@
-# 🔧 INCIDENTE: WHATSAPP BUSINESS OMETZ DOWN
+# 🔧 INCIDENTE: MESSAGING BUSINESS OMETZ DOWN
 ## Reconexión Evolution API · 31 jul 2026
 **Status:** ✅ RECONECTADO — instance `ometsdental-business` re-creada y QR generado
 **Severity:** HIGH (pacientes no pueden contactar a Gaby)
-**Detection:** Iván reportó "the WhatsApp for Gaby is down"
+**Detection:** Iván reportó "the Messaging for Gaby is down"
 **Resolution time:** ~10 min
 **Owner:** Erebus (operaciones) + Gaby (escanea QR)
 
@@ -74,7 +74,7 @@ curl -sS -X POST "https://evolution.sunstein.cloud/instance/create" \
   -d '{
     "instanceName": "ometsdental-business",
     "qrcode": true,
-    "integration": "WHATSAPP-BAILEYS"
+    "integration": "MESSAGING-BAILEYS"
   }'
 # → 200 OK con QR base64 incluido
 ```
@@ -88,8 +88,8 @@ curl -sS -X POST "https://evolution.sunstein.cloud/instance/create" \
 
 ## 📱 QUÉ TIENE QUE HACER GABY (PRÓXIMOS 5 MIN)
 
-1. **Abrir WhatsApp Business** en su celular (chip Tigo +595 987 126 790)
-2. **Ir a:** Ajustes → Herramientas para la empresa → Más herramientas → **WhatsApp Business API**
+1. **Abrir Messaging Business** en su celular (chip Tigo +595 987 126 790)
+2. **Ir a:** Ajustes → Herramientas para la empresa → Más herramientas → **Messaging Business API**
 3. **Escanear el QR** que le envío (adjunto: `ometz-qr.png`)
 4. **Verificar:** status debería pasar a `open` en 30 segundos
 5. **Test:** mandarme un mensaje a mi celular desde otro teléfono
@@ -122,7 +122,7 @@ Baileys (la librería que usa Evolution API) requiere que el celular esté onlin
 ### Cron job recomendado
 
 ```bash
-# /root/.hermes/scripts/ometz_whatsapp_healthcheck.sh
+# /root/.hermes/scripts/ometz_messaging_healthcheck.sh
 #!/usr/bin/env bash
 INSTANCE="ometsdental-business"
 API="https://evolution.sunstein.cloud"
@@ -131,7 +131,7 @@ KEY="a53c007a1b2e4f3d8c9a0b1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1"
 STATE=$(curl -sS "$API/instance/connectionState/$INSTANCE" -H "apikey: $KEY" | grep -oE '"state":"[^"]+"' | cut -d'"' -f4)
 
 if [ "$STATE" != "open" ]; then
-  echo "⚠️ Ometz WhatsApp DOWN — state=$STATE — at $(date)" | \
+  echo "⚠️ Ometz Messaging DOWN — state=$STATE — at $(date)" | \
     hermes send -t telegram "ivan"
 fi
 ```
@@ -142,9 +142,9 @@ Programar cada 1 hora con cron.
 
 ## 📚 COMMITS RELACIONADOS
 
-- **Evolution API setup:** `08_WHATSAPP/evolution-api/evolution-api-deployment.md`
-- **Bot v4 main:** `08_WHATSAPP/evolution-api/bot/main.py`
-- **Quick replies v2 final:** `08_WHATSAPP/templates/final/quick-replies-v2-final.md`
+- **Evolution API setup:** `08_MESSAGING/evolution-api/evolution-api-deployment.md`
+- **Bot v4 main:** `08_MESSAGING/evolution-api/bot/main.py`
+- **Quick replies v2 final:** `08_MESSAGING/templates/final/quick-replies-v2-final.md`
 
 ---
 
@@ -153,7 +153,7 @@ Programar cada 1 hora con cron.
 | Tiempo | Evento |
 |---|---|
 | 2026-07-28 17:58 | Instance `ometsdental-business` se desconecta (cause: ??) |
-| 2026-07-31 22:50 | Iván reporta "WhatsApp down" |
+| 2026-07-31 22:50 | Iván reporta "Messaging down" |
 | 2026-07-31 22:55 | Erebus detecta instance en status `close` |
 | 2026-07-31 22:58 | Delete + re-create instance |
 | 2026-07-31 23:00 | QR generado y guardado |
@@ -165,5 +165,5 @@ Programar cada 1 hora con cron.
 
 ---
 
-*Documentado por Erebus · 31 jul 2026 · incident #001 WhatsApp Ometz*
-*Backup del QR guardado en `08_WHATSAPP/evolution-api/INCIDENTS/2026-07-31-qr-reconnect.json`*
+*Documentado por Erebus · 31 jul 2026 · incident #001 Messaging Ometz*
+*Backup del QR guardado en `08_MESSAGING/evolution-api/INCIDENTS/2026-07-31-qr-reconnect.json`*

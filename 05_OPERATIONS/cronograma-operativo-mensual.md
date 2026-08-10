@@ -18,7 +18,7 @@
 
 ### Lunes AM (9:00-9:30)
 
-- [ ] Erebus publica resumen semanal (Telegram/WhatsApp) con:
+- [ ] Erebus publica resumen semanal (Telegram/Messaging) con:
   - Métricas semana anterior (pacientes, revenue, conversión)
   - Decisiones pendientes que requieren input de Gaby/Iván
   - Tasks de marketing/publicación pendientes para Kiki
@@ -35,7 +35,7 @@
   - Revenue de la semana
   - Casos especiales que requieren follow-up
   - Comentarios de pacientes (positivos y negativos)
-- [ ] Reporte breve a Iván + Erebus por WhatsApp
+- [ ] Reporte breve a Iván + Erebus por Messaging
 
 ### Viernes PM (17:00-18:00)
 
@@ -171,7 +171,7 @@
 
 | Mes | Hito principal |
 |---|---|
-| **Jul 2026** | 🔴 Apertura Mburucuyá + sitio live + GBP + WhatsApp + FB |
+| **Jul 2026** | 🔴 Apertura Mburucuyá + sitio live + GBP + Messaging + FB |
 | **Ago 2026** | Primeros 15-20 pacientes + 5 reseñas + 6 posts FB |
 | **Sep 2026** | 25-35 pacientes/mes + 1 convenio corporativo + cohorte piloto coaching |
 | **Oct 2026** | Cohorte 1 coaching paga + 1 charla facultad + blog mensual |
@@ -207,7 +207,7 @@
 
 | Herramienta | Para qué | Status |
 |---|---|---|
-| **WhatsApp Business** | Comunicación pacientes | 🟡 chip por comprar |
+| **Messaging Business** | Comunicación pacientes | 🟡 chip por comprar |
 | **Google Business Profile** | Visibilidad local | 🟡 por crear |
 | **Facebook Business Page** | Contenido + comunidad | 🟡 por crear |
 | **Doctoralia** | Perfil profesional + reseñas | ⚪ por activar |
@@ -228,12 +228,12 @@
 
 ### Daily (cada día)
 
-- Gaby responde consultas WhatsApp en <30 min horario laboral
+- Gaby responde consultas Messaging en <30 min horario laboral
 - Gaby anota pacientes atendidos al final del día (5 min)
 
 ### Weekly (cada viernes)
 
-- 30 min reunión operativa Gaby + Erebus (videollamada o WhatsApp)
+- 30 min reunión operativa Gaby + Erebus (videollamada o Messaging)
 - Snapshot de métricas semanales
 
 ### Monthly (último viernes del mes)
@@ -267,7 +267,7 @@
 ### Salud operativa 🟡
 
 - No-shows >15% mensual
-- Tiempo de respuesta WhatsApp >1h promedio
+- Tiempo de respuesta Messaging >1h promedio
 - Quejas de pacientes >2 por mes
 - Cancelaciones de citas por la doctora >5% del total
 

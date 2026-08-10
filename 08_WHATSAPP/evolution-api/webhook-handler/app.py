@@ -1,7 +1,7 @@
 """
 Ometz Dental — Evolution API Webhook Handler
 =============================================
-Receives incoming WhatsApp messages from Evolution API, classifies them
+Receives incoming Messaging messages from Evolution API, classifies them
 using OpenAI (or rule-based fallback), and writes to Supabase CRM.
 
 Stack:
@@ -50,7 +50,7 @@ WEBHOOK_HMAC_SECRET = os.getenv("WEBHOOK_HMAC_SECRET", "")
 SUPABASE_URL = os.getenv("SUPABASE_URL", "")
 SUPABASE_SERVICE_KEY = os.getenv("SUPABASE_SERVICE_KEY", "")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-WHATSAPP_NUMBER = os.getenv("WHATSAPP_NUMBER", "+595 987 126 790")
+MESSAGING_NUMBER = os.getenv("MESSAGING_NUMBER", "+595 987 126 790")
 
 # === CLIENTS ===
 openai_client = AsyncOpenAI(api_key=OPENAI_API_KEY) if OPENAI_API_KEY else None
@@ -67,7 +67,7 @@ async def lifespan(app: FastAPI):
     logger.info("Ometz Dental webhook handler shutting down")
 
 app = FastAPI(
-    title="Ometz Dental WhatsApp Webhook",
+    title="Ometz Dental Messaging Webhook",
     version="1.0.0",
     lifespan=lifespan,
 )
@@ -108,7 +108,7 @@ async def verify_hmac(request: Request, signature: str = Header(None, alias="X-W
 
 
 def extract_phone(jid: str) -> str:
-    """Extract phone from WhatsApp JID: 595987126790@s.whatsapp.net → +595 987 126 790."""
+    """Extract phone from Messaging JID: 595987126790@s.messaging.net → +595 987 126 790."""
     phone = jid.split("@")[0]
     if phone.startswith("595"):
         return f"+{phone[:3]} {phone[3:6]} {phone[6:9]} {phone[9:]}"
@@ -116,7 +116,7 @@ def extract_phone(jid: str) -> str:
 
 
 async def classify_message(message: str) -> ClassificationResult:
-    """Classify a WhatsApp message using OpenAI; fallback to rule-based."""
+    """Classify a Messaging message using OpenAI; fallback to rule-based."""
 
     if openai_client:
         try:
@@ -129,7 +129,7 @@ async def classify_message(message: str) -> ClassificationResult:
                         "role": "system",
                         "content": """Sos el clasificador de mensajes de Ometz Dental, una clínica dental en Asunción, Paraguay.
 
-Tu único trabajo es leer un mensaje de WhatsApp y clasificarlo en UNA de estas categorías:
+Tu único trabajo es leer un mensaje de Messaging y clasificarlo en UNA de estas categorías:
 
 CATEGORIES:
 - PRICING: pregunta sobre precios, costos, honorarios
@@ -343,7 +343,7 @@ async def log_to_supabase(data: dict, table: str):
         logger.error(f"Supabase log failed for {table}: {e}")
 
 
-async def send_whatsapp_message(to_phone: str, message: str):
+async def send_messaging_message(to_phone: str, message: str):
     """Send a message via Evolution API."""
     async with httpx.AsyncClient() as client:
         try:
@@ -404,7 +404,7 @@ async def evolution_webhook(request: Request, valid: bool = Depends(verify_hmac)
 
 
 async def handle_message(data: dict):
-    """Process an incoming WhatsApp message."""
+    """Process an incoming Messaging message."""
     try:
         key = data.get("key", {})
         remote_jid = key.get("remoteJid", "")
@@ -440,7 +440,7 @@ async def handle_message(data: dict):
 
         # Auto-respond
         if classification.auto_respond and classification.suggested_response:
-            await send_whatsapp_message(phone, classification.suggested_response)
+            await send_messaging_message(phone, classification.suggested_response)
             await log_to_supabase({
                 "phone": phone,
                 "direction": "outbound",
@@ -503,7 +503,7 @@ async def send_message(req: SendMessageRequest):
     """Manual send (admin/debug)."""
     if not req.to or not req.message:
         raise HTTPException(status_code=400, detail="Phone and message required")
-    await send_whatsapp_message(req.to, req.message)
+    await send_messaging_message(req.to, req.message)
     return {"status": "sent", "to": req.to}
 
 

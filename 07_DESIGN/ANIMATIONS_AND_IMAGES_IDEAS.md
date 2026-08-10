@@ -6,8 +6,8 @@
 
 ## Micro-interacciones (hover, click, scroll)
 
-### 1. **Botón WhatsApp pulse** ✅ recomendado
-El botón flotante de WhatsApp pulsa suavemente cada 3s para llamar la atención sin ser molesto. Animación de scale 1 → 1.05 → 1 con opacidad de un halo.
+### 1. **Botón Messaging pulse** ✅ recomendado
+El botón flotante de Messaging pulsa suavemente cada 3s para llamar la atención sin ser molesto. Animación de scale 1 → 1.05 → 1 con opacidad de un halo.
 
 ### 2. **Cards hover lift**
 Las tarjetas de servicios/subtemas se elevan 4px con shadow más profunda al pasar el mouse. Sutil, no brusco.
@@ -67,7 +67,7 @@ Mientras las imágenes cargan, muestran un skeleton shimmer (gradient que se mue
 
 ## Cuáles recomiendo para arrancar (low cost, high impact)
 
-- ✅ **#1 WhatsApp pulse** — 5 min, alto impacto
+- ✅ **#1 Messaging pulse** — 5 min, alto impacto
 - ✅ **#6 Fade-in-up secciones** — 10 min, alto impacto
 - ✅ **#14 Smooth page transitions** — 15 min, alto impacto
 - ✅ **#2 Cards hover lift** — 5 min, sutil

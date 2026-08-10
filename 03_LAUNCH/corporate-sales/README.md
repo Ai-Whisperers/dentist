@@ -66,7 +66,7 @@ Zero-cost benefit for clubs: members get 20% off all dental services. Club does 
 | Premium Leads | 326 leads with scores and tier labels |
 | Premium Outreach | Top 50 premium leads for immediate outreach |
 | Stage Definitions | Pipeline stage definitions |
-| Message Templates | WhatsApp outreach templates |
+| Message Templates | Messaging outreach templates |
 
 ---
 
@@ -82,7 +82,7 @@ Zero-cost benefit for clubs: members get 20% off all dental services. Club does 
 
 ### Week 5+
 - **Premium:** Universities, Tech companies
-- Mass WhatsApp to remaining leads
+- Mass Messaging to remaining leads
 
 ---
 

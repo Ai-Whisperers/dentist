@@ -34,11 +34,11 @@ fontFamily:
 
 ## PASO 3: Crear lib/utils.ts
 
-export const WHATSAPP = "[PLACEHOLDER: +595 XXX XXX XXX]"
-export const WHATSAPP_PREFILLED = "Hola Dra. GP, me gustaria agendar una consulta."
+export const MESSAGING = "[PLACEHOLDER: +595 XXX XXX XXX]"
+export const MESSAGING_PREFILLED = "Hola Dra. GP, me gustaria agendar una consulta."
 
-export function waLink(message: string = WHATSAPP_PREFILLED): string {
-  return https://wa.me/ + WHATSAPP + ?text= + encodeURIComponent(message)
+export function waLink(message: string = MESSAGING_PREFILLED): string {
+  return tel:+ + MESSAGING + ?text= + encodeURIComponent(message)
 }
 
 export function formatGs(amount: number): string {
@@ -52,12 +52,12 @@ CONTENIDO COMPLETO - servicios, precios, contacto, filosofia, FAQs - todo en un 
 ## PASO 5: Crear componentes
 
 ### components/nav.tsx
-Header con logo + links + WhatsApp CTA
+Header con logo + links + Messaging CTA
 
 ### components/footer.tsx
-Footer dark con 3 columnas + WhatsApp
+Footer dark con 3 columnas + Messaging
 
-### components/whatsapp-cta.tsx
+### components/messaging-cta.tsx
 Boton reutilizable para CTAs
 
 ### components/service-card.tsx

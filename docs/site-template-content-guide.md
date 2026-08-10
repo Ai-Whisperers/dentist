@@ -19,8 +19,8 @@
 
 **Business fields**
 - `business.phone`: +595 XXX XXX XXX
-- `business.whatsapp`: 595987126790
-- `business.whatsappMessage`: Hola Dra. GP, me gustaría agendar una consulta.
+- `business.messaging`: 595987126790
+- `business.messagingMessage`: Hola Dra. GP, me gustaría agendar una consulta.
 - `business.email`: email@dra-gabriela.com.py
 - `business.address`: Luque, Paraguay — dirección exacta al confirmar
 - `business.coordinates.lat/lng`: confirmar al confirmar dirección
@@ -34,7 +34,7 @@
 - stats: true
 - reasons: true
 - ctaBanner: true
-- whatsapp integration via WhatsAppFloat always visible
+- messaging integration via MessagingFloat always visible
 - blog: true (Phase 2)
 - ecommerce / giftCards / loyalty / clientPortal: false (unless we add services later)
 
@@ -111,7 +111,7 @@ More dropdown (optional)
 - Casos Complejos / Rehabilitación Oral
 
 **Process steps**
-- Escribí por WhatsApp → Response within 24h
+- Escribí por Messaging → Response within 24h
 - Primera consulta de evaluación → Full assessment, no surprise treatment
 - Recibís plan escrito → Clear options, pricing, timeline
 
@@ -238,7 +238,7 @@ Already approved content exists in
 
 ## 12. HUMAN TASKS / INPUTS NEEDED
 
-- WhatsApp number confirmation
+- Messaging number confirmation
 - Exact Luque address
 - Dra. GP professional photos (hero, about)
 - E.A.S. registration number

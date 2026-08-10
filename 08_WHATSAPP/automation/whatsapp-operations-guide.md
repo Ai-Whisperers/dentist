@@ -1,17 +1,17 @@
-# WHATSAPP OPERATIONS — HERMES AGENT MANAGEMENT
+# MESSAGING OPERATIONS — HERMES AGENT MANAGEMENT
 
 > **PRICING CROSS-REFERENCE:** Agent pricing responses are governed by `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. Agent never quotes loyalty/generated prices.
 **Version:** 1.0 — June 2026
-**Purpose:** Complete operational blueprint for Hermes agents managing WhatsApp channel
+**Purpose:** Complete operational blueprint for Hermes agents managing Messaging channel
 
 ---
 
 ## ARCHITECTURE OVERVIEW
 
 ```
-[Patient sends WhatsApp]
+[Patient sends Messaging]
          ↓
-[WhatsApp Business API / Screen scrape]
+[Messaging Business API / Screen scrape]
          ↓
 [Hermes Agent reads message]
          ↓
@@ -28,13 +28,13 @@
 
 ---
 
-## WHATSAPP CHANNEL SETUP
+## MESSAGING CHANNEL SETUP
 
-### Option A: WhatsApp Business API (Recommended for Scale)
+### Option A: Messaging Business API (Recommended for Scale)
 **What it needs:**
-- WhatsApp Business Platform account (business.whatsapp.com)
+- Messaging Business Platform account (business.messaging.com)
 - Meta Business account
-- Hermes MCP server connection to WhatsApp API
+- Hermes MCP server connection to Messaging API
 - Phone number dedicated to business (new SIM or eSIM)
 
 **Capabilities:**
@@ -44,9 +44,9 @@
 - Integration with CRM
 - Broadcast messages (up to 256 contacts)
 
-### Option B: WhatsApp Web + Hermes Monitoring (Launch)
+### Option B: Messaging Web + Hermes Monitoring (Launch)
 **What it needs:**
-- WhatsApp Business app on phone/PC
+- Messaging Business app on phone/PC
 - Hermes agent monitors via screen scraping or notification
 - Manual send by Dra. GP or Hermes voice/third-party tool
 
@@ -57,8 +57,8 @@
 
 ### Option C: himalaya / CLI tool (Terminal-based)
 **What it needs:**
-- WhatsApp session via web.whatsapp.com
-- himalaya CLI configured for WhatsApp
+- Messaging session via web.messaging.com
+- himalaya CLI configured for Messaging
 - Hermes agent runs himalaya commands
 
 **Capabilities:**
@@ -449,13 +449,13 @@ Next Action Date: [IF ANY]
 ## IMPLEMENTATION CHECKLIST
 
 ### Before Going Live:
-- [ ] WhatsApp Business API connected to Hermes
+- [ ] Messaging Business API connected to Hermes
 - [ ] All contacts from Dra. GP's phone imported to CRM
 - [ ] Message templates loaded into agent memory
 - [ ] Decision flows tested with 10 sample messages
-- [ ] Dra. GP phone set up with business WhatsApp
+- [ ] Dra. GP phone set up with business Messaging
 - [ ] Emergency number confirmed and tested
-- [ ] CRM linked to WhatsApp for contact lookup
+- [ ] CRM linked to Messaging for contact lookup
 - [ ] Escalation alerts tested (Dra. GP receives notification)
 - [ ] Appointment calendar integrated
 - [ ] All approved language loaded into agent prompts

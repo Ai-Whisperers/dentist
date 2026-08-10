@@ -33,7 +33,7 @@ Segunda opinions, planificación de tratamiento, y atención dental para persona
 **CTA Primary label:**
 Agendar consulta
 
-**CTA Primary action:** Opens WhatsApp with pre-filled message: "Hola Dra. GP, me gustaría agendar una consulta."
+**CTA Primary action:** Opens Messaging with pre-filled message: "Hola Dra. GP, me gustaría agendar una consulta."
 
 
 **Background note:** Clean photo — hands examining a dental model, or Dra. GP in thoughtful moment. NOT a dental chair or procedure shot. [PLACEHOLDER: needs professional photo of Dra. GP]
@@ -150,10 +150,10 @@ Esto es para vos si...
 **Headline:**
 ¿Listo para agendar?
 
-**WhatsApp button label:**
-Escríbeme por WhatsApp
+**Messaging button label:**
+Escríbeme por Messaging
 
-**WhatsApp pre-filled message:** "Hola Dra. GP, me gustaría agendar una consulta."
+**Messaging pre-filled message:** "Hola Dra. GP, me gustaría agendar una consulta."
 
 **Location line:** Luque, Paraguay — por confirmar dirección exacta
 
@@ -167,7 +167,7 @@ Escríbeme por WhatsApp
 
 **Tagline:** Odontología con criterio. No con prisa.
 
-**Phone/WhatsApp:** [PLACEHOLDER: +595 XXX XXX XXX]
+**Phone/Messaging:** [PLACEHOLDER: +595 XXX XXX XXX]
 
 **Email:** [PLACEHOLDER: email@dra-gp.com.py]
 

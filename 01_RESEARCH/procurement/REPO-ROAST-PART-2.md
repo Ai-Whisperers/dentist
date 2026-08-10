@@ -1,7 +1,7 @@
 # REPO ROAST PART 2 - More Critical Findings
 ## Continuation of REPO-ROAST-JUNE-2026.md
 
-**Source:** Deep read of strategic options, decision matrix, corporate program, WhatsApp templates, dental tourism analysis.
+**Source:** Deep read of strategic options, decision matrix, corporate program, Messaging templates, dental tourism analysis.
 
 ---
 
@@ -51,7 +51,7 @@ corporate-dental-benefits-program.md proposes 3 tiers:
 - 5 employees x Gs 150,000 = Gs 750,000/month revenue
 - Services provided per year: 5 x (2 consult + 4 checkups + 1 cleaning) = 35 services
 - Gs 9M annual / 35 services = Gs 257,000 per service
-- Subtract: Dra. GP chair cost, materials, lab, time, WhatsApp comms
+- Subtract: Dra. GP chair cost, materials, lab, time, Messaging comms
 - **NET per service is probably Gs 50-100k. Total annual NET: Gs 1.75-3.5M. Not enough.**
 
 The corporate model is marketed as a Gs 50M/month opportunity, but the per-service economics make this impossible for small/medium companies. Only the largest 100+ employee companies (Tier 3) might approach profitability per service, and even then the company pays LESS per employee.
@@ -60,7 +60,7 @@ The corporate model is marketed as a Gs 50M/month opportunity, but the per-servi
 
 ---
 
-## CRITICAL FINDING #4: 50+ WhatsApp Templates for an Agent That Does Not Exist
+## CRITICAL FINDING #4: 50+ Messaging Templates for an Agent That Does Not Exist
 
 message-templates-library.md (681 lines, 50+ templates) is organized for the "Hermes agent" to use:
 "The Hermes agent selects the appropriate template based on message classification."
@@ -81,7 +81,7 @@ The corporate program requires:
 - Contract negotiation (12-month minimum)
 - Quarterly utilization reports to HR
 - On-site health screening days (1x/year per company)
-- Dedicated WhatsApp contact for HR
+- Dedicated Messaging contact for HR
 
 **For 1 dentist working evenings (2-3 sessions/week), this is operationally impossible.** A solo dentist can do B2B SALES for 5-10 hours per week MAX. That is 1-2 discovery calls per week, 1-2 proposals per week, 1 close per week at best. 5 corporate clients takes months.
 
@@ -128,14 +128,14 @@ Cut the high-friction items: medical tourism agencies, embassy formalization.
 
 | File | Lines | Issue |
 |------|------:|-------|
-| 08_WHATSAPP/templates/message-templates-library.md | 681 | 50+ templates for non-existent agent |
+| 08_MESSAGING/templates/message-templates-library.md | 681 | 50+ templates for non-existent agent |
 | 03_LAUNCH/corporate-sales/programs/corporate-dental-benefits-program.md | 422 | B2B program for solo dentist |
 | 02_MEETINGS/kiki-meeting/kiki-decision-navigation-matrix.md | 298 | Decision rule threshold (3M) contradicts research (3M actual) |
 | 00_STRATEGIC/strategic-context/three-strategic-options-analysis.md | 159 | Recommends "start with A, escalate to B" but execution doc is only B |
 | 06_MARKETING/website-full-specification.md | 450+ | 7-page spec for website that hasnt been built |
-| 08_WHATSAPP/automation/hermes-agent-whatsapp-protocol.md | 384 | Internal AI tooling, not for Dra. GP |
-| 08_WHATSAPP/automation/conversation-flows-automation.md | 418 | 50-state automation for dentist without WhatsApp Business yet |
-| 08_WHATSAPP/automation/whatsapp-operations-guide.md | 350+ | Operations guide for product not yet deployed |
+| 08_MESSAGING/automation/hermes-agent-messaging-protocol.md | 384 | Internal AI tooling, not for Dra. GP |
+| 08_MESSAGING/automation/conversation-flows-automation.md | 418 | 50-state automation for dentist without Messaging Business yet |
+| 08_MESSAGING/automation/messaging-operations-guide.md | 350+ | Operations guide for product not yet deployed |
 | 09_TEMPLATES/email-templates.md | 368 | Generic email templates |
 | 05_OPERATIONS/patient-communications/patient-faq-20-answers.md | 250+ | 20 FAQs for 0 patients |
 
@@ -200,16 +200,16 @@ Two numbers (12-15 vs 20-30) - the newer procurement docs are CORRECT because th
 
 Items that look like real work but will not be used:
 
-1. **50+ WhatsApp templates** (681 lines) - Dra. GP will use 5-10, not 50
+1. **50+ Messaging templates** (681 lines) - Dra. GP will use 5-10, not 50
 2. **20-question patient FAQ** (250+ lines) - she has 0 patients asking questions yet
 3. **5 corporate tiers pricing schedule** (Micro, Staff Small, Empresa Chica, Empresa Mediana, Empresa Grande) - 5 tiers for 1 dentist who will sign 1-2 corporate clients max in Year 1
 4. **3 corporate tier brochure specs** (clubs, schools, hospitals one-pagers) - 3 different institutional sales materials for channels that will get 0 time in Year 1
 5. **Dental tourism analysis** - 163 lines for a market that requires embassy connections and medical tourism agency partnerships (unrealistic scope)
 6. **Hospital O.R. rental research** - one paragraph, never used
-7. **Multi-channel outreach strategy** (12k bytes) - WhatsApp + email + Instagram + Facebook + LinkedIn + Google + 5 corporate tiers. 7+ channels for 1 dentist.
+7. **Multi-channel outreach strategy** (12k bytes) - Messaging + email + Instagram + Facebook + LinkedIn + Google + 5 corporate tiers. 7+ channels for 1 dentist.
 8. **20 landing page content files** in 03_LAUNCH/website-content/ - the website hasnt been built. These are 20+ content drafts that will need to be re-edited when the actual site is built.
 9. **11 separate website page content files** in 07_DESIGN/website/ - same as above, redundant with 03_LAUNCH/website-content/
-10. **9 WhatsApp/Instagram outreach trackers and templates** - for 1 dentist who will use 1 channel for 1 type of patient outreach.
+10. **9 Messaging/Instagram outreach trackers and templates** - for 1 dentist who will use 1 channel for 1 type of patient outreach.
 
 Total ghost-town content: ~3,000+ lines of LLM-generated text that will be re-edited or never used.
 
@@ -231,7 +231,7 @@ Total ghost-town content: ~3,000+ lines of LLM-generated text that will be re-ed
 
 1. **Reconcile the 3 break-even numbers.** Pick 20-30 patients/mes (procurement data). Update financial model + decision matrix. This is a 5-minute fix.
 
-2. **Reconcile the 4 different per-service prices.** Pick canonical-pricing-reference. Update financial model + corporate program + WhatsApp templates. This is a 30-minute fix.
+2. **Reconcile the 4 different per-service prices.** Pick canonical-pricing-reference. Update financial model + corporate program + Messaging templates. This is a 30-minute fix.
 
 3. **Fix the decision rule.** "If Roque didnt offer real improvement AND space is available at Gs 3M/mo or less: START OPTION B THIS WEEK." Update to reflect actual procurement data.
 
@@ -249,7 +249,7 @@ Over the past 2+ weeks, AI agents have produced:
 - 186 .md files
 - 33,985 lines
 - 44MB+ of data
-- 50+ WhatsApp templates
+- 50+ Messaging templates
 - 5,500 Instagram contacts
 - 964 corporate leads
 - 19 dental lab contacts

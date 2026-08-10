@@ -400,7 +400,7 @@ def format_confirmation_message(appointment_id: int, day_name: str, day_num: str
         "",
         f"ID de tu cita: #{appointment_id}",
         "",
-        "Te confirmamos el día anterior por WhatsApp.",
+        "Te confirmamos el día anterior por Messaging.",
         "",
         "¿Tenés radiografías previas? Si sí, mandame foto o PDF.",
         "",
@@ -861,7 +861,7 @@ def upsert_contact(phone: str, pushname: str = None) -> bool:
     """, [phone, pushname])
     if ok and SUPABASE_URL:
         asyncio.create_task(supabase_mirror({
-            "phone": phone, "name": pushname, "source": "whatsapp",
+            "phone": phone, "name": pushname, "source": "messaging",
         }, "wa_contacts"))
     return ok
 
@@ -917,9 +917,9 @@ def extract_phone(record):
     key = record.get("key", {})
     remote = key.get("remoteJid", "")
     remote_alt = key.get("remoteJidAlt", "")
-    if remote_alt and "@s.whatsapp.net" in remote_alt:
+    if remote_alt and "@s.messaging.net" in remote_alt:
         return remote_alt.split("@")[0]
-    if remote and "@s.whatsapp.net" in remote:
+    if remote and "@s.messaging.net" in remote:
         return remote.split("@")[0]
     if remote:
         return remote.split("@")[0]

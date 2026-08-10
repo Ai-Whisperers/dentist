@@ -1,7 +1,7 @@
 # GUÍA DE CRISIS REPUTACIONAL
 ## Ometz Dental — Protocolo de manejo de crisis online y offline
 
-> **Cross-ref:** `08_WHATSAPP/templates/objection-library.md` + `05_OPERATIONS/patient-communications/patient-scripts-in-person-phone.md` + `09_TEMPLATES/recall-card-template.md` + `06_MARKETING/digital-marketing-playbook.md`
+> **Cross-ref:** `08_MESSAGING/templates/objection-library.md` + `05_OPERATIONS/patient-communications/patient-scripts-in-person-phone.md` + `09_TEMPLATES/recall-card-template.md` + `06_MARKETING/digital-marketing-playbook.md`
 
 **Versión:** 1.0 — Julio 2026
 **Para:** Gaby + asistente + Kiki (community manager)
@@ -26,7 +26,7 @@ La mayoría de las quejas no son por mala praxis, sino por malentendidos. Una re
 - ✅ Respondemos en menos de 24h (ideal: 4h)
 - ✅ Reconocemos el sentimiento del paciente
 - ✅ Ofrecemos solución concreta
-- ✅ Movemos la conversación a canal privado (WhatsApp o en persona)
+- ✅ Movemos la conversación a canal privado (Messaging o en persona)
 - ✅ Documentamos todo internamente
 
 ---
@@ -53,7 +53,7 @@ La mayoría de las quejas no son por mala praxis, sino por malentendidos. Una re
    - Si es queja real: continuar
 
 3. CONTACTO PRIVADO PRIMERO (1-2 horas)
-   - Mandar WhatsApp al paciente si tenés su número:
+   - Mandar Messaging al paciente si tenés su número:
      "Hola [Nombre]. Vi tu comentario en Google. Me importa mucho lo que te pasó.
       ¿Podemos hablar 5 minutos por teléfono o en persona para entender
       qué pasó y cómo solucionarlo?"
@@ -77,15 +77,15 @@ La mayoría de las quejas no son por mala praxis, sino por malentendidos. Una re
 
 **Template A — queja genérica sobre experiencia:**
 
-> "[Nombre], gracias por tomarte el tiempo de escribir. Lamento que tu experiencia no haya sido lo que esperabas. En Ometz Dental nos esforzamos por escuchar a cada paciente, y claramente en este caso fallamos. Me encantaría poder conversar para entender qué pasó y cómo solucionarlo. ¿Podemos agendar una llamada esta semana? Mi WhatsApp es [número]. — Dra. Gabriella González Pane."
+> "[Nombre], gracias por tomarte el tiempo de escribir. Lamento que tu experiencia no haya sido lo que esperabas. En Ometz Dental nos esforzamos por escuchar a cada paciente, y claramente en este caso fallamos. Me encantaría poder conversar para entender qué pasó y cómo solucionarlo. ¿Podemos agendar una llamada esta semana? Mi Messaging es [número]. — Dra. Gabriella González Pane."
 
 **Template B — queja sobre resultado clínico:**
 
-> "[Nombre], gracias por tu feedback. La salud bucal es algo serio y entendemos tu preocupación. Cada caso clínico tiene sus particularidades y a veces los resultados no son los esperados inicialmente. Me gustaría revisar tu caso personalmente. Por favor, escribime por WhatsApp al [número] para coordinar una consulta sin costo donde podamos evaluar opciones. — Dra. Gabriella González Pane."
+> "[Nombre], gracias por tu feedback. La salud bucal es algo serio y entendemos tu preocupación. Cada caso clínico tiene sus particularidades y a veces los resultados no son los esperados inicialmente. Me gustaría revisar tu caso personalmente. Por favor, escribime por Messaging al [número] para coordinar una consulta sin costo donde podamos evaluar opciones. — Dra. Gabriella González Pane."
 
 **Template C — queja sobre precio o facturación:**
 
-> "[Nombre], agradezco tu comentario. La transparencia de precios es importante para nosotros y lamento si en este caso no fue clara. Te propongo que revisemos juntos el detalle. Escribime por WhatsApp al [número] y coordinamos. — Dra. Gabriella González Pane."
+> "[Nombre], agradezco tu comentario. La transparencia de precios es importante para nosotros y lamento si en este caso no fue clara. Te propongo que revisemos juntos el detalle. Escribime por Messaging al [número] y coordinamos. — Dra. Gabriella González Pane."
 
 **Template D — queja esperando ser escuchada (no necesariamente error):**
 
@@ -104,7 +104,7 @@ La mayoría de las quejas no son por mala praxis, sino por malentendidos. Una re
 
 ```
 1. ALERTA INMEDIATA
-   - Gaby + Iván notificados por WhatsApp
+   - Gaby + Iván notificados por Messaging
 
 2. NO RESPONDER PÚBLICAMENTE todavía
    - Aunque la tentación es grande
@@ -159,10 +159,10 @@ La mayoría de las quejas no son por mala praxis, sino por malentendidos. Una re
 1. RESPONDER PÚBLICAMENTE (en el mismo post o comentario)
    - Breve, empático, invitando a canal privado
    - "Hola [Nombre]. Gracias por comentar. Me importa mucho tu experiencia.
-      ¿Podemos hablar por WhatsApp al [número] para entender mejor? — Equipo Ometz"
+      ¿Podemos hablar por Messaging al [número] para entender mejor? — Equipo Ometz"
 
 2. MOVER A PRIVADO
-   - Mandar DM con número de WhatsApp directo
+   - Mandar DM con número de Messaging directo
    - Conversar y resolver
 
 3. SI ES ATAQUE/INSULTO (no paciente real, o trolling):
@@ -174,7 +174,7 @@ La mayoría de las quejas no son por mala praxis, sino por malentendidos. Una re
 
 ---
 
-### Tipo 4 — Mala experiencia contada en grupo de WhatsApp / Facebook de expats
+### Tipo 4 — Mala experiencia contada en grupo de Messaging / Facebook de expats
 
 **Probabilidad:** Media (comunidades expats chiquitas, se corre rápido)
 **Severidad:** Media (reputacional + miedo de otros)
@@ -192,7 +192,7 @@ La mayoría de las quejas no son por mala praxis, sino por malentendidos. Una re
    - "[Nombre], lamento mucho tu experiencia. Me encantaría entender qué pasó
       y cómo solucionarlo. Te escribo por DM ahora."
 
-3. RESOLVER EN PRIVADO (DM, WhatsApp, en persona)
+3. RESOLVER EN PRIVADO (DM, Messaging, en persona)
    - Mismo protocolo que queja normal
 
 4. PEDIR PERMISO PARA COMPARTIR LA SOLUCIÓN
@@ -259,7 +259,7 @@ La mayoría de las quejas no son por mala praxis, sino por malentendidos. Una re
 - [ ] **Consentimiento informado firmado** por CADA procedimiento (no skippear nunca)
 - [ ] **Expectativas claras** verbalmente ANTES de cada procedimiento
 - [ ] **Presupuesto escrito** antes de cualquier tratamiento mayor
-- [ ] **Tiempo de respuesta WhatsApp <30 min** en horario laboral
+- [ ] **Tiempo de respuesta Messaging <30 min** en horario laboral
 - [ ] **Foto del paciente ANTES y DESPUÉS** (con consentimiento) para evidencia
 - [ ] **Historia clínica completa** desde la primera consulta
 - [ ] **Notas de evolución** después de cada procedimiento
@@ -334,7 +334,7 @@ Mantené un `incidencias-y-crisis.md` (interno, no público) con:
 ## [Fecha] — [Tipo de crisis]
 
 **Paciente:** [Nombre o código]
-**Canal:** [Google, Facebook, WhatsApp, en persona, etc.]
+**Canal:** [Google, Facebook, Messaging, en persona, etc.]
 **Descripción:** [Qué pasó, en 2-3 líneas]
 **Acción tomada:** [Qué se hizo, paso a paso]
 **Resolución:** [Cómo terminó]
@@ -362,7 +362,7 @@ Referente a [situación], desde Ometz Dental queremos expresar:
 3. [Nuestro compromiso con los pacientes]
 4. [Canal de contacto para afectados]
 
-Para más información: [email/WhatsApp/contacto]
+Para más información: [email/Messaging/contacto]
 
 Atentamente,
 Dra. Gabriella González Pane
@@ -389,4 +389,4 @@ Directora — Ometz Dental
 
 *Versión 1.0 — 7 julio 2026.*
 *Erebus (Ai-Whisperers).*
-*Cross-ref: `08_WHATSAPP/templates/objection-library.md` + `06_MARKETING/digital-marketing-playbook.md` + `ARCHIVE/legacy-roque-jun-2026/roque-meeting/13-emergency-plan-7-days.md` (patrón de respuesta a crisis).*
+*Cross-ref: `08_MESSAGING/templates/objection-library.md` + `06_MARKETING/digital-marketing-playbook.md` + `ARCHIVE/legacy-roque-jun-2026/roque-meeting/13-emergency-plan-7-days.md` (patrón de respuesta a crisis).*

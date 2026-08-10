@@ -16,11 +16,11 @@
 ## 2. FIRST-RESPONSE WINDOW DETAIL
 
 - **Target:** 4 hours (Mon-Sat, 8:00-18:00 PYST).
-- **Medium:** WhatsApp / email / phone — whichever the requester used.
+- **Medium:** Messaging / email / phone — whichever the requester used.
 - **Escalation:** if response is >4h and <24h, send a status note: "I'm in the chair / I'll reply at 14:00 with the full quote."
 - **Required action on receipt:**
   1. Acknowledge with named contact + 1-line summary + ETA for next real answer.
-  2. Auto reply/away message already in place per `08_WHATSAPP/templates/whatsapp-setup-configuration-guide.md`.
+  2. Auto reply/away message already in place per `08_MESSAGING/templates/messaging-setup-configuration-guide.md`.
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 5. ONBOARDING SLA
 
-| Step | Owner | SLA |\n|------|-------|-----|\n| Welcome email | Ivan | Within 24h of contract |\n| Employee contact list request | HR | Within 2 business days |\n| Corporate WhatsApp number ready | Ivan | Within 48h of onboarding kickoff |\n| Go-live notification (HR to employees) | HR | Coordinated with Dra. GP (G-day -3 to go-live) |\n| First-week utilization check-in | Dra. GP | 5 days post-go-live |\n| Monthly utilization report | Dra. GP | 5 business days after month-end |\n| Quarterly review meeting | Dra. GP + HR | Scheduled 30 days in advance |\n
+| Step | Owner | SLA |\n|------|-------|-----|\n| Welcome email | Ivan | Within 24h of contract |\n| Employee contact list request | HR | Within 2 business days |\n| Corporate Messaging number ready | Ivan | Within 48h of onboarding kickoff |\n| Go-live notification (HR to employees) | HR | Coordinated with Dra. GP (G-day -3 to go-live) |\n| First-week utilization check-in | Dra. GP | 5 days post-go-live |\n| Monthly utilization report | Dra. GP | 5 business days after month-end |\n| Quarterly review meeting | Dra. GP + HR | Scheduled 30 days in advance |\n
 
 ---
 
@@ -67,7 +67,7 @@
 
 ## 8. EMERGENCY CONTACTS FOR HR
 
-| Role | Contact |\n|------|--------|\n| Clinical lead | Dra. Gabriella González Pane via WhatsApp |\n| Account delivery | Ivan via `hermes` or the active primary contact list |\n| Escape valve | Escalate to Ivan within 30 minutes of a 0-hour clinical/HR emergency |\n
+| Role | Contact |\n|------|--------|\n| Clinical lead | Dra. Gabriella González Pane via Messaging |\n| Account delivery | Ivan via `hermes` or the active primary contact list |\n| Escape valve | Escalate to Ivan within 30 minutes of a 0-hour clinical/HR emergency |\n
 
 ---
 
@@ -79,4 +79,4 @@
 
 ---
 
-*Reference SLA assets:* `03_LAUNCH/corporate-sales/programs/corporate-sales-playbook.md`, `03_LAUNCH/corporate-sales/programs/corporate-dental-benefits-program.md`, and `08_WHATSAPP/templates/whatsapp-operations-index.md`.
+*Reference SLA assets:* `03_LAUNCH/corporate-sales/programs/corporate-sales-playbook.md`, `03_LAUNCH/corporate-sales/programs/corporate-dental-benefits-program.md`, and `08_MESSAGING/templates/messaging-operations-index.md`.

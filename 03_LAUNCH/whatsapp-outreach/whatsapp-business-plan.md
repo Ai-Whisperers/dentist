@@ -7,7 +7,7 @@
 
 ---
 
-# WHATSAPP BUSINESS AUTOMATION FLOWS
+# MESSAGING BUSINESS AUTOMATION FLOWS
 ## Dra. Gabriella González Pane
 **Phase:** Planning (not building)
 **Version:** 1.0 — June 2026
@@ -16,11 +16,11 @@
 
 ## PURPOSE
 
-WhatsApp Business is the primary patient acquisition and communication channel. This document specifies all automated flows, message sequences, and manual responses needed.
+Messaging Business is the primary patient acquisition and communication channel. This document specifies all automated flows, message sequences, and manual responses needed.
 
-**Why WhatsApp over other channels:**
-- Paraguayan market expects WhatsApp communication
-- Expat audience uses WhatsApp as primary messaging
+**Why Messaging over other channels:**
+- Paraguayan market expects Messaging communication
+- Expat audience uses Messaging as primary messaging
 - Lower friction than phone calls for first contact
 - Direct, personal, not corporate
 - Rich communication (can send photos, voice notes, documents)
@@ -29,20 +29,20 @@ WhatsApp Business is the primary patient acquisition and communication channel. 
 
 ## CHANNELS
 
-### WhatsApp Business App (Free Tier)
+### Messaging Business App (Free Tier)
 - Suitable for initial launch
 - Can handle up to ~100 conversations/month
 - Limited automation (quick replies only)
 - No broadcast messaging capability
 
-### WhatsApp Business Platform (WhatsApp Business API)
+### Messaging Business Platform (Messaging Business API)
 - For later scale (when volume increases)
 - Broadcast messaging (up to 256 recipients)
 - Advanced automation and CRM integration
 - Token-based verification
 - Recommended to upgrade when: 20+ patients/month and/or launch referral program
 
-**For launch:** WhatsApp Business App free tier is sufficient.
+**For launch:** Messaging Business App free tier is sufficient.
 
 ---
 
@@ -83,7 +83,7 @@ El precio exacto depende de la complexity del caso — necesito ver tu situació
 
 Si tenés una evaluación o radiografías existentes, podemos hacer una segunda opinión formal.
 
-Para agendar una consulta -> [BUTTON: Agendar por WhatsApp]
+Para agendar una consulta -> [BUTTON: Agendar por Messaging]
 
 Respondé este mensaje o escribime directamente si tenés más preguntas!"
 ↓
@@ -219,12 +219,12 @@ Can be templated messages for common procedures:
 - Don't eat hard foods for 2 hours
 - You may feel sensitivity for a few days — that's normal
 - If you feel pain after 48h, write me immediately
-- We're available on WhatsApp if you need anything"
+- We're available on Messaging if you need anything"
 ```
 
 ---
 
-## BROADCAST MESSAGES (Once on WhatsApp Business API)
+## BROADCAST MESSAGES (Once on Messaging Business API)
 
 Can only be sent to contacts who opted in. Use for:
 
@@ -238,7 +238,7 @@ Can only be sent to contacts who opted in. Use for:
 
 ---
 
-## REFERRAL TRACKING IN WHATSAPP
+## REFERRAL TRACKING IN MESSAGING
 
 When someone messages and mentions they were referred:
 
@@ -257,12 +257,12 @@ Columns: Date | Referred by | Referred to | Outcome | Discount given (Y/N)
 
 ## FORWARD-LOOKING: CRM INTEGRATION (Phase 2)
 
-Once volume increases, consider connecting WhatsApp Business API to:
+Once volume increases, consider connecting Messaging Business API to:
 - Notion CRM (free, simple)
 - Google Sheets + integromat/zapier
 - Airtable
 
-For now: WhatsApp Business App + manual spreadsheet tracking is sufficient.
+For now: Messaging Business App + manual spreadsheet tracking is sufficient.
 
 ---
 
@@ -278,7 +278,7 @@ For now: WhatsApp Business App + manual spreadsheet tracking is sufficient.
 
 ## MESSAGE RESPONSE TIME EXPECTATIONS
 
-At launch: Dra. GP responds personally to all WhatsApp messages within 24 hours on weekdays.
+At launch: Dra. GP responds personally to all Messaging messages within 24 hours on weekdays.
 
 **Target SLAs:**
 - First contact (new prospect): < 24 hours
@@ -288,19 +288,19 @@ At launch: Dra. GP responds personally to all WhatsApp messages within 24 hours 
 **If volume becomes unmanageable:**
 - Add dedicated assistant
 - Implement scheduling software (Calendly or similar)
-- Move to WhatsApp Business API
+- Move to Messaging Business API
 
 ---
 
-## LAUNCH CHECKLIST — WHATSAPP
+## LAUNCH CHECKLIST — MESSAGING
 
-- [ ] WhatsApp Business app installed on her phone
+- [ ] Messaging Business app installed on her phone
 - [ ] Business profile created (photo, bio, address)
 - [ ] Quick replies set up for: precios, agenda, segunda, ubicacion, horarios
 - [ ] Welcome message scripted and enabled
 - [ ] Auto-reply for "away" hours set up
 - [ ] Response time commitment set (24h weekdays)
-- [ ] Urgent issues number shared with existing patients (separate from business WhatsApp)
+- [ ] Urgent issues number shared with existing patients (separate from business Messaging)
 - [ ] Incoming message tracking spreadsheet created
 - [ ] Referral tracking column added to spreadsheet
 

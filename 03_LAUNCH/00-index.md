@@ -1,6 +1,6 @@
 # 03_LAUNCH — Index
 
-Execution plans: roadmap, corporate and institutional sales, CRM, website content, WhatsApp outreach.
+Execution plans: roadmap, corporate and institutional sales, CRM, website content, Messaging outreach.
 
 ## corporate-sales/
 - [`Corporate Sales — Dra. Gabriella González Pane`](corporate-sales/README.md)
@@ -46,10 +46,10 @@ Execution plans: roadmap, corporate and institutional sales, CRM, website conten
 - [`WEBSITE ADDITION — Social Proof / Trust Signals Section`](website-content/social-proof-trust-signals-content.md)
 - [`WEBSITE ADDITION — "When Not to Treat" Section`](website-content/when-not-to-treat-content.md)
 
-## whatsapp-outreach/
-- [`OUTREACH STRATEGY`](whatsapp-outreach/multi-channel-outreach-strategy.md)
-- [`WHATSAPP MESSAGE A/B VARIANTS`](whatsapp-outreach/whatsapp-ab-test-variants.md)
-- [`WHATSAPP BUSINESS AUTOMATION FLOWS`](whatsapp-outreach/whatsapp-business-plan.md)
+## messaging-outreach/
+- [`OUTREACH STRATEGY`](messaging-outreach/multi-channel-outreach-strategy.md)
+- [`MESSAGING MESSAGE A/B VARIANTS`](messaging-outreach/messaging-ab-test-variants.md)
+- [`MESSAGING BUSINESS AUTOMATION FLOWS`](messaging-outreach/messaging-business-plan.md)
 
 ---
 > **PRICING CROSS-REFERENCE:** Prices in this folder reference `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md` unless noted otherwise.

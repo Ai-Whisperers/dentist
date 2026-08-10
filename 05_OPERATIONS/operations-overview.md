@@ -35,8 +35,8 @@ operations/
 - Month 2-3: Growth and scale
 
 ### Daily Operations
-- 30 min morning: WhatsApp + prep
-- Between patients: WhatsApp check
+- 30 min morning: Messaging + prep
+- Between patients: Messaging check
 - 20 min evening: process + log
 
 ### Weekly Operations
@@ -55,7 +55,7 @@ operations/
 ### Legal (legal/ folder)
 - 9 documents ready (E.A.S., consent, privacy, terms, etc.)
 
-### WhatsApp (whatsapp/ folder)
+### Messaging (messaging/ folder)
 - 6 documents ready (50+ templates, flows, agent protocol)
 
 ### Research (research/ folder)
@@ -74,7 +74,7 @@ operations/
 | Item | Status | What we need from her |
 |------|--------|----------------------|
 | Legal docs | Drafted | Personal data + notary choice |
-| WhatsApp setup | Ready to execute | Phone + Meta account |
+| Messaging setup | Ready to execute | Phone + Meta account |
 | CRM setup | Template ready | Fill in real contacts |
 | Launch sequence | Ready | Execute when ready |
 | Patient scripts | Ready to use | Practice + personalize |
@@ -120,7 +120,7 @@ This can be built in a few hours and used from Day 1.
 | Folder | Files | Status |
 |--------|--------|---------|
 | legal/ | 9 docs | Ready to execute |
-| whatsapp/ | 6 docs | Ready to execute |
+| messaging/ | 6 docs | Ready to execute |
 | operations/ | 7 docs | Ready to execute |
 | plans/ | 6 docs | Ready to execute |
 | docs/ | 6 docs | Complete |

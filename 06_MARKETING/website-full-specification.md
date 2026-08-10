@@ -63,7 +63,7 @@ Home
 1. **Hero**
    - Headline: "Odontología con criterio. No con prisa."
    - Subheadline: "Second opinions, treatment planning, and dental care for people who want to understand their options before deciding."
-   - CTA: "Agendar consulta" (primary) + "Hablar por WhatsApp" (secondary)
+   - CTA: "Agendar consulta" (primary) + "Hablar por Messaging" (secondary)
    - Background: Clean clinical photo — NOT a stock dental chair photo. Consider: hands examining a model, a thoughtful moment, not a procedure shot.
 
 2. **The Problem We Solve**
@@ -95,13 +95,13 @@ Home
    - Photo of Dra. GP (professional, warm, not a headshot in a suit)
 
 7. **Contact block**
-   - WhatsApp button (prominent)
+   - Messaging button (prominent)
    - Location: Luque address (once confirmed)
    - "Currently accepting new patients"
    - Google Maps embed (once address exists)
 
 8. **Footer**
-   - Phone/WhatsApp
+   - Phone/Messaging
    - Email (optional)
    - Location
    - Languages
@@ -292,8 +292,8 @@ Home
 
 **Sections:**
 
-1. **Primary CTA: WhatsApp**
-   - Large WhatsApp button
+1. **Primary CTA: Messaging**
+   - Large Messaging button
    - Pre-filled message: "Hola Dra. GP, me gustaría agendar una consulta."
    - Link: wa.me/595987126790
 
@@ -346,7 +346,7 @@ Home
 | Services | Servicios — Second Opinion, Restauraciones, Estética | Full-service dental care with a planning-first approach. Second opinions, general dentistry, cosmetics. Prices透明. |
 | Pricing | Precios Dentales — Asunción 2026 | Transparent dental pricing in Asunción. Second opinions from Gs 400k. Restauraciones from Gs 400k. English OK. |
 | Second Opinion | Segunda Opinión Dental — Dra. GP Asunción | Not sure if you need that procedure? Get an honest second opinion. Written findings, no obligation. Gs 400-600k. |
-| Contact | Contacto — Dra. GP Odontología Asunción | WhatsApp, phone, or visit us in Luque. By appointment only. Response within 24 hours. English OK. |
+| Contact | Contacto — Dra. GP Odontología Asunción | Messaging, phone, or visit us in Luque. By appointment only. Response within 24 hours. English OK. |
 
 ### Technical SEO
 - SSL certificate (required)
@@ -359,14 +359,14 @@ Home
 
 ## CONVERSION POINTS
 
-### Primary Conversion: WhatsApp Click
-- Every page has WhatsApp CTA
+### Primary Conversion: Messaging Click
+- Every page has Messaging CTA
 - Pre-filled message makes it easy
 - This is the primary acquisition channel
 
 ### Secondary Conversion: Phone Call
 - Click-to-call for those who prefer phone
-- Track calls separately from WhatsApp
+- Track calls separately from Messaging
 
 ### Tertiary Conversion: Google Business
 - Website supports Google Business listing
@@ -380,7 +380,7 @@ Home
 |--------|---------------|------------------|
 | Google Search (SEO) | 30-40% | Keywords + content |
 | Google Maps | 20-30% | Google Business profile |
-| WhatsApp direct | 20-30% | Word of mouth, QR codes |
+| Messaging direct | 20-30% | Word of mouth, QR codes |
 | Referrals | 10-20% | Referral program |
 | LinkedIn | 5-10% | Profile optimization |
 
@@ -388,10 +388,10 @@ Home
 
 ## WHAT THE SITE DOES NOT NEED (FOR PHASE 1 LAUNCH)
 
-- Appointment booking system (WhatsApp is sufficient for Phase 1)
+- Appointment booking system (Messaging is sufficient for Phase 1)
 - Blog (until Phase 2+)
 - E-commerce or online payments
-- Photo galleries (portfolio shared in person/WhatsApp)
+- Photo galleries (portfolio shared in person/Messaging)
 - Animated effects or heavy graphics
 - Multi-language toggle (Spanish with English phrase equivalents is fine)
 
@@ -445,13 +445,13 @@ Home
 Before going live:
 - [ ] All pages complete and approved
 - [ ] Google Business profile created
-- [ ] WhatsApp number confirmed active
+- [ ] Messaging number confirmed active
 - [ ] Location address confirmed
 - [ ] Pricing reviewed and approved
 - [ ] Photos of Dra. GP obtained
 - [ ] SSL certificate installed
 - [ ] Mobile tested
-- [ ] WhatsApp click-to-chat tested
+- [ ] Messaging click-to-chat tested
 - [ ] Google Analytics / tracking installed
 
 ---

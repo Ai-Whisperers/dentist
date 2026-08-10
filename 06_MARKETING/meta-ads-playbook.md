@@ -9,7 +9,7 @@
 
 Meta ads work for dental practices, but only as amplification of an already
 optimized GBP. Do not run before GBP has 15+ photos and first 10 reviews. Use
-WhatsApp click-through as primary conversion event — not form fills or calls.
+Messaging click-through as primary conversion event — not form fills or calls.
 
 ---
 
@@ -18,7 +18,7 @@ WhatsApp click-through as primary conversion event — not form fills or calls.
 ### Ad Account
 - Business Manager under Dra. GP EAS business name
 - Meta pixel on website (single page → single pixel)
-- WhatsApp Business Number linked to ad account (WACT = WhatsApp Conversation
+- Messaging Business Number linked to ad account (WACT = Messaging Conversation
   Started is the conversion event)
 - Catalog optional (for treatment packages); not required at MVP
 
@@ -69,10 +69,10 @@ PY market is typically lower CPM with lower intent conversion rate.
 - 60s format
 - Hook first frame: "¿Sabías que un tratamiento dental en Paraguay puede costar 60% menos que en EE.UU.?"
 - Show: clinic exterior → treatment room → equipment → "así trabajamos"
-- Text overlay: "Segunda opinión sin costo — agendá por WhatsApp"
+- Text overlay: "Segunda opinión sin costo — agendá por Messaging"
 
 ### 2. Carousel ads
-- 5 slides: (1) Problem — "¿Te ofrecieron tratamiento y no estás seguro?", (2) Pain — "Sobretratamiento es más común de lo que creés", (3) Solution — "DraGP: segunda opinión honesta", (4) Credential — "Especialista, tecnología CAD/CAM", (5) CTA — "Hablanos por WhatsApp"
+- 5 slides: (1) Problem — "¿Te ofrecieron tratamiento y no estás seguro?", (2) Pain — "Sobretratamiento es más común de lo que creés", (3) Solution — "DraGP: segunda opinión honesta", (4) Credential — "Especialista, tecnología CAD/CAM", (5) CTA — "Hablanos por Messaging"
 
 ### 3. Single image ads
 - Before/after (consented) OR
@@ -81,7 +81,7 @@ PY market is typically lower CPM with lower intent conversion rate.
 
 ### 4. Collection ads
 - Upload treatment catalog as product catalog
-- Patient clicks → opens WhatsApp with pre-filled treatment type message
+- Patient clicks → opens Messaging with pre-filled treatment type message
 
 ---
 
@@ -114,7 +114,7 @@ PY market is typically lower CPM with lower intent conversion rate.
 - Phrases safe: "Segunda opinión", "Planificación personalizada", "Tecnología CAD/CAM"
 - Meta requires medical ads to complete "Authorization" process for healthcare
   — plan for 5–10 day review period
-- WhatsApp ads require explicit click-to-WA button (not just website)
+- Messaging ads require explicit click-to-WA button (not just website)
 
 ---
 

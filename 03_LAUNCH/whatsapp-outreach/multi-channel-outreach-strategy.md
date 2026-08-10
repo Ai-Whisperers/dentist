@@ -116,7 +116,7 @@ Dra. Gabriella González Pane
 ```
 Hey [NAME], not sure if this is allowed here, but I'm a dentist — not posting as promotion, just want to help. If you're looking for a second opinion or want someone who plans before treating, feel free to message me directly. Happy to give you an honest assessment. No pressure either way.
 
-My WhatsApp: +595 XXX XXX XXX
+My Messaging: +595 XXX XXX XXX
 ```
 
 ### Creating a Helpful Resource Post (once rules reviewed)
@@ -205,7 +205,7 @@ Dra. Gabriella González Pane
 - Dra. Lorena Centurión — IPS maxilofacial
 - Dra. Natalia Prieto — Orthodontics
 
-**Step 2: Warm introduction via LinkedIn or WhatsApp**
+**Step 2: Warm introduction via LinkedIn or Messaging**
 
 **Message template:**
 ```
@@ -215,7 +215,7 @@ I'm Dra. Gabriella González Pane, a general dentist with a focus on treatment p
 
 I've been following your work at [CLINIC] and I think there's an opportunity for mutual referrals. I often see patients who need [specialty] work — and I've found that when cases are sent to me for planning first, everyone gets better outcomes.
 
-I don't try to do work outside my scope — when a case needs [specialty], I want it to go to someone I trust. Would you be open to having coffee/WhatsApp call to discuss a mutual referral relationship?
+I don't try to do work outside my scope — when a case needs [specialty], I want it to go to someone I trust. Would you be open to having coffee/Messaging call to discuss a mutual referral relationship?
 
 No pressure — just exploring if there's a fit.
 
@@ -230,7 +230,7 @@ Dra. GP
 - Leave with a clear understanding of: what cases she refers, what cases she keeps, how to contact her quickly
 
 **Step 4: Formalize (later)**
-- Create a simple referral form (can be WhatsApp message template)
+- Create a simple referral form (can be Messaging message template)
 - Establish expected response time
 - Agree on feedback loop (she sends, they update her on outcome)
 
@@ -324,7 +324,7 @@ Track every outreach in CRM:
 - Date of contact
 - Organization
 - Person contacted (name if available)
-- Method (email, WhatsApp, in-person)
+- Method (email, Messaging, in-person)
 - Response received (yes/no/waiting)
 - Outcome if yes
 

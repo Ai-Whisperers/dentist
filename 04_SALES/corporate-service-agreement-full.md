@@ -85,12 +85,12 @@ La cobertura familiar es opcional. Si se contrató el addon familiar:
 ## 6. SISTEMA DE COMUNICACIÓN
 
 ### Para el Empleado:
-- WhatsApp directo: +595 XXX XXX XXX
+- Messaging directo: +595 XXX XXX XXX
 - Horario de atención: Lunes a Viernes, 8:00-18:00
-- Urgencias fuera de horario: vía WhatsApp (respuesta en 2 horas máximo)
+- Urgencias fuera de horario: vía Messaging (respuesta en 2 horas máximo)
 
 ### Para la Empresa:
-- Contacto HR: [HR_CONTACT_NAME], WhatsApp: [HR_WHATSAPP]
+- Contacto HR: [HR_CONTACT_NAME], Messaging: [HR_MESSAGING]
 - Reporte de utilización: Trimestral, enviado al contacto HR
 - Reuniones de seguimiento: Según necesidad, acordar con 48h de anticipación
 
@@ -242,7 +242,7 @@ Este documento es una plantilla de ejecución. Los campos marcados con `{{...}}`
 | [INCLUDED/LIMITED] | {{PENDIENTE}} | Operaciones |
 | [START_DATE] | {{PENDIENTE}} | Legal |
 | [HR_CONTACT_NAME] | {{PENDIENTE}} | Cliente |
-| [HR_WHATSAPP] | {{PENDIENTE}} | Cliente |
+| [HR_MESSAGING] | {{PENDIENTE}} | Cliente |
 | [HR_EMAIL] | {{PENDIENTE}} | Cliente |
 
 ---

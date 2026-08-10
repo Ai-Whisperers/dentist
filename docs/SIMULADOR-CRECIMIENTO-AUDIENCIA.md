@@ -73,7 +73,7 @@ Predecir **cuán rápido crecerá la audiencia digital de Ometz** según escenar
 
 ---
 
-## 💬 WHATSAPP MESSAGES / MES
+## 💬 MESSAGING MESSAGES / MES
 
 ### Modelo
 
@@ -143,7 +143,7 @@ mensajes_mes = (follower_base × 0.5% conversion_wa) + ads_wa_clicks
 | Señal | Acción |
 |-------|--------|
 | <50 followers a fin de mes 2 | Aumentar posting + boost |
-| <20 mensajes WhatsApp mes 3 | Cambiar creative |
+| <20 mensajes Messaging mes 3 | Cambiar creative |
 | <10 citas/mes | Activar referidos + alianzas |
 | ROAS <1.5x | Pausar ads no rentables |
 

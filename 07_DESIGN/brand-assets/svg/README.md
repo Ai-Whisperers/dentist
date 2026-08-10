@@ -24,7 +24,7 @@ Aquí están **todos los archivos SVG** de la identidad visual de Ometz Dental l
 | `logo-concept-1-ometz-protagonista.svg` | 600×360 px | Logo vertical principal |
 | `logo-concept-1-horizontal.svg` | 800×200 px | Header web, email signature |
 | `logo-favicon.svg` | 64×64 px | Favicon browser, app icon |
-| `profile-picture.svg` | 500×500 px | Facebook, WhatsApp Business, GBP |
+| `profile-picture.svg` | 500×500 px | Facebook, Messaging Business, GBP |
 | `facebook-cover.svg` | 851×315 px | Portada de página Facebook |
 
 ### Variantes recomendadas para producción
@@ -59,9 +59,9 @@ Para cambiar el texto del quote:
 |---------|-------------|
 | `services-grid.svg` | Cuadrícula 4 servicios (rehabilitación / 2da opinión / operatoria / estética) |
 | `hero-website.svg` | Hero del sitio web (con foto placeholder) |
-| `whatsapp-catalog-consulta.svg` | Item catálogo WA — Consulta general |
-| `whatsapp-catalog-segunda-opinion.svg` | Item catálogo WA — Segunda opinión |
-| `whatsapp-catalog-blanqueamiento.svg` | Item catálogo WA — Blanqueamiento |
+| `messaging-catalog-consulta.svg` | Item catálogo WA — Consulta general |
+| `messaging-catalog-segunda-opinion.svg` | Item catálogo WA — Segunda opinión |
+| `messaging-catalog-blanqueamiento.svg` | Item catálogo WA — Blanqueamiento |
 
 ---
 
@@ -71,7 +71,7 @@ Para cambiar el texto del quote:
 |---------|-------|
 | `carrusel-01-portada-profilaxis.svg` | Portada: "¿Qué es la profilaxis?" |
 | `carrusel-02-eliminar-placa.svg` | Slide 2: "Eliminar placa y sarro" |
-| `carrusel-06-cierre-cta.svg` | Slide 6 (cierre): CTA WhatsApp |
+| `carrusel-06-cierre-cta.svg` | Slide 6 (cierre): CTA Messaging |
 
 **Para slides 3-5:** duplicar `carrusel-02-eliminar-placa.svg` y cambiar el número grande (1 → 2 → 3 → 4 → 5) y el texto correspondiente. Hay 3 slides más para completar el carrusel de profilaxis:
 - Slide 3: Prevenir enfermedad periodontal

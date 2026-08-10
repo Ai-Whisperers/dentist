@@ -1,4 +1,4 @@
-# WhatsApp Message — Digital Systems Audit
+# Messaging Message — Digital Systems Audit
 **To:** Dra. GP
 **Status:** Ready to send — awaiting her response
 **Date:** June 2026
@@ -42,7 +42,7 @@ Tomate tu tiempo para responder cuando puedas 👊
 
 4. Qué es lo que MÁS odiás de SAM? (cosas que te frenan, que demora mucho, que no puede hacer)
 
-5. Qué te falta en SAM que hoy hacés a mano o por WhatsApp?
+5. Qué te falta en SAM que hoy hacés a mano o por Messaging?
 
 6. Hay algo que quieras MOSTRAR a tus pacientes pero SAM no te deja? (ej: "me gustaría mostrarles la evolución de sus radiografías pero no se ve bien")
 ```
@@ -54,7 +54,7 @@ Tomate tu tiempo para responder cuando puedas 👊
 ```
 **Grupo 3 — Comunicación con pacientes:**
 
-7. Cómo recordás a tus pacientes los turnos? (WhatsApp, llamada, SMS, nada)
+7. Cómo recordás a tus pacientes los turnos? (Messaging, llamada, SMS, nada)
 
 8. Cuando se cambia o retrasa un turno, cómo les avisás?
 

@@ -10,7 +10,7 @@
 | Round | Score | Acción |
 |-------|-------|--------|
 | **Inicial** | 62/100 | Estado pre-roast |
-| **P0** | 78/100 | WhatsApp + brand + canonical |
+| **P0** | 78/100 | Messaging + brand + canonical |
 | **P1** | 83/100 | Metadata final + theme color (parcial) |
 | **P2** | 92/100 | 6 componentes nuevos |
 | **P3** | 95/100 | FAQ search + honest stats |
@@ -22,13 +22,13 @@
 
 | Item | Status |
 |------|--------|
-| WhatsApp real | ✅ `595987126790` en todos los links |
+| Messaging real | ✅ `595987126790` en todos los links |
 | Brand Ometz Dental | ✅ Title + apple + og |
 | Canonical/og:url | ✅ `ometzdental.com` |
 | Hebrew אומץ | ✅ 8 ocurrencias, prominente en hero |
 | OmetzMark | ✅ Visible en hero |
 | Countdown al 26 jul | ✅ Live (días/horas/min/seg) |
-| Sticky WhatsApp | ✅ Botón verde pulse |
+| Sticky Messaging | ✅ Botón verde pulse |
 | FAQ Search | ✅ En /es/faq |
 | Maps embed | ✅ En /es/contact |
 | Breadcrumbs | ✅ En contact page |
@@ -171,7 +171,7 @@ themeColor: [
 ## 🎯 MEJORAS UX/UI ESPECÍFICAS RECOMENDADAS (ordenadas)
 
 ### Mobile-first improvements (alta conversión)
-1. **Sticky WhatsApp button** más visible (ya está, pero verificar z-index)
+1. **Sticky Messaging button** más visible (ya está, pero verificar z-index)
 2. **Bottom nav** en mobile con home/servicios/WA/contacto
 3. **Tap-to-call** button sticky
 4. **Hamburger menu** con mejor UX
@@ -187,8 +187,8 @@ themeColor: [
 ### Conversion optimization
 11. **Sticky price range** en hero ("Desde Gs 300.000")
 12. **Calendly inline** en hero CTA
-13. **WhatsApp pre-filled con template** "Hola, vi su web y quiero..."
-14. **Mini-form** en hero (nombre + WhatsApp + motivo)
+13. **Messaging pre-filled con template** "Hola, vi su web y quiero..."
+14. **Mini-form** en hero (nombre + Messaging + motivo)
 15. **Exit intent popup** con descuento primera consulta
 
 ### Trust signals

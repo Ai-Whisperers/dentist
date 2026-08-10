@@ -87,7 +87,7 @@ La brecha entre el valor que genera y la remuneración que obtiene dentro del si
 
 ## Plan B (independiente de Roque) — actualizado 22 jun
 
-- **Opción B1:** Consultorio de la **amiga odontóloga en Barrio Burucuyá, Luque** — viernes. *"Ya tengo seguro que ella me va a prestar o alquilar, no hablamos bien"*. Mensaje de WhatsApp listo: `09_TEMPLATES/follow-up-burucuya-amiga-luque.md`.
+- **Opción B1:** Consultorio de la **amiga odontóloga en Barrio Burucuyá, Luque** — viernes. *"Ya tengo seguro que ella me va a prestar o alquilar, no hablamos bien"*. Mensaje de Messaging listo: `09_TEMPLATES/follow-up-burucuya-amiga-luque.md`.
 - **Opción B2:** Espacio en Luque los **lunes a la mañana** — pendiente confirmar contacto.
 - **Opción B3:** Clasipar #1596372, Centro Luque, Gs 3.675M/mes.
 - **Opción B4:** Clínica Mburucuyá (Dra. Mariana Brescia) — Asunción, no Luque.
@@ -161,7 +161,7 @@ dentist/
 │   ├── kiki-meeting/                # Kiki session materials
 │   └── gabi-audio-prompts/          # Audio scripts para Gaby (NUEVO 22 jun)
 │
-├── 03_LAUNCH/                       # Roadmap, sales playbooks, website, WhatsApp
+├── 03_LAUNCH/                       # Roadmap, sales playbooks, website, Messaging
 │   ├── roadmap/                     # 90-day roadmap, launch sequence
 │   ├── corporate-sales/             # B2B benefits, clubs
 │   ├── institutional-sales/         # Hospital delegation, schools
@@ -169,7 +169,7 @@ dentist/
 │   ├── crm-systems/                 # CRM implementation
 │   ├── website-content/             # Blog, expat, first-visit
 │   ├── instagram-contacts/          # IG scraping
-│   └── whatsapp-outreach/           # WhatsApp business plan
+│   └── messaging-outreach/           # Messaging business plan
 │
 ├── 04_SALES/                        # Corporate agreements
 ├── 05_OPERATIONS/                   # Clinical routines, legal, comms
@@ -177,7 +177,7 @@ dentist/
 ├── 07_DESIGN/                       # Brand + website
 │   ├── brand-assets/                # Cards, signage
 │   └── website/                     # 22 pages, questionnaire, validacion-minima-viable
-├── 08_WHATSAPP/                     # WhatsApp automation, templates
+├── 08_MESSAGING/                     # Messaging automation, templates
 ├── 09_TEMPLATES/                    # Patient templates (incluye follow-up-burucuya-amiga-luque.md)
 ├── ARCHIVE/                         # Historical / staged-out materials
 ├── docs/                            # Executive summary, work plan
@@ -193,7 +193,7 @@ dentist/
 
 - **`ARCHIVE/legacy-roque-jun-2026/roque-meeting/00-ONE-PAGE-CHEAT-SHEET.md`** — hoja de 1 cara para la reunión
 - **`ARCHIVE/legacy-roque-jun-2026/roque-meeting/13-emergency-plan-7-days.md`** — plan si la reunión sale mal
-- **`09_TEMPLATES/follow-up-burucuya-amiga-luque.md`** — WhatsApp para el Plan B
+- **`09_TEMPLATES/follow-up-burucuya-amiga-luque.md`** — Messaging para el Plan B
 
 ### Reunión con Roque — los 11 que Kiki/Erebus usan para preparar
 
@@ -322,14 +322,14 @@ SALE BIEN   SALE MAL
 ### Canales
 - **Facebook sí** — público meta (paraguayos 30-60 + expats) está ahí
 - **Instagram NO** — público no está, no es su canal
-- **WhatsApp Business SÍ** — crítico
+- **Messaging Business SÍ** — crítico
 - **Google Business SÍ** — crítico
 - **LinkedIn NO por ahora** — no es prioridad para práctica local
 
 ### Frase: "Te escucho."
 - Reemplaza "Odontología con criterio, no con prisa" como claim público
 - Es la frase real que Gaby le dice al paciente
-- Va en home, welcome message WhatsApp, quick replies, redes
+- Va en home, welcome message Messaging, quick replies, redes
 
 ### Servicio adicional: Coaching a colegas odontólogos
 - En Paraguay no existe como servicio formal

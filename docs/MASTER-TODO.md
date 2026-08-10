@@ -28,7 +28,7 @@
 - ❌ Profilaxis como servicio destacado → reemplazado por rehabilitación oral
 - ❌ Instagram como canal → descartado (no es su público)
 - ✅ Facebook sí es el canal
-- ✅ Google Business + WhatsApp Business sí son críticos
+- ✅ Google Business + Messaging Business sí son críticos
 
 ### Lo que está bloqueado (decisiones pendientes de Gaby)
 - ❓ Nombre de archivo del primer post en Facebook
@@ -57,14 +57,14 @@ Crear los 3 cuestionarios priorizados:
 
 ### FASE 3 — OPERACIONES (las 2 semanas antes de abrir)
 - Google Business Profile setup guide
-- WhatsApp Business config paso a paso
+- Messaging Business config paso a paso
 - Mensajes para 5-10 pacientes top (ya hecho: `pedido-resenas-v1.md`)
-- Quick replies de WhatsApp (ya hecho: `quick-replies-v1-final.md`)
+- Quick replies de Messaging (ya hecho: `quick-replies-v1-final.md`)
 - Sitemap del sitio web (ya hecho: `sitemap-profilaxis-v1.md`)
 
 ### FASE 4 — DÍA 1 EN MBURUCUYÁ (cuando abra)
 - Plan de comunicación de apertura
-- Scripts para responder WhatsApp en vivo
+- Scripts para responder Messaging en vivo
 - Checklist de lo que tiene que tener listo
 - Plan para la primera semana (cuántos pacientes, qué esperar)
 
@@ -93,7 +93,7 @@ Crear los 3 cuestionarios priorizados:
 
 ### Tareas de FASE 2 (cuestionarios)
 - [ ] **Cuestionario A — HOY** (5 min, audio-friendly)
-  - 6 preguntas bloqueantes: WhatsApp, dirección, calle, RUC, MSPBS, email
+  - 6 preguntas bloqueantes: Messaging, dirección, calle, RUC, MSPBS, email
   - Formato: pregunta → audio respuesta → siguiente pregunta
   - Archivo: `02_MEETINGS/gabi-audio-prompts/07-cuestionario-hoy-5min.md`
 - [ ] **Cuestionario B — POST-REUNIÓN** (15 min)
@@ -111,7 +111,7 @@ Crear los 3 cuestionarios priorizados:
 
 ### Tareas de FASE 3 (operaciones pre-apertura)
 - [ ] Google Business Profile setup guide paso a paso
-- [ ] WhatsApp Business config paso a paso
+- [ ] Messaging Business config paso a paso
 - [ ] Actualizar `02_MEETINGS/client-prep/digital-systems/` con la nueva info
 - [ ] Recolectar testimonios (consentimientos firmados)
 - [ ] **Decisión:** ¿dónde va a atender Gaby en Mburucuyá? (calle exacta, foto, layout)
@@ -183,7 +183,7 @@ Sesión Erebus generó los siguientes 22 docs nuevos (todos commiteados en maste
 
 1. **Calle exacta del consultorio en Mburucuyá** → no la tengo. Sin esto, no puedo armar Google Business ni la web.
 2. **¿Cuándo abre formalmente?** → necesario para el countdown del día 1.
-3. **¿Tenés ya la línea de WhatsApp Business o la vas a comprar esta semana?** → si ya la tenés, te paso los quick replies personalizados.
+3. **¿Tenés ya la línea de Messaging Business o la vas a comprar esta semana?** → si ya la tenés, te paso los quick replies personalizados.
 4. **¿Tenés EAS, RUC, Timbrado?** → necesario para facturar.
 5. **¿Ya tenés seguro de responsabilidad civil profesional?** → crítico.
 6. **¿Querés community manager o no?** → si sí, ¿quién? si no, ¿qué hacemos con el contenido?
@@ -201,19 +201,19 @@ Sesión Erebus generó los siguientes 22 docs nuevos (todos commiteados en maste
 - ✅ `00_STRATEGIC/strategic-context/executive-summary-dra-gp.md` (v3)
 - ✅ `00_STRATEGIC/strategic-context/three-strategic-options-analysis.md` (v3)
 - ✅ `00_STRATEGIC/financial-pricing/pricing-template-v1.csv` (50+ procedimientos)
-- ✅ `08_WHATSAPP/templates/quick-replies-v1-final.md`
-- ✅ `08_WHATSAPP/templates/pedido-resenas-v1.md`
+- ✅ `08_MESSAGING/templates/quick-replies-v1-final.md`
+- ✅ `08_MESSAGING/templates/pedido-resenas-v1.md`
 - ✅ `03_LAUNCH/website-content/sitemap-profilaxis-v1.md`
 - ✅ `03_LAUNCH/instagram-contacts/expats-communities-list.md`
 - ✅ `00_STRATEGIC/strategic-context/nombre-comercial-propuestas-v1.md` (histórico, "Ometz Dental" ya adoptado)
 - ✅ `02_MEETINGS/gabi-audio-prompts/00-ANALYSIS-questionnaires.md` (análisis crítico de los cuestionarios)
-- ✅ `08_WHATSAPP/whatsapp-automation-blueprint.md`
-- ✅ `08_WHATSAPP/automation/whatsapp-operations-guide.md`
-- ✅ `08_WHATSAPP/templates/objection-library.md`
-- ✅ `08_WHATSAPP/templates/whatsapp-setup-configuration-guide.md`
-- ✅ `08_WHATSAPP/templates/whatsapp-operations-index.md`
+- ✅ `08_MESSAGING/messaging-automation-blueprint.md`
+- ✅ `08_MESSAGING/automation/messaging-operations-guide.md`
+- ✅ `08_MESSAGING/templates/objection-library.md`
+- ✅ `08_MESSAGING/templates/messaging-setup-configuration-guide.md`
+- ✅ `08_MESSAGING/templates/messaging-operations-index.md`
 - ✅ `03_LAUNCH/roadmap/master-launch-roadmap.md`
-- ✅ `03_LAUNCH/whatsapp-outreach/whatsapp-business-plan.md`
+- ✅ `03_LAUNCH/messaging-outreach/messaging-business-plan.md`
 - ✅ `03_LAUNCH/instagram-contacts/expats-communities-list.md`
 - ✅ `03_LAUNCH/website-content/sitemap-profilaxis-v1.md`
 

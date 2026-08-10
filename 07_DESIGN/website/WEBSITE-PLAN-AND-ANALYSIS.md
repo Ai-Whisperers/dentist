@@ -58,7 +58,7 @@ app/
   precios/page.tsx        → Pricing (tabla completa + disclaimer)
   segunda-opinion/page.tsx → Second opinion
   sobre-mi/page.tsx       → About Dra. GP
-  contacto/page.tsx       → Contact form + WhatsApp CTA
+  contacto/page.tsx       → Contact form + Messaging CTA
   privacidad/page.tsx     → Privacy policy
   terminos/page.tsx       → Terms
   primera-visita/page.tsx → First visit preparation
@@ -70,7 +70,7 @@ app/
 components/
   nav.tsx                 → Header with mobile menu
   footer.tsx              → Footer with links + contact
-  whatsapp-cta.tsx        → Reusable WhatsApp button
+  messaging-cta.tsx        → Reusable Messaging button
   service-card.tsx        → Service display
   price-table.tsx         → Pricing table
   testimonial.tsx         → Patient testimonial
@@ -102,7 +102,7 @@ public/
 ### 1. HOME (`/`)
 **Objetivo:** Capturar atención + comunicar filosofía + CTA
 **Estructura:** 8 secciones (hero, problem, 3 pillars, services, who, trust, contact, footer)
-**CTAs:** WhatsApp primario, segunda opinión secundario
+**CTAs:** Messaging primario, segunda opinión secundario
 
 ### 2. FILOSOFÍA (`/filosofia`)
 **Objetivo:** Diferenciador — lo que NO hacen otros dentistas
@@ -130,8 +130,8 @@ public/
 **Tono:** Personal, vulnerable, autoridad
 
 ### 7. CONTACTO (`/contacto`)
-**Objetivo:** Convertir visita → WhatsApp
-**Estructura:** Form simple + WhatsApp CTA + ubicación + horarios
+**Objetivo:** Convertir visita → Messaging
+**Estructura:** Form simple + Messaging CTA + ubicación + horarios
 **Tono:** Accesible, rápido
 
 ### 8. BLOG (`/blog`)
@@ -224,7 +224,7 @@ Pendiente sesión de fotos:
 - [ ] Crear estructura Next.js 15 + Tailwind
 - [ ] Implementar layout, nav, footer
 - [ ] Implementar home + filosofía + servicios (Priority 1)
-- [ ] Configurar WhatsApp CTAs y links
+- [ ] Configurar Messaging CTAs y links
 - [ ] Deploy preview (Cloudflare Pages staging)
 
 ### Semana 3: Polish
@@ -274,11 +274,11 @@ Pendiente sesión de fotos:
 - [ ] Sitio en línea, SSL activo
 - [ ] Google indexa todas las páginas
 - [ ] 100+ visitas orgánicas
-- [ ] 5+ consultas WhatsApp desde el sitio
+- [ ] 5+ consultas Messaging desde el sitio
 
 ### Mes 3
 - [ ] 500+ visitas orgánicas/mes
-- [ ] 20+ leads WhatsApp/mes
+- [ ] 20+ leads Messaging/mes
 - [ ] Top 3 en Google para "dentista bilingüe Asunción"
 - [ ] 5+ conversiones (consultas reales)
 
@@ -296,14 +296,14 @@ Pendiente sesión de fotos:
 1. **Dominio:** `dra-gabriela-gonzalez.com.py` vs `dra-gp.com.py` vs otro
 2. **Logo:** Diseñar nuevo o usar iniciales
 3. **Fotos:** Sesión profesional vs fotos con celular
-4. **WhatsApp Business:** Número dedicado vs actual
+4. **Messaging Business:** Número dedicado vs actual
 5. **Hosting:** Cloudflare Pages (gratis) vs Hostinger PY
 
 ### No Críticas
 1. Idioma secundario: solo español o también inglés completo
 2. Blog: arrancar con 5 posts o esperar
 3. Tienda online: productos de higiene (no)
-4. Reservas online: Calendly o solo WhatsApp
+4. Reservas online: Calendly o solo Messaging
 
 ---
 

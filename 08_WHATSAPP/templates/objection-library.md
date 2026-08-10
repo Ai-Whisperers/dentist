@@ -2,7 +2,7 @@
 
 # OBJECTION LIBRARY — DRA. GP
 ### 20 real objections + reply templates by channel
-**Source:** `05_OPERATIONS/patient-communications/patient-faq-20-answers.md`, `08_WHATSAPP/automation/whatsapp-operations-guide.md`, `05_OPERATIONS/patient-communications/patient-scripts-in-person-phone.md`
+**Source:** `05_OPERATIONS/patient-communications/patient-faq-20-answers.md`, `08_MESSAGING/automation/messaging-operations-guide.md`, `05_OPERATIONS/patient-communications/patient-scripts-in-person-phone.md`
 **Generated:** June 5, 2026
 
 ---
@@ -11,7 +11,7 @@
 
 | # | Look for | Then use |
 |---|----------|----------|
-| 1 | Objection keyword | Pick template matching channel (WhatsApp / Phone / In-person) |
+| 1 | Objection keyword | Pick template matching channel (Messaging / Phone / In-person) |
 | 2 | Long variant? | Use full version |
 | 3 | Short variant? | Use micro-copy version |
 | 4 | Escalation? | If reply does not resolve, escalate to Dra. GP |
@@ -20,7 +20,7 @@
 ---
 ## OBJECTION TABLE
 
-| # | Objection | Trigger keywords | WhatsApp | Phone | In-person |
+| # | Objection | Trigger keywords | Messaging | Phone | In-person |
 |---|-----------|------------------|----------|-------|-----------|
 | 1 | "Is expensive?" / "Why so costly?" | caro, precio, cuesta, cost | ✅ | ✅ | ✅ |
 | 2 | "Do you take insurance?" | seguro, obra social, aseguradora | ✅ | ✅ | ✅ |
@@ -49,7 +49,7 @@
 
 ### 1. "Is expensive?"
 
-**WhatsApp:**
+**Messaging:**
 Hola, te explico rápido:
 - Consulta inicial: Gs 300-450k
 - Restauración simple: Gs 350-450k
@@ -66,7 +66,7 @@ El precio final se confirma después de la evaluación. No hay sorpresas — te 
 
 ### 2. "Do you take insurance?"
 
-**WhatsApp:**
+**Messaging:**
 Somos consultorio privado. No tenemos contrato directo con aseguradoras, pero emitimos factura legal con RUC para que reclames el reembolso por tu cuenta. La mayoría de los seguros lo permite.
 
 **Phone:**
@@ -79,7 +79,7 @@ Somos consultorio privado. No tenemos contrato directo con aseguradoras, pero em
 
 ### 3. "Can I pay in installments?"
 
-**WhatsApp:**
+**Messaging:**
 Sí, para procedimientos grandes podemos coordinar un plan de pago. Aceptamos efectivo, transferencia, Pagopar y Bancard. Te explico las opciones después del presupuesto.
 
 **Phone:**
@@ -92,7 +92,7 @@ Sí, para procedimientos grandes podemos coordinar un plan de pago. Aceptamos ef
 
 ### 4. "Why private vs insurance?"
 
-**WhatsApp:**
+**Messaging:**
 En el modelo de seguro, el consultorio cobra muy poco por acto y eso genera presión por cantidad. Nosotros priorizamos tiempo, planificación y calidad de materiales. No hacemos tratamientos que no necesitás.
 
 **Phone:**
@@ -105,7 +105,7 @@ En el modelo de seguro, el consultorio cobra muy poco por acto y eso genera pres
 
 ### 5. "Are you taking new patients?"
 
-**WhatsApp:**
+**Messaging:**
 Sí, estoy aceptando pacientes nuevos. Podemos coordinar dentro de la primera o segunda semana. Escribime tu nombre y te paso horarios.
 
 **Phone:**
@@ -118,7 +118,7 @@ Sí, estoy aceptando pacientes nuevos. Podemos coordinar dentro de la primera o 
 
 ### 6. "Do you speak English?"
 
-**WhatsApp:**
+**Messaging:**
 Sí, hablo inglés. Estoy acostumbrada a atender pacientes que vienen de afuera.
 
 **Phone:**
@@ -131,7 +131,7 @@ Sí, hablo inglés. Estoy acostumbrada a atender pacientes que vienen de afuera.
 
 ### 7. "Do you do X procedure?"
 
-**WhatsApp:**
+**Messaging:**
 Para saberlo, primero necesito evaluar tu caso. Contame qué te diagnosticaron o qué necesitás y te digo si es algo que puedo resolver o si te derivo a un especialista de confianza.
 
 **Phone:**
@@ -144,7 +144,7 @@ Para saberlo, primero necesito evaluar tu caso. Contame qué te diagnosticaron o
 
 ### 8. "Do you treat children?"
 
-**WhatsApp:**
+**Messaging:**
 Atiendo desde 10-12 años en adelante. Para niños más chicos con necesidades específicas, los derivo a un odontopediatra de confianza.
 
 **Phone:**
@@ -157,7 +157,7 @@ Atiendo desde 10-12 años en adelante. Para niños más chicos con necesidades e
 
 ### 9. "What if I don't need treatment?"
 
-**WhatsApp:**
+**Messaging:**
 Eso es algo que me gusta decir: si no necesitás tratamiento, te lo digo. No invento problemas para cobrar. Mi trabajo es evaluar con honestidad.
 
 **Phone:**
@@ -170,8 +170,8 @@ Eso es algo que me gusta decir: si no necesitás tratamiento, te lo digo. No inv
 
 ### 10. "Emergency / pain right now?"
 
-**WhatsApp:**
-Escribime por WhatsApp ahora con:
+**Messaging:**
+Escribime por Messaging ahora con:
 - Dónde duele
 - Cuándo empezó
 - Fiebre o hinchazón
@@ -187,7 +187,7 @@ Te doy instrucciones inmediatas y coordinamos para que seas atendido lo antes po
 
 ### 11. "Parking / location access"
 
-**WhatsApp:**
+**Messaging:**
 Cuando confirmás la cita te paso dirección exacta + indicaciones de llegar y estacionamiento cercano.
 
 **Phone/In-person:**
@@ -197,7 +197,7 @@ Cuando confirmás la cita te paso dirección exacta + indicaciones de llegar y e
 
 ### 12. "Cancellation policy"
 
-**WhatsApp:**
+**Messaging:**
 Pedimos aviso con al menos 24 horas. No hay multa por cancelar, solo pedimos aviso para ofrecer el turno a otro paciente.
 
 **Phone/In-person:**
@@ -207,7 +207,7 @@ Pedimos aviso con al menos 24 horas. No hay multa por cancelar, solo pedimos avi
 
 ### 13. "Are you cheaper than X clinic?"
 
-**WhatsApp:**
+**Messaging:**
 Te explico qué incluye cada valor: materiales, tiempo de consulta, garantía del tratamiento. El precio más bajo no siempre es la mejor opción.
 
 **Phone/In-person:**
@@ -217,7 +217,7 @@ Te explico qué incluye cada valor: materiales, tiempo de consulta, garantía de
 
 ### 14. "No second opinion from another dentist?"
 
-**WhatsApp:**
+**Messaging:**
 Al contrario: te recomiendo traer estudios si ya los tenés. La segunda opinión es parte del servicio.
 
 **Phone/In-person:**
@@ -227,7 +227,7 @@ Al contrario: te recomiendo traer estudios si ya los tenés. La segunda opinión
 
 ### 15. "Do you have Bancard / Pagopar?"
 
-**WhatsApp:**
+**Messaging:**
 Sí, aceptamos Pagopar y Bancard. Para montos grandes se puede coordinar plan.
 
 **Phone/In-person:**
@@ -237,7 +237,7 @@ Sí, aceptamos Pagopar y Bancard. Para montos grandes se puede coordinar plan.
 
 ### 16. "I had a bad experience with dentists"
 
-**WhatsApp:**
+**Messaging:**
 Te entiendo, es lo más común que escucho. Te explico cómo trabajamos: sin overtreatment, con presupuesto por escrito y tiempo para preguntar todo.
 
 **Phone:**
@@ -250,7 +250,7 @@ Te entiendo, es lo más común que escucho. Te explico cómo trabajamos: sin ove
 
 ### 17. "How long will treatment take?"
 
-**WhatsApp:**
+**Messaging:**
 Te digo exactamente cuántas sesiones necesitás antes de empezar, con un cronograma claro.
 
 **Phone/In-person:**
@@ -260,7 +260,7 @@ Te digo exactamente cuántas sesiones necesitás antes de empezar, con un cronog
 
 ### 18. "Do you guarantee your work?"
 
-**WhatsApp:**
+**Messaging:**
 Todos los trabajos incluyen garantía escrita. Te explico qué cubre y qué no, sin letra chica.
 
 **Phone/In-person:**
@@ -270,7 +270,7 @@ Todos los trabajos incluyen garantía escrita. Te explico qué cubre y qué no, 
 
 ### 19. "Are you part of COP or MSPBS?"
 
-**WhatsApp:**
+**Messaging:**
 Dra. GP es miembro activo de COP. El consultorio cumple con MSPBS. La habilitación se gestiona según normativa vigente y se actualiza según requerimiento.
 
 **Phone/In-person:**
@@ -280,7 +280,7 @@ Dra. GP es miembro activo de COP. El consultorio cumple con MSPBS. La habilitaci
 
 ### 20. "Why aren't you on social media / reviews?"
 
-**WhatsApp:**
+**Messaging:**
 Estamos construyendo presencia digital en GOOGLE BUSINESS + Instagram. La revisión de pacientes se publicará con su consentimiento.
 
 **Phone/In-person:**
@@ -291,6 +291,6 @@ Estamos construyendo presencia digital en GOOGLE BUSINESS + Instagram. La revisi
 
 | Channel | Where used |
 |---------|------------|
-| WhatsApp | 08_WHATSAPP/automation/whatsapp-operations-guide.md, 08_WHATSAPP/templates/whatsapp-setup-configuration-guide.md |
+| Messaging | 08_MESSAGING/automation/messaging-operations-guide.md, 08_MESSAGING/templates/messaging-setup-configuration-guide.md |
 | Phone | 05_OPERATIONS/patient-communications/patient-scripts-in-person-phone.md |
 | In-person | 05_OPERATIONS/patient-communications/patient-journeys.md consultation + treatment plan touchpoints |

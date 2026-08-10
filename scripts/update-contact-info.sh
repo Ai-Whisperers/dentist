@@ -1,6 +1,6 @@
 #!/bin/bash
 # update-contact-info.sh
-# Reemplaza el número de WhatsApp en TODOS los archivos del repo
+# Reemplaza el número de Messaging en TODOS los archivos del repo
 # Uso: ./scripts/update-contact-info.sh <OLD_NUMBER> <NEW_NUMBER>
 # Ejemplo: ./scripts/update-contact-info.sh "+595 981 146 759" "+595 987 126 790"
 #
@@ -119,6 +119,6 @@ echo "✅ PRÓXIMOS PASOS"
 echo "======================================"
 echo ""
 echo "1. Revisar diff:  git diff"
-echo "2. Si todo OK:  git add . && git commit -m 'chore(config): update WhatsApp $OLD_NUMBER → $NEW_NUMBER'"
+echo "2. Si todo OK:  git add . && git commit -m 'chore(config): update Messaging $OLD_NUMBER → $NEW_NUMBER'"
 echo "3. Verificar live site:  curl -s https://ometzdental.com/es | grep -o '595[0-9]*'"
 echo "4. Actualizar config/variables-central.md si no lo hiciste antes"

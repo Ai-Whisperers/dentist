@@ -13,7 +13,7 @@
 **Operaciones:** Software evaluación + pagos evaluación (decisiones pendientes)  
 **Coaching B2B:** Mercado validado, programa no lanzado
 
-**BLOQUEANTE:** 6 datos pendientes de Gaby (calle final, fecha apertura, WhatsApp, RUC, MSPBS vigente, community manager). Ver `docs/MASTER-TODO-RESTANTE.md`.
+**BLOQUEANTE:** 6 datos pendientes de Gaby (calle final, fecha apertura, Messaging, RUC, MSPBS vigente, community manager). Ver `docs/MASTER-TODO-RESTANTE.md`.
 
 ---
 
@@ -76,7 +76,7 @@
 - `referral-program/` ← programa referidos colegas (★ 30 perfiles)
 - `roadmap/` ← launch roadmap
 - `website-content/` ← specs website
-- `whatsapp-outreach/` ← WhatsApp outreach
+- `messaging-outreach/` ← Messaging outreach
 
 ### `04_SALES/` — pipelines
 - `pipeline-*.md` ← pipeline templates
@@ -123,10 +123,10 @@
 - `website/` ← 12 archivos de specs + validaciones
   - ★ `validacion-cliente-dra-gp.md`
 
-### `08_WHATSAPP/` — WhatsApp Business
+### `08_MESSAGING/` — Messaging Business
 - `templates/` ← ★ quick replies v1 + v2 final
 - `templates/final/quick-replies-v2-final.md` ← USAR ESTE
-- `automation/whatsapp-operations-guide.md` ← ★ operations guide
+- `automation/messaging-operations-guide.md` ← ★ operations guide
 
 ### `09_TEMPLATES/` — templates paciente
 - `appointment-confirmation-card-template.md` ← ★
@@ -155,7 +155,7 @@
 | Comando | Resultado |
 |---------|-----------|
 | `bash scripts/audit-structure.py` | Reporte estructural del repo |
-| `bash scripts/update-contact-info.sh` | Update masivo cuando llega WhatsApp real |
+| `bash scripts/update-contact-info.sh` | Update masivo cuando llega Messaging real |
 
 ---
 
@@ -166,7 +166,7 @@
 - **Imágenes SVG:** 23+ (logos, posts, catálogos, prints, QR codes)
 - **HTML templates:** 3 email templates production-ready
 - **Archivos con placeholder `9XX`:** 0 ✅ (todos actualizados a `+595 987 126 790`)
-- **WhatsApp Business activo:** ✅ Sí — `+595 987 126 790` (Tigo, 27 jul 2026)
+- **Messaging Business activo:** ✅ Sí — `+595 987 126 790` (Tigo, 27 jul 2026)
 - **Archivos legacy "Dra. Gabriela":** 28 (a reconciliar — ver `docs/BRANDING-RECONCILIATION-PLAN.md`)
 
 ---
@@ -175,8 +175,8 @@
 
 | Archivo | Por qué |
 |---------|---------|
-| `08_WHATSAPP/templates/quick-replies-PERSONALIZADO-gaby.md` | v1, reemplazado por `quick-replies-v2-final.md` |
-| `08_WHATSAPP/templates/quick-replies-v1-final.md` (si existe) | v1 ya reemplazado |
+| `08_MESSAGING/templates/quick-replies-PERSONALIZADO-gaby.md` | v1, reemplazado por `quick-replies-v2-final.md` |
+| `08_MESSAGING/templates/quick-replies-v1-final.md` (si existe) | v1 ya reemplazado |
 | `INDEX.md` | Reemplazado por este `INDEX.md` |
 | `docs/PLAN-NEXT-STEPS-BRANDING-MARKETING.md` | Reemplazado por `PLAN-NEGOCIO-ANO-1-OKR-MENSUALES.md` |
 | `ARCHIVE/legacy-docs-jul-2026/MASTER-PLAN-COMPLETE-2026.md` | Legado jul 7, ya superseded |

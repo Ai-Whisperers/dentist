@@ -56,7 +56,7 @@ The market supports Gs 400-550k for restorations. She's currently charging Gs 60
 00_STRATEGIC/      → Strategy, options, financial model, positioning
 01_RESEARCH/       → Market, pricing, legal, competition research
 05_OPERATIONS/     → Launch sequence, daily ops, scripts, legal
-08_WHATSAPP/       → WhatsApp automation + scripts
+08_MESSAGING/       → Messaging automation + scripts
 03_LAUNCH/         → Roadmap, sales playbooks, website content
 07_DESIGN/         → Business cards, signage, website pages
 02_MEETINGS/       → Kiki meeting materials, patient survey
@@ -70,7 +70,7 @@ The market supports Gs 400-550k for restorations. She's currently charging Gs 60
 - Market research (pricing, competition, expats)
 - Legal structure (E.A.S. registration docs ready)
 - Financial model (projections, scenarios)
-- WhatsApp system (scripts, flows, agent protocol)
+- Messaging system (scripts, flows, agent protocol)
 - Operations playbook (launch sequence, daily routine, scripts)
 - Visual identity specs (business cards, signage)
 
@@ -98,7 +98,7 @@ The market supports Gs 400-550k for restorations. She's currently charging Gs 60
 MES 1-2 (Setup):
 □ Register E.A.S. (eas.mic.gov.py — Gs 1-2M)
 □ Find + sign Luque space (target: Gs 3.5-5M/month)
-□ Setup WhatsApp Business + Pagopar/Bancard
+□ Setup Messaging Business + Pagopar/Bancard
 □ Soft launch to 20-30 known patients
 
 MES 3-4 (Validate):

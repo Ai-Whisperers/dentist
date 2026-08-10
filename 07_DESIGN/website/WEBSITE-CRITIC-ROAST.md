@@ -41,7 +41,7 @@
 - ❌ "Agendar consulta" — genérico
 - ❌ No hay urgencia o scarcity
 - ❌ Solo 1 CTA por página (no hay opciones)
-- ❌ El mensaje pre-llenado de WhatsApp es vago: "Hola, me gustaría agendar"
+- ❌ El mensaje pre-llenado de Messaging es vago: "Hola, me gustaría agendar"
 
 **Impacto:** Baja tasa de conversión. El CTA necesita ser más específico y crear urgencia leve.
 
@@ -50,7 +50,7 @@
 - ❌ No lead magnet ("Guía: 5 preguntas antes de aceptar un tratamiento")
 - ❌ No email sequence
 
-**Impacto:** Solo dependes de WhatsApp. Si alguien no quiere WhatsApp, lo perdés.
+**Impacto:** Solo dependes de Messaging. Si alguien no quiere Messaging, lo perdés.
 
 ### 7. Sin Video
 - ❌ Cero video en todo el sitio
@@ -64,7 +64,7 @@
 - ❌ "Atencion" en vez de "Atención"
 - ❌ "Diagnostico" en vez de "Diagnóstico"
 
-**Impacto:** Se ve poco profesional. Es una clínica dental, no un mensaje de WhatsApp sin tildes.
+**Impacto:** Se ve poco profesional. Es una clínica dental, no un mensaje de Messaging sin tildes.
 
 ### 9. La Página "Sobre Mí" Tiene 2 Placeholders Críticos
 - ❌ Educación continua — no sabemos nada
@@ -109,7 +109,7 @@
 
 **Impacto:** Riesgo legal + falta de transparencia operacional.
 
-### 15. El CTA WhatsApp Tiene Número Placeholder
+### 15. El CTA Messaging Tiene Número Placeholder
 - ❌ Estamos usando el número de Mariana (0981 181 896)
 - ❌ Cuando se cambie al de Dra. GP, hay que actualizar en muchos lugares
 

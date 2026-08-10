@@ -1,5 +1,5 @@
 # 🚀 Evolution API — Deployment Guide
-## Ometz Dental WhatsApp Business Integration
+## Ometz Dental Messaging Business Integration
 
 **Versión:** 1.0 — 27 jul 2026
 **Stack:** Evolution API v2 (Baileys) · Postgres · Redis · FastAPI webhook · Supabase CRM
@@ -10,9 +10,9 @@
 
 ## ⚠️ DISCLAIMER
 
-> **Evolution API usa el protocolo WhatsApp Web (no la API oficial de Meta).**
-> Funciona escaneando el QR de WhatsApp Business desde el celular con el chip Tigo.
-> Es lo mismo que hacer "WhatsApp Web" pero con una API programable.
+> **Evolution API usa el protocolo Messaging Web (no la API oficial de Meta).**
+> Funciona escaneando el QR de Messaging Business desde el celular con el chip Tigo.
+> Es lo mismo que hacer "Messaging Web" pero con una API programable.
 >
 > **Riesgos:**
 > - Si Meta cambia el protocolo, Evolution se rompe hasta que actualicen
@@ -20,7 +20,7 @@
 > - Riesgo MUY bajo de ban si no se respetan los rate limits
 >
 > **Beneficio:**
-> - Cero costo (vs WhatsApp Business API oficial ~$0.05/msj)
+> - Cero costo (vs Messaging Business API oficial ~$0.05/msj)
 > - Control total
 > - Integración directa con Hermes
 
@@ -106,7 +106,7 @@ services:
 
   webhook-handler:
     build: 
-      context: /root/dentist/08_WHATSAPP/evolution-api/webhook-handler
+      context: /root/dentist/08_MESSAGING/evolution-api/webhook-handler
       dockerfile: Dockerfile
     container_name: ometsdental-webhook-handler
     restart: always
@@ -245,7 +245,7 @@ curl -X POST http://localhost:8080/instance/create \
   -d '{
     "instanceName": "ometsdental-business",
     "number": "595987126790",
-    "integration": "WHATSAPP-BUSINESS"
+    "integration": "MESSAGING-BUSINESS"
   }'
 ```
 
@@ -259,7 +259,7 @@ curl http://localhost:8080/instance/connect/ometsdental-business \
 Devuelve un QR en base64. Gaby lo escanea desde WA Business:
 
 1. **Abrí WA Business** en el celular con el chip Tigo
-2. **≡ → Ajustes → Herramientas para la empresa → Más herramientas → WhatsApp Business API**
+2. **≡ → Ajustes → Herramientas para la empresa → Más herramientas → Messaging Business API**
 3. O si no aparece: **Vincular dispositivo** (es lo mismo)
 4. Escaneá el QR de Evolution API
 
@@ -277,7 +277,7 @@ curl http://localhost:8080/instance/connectionState/ometsdental-business \
 
 ### 4.1 Mandar mensaje de prueba
 
-Desde tu celular personal, mandá un WhatsApp a `+595 987 126 790`:
+Desde tu celular personal, mandá un Messaging a `+595 987 126 790`:
 
 ```
 Hola, ¿cuánto cuesta una consulta?
@@ -411,7 +411,7 @@ docker logs ometsdental-webhook-handler --tail 50
 # Test manual
 curl -X POST http://localhost:8081/webhooks/evolution \
   -H "Content-Type: application/json" \
-  -d '{"event":"MESSAGES_UPSERT","instance":"ometsdental-business","data":{"key":{"remoteJid":"595XXXXXXXXX@s.whatsapp.net"},"message":{"conversation":"test"}}}'
+  -d '{"event":"MESSAGES_UPSERT","instance":"ometsdental-business","data":{"key":{"remoteJid":"595XXXXXXXXX@s.messaging.net"},"message":{"conversation":"test"}}}'
 ```
 
 ---
@@ -421,20 +421,20 @@ curl -X POST http://localhost:8081/webhooks/evolution \
 | Concepto | Costo |
 |---|---|
 | Evolution API (self-hosted) | $0 |
-| Meta of WhatsApp Business API | $0.05/msj (~$10-50/mes según volumen) |
+| Meta of Messaging Business API | $0.05/msj (~$10-50/mes según volumen) |
 | VPS adicional (si se necesita) | $5-20/mes |
 | OpenAI API (clasificación) | ~$0.001/mensaje |
 | Supabase (free tier) | $0 |
 
-**Total: $0/mes para 500-1000 mensajes/día.** En escala >5000 m/d, conviene migrar a WhatsApp Business API oficial.
+**Total: $0/mes para 500-1000 mensajes/día.** En escala >5000 m/d, conviene migrar a Messaging Business API oficial.
 
 ---
 
 ## 📋 CROSS-REFERENCES
 
 - Config: `evolution-api-config.json`
-- Quick replies: `08_WHATSAPP/templates/final/quick-replies-v2-final.md`
-- Operations guide: `08_WHATSAPP/automation/whatsapp-operations-guide.md`
+- Quick replies: `08_MESSAGING/templates/final/quick-replies-v2-final.md`
+- Operations guide: `08_MESSAGING/automation/messaging-operations-guide.md`
 - Webhook handler: `evolution-api/webhook-handler/`
 - Supabase schema: `evolution-api/SUPABASE-SCHEMA.sql`
 - Hermes integration: `evolution-api/hermes-mcp-integration.py`

@@ -30,7 +30,7 @@ ROOT
 ├── 05_OPERATIONS/         ← Clínica: clinical routines, legal, biosecurity
 ├── 06_MARKETING/          ← Marketing: FB, GBP, blog, calendar, Reels, HTML emails
 ├── 07_DESIGN/             ← Branding: SVGs, photography, website specs
-├── 08_WHATSAPP/           ← WhatsApp Business: templates, automation
+├── 08_MESSAGING/           ← Messaging Business: templates, automation
 ├── 09_TEMPLATES/          ← Templates paciente: appointment, recall, referral
 ├── ARCHIVE/               ← (git-ignored) — contenido obsoleto
 ├── content/               ← JSONs para deploy live site

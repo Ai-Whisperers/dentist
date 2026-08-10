@@ -35,28 +35,28 @@ El sitio web está **95% listo técnicamente** con 22 páginas en español e ing
 
 ## Instrucciones
 
-Cada sección tiene preguntas con opciones. **Marcá una opción por pregunta** y envianos las respuestas por WhatsApp o email. Si ninguna opción refleja tu situación, escribí tu respuesta en "Otro".
+Cada sección tiene preguntas con opciones. **Marcá una opción por pregunta** y envianos las respuestas por Messaging o email. Si ninguna opción refleja tu situación, escribí tu respuesta en "Otro".
 
 ---
 
 ## SECCIÓN 1 — Datos de contacto (URGENTE)
 
-Sin estos datos el sitio NO puede recibir pacientes. Todos los botones de WhatsApp y teléfono quedan desactivados.
+Sin estos datos el sitio NO puede recibir pacientes. Todos los botones de Messaging y teléfono quedan desactivados.
 
-### 1. Número de WhatsApp
+### 1. Número de Messaging
 
 > Aparece en: todos los botones de contacto, hero, navbar, footer, página de contacto, banners de CTA, páginas de servicio.
 
 - ( ) **a)** Lo tengo: **_________________** (escribí el número con código de país, ej. +595 981 000 000)
 - ( ) **b)** Todavía no lo tengo, pero puedo dar un número fijo mientras tanto
-- ( ) **c)** Quiero usar solo formulario web por ahora (sin WhatsApp)
+- ( ) **c)** Quiero usar solo formulario web por ahora (sin Messaging)
 - ( ) **d)** Otro: _____________________________________
 
 ### 2. Número de teléfono
 
 > Aparece en: hero, footer, página de contacto, schema de Google.
 
-- ( ) **a)** Mismo que WhatsApp: **_________________**
+- ( ) **a)** Mismo que Messaging: **_________________**
 - ( ) **b)** Teléfono fijo distinto: **_________________**
 - ( ) **c)** No tengo línea telefónica para publicar
 - ( ) **d)** Otro: _____________________________________
@@ -257,9 +257,9 @@ Cargamos 5 principios: Criterio clínico primero · Conservación sobre interven
 
 ### 20. Sistema de turnos online
 
-> Actualmente todo se coordina por WhatsApp.
+> Actualmente todo se coordina por Messaging.
 
-- ( ) **a)** WhatsApp está bien, no quiero otro sistema
+- ( ) **a)** Messaging está bien, no quiero otro sistema
 - ( ) **b)** Me interesa TidyCal o Cal.com para autogestión de turnos
 - ( ) **c)** Lo evaluamos más adelante
 - ( ) **d)** Otro: _____________________________________
@@ -309,4 +309,4 @@ _________________________________________________________
 
 ---
 
-**Gracias Dra. GP 🙏** — cualquier duda respondemos por WhatsApp al instante.
+**Gracias Dra. GP 🙏** — cualquier duda respondemos por Messaging al instante.

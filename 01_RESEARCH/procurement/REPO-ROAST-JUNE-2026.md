@@ -43,7 +43,7 @@ Strategic soundness: 6/10 (the 3-option framework is legit, the pricing is valid
 - 18+ index files (00-index.md, README.md in every folder)
 - Multiple v2 versions of the same doc (canonical-pricing-reference-v2, financial-model-projections-v2, eas-registration-step-by-step vs eas-registration-verified-checklist, habilitation-verified-checklist)
 -  has 11 separate .md files for 11 different website pages - each is 50-200 lines of content that could be one cohesive doc
--  has 3 files (conversation-flows-automation, hermes-agent-whatsapp-protocol, whatsapp-operations-guide) that probably overlap
+-  has 3 files (conversation-flows-automation, hermes-agent-messaging-protocol, messaging-operations-guide) that probably overlap
 -  has 7 legal templates that are mostly LLM-generated filler
 
 ### Stale/outdated content:
@@ -80,9 +80,9 @@ Strategic soundness: 6/10 (the 3-option framework is legit, the pricing is valid
 -  - 7+ legal templates that have NOT been reviewed by a Paraguayan lawyer
 - **Risk: Dra. GP uses one of these as-is and it doesnt comply with Paraguayan law.**
 
-### 4. AI-slop in WhatsApp/automation docs
+### 4. AI-slop in Messaging/automation docs
 -  - mentions "hermes agent" which is the AI assistant for this project. This is a documentation of an internal tool, not something Dra. GP will use.
--  - generic WhatsApp Business flow that applies to any business
+-  - generic Messaging Business flow that applies to any business
 -  - probably useful but overlaps with the other two
 
 ### 5. Documented vs reality gaps
@@ -148,7 +148,7 @@ NO. The master launch roadmap is gated entirely on Roque meeting result. If Roqu
 
 6. **NO actual list of 2-3 specialists to refer to.** Dra. GP needs a one-page printed list of periodontist + endodontist + implantologist she can call TODAY. This doesnt exist.
 
-7. **NO walkthrough of the WhatsApp Business app setup.** The guide says "install WhatsApp Business app" but the actual setup process is not documented step-by-step.
+7. **NO walkthrough of the Messaging Business app setup.** The guide says "install Messaging Business app" but the actual setup process is not documented step-by-step.
 
 8. **NO interview or validation with current Odontologia 3 patients.** The patient-voice-of-customer-analysis.md admits it is synthetic. There is no real patient research. This is a critical gap because the WHOLE positioning depends on what expats/upscale Asunceños want.
 
@@ -161,7 +161,7 @@ NO. The master launch roadmap is gated entirely on Roque meeting result. If Roqu
 ## GHOST TOWN PROBLEMS (stuff that will never be used)
 
 1. **5,500 instagram contacts** - she will message 100-200 tops
-2. **50+ WhatsApp templates** - she will use 5-10 regularly
+2. **50+ Messaging templates** - she will use 5-10 regularly
 3. **9 dental lab contacts** - she will work with 1-2
 4. **12 equipment suppliers** - she will visit 2-3 for quotes
 5. **8 imaging centers** - she will use 2-3 for referrals

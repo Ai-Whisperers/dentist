@@ -12,7 +12,7 @@ Documentar el flujo paso a paso del primer contacto con un paciente nuevo, **par
 
 ## 1️⃣ PRIMER MENSAJE (cuando el paciente escribe "Hola" o pregunta algo)
 
-**Cuándo usar:** Primera vez que el paciente escribe al WhatsApp Business.
+**Cuándo usar:** Primera vez que el paciente escribe al Messaging Business.
 
 **Quick reply:** `/hola`
 
@@ -320,8 +320,8 @@ Resumen:
 
 ## 🔗 DOCUMENTOS RELACIONADOS
 
-- `08_WHATSAPP/templates/final/quick-replies-v2-final.md` — atajos completos
-- `08_WHATSAPP/templates/objection-library.md` — objeciones
+- `08_MESSAGING/templates/final/quick-replies-v2-final.md` — atajos completos
+- `08_MESSAGING/templates/objection-library.md` — objeciones
 - `06_MARKETING/cronograma-semanal-meses-7-9.md` — cronograma marketing
 - `02_MEETINGS/client-prep/data-collection/patient-survey-instrument.md` — survey
 

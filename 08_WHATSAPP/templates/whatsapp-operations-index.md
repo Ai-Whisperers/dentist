@@ -1,4 +1,4 @@
-# WHATSAPP CHANNEL — MASTER INDEX
+# MESSAGING CHANNEL — MASTER INDEX
 
 > **PRICING CROSS-REFERENCE:** Pricing card in this doc reflects `00_STRATEGIC/financial-pricing/canonical-pricing-reference-v2.md`. Update prices by editing the canonical doc + re-running reconciliation, never inline here.
 **Version:** 1.0 — June 2026
@@ -7,19 +7,19 @@
 
 ## PURPOSE
 
-Complete operational blueprint for the WhatsApp patient acquisition channel, managed by Hermes agent.
+Complete operational blueprint for the Messaging patient acquisition channel, managed by Hermes agent.
 
 ---
 
 ## FILE STRUCTURE
 
 ```
-whatsapp/
-├── 00-whatsapp-operations-guide.md    ✅ MASTER GUIDE — architecture, flows, escalation
+messaging/
+├── 00-messaging-operations-guide.md    ✅ MASTER GUIDE — architecture, flows, escalation
 ├── 01-message-templates-library.md    ✅ ALL MESSAGE TEMPLATES — 50+ approved messages
 ├── 02-conversation-flows.md           ✅ DECISION TREES — every possible path
 ├── 03-hermes-agent-protocol.md       ✅ AGENT BEHAVIOR — rules, memory, constraints
-├── 04-whatsapp-setup-guide.md       ✅ SETUP GUIDE — step by step
+├── 04-messaging-setup-guide.md       ✅ SETUP GUIDE — step by step
 └── 05-crm-template.md               ✅ GOOGLE SHEETS CRM TEMPLATE (in this file)
 ```
 
@@ -115,14 +115,14 @@ Headers:
 ## IMPLEMENTATION SEQUENCE
 
 ### Week 1: Setup
-- [ ] Set up WhatsApp Business App
+- [ ] Set up Messaging Business App
 - [ ] Configure business profile
 - [ ] Create Google Sheets CRM
 - [ ] Test all templates manually
 - [ ] Load templates into Hermes agent
 
 ### Week 2: Soft Launch
-- [ ] Hermes agent monitoring WhatsApp
+- [ ] Hermes agent monitoring Messaging
 - [ ] Agent responds to pricing inquiries
 - [ ] All responses logged to CRM
 - [ ] Dra. GP reviews all responses daily
@@ -137,11 +137,11 @@ Headers:
 - [ ] Weekly metrics review
 - [ ] Adjust templates based on data
 - [ ] Add new flows as needed
-- [ ] Scale to WhatsApp Business API when volume justifies
+- [ ] Scale to Messaging Business API when volume justifies
 
 ---
 
-## KEY DECISION: WhatsApp Business App vs API
+## KEY DECISION: Messaging Business App vs API
 
 | | App | API |
 |--|-----|-----|
@@ -173,7 +173,7 @@ Headers:
 
 | Purpose | Number | Notes |
 |---------|--------|-------|
-| Business WhatsApp | [TO FILL] | Main channel |
+| Business Messaging | [TO FILL] | Main channel |
 | Dra. GP direct | [TO FILL] | For escalations |
 | Emergency dental | 141 | Hospital de Clínicas |
 | Hermes Agent Monitor | [TO FILL] | Agent alerts |
@@ -182,7 +182,7 @@ Headers:
 
 ## APPROVED TEMPLATE REPOSITORY
 
-All 50+ templates are in: `whatsapp/01-message-templates-library.md`
+All 50+ templates are in: `messaging/01-message-templates-library.md`
 
 Agent instruction: Read from this file for every response. Never improvise outside approved templates without escalation.
 
@@ -198,4 +198,4 @@ Agent instruction: Read from this file for every response. Never improvise outsi
 
 ---
 
-**STATUS:** Complete WhatsApp operational system. Ready to execute.
+**STATUS:** Complete Messaging operational system. Ready to execute.

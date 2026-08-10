@@ -53,7 +53,7 @@ Auto-generated index — run `python tools/repo-audit.py summary` to refresh cou
 - `02_MEETINGS/client-prep/data-collection/patient-survey-instrument.md`
 - `02_MEETINGS/client-prep/digital-systems/client-personal-data-checklist.md`
 - `02_MEETINGS/client-prep/digital-systems/digital-systems-audit.md`
-- `02_MEETINGS/client-prep/digital-systems/digital-systems-whatsapp-questions.md`
+- `02_MEETINGS/client-prep/digital-systems/digital-systems-messaging-questions.md`
 - `ARCHIVE/legacy-roque-jun-2026/roque-meeting/luque-space-shortlist-3-priorities.md`
 - `ARCHIVE/legacy-roque-jun-2026/roque-meeting/roque-meeting-results.md`
 - `ARCHIVE/legacy-roque-jun-2026/roque-meeting/roque-negotiation-prep.md`
@@ -92,9 +92,9 @@ Auto-generated index — run `python tools/repo-audit.py summary` to refresh cou
 - `03_LAUNCH/website-content/first-visit-preparation-content.md`
 - `03_LAUNCH/website-content/social-proof-trust-signals-content.md`
 - `03_LAUNCH/website-content/when-not-to-treat-content.md`
-- `03_LAUNCH/whatsapp-outreach/multi-channel-outreach-strategy.md`
-- `03_LAUNCH/whatsapp-outreach/whatsapp-ab-test-variants.md`
-- `03_LAUNCH/whatsapp-outreach/whatsapp-business-plan.md`
+- `03_LAUNCH/messaging-outreach/multi-channel-outreach-strategy.md`
+- `03_LAUNCH/messaging-outreach/messaging-ab-test-variants.md`
+- `03_LAUNCH/messaging-outreach/messaging-business-plan.md`
 
 ## 04_SALES/
 - `04_SALES/00-index.md`
@@ -155,11 +155,11 @@ Auto-generated index — run `python tools/repo-audit.py summary` to refresh cou
 - `07_DESIGN/website/transactional-pages/privacy-page-content.md`
 - `07_DESIGN/website/transactional-pages/terms-page-content.md`
 
-## 08_WHATSAPP/
-- `08_WHATSAPP/00-index.md`
-- `08_WHATSAPP/automation/whatsapp-operations-guide.md`
-- `08_WHATSAPP/templates/whatsapp-operations-index.md`
-- `08_WHATSAPP/templates/whatsapp-setup-configuration-guide.md`
+## 08_MESSAGING/
+- `08_MESSAGING/00-index.md`
+- `08_MESSAGING/automation/messaging-operations-guide.md`
+- `08_MESSAGING/templates/messaging-operations-index.md`
+- `08_MESSAGING/templates/messaging-setup-configuration-guide.md`
 
 ## 09_TEMPLATES/
 - `09_TEMPLATES/00-index.md`

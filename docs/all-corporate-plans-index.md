@@ -17,7 +17,7 @@ Complete documentation of all operational plans for the project. No building unt
 | Plan | Status | Priority | Notes |
 |------|--------|----------|-------|
 | Website Specification | ✅ Complete | HIGH | Ready for review |
-| WhatsApp Business Plan | ✅ Complete | HIGH | Ready for review |
+| Messaging Business Plan | ✅ Complete | HIGH | Ready for review |
 | CRM System Design | ✅ Complete | HIGH | Ready for implementation |
 | Referral Program Design | ✅ Complete | HIGH | Ready for review |
 | Content Strategy | ✅ Complete | MEDIUM | Ready for review |
@@ -39,10 +39,10 @@ Complete documentation of all operational plans for the project. No building unt
 
 ---
 
-### 2. WhatsApp Business Plan
-**File:** `plans/whatsapp-business-plan.md`
+### 2. Messaging Business Plan
+**File:** `plans/messaging-business-plan.md`
 **What it covers:** Automated flows, quick replies, welcome message, referral tracking, response SLAs
-**When to build:** Can start immediately — WhatsApp Business app is free
+**When to build:** Can start immediately — Messaging Business app is free
 **Implementation time:** 1-2 hours to set up
 **Owner:** Dra. GP (she does it herself on her phone)
 
@@ -89,14 +89,14 @@ Complete documentation of all operational plans for the project. No building unt
 ### Phase 0: Immediate (No building, no approvals needed)
 1. Join Facebook expat groups
 2. Optimize LinkedIn profile
-3. Set up WhatsApp Business (quick replies, welcome message)
+3. Set up Messaging Business (quick replies, welcome message)
 4. Create CRM spreadsheet
 
 **Time:** 2-3 hours total spread across this week
 
 ### Phase 1: First Week (Light work, high impact)
 1. Start posting content (1-2 posts/week on personal profile)
-2. Set up WhatsApp Business automation
+2. Set up Messaging Business automation
 3. Begin engaging in Facebook groups (answer questions, don't promote)
 4. Start CRM — log any incoming inquiries from existing network
 
@@ -104,7 +104,7 @@ Complete documentation of all operational plans for the project. No building unt
 
 ### Phase 2: Second-Third Week (Requires Dra. GP approval)
 1. Review and approve website specification
-2. Approve WhatsApp scripts and flows
+2. Approve Messaging scripts and flows
 3. Approve outreach email templates
 4. Begin outreach to specialists (after website is ready)
 5. Contact medical tourism aggregators
@@ -136,7 +136,7 @@ Outreach to patients (needs address + contact)
 ```
 
 **What can happen before these dependencies:**
-- WhatsApp Business setup (now)
+- Messaging Business setup (now)
 - CRM creation (now)
 - Content posting (now)
 - LinkedIn profile (now)
@@ -154,9 +154,9 @@ Outreach to patients (needs address + contact)
 Before we can execute Phase 2+, she needs to:
 
 1. **Approve pricing** — Confirm Gs 400-550k range for restorations (already researched and recommended)
-2. **Confirm contact details** — WhatsApp number, phone, any details to publish
+2. **Confirm contact details** — Messaging number, phone, any details to publish
 3. **Review website spec** — Every page copy is documented, needs her sign-off
-4. **Review WhatsApp flows** — Confirm scripts match her voice
+4. **Review Messaging flows** — Confirm scripts match her voice
 5. **Confirm outreach email templates** — She's comfortable with these messages going out in her name
 
 ---
@@ -167,7 +167,7 @@ Before we can execute Phase 2+, she needs to:
 |------|-------------|--------|
 | Facebook groups | Her personal profile access | Needs action from her |
 | LinkedIn profile | Her credentials/info | Can draft from research |
-| WhatsApp setup | Her phone + number | Needs action from her |
+| Messaging setup | Her phone + number | Needs action from her |
 | CRM spreadsheet | None | Can create now |
 | Content calendar | Her approval on pillars | Can draft now |
 
@@ -178,7 +178,7 @@ Before we can execute Phase 2+, she needs to:
 - All plans are read-only until Dra. GP approves
 - No building starts until this document is signed off
 - Website spec is complete but must be reviewed page-by-page
-- WhatsApp plan can be implemented immediately on her phone
+- Messaging plan can be implemented immediately on her phone
 - CRM can be created immediately in Google Sheets
 
 ---
@@ -188,7 +188,7 @@ Before we can execute Phase 2+, she needs to:
 ```
 plans/
 ├── website-spec.md         ✅ COMPLETE — ready for review
-├── whatsapp-business-plan.md ✅ COMPLETE — ready for review
+├── messaging-business-plan.md ✅ COMPLETE — ready for review
 ├── crm-system-plan.md      ✅ COMPLETE — ready for implementation
 ├── referral-program-plan.md ✅ COMPLETE — ready for review
 ├── content-strategy.md      ✅ COMPLETE — ready for review

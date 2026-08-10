@@ -2,7 +2,7 @@
 ## Single source of truth para datos que se repiten en TODOS los archivos
 **Versión:** 2.0 — 27 jul 2026 (chip Tigo Business activado)
 
-> ✅ **DATOS REALES CONFIRMADOS.** Gaby compró el chip Tigo y el número `+595 987 126 790` ya está activo como WhatsApp Business. Todos los demás archivos deben referenciar estos valores en vez de hardcodearlos.
+> ✅ **DATOS REALES CONFIRMADOS.** Gaby compró el chip Tigo y el número `+595 987 126 790` ya está activo como Messaging Business. Todos los demás archivos deben referenciar estos valores en vez de hardcodearlos.
 
 ---
 
@@ -27,17 +27,17 @@ location:
   google_maps_embed: "https://www.google.com/maps/embed?..."  # placeholder
 
 contact:
-  # WhatsApp Business — chip Tigo activado 27 jul 2026 (PRINCIPAL)
-  whatsapp_business: "+595 987 126 790"   # ← CONFIRMADO 27 jul 2026 (Tigo Business)
-  whatsapp_business_raw: "595987126790"
-  whatsapp_business_formatted: "+595 987 126 790"
-  whatsapp_business_link: "https://wa.me/595987126790"
-  whatsapp_business_prefilled_es: "https://wa.me/595987126790?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
-  whatsapp_business_prefilled_en: "https://wa.me/595987126790?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
+  # Messaging Business — chip Tigo activado 27 jul 2026 (PRINCIPAL)
+  messaging_business: "+595 987 126 790"   # ← CONFIRMADO 27 jul 2026 (Tigo Business)
+  messaging_business_raw: "595987126790"
+  messaging_business_formatted: "+595 987 126 790"
+  messaging_business_link: "tel:+595987126790"
+  messaging_business_prefilled_es: "tel:+595987126790?text=Hola%20Dra.%20Gaby%2C%20me%20interesar%C3%ADa%20agendar%20una%20consulta."
+  messaging_business_prefilled_en: "tel:+595987126790?text=Hello%20Dr.%20Gaby%2C%20I%20would%20like%20to%20book%20a%20consultation."
   # Aliases (legacy nombres — apuntan al Business)
-  whatsapp_raw: "595987126790"
-  whatsapp_formatted: "+595 987 126 790"
-  whatsapp_link: "https://wa.me/595987126790"
+  messaging_raw: "595987126790"
+  messaging_formatted: "+595 987 126 790"
+  messaging_link: "tel:+595987126790"
   phone_alt: "+595 987 126 790"
   email_professional: "doctora.gabi@ometsdental.com.py"   # ← CONFIRMADO 28 jun 2026
   email_alternate: "dra.gp.odontologia@gmail.com"   # legacy personal
@@ -149,10 +149,10 @@ Reemplazar hardcoded values con referencias:
 
 ```html
 <!-- ✅ CORRECTO — referencia variables -->
-<a href="$WHATSAPP_LINK$">📱 $WHATSAPP_FORMATTED$</a>
+<a href="$MESSAGING_LINK$">📱 $MESSAGING_FORMATTED$</a>
 
 <!-- ❌ OBSOLETO — hardcoded -->
-<a href="https://wa.me/595987126790">📱 +595 987 126 790</a>
+<a href="tel:+595987126790">📱 +595 987 126 790</a>
 ```
 
 ### Para replacements automatizados (cuando vuelva a cambiar)
@@ -196,4 +196,4 @@ grep -r "595987126790" /root/dentist --include="*.md" --include="*.json" --inclu
 
 ---
 
-**STATUS:** v2.0 — WhatsApp Business `+595 987 126 790` confirmado y activo. Todas las referencias en el repo apuntan al Business.
+**STATUS:** v2.0 — Messaging Business `+595 987 126 790` confirmado y activo. Todas las referencias en el repo apuntan al Business.

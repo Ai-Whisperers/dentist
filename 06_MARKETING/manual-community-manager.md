@@ -47,7 +47,7 @@
 | "Somos la mejor clínica dental de Asunción" | "En Ometz Dental creemos que cada paciente merece ser escuchado" |
 | "Implantes de última generación a precio increíble" | "Trabajamos con zirconia de alta calidad. Consultanos para presupuesto personalizado" |
 | "Garantizamos resultados" | "Cada caso es único. Te explicamos qué esperar en la consulta" |
-| "Urgencias 24/7" (si no es cierto) | "Atendemos urgencias según disponibilidad. WhatsApp al [número]" |
+| "Urgencias 24/7" (si no es cierto) | "Atendemos urgencias según disponibilidad. Messaging al [número]" |
 | "Hola estimada usuaria" | "Hola [Nombre]! 👋" |
 | "Dr./Dra. González Pane" | "Dra. Gaby" o "Dra. González Pane" |
 
@@ -116,7 +116,7 @@ Semana 4: Anuncio de nuevo horario o servicio
 
 ```
 1. Kiki redacta el post (siguiendo el tono de marca)
-2. Kiki lo manda a Gaby por WhatsApp con preview
+2. Kiki lo manda a Gaby por Messaging con preview
 3. Gaby revisa y aprueba (o pide cambios)
 4. Si Gaby aprueba: Kiki programa en Meta Business Suite
 5. Kiki publica y monitorea comentarios por 24h
@@ -154,7 +154,7 @@ Semana 4: Anuncio de nuevo horario o servicio
 ```
 "Hola! 👋 Sí, atendemos lunes a viernes 14:30-19:00 con cita previa.
 Profilaxis estándar: Gs 280.000. Aceptamos efectivo, tarjeta y Pagopar.
-¿Querés agendar? Te paso el link directo a WhatsApp: wa.me/[número]"
+¿Querés agendar? Te paso el link directo a Messaging: wa.me/[número]"
 ```
 
 #### 2. Consulta médica específica ("me duele una muela, ¿qué puede ser?")
@@ -166,7 +166,7 @@ Profilaxis estándar: Gs 280.000. Aceptamos efectivo, tarjeta y Pagopar.
 ```
 "Hola [Nombre], lamento que estés con dolor. Para poder orientarte bien
 necesito que la Dra. González Pane revise tu caso. ¿Podés escribirle
-directamente al WhatsApp del consultorio? wa.me/[número]
+directamente al Messaging del consultorio? wa.me/[número]
 Ella o su asistente te van a responder."
 ```
 
@@ -179,7 +179,7 @@ Ella o su asistente te van a responder."
 ```
 "[Nombre], lamento mucho tu experiencia. Quiero entender qué pasó
 para poder mejorar. ¿Puedo llamarte hoy a las [hora]?
-O si preferís, mandame tu WhatsApp por DM y coordinamos. — Dra. Gabriella"
+O si preferís, mandame tu Messaging por DM y coordinamos. — Dra. Gabriella"
 ```
 
 #### 4. Pedido de reseña (post-tratamiento exitoso)
@@ -207,7 +207,7 @@ ayudarnos, ¿podrías dejar una reseña en Google? Te dejo el link directo:
 
 [Detalle o ejemplo concreto]
 
-[CTA: "¿Tenés esta duda? Escribinos por WhatsApp"]
+[CTA: "¿Tenés esta duda? Escribinos por Messaging"]
 ```
 
 ### Post de servicio (estructura)
@@ -318,7 +318,7 @@ ayudarnos, ¿podrías dejar una reseña en Google? Te dejo el link directo:
 - **Meta Business Suite** (gratis): programar posts, ver métricas, responder mensajes
 - **Canva Pro** (opcional, USD 13/mes): diseñar posts visualmente
 - **Google Drive**: backup de assets visuales
-- **WhatsApp Business** (celular): responder mensajes directos
+- **Messaging Business** (celular): responder mensajes directos
 
 ### Útiles pero no obligatorias
 

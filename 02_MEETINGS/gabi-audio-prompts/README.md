@@ -14,7 +14,7 @@
 - Gaby está buscando pacientes de a uno en Facebook (no tiene base de datos)
 
 **Cómo grabar:**
-- WhatsApp voz es perfecto. No necesitás equipo.
+- Messaging voz es perfecto. No necesitás equipo.
 - Andá con tu celular a la planilla, al sistema, o al lugar que necesités antes de empezar.
 - Si te trabás en un número, decí "no lo sé exacto, pero calculo que..." y seguí. Es mejor algo que nada.
 - Si una pregunta no aplica a tu situación, decí "esta no aplica" y seguí.
@@ -51,7 +51,7 @@ Si tuvieras que contestarme **una sola cosa** ahora mismo, en una frase:
 - Si la respuesta es **"primero definir O3"** → esperá a la reunión con Roque y volvé a este cuestionario después.
 - Si la respuesta es **"ya tengo plan, solo necesito la marca y el sitio"** → andá directo a `07-cuestionario-hoy-5min.md`.
 
-**Mandame tu respuesta a esta pregunta por WhatsApp a Kiki, y arrancamos.**
+**Mandame tu respuesta a esta pregunta por Messaging a Kiki, y arrancamos.**
 
 ---
 
@@ -65,7 +65,7 @@ Si tuvieras que contestarme **una sola cosa** ahora mismo, en una frase:
 | D | `cuestionario-D-brand-sistema.md` | Mes 3-6 | ❌ NO RESPONDIDO |
 | E | `08-cuestionario-coaching.md` | Cuando quiera | ❌ NO RESPONDIDO |
 
-**Acción inmediata:** Kiki manda cuestionario B (12 preguntas, 15 min) por WhatsApp a Gaby esta semana.
+**Acción inmediata:** Kiki manda cuestionario B (12 preguntas, 15 min) por Messaging a Gaby esta semana.
 
 **Detalle completo:** `docs/REPARACION-12JUL/04-STATUS-QUESTIONNAIRES.md`
 

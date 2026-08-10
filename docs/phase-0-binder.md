@@ -39,7 +39,7 @@ Option C (full exit) → larger roadmap, not this week
 
 ### Wednesday 2026-06-11
 - [ ] 2-3 equipment supplier visits (Ivan)
-- [ ] 5 patient WhatsApp interviews (Ivan)
+- [ ] 5 patient Messaging interviews (Ivan)
 - [ ] Survey responses recorded
 
 ### Thursday 2026-06-12

@@ -4,7 +4,7 @@ Producción de video para web (hero) + redes (reels) de Ometz Dental.
 
 ## 🚀 EMPEZAR POR ACÁ
 
-**📦 [PAQUETE-LUANA-one-pager.md](./PAQUETE-LUANA-one-pager-2026-07-22.md)** — todos los links, briefs y referencias para Luana en un solo archivo. **Enviale este por WhatsApp.**
+**📦 [PAQUETE-LUANA-one-pager.md](./PAQUETE-LUANA-one-pager-2026-07-22.md)** — todos los links, briefs y referencias para Luana en un solo archivo. **Enviale este por Messaging.**
 
 ## 📂 Contenido completo
 
@@ -40,7 +40,7 @@ Producción de video para web (hero) + redes (reels) de Ometz Dental.
 
 ## ⚠️ Para compartir con Luana
 
-**Link único que podés mandar por WhatsApp:**
+**Link único que podés mandar por Messaging:**
 ```
 https://raw.githubusercontent.com/Ai-Whisperers/dentist/master/07_DESIGN/video/PAQUETE-LUANA-one-pager-2026-07-22.md
 ```

@@ -6,7 +6,7 @@
 
 ## PURPOSE
 
-A small card given to patients after treatment reminding them when to come back for their next cleaning/control. Stick in the patient's file and send a WhatsApp when the date arrives.
+A small card given to patients after treatment reminding them when to come back for their next cleaning/control. Stick in the patient's file and send a Messaging when the date arrives.
 
 ---
 
@@ -55,7 +55,7 @@ Business card size: 85mm × 55mm
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ │
 │                                    │
 │  Para confirmar:                   │
-│  WhatsApp: +595 XXX XXX XXX       │
+│  Messaging: +595 XXX XXX XXX       │
 │                                    │
 │  "Odontología con criterio.        │
 │   No con prisa."                  │
@@ -69,7 +69,7 @@ Business card size: 85mm × 55mm
 
 1. Fill in the date when patient should return
 2. Keep a copy in the patient file
-3. 1 week before the date: send recall WhatsApp message (E3 template)
+3. 1 week before the date: send recall Messaging message (E3 template)
 4. Patient books → update CRM
 
 ---

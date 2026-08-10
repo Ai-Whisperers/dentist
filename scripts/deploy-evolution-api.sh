@@ -63,7 +63,7 @@ fi
 echo ""
 echo "3️⃣  Copiando config desde repo..."
 
-cp "$REPO_DIR/08_WHATSAPP/evolution-api/evolution-api-config.json" "$STACK_DIR/evolution-api-config.json"
+cp "$REPO_DIR/08_MESSAGING/evolution-api/evolution-api-config.json" "$STACK_DIR/evolution-api-config.json"
 echo "   ✅ evolution-api-config.json copiado"
 
 # === 4. CREAR DOCKER-COMPOSE ===
@@ -112,7 +112,7 @@ services:
 
   webhook-handler:
     build:
-      context: /root/dentist/08_WHATSAPP/evolution-api/webhook-handler
+      context: /root/dentist/08_MESSAGING/evolution-api/webhook-handler
       dockerfile: Dockerfile
     container_name: ometsdental-webhook-handler
     restart: always
@@ -209,8 +209,8 @@ done
 echo ""
 echo "7️⃣  Aplicando schema a Supabase (opcional)..."
 
-if [ -f "$REPO_DIR/08_WHATSAPP/evolution-api/SUPABASE-SCHEMA.sql" ]; then
-    echo "   Schema en: $REPO_DIR/08_WHATSAPP/evolution-api/SUPABASE-SCHEMA.sql"
+if [ -f "$REPO_DIR/08_MESSAGING/evolution-api/SUPABASE-SCHEMA.sql" ]; then
+    echo "   Schema en: $REPO_DIR/08_MESSAGING/evolution-api/SUPABASE-SCHEMA.sql"
     echo "   Para aplicar:"
     echo "   1. Ir a https://supabase.com/dashboard/project/_/sql"
     echo "   2. Pegar el contenido del schema"
